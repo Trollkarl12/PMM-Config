@@ -27,7 +27,6 @@ templates:
     tmdb_movie: <<tmdb_movie>>
     tmdb_list: <<tmdb_list>>
     sort_title: <<collection_name>>
-    url_poster: <<poster>>
     collection_order: release
     collection_mode: hide
 
