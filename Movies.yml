@@ -27,6 +27,7 @@ templates:
     tmdb_movie: <<tmdb_movie>>
     tmdb_list: <<tmdb_list>>
     sort_title: <<collection_name>>
+    url_poster: <<poster>>
     collection_order: release
     collection_mode: hide
 
@@ -136,12 +137,12 @@ collections:
     template: {name: Movies, collection: 19163}
     sort_title: Land Before Time
   The Lord of the Rings:
-    template: {name: Movies, collection: 119}
+    template: {name: Movies, collection: 119, poster:}
     sort_title: Lord of the Rings
   Men in Black:
     template: {name: Movies, collection: 86055}
   Middle Earth:
-    template: {name: Movies, collection: "119,121938"}
+    template: {name: Movies, collection: "119,121938", poster: https://theposterdb.com/api/assets/1716}
     summary: A collection of movies and shows set in J.R.R. Tolkien's Middle Earth.
   Mission Impossible:
     template: {name: Movies, collection: 87359}
@@ -208,7 +209,7 @@ collections:
 
 
 ######################################################
-#              SiskoUrso Movie Metadata              #
+#              Movie Metadata                        #
 ######################################################
 
 metadata:
@@ -4707,22 +4708,22 @@ metadata:
   # Middle Earth
   "The Hobbit: An Unexpected Journey":
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/12310
+    url_poster: https://theposterdb.com/api/assets/1723
   "The Hobbit: The Desolation of Smaug":
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/12311
+    url_poster: https://theposterdb.com/api/assets/1724
   "The Hobbit: The Battle of the Five Armies":
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/12312
+    url_poster: https://theposterdb.com/api/assets/1725
   "The Lord of the Rings: The Fellowship of the Ring":
     year: 2001
-    url_poster: https://theposterdb.com/api/assets/11555
+    url_poster: https://theposterdb.com/api/assets/1719
   "The Lord of the Rings: The Two Towers":
     year: 2002
-    url_poster: https://theposterdb.com/api/assets/11556
+    url_poster: https://theposterdb.com/api/assets/1721
   "The Lord of the Rings: The Return of the King":
     year: 2003
-    url_poster: https://theposterdb.com/api/assets/11557
+    url_poster: https://theposterdb.com/api/assets/1722
 
   # Mimic
   Mimic:
