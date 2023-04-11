@@ -1361,39 +1361,39 @@ metadata:
   # Star Wars (Live Action) - https://theposterdb.com/set/24300
   The Mandalorian:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/101155
+    url_poster: https://theposterdb.com/api/assets/124658
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/101156
+        url_poster: https://theposterdb.com/api/assets/124659
         summary: The first season of the American television series The Mandalorian stars Pedro Pascal as the title character, a lone bounty hunter hired to retrieve "The Child". It is part of the Star Wars franchise, set five years after the events of Return of the Jedi (1983). The season was produced by Lucasfilm, Fairview Entertainment, and Golem Creations, with Jon Favreau serving as showrunner.
       2:
-        url_poster: https://theposterdb.com/api/assets/101157
+        url_poster: https://theposterdb.com/api/assets/124660
         summary: The second season of the American television series The Mandalorian stars Pedro Pascal as the title character, a bounty hunter trying to return "The Child" to his people, the Jedi. It is part of the Star Wars franchise, set after the events of Return of the Jedi (1983). The season was produced by Lucasfilm, Fairview Entertainment, and Golem Creations, with Jon Favreau serving as showrunner.
       3:
         url_poster: https://theposterdb.com/api/assets/101158
 
   The Book of Boba Fett:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/209117
+    url_poster: https://theposterdb.com/api/assets/124664
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/209118
+        url_poster: https://theposterdb.com/api/assets/124664
         summary: The Book of Boba Fett is an American space Western television series created by Jon Favreau for the streaming service Disney+. It is part of the Star Wars franchise, taking place after the events of Return of the Jedi (1983). It is a spin-off from the series The Mandalorian that features the crime lord and bounty hunter Boba Fett from that series and other Star Wars media. The Book of Boba Fett exists alongside The Mandalorian and its other spin-off Ahsoka.
 
   Obi-Wan Kenobi:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/219102
+    url_poster: https://theposterdb.com/api/assets/235862
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/219103
+        url_poster: https://theposterdb.com/api/assets/235862
         summary: Ten years after the events of Star Wars Episode III – Revenge of the Sith (2005)—in which the Jedi were destroyed by Order 66 and Anakin Skywalker became the Sith Lord Darth Vader—Obi-Wan Kenobi is watching over Luke Skywalker on Tatooine when he finds himself embarking on a rollicking adventure.
 
   Andor:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/268636
+    url_poster: https://theposterdb.com/api/assets/266674
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/268637
+        url_poster: https://theposterdb.com/api/assets/266674
         summary: Beginning five years before the events of Rogue One (2016), the series follows an ensemble cast of characters during the time that a Rebel Alliance is forming in opposition to the Galactic Empire. One of these characters is Cassian Andor, a thief who becomes a revolutionary and eventually joins the Rebellion.      
 
   # The Walking Dead - https://theposterdb.com/set/67802
@@ -2270,30 +2270,30 @@ metadata:
 
   "Narcos: Mexico":
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/44823
+    url_poster: https://theposterdb.com/api/assets/58219
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/127281
+        url_poster: https://theposterdb.com/api/assets/58220
       2:
-        url_poster: https://theposterdb.com/api/assets/127282
+        url_poster: https://theposterdb.com/api/assets/58221
       3:
-        url_poster: https://theposterdb.com/api/assets/199514
+        url_poster: https://theposterdb.com/api/assets/58221
 
   Stranger Things:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/144211
+    url_poster: https://theposterdb.com/api/assets/238529
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/144212
+        url_poster: https://theposterdb.com/api/assets/238530
         summary: The first season begins in November 1983, when researchers at Hawkins National Laboratory open a rift to the "Upside Down", an alternate dimension that reflects onto the real world. A monstrous humanoid creature escapes and abducts a boy named Will Byers and a teenage girl named Barbara Holland. Will's mother, Joyce, and the town's police chief, Jim Hopper, search for Will. At the same time, a young psychokinetic girl who goes by the name "Eleven" escapes from the laboratory and assists Will's friends, Mike, Dustin, and Lucas, in their own efforts to find Will.
       2:
-        url_poster: https://theposterdb.com/api/assets/144213
+        url_poster: https://theposterdb.com/api/assets/238531
         summary: In the fall of 1984, Will Byers finds himself the target of the Upside Down as a large tentacled entity called the Mind Flayer soon terrorizes the citizens of Hawkins, drawing back Joyce and Hopper along with Mike's sister Nancy, Will's brother Jonathan, and Nancy's boyfriend Steve, as well as Will's close friends; Mike, Dustin, and Lucas. The whole group along with Californian newcomer Max as well as a missing Eleven must join forces once again to prevent the threat from increasing.
       3:
-        url_poster: https://theposterdb.com/api/assets/144214
+        url_poster: https://theposterdb.com/api/assets/238532
         summary: In the summer of 1985 in Hawkins, the newly opened Starcourt Mall has become the focal point of the town, driving other stores out of business. Hawkins chief of police, Jim Hopper, disapproves of Eleven and Mike's budding relationship, while Joyce considers moving out of Hawkins for a better life for her children and herself, leaving the state of the children's friendships and her own relationship with Hopper in the air. Joyce notices something strange going on with her magnets and decides to investigate. However, strange power fluctuations trigger Will's awareness of something otherworldly, and Eleven and Max sense something is off about the town's residents. Despite having closed the portal to the Upside Down, they fear that they are all still in danger from it. The friends work together to help Max's brother Billy while Hopper and Joyce have their own adventure.
       4:
-        url_poster: https://theposterdb.com/api/assets/213796
+        url_poster: https://theposterdb.com/api/assets/238533
         summary: It's been six months since the Battle of Starcourt, which brought terror and destruction to Hawkins. Struggling with the aftermath, our group of friends are separated for the first time – and navigating the complexities of high school hasn't made things any easier. In this most vulnerable time, a new and horrifying supernatural threat surfaces, presenting a gruesome mystery that, if solved, might finally put an end to the horrors of the Upside Down.
 
   Squid Game:
@@ -2303,16 +2303,67 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/179026
 
+  # The Witcher Universe
   The Witcher:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/60393
+    url_poster: https://theposterdb.com/api/assets/197572
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/199152
+        url_poster: https://theposterdb.com/api/assets/193235
         summary: Special and Extra episodes for The Witcher.
       1:
-        url_poster: https://theposterdb.com/api/assets/199153
+        url_poster: https://theposterdb.com/api/assets/193236
         summary: The first season consisted of eight episodes and was released on Netflix in its entirety on December 20, 2019. It was based on The Last Wish and Sword of Destiny, which are collections of short stories that precede the main Witcher saga.
       2:
-        url_poster: https://theposterdb.com/api/assets/199154
+        url_poster: https://theposterdb.com/api/assets/193237
         summary: The second season, also consisting of eight episodes, was released on December 17, 2021.
+        
+  "The Witcher: Blood Origin":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/293711
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/293710
+
+  Vikings:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/213893
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/213894
+      1:
+        url_poster: https://theposterdb.com/api/assets/213895
+      2:
+        url_poster: https://theposterdb.com/api/assets/213896
+      3:
+        url_poster: https://theposterdb.com/api/assets/213897
+      4:
+        url_poster: https://theposterdb.com/api/assets/213898
+      5:
+        url_poster: https://theposterdb.com/api/assets/213899
+      6:
+        url_poster: https://theposterdb.com/api/assets/213900
+
+  "Vikings: Valhalla":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/213901
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/213902
+      2:
+        url_poster: https://theposterdb.com/api/assets/294075
+
+  Breaking bad:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/123797
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/123798
+      2:
+        url_poster: https://theposterdb.com/api/assets/123799
+      3:
+        url_poster: https://theposterdb.com/api/assets/123800
+      4:
+        url_poster: https://theposterdb.com/api/assets/123801
+      5:
+        url_poster: https://theposterdb.com/api/assets/123802
