@@ -313,6 +313,39 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/195241
         summary: CSI Vegas is an American crime television series that debuted on CBS on October 6, 2021. It is a sequel to the long-running series CSI Crime Scene Investigation, and the fifth series in the CSI franchise. The first season stars William Petersen and Jorja Fox as Gil Grissom and Sara Sidle, reprising their roles from CSI Crime Scene Investigation, while Paula Newsome, Matt Lauria, Mel Rodriguez, and Mandeep Dhillon portray new characters. Wallace Langham and Paul Guilfoyle also reprise their roles as David Hodges and Jim Brass, being credited as guest stars. Originally branded as an epilogue limited series, a second season was renewed in December 2021, without Fox, Petersen, or Rodriguez returning.
 
+  # The World of Ice & Fire
+  Game of Thrones:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/225917
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/225918
+      1:
+        url_poster: https://theposterdb.com/api/assets/225919
+      2:
+        url_poster: https://theposterdb.com/api/assets/225920
+      3:
+        url_poster: https://theposterdb.com/api/assets/225921
+      4:
+        url_poster: https://theposterdb.com/api/assets/225922
+      5:
+        url_poster: https://theposterdb.com/api/assets/225923
+      6:
+        url_poster: https://theposterdb.com/api/assets/225924
+      7:
+        url_poster: https://theposterdb.com/api/assets/225925
+      8:
+        url_poster: https://theposterdb.com/api/assets/225926
+
+  House of the Dragon:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/248668
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/294073
+      1:
+        url_poster: https://theposterdb.com/api/assets/248669    
+
   # Law & Order - https://theposterdb.com/poster/57704
   Law & Order:
     year: 1990
