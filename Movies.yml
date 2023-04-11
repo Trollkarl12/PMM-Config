@@ -141,7 +141,7 @@ collections:
   Men in Black:
     template: {name: Movies, collection: 86055}
   Middle Earth:
-    template: {name: Movies, collection: "119,121938", poster: https://theposterdb.com/api/assets/1716}
+    template: {name: Movies, collection: "119,121938", url_poster: https://theposterdb.com/api/assets/1716}
     summary: A collection of movies and shows set in J.R.R. Tolkien's Middle Earth.
   Mission Impossible:
     template: {name: Movies, collection: 87359}
