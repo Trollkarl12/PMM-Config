@@ -5025,6 +5025,11 @@ metadata:
   Now You See Me 2:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/10167
+ 
+  #The Northman
+  The Northman:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/235386
 
   # Ocean's Too Many
   Ocean's Eleven:
