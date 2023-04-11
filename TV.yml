@@ -979,6 +979,66 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/182840
         summary: The series follows a fictional team of the Naval Criminal Investigative Service agents who work out of the Pearl Harbor Field Office which is led by Special Agent Jane Tennant.[2] The team Investigates crimes related to the military and national security.
 
+  #South Park Universe
+  South Park:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/36001
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/36002
+      1:
+        url_poster: https://theposterdb.com/api/assets/36003
+      2:
+        url_poster: https://theposterdb.com/api/assets/36004
+      3:
+        url_poster: https://theposterdb.com/api/assets/36005
+      4:
+        url_poster: https://theposterdb.com/api/assets/36006
+      5:
+        url_poster: https://theposterdb.com/api/assets/36007
+      6:
+        url_poster: https://theposterdb.com/api/assets/36008
+      7:
+        url_poster: https://theposterdb.com/api/assets/36009
+      8:
+        url_poster: https://theposterdb.com/api/assets/36010
+      9:
+        url_poster: https://theposterdb.com/api/assets/36011
+      10:
+        url_poster: https://theposterdb.com/api/assets/36012
+      11:
+        url_poster: https://theposterdb.com/api/assets/36013
+      12:
+        url_poster: https://theposterdb.com/api/assets/36014
+      13:
+        url_poster: https://theposterdb.com/api/assets/36015
+      14:
+        url_poster: https://theposterdb.com/api/assets/36016
+      15:
+        url_poster: https://theposterdb.com/api/assets/36017
+      16:
+        url_poster: https://theposterdb.com/api/assets/36018
+      17:
+        url_poster: https://theposterdb.com/api/assets/36019
+      18:
+        url_poster: https://theposterdb.com/api/assets/36020
+      19:
+        url_poster: https://theposterdb.com/api/assets/36021
+      20:
+        url_poster: https://theposterdb.com/api/assets/36022
+      21:
+        url_poster: https://theposterdb.com/api/assets/36023
+      22:
+        url_poster: https://theposterdb.com/api/assets/36024
+      23:
+        url_poster: https://theposterdb.com/api/assets/36025
+      24:
+        url_poster: https://theposterdb.com/api/assets/36026
+      25:
+        url_poster: https://theposterdb.com/api/assets/36027
+      26:
+        url_poster: https://theposterdb.com/api/assets/36028
+
   # Star Trek - Summary was sourced from Memory-Alpha
   Star Trek:
     year: 1966
