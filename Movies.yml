@@ -2,33 +2,6 @@
 #     Custom Collection Templates   #
 #####################################
 templates:
-  Director:
-    sort_title: "!A <<collection_name>>"
-    tmdb_director_details: <<tmdb>>
-    collection_order: release
-    collection_mode: hide
-    schedule: weekly(sunday)
-  Studio:
-    sort_title: "!B <<collection_name>>"
-    collection_mode: hide
-    schedule: daily
-  Special Genre:
-    sort_title: "!C <<collection_name>>"
-    collection_order: alpha
-    collection_mode: hide
-  Movies:
-    optional:
-      - collection
-      - tmdb_movie
-      - trakt_list
-      - tmdb_list
-    trakt_list_details: <<trakt_list>>
-    tmdb_collection_details: <<collection>>
-    tmdb_movie: <<tmdb_movie>>
-    tmdb_list: <<tmdb_list>>
-    sort_title: <<collection_name>>
-    collection_order: release
-    collection_mode: hide
   Collection:
     optional:
       - collection
@@ -45,55 +18,6 @@ templates:
     collection_order: custom
 
 collections:
-#####################################
-#        Director Collections       #
-######################################
-  Christopher Nolan:
-    template: {name: Director, tmdb: 525}
-  Edgar Wright:
-    template: {name: Director, tmdb: 11090}
-  James Cameron:
-    template: {name: Director, tmdb: 2710}
-  M. Night Shyamalan:
-    template: {name: Director, tmdb: 11614}
-  Martin Scorsese:
-    template: {name: Director, tmdb: 1032}
-  Steven Spielberg:
-    template: {name: Director, tmdb: 488}
-  Quentin Tarantino:
-    template: {name: Director, tmdb: 138}
-  Wes Anderson:
-    template: {name: Director, tmdb: 5655}
-  Akira Kurosawa:
-    template: {name: Director, tmdb: 5026}
-
-
-#####################################
-#         Studio Collections        #
-#####################################
-  DC Extended Universe:
-    template: {name: Studio}
-    imdb_list: https://www.imdb.com/list/ls077827588/
-    summary: "The DC Extended Universe (DCEU) is a media franchise and shared universe centered on superheros from DC Comics."
-    collection_order: release
-  Marvel Studios:
-    template: {name: Studio}
-    imdb_list: https://www.imdb.com/list/ls009410711/
-    summary: "A collection of movies and shows created by Marvel Studios, comprising of the Marvel Cinematic Universe."
-    collection_order: release
-  Disney Animation:
-    template: {name: Studio}
-    imdb_list: https://www.imdb.com/search/title/?companies=co0074039&count=250
-    summary: A collection of Disney Animation movies.
-    content_rating: G
-    collection_order: alpha
-  Pixar Animation:
-    template: {name: Studio}
-    imdb_list: https://www.imdb.com/list/ls087911008/
-    summary: "A collection of Pixar Animation movies."
-    content_rating: G
-    collection_order: alpha
-
 #####################################
 #     General Movies Collections    #
 #####################################
