@@ -1,0 +1,33 @@
+templates:
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: release
+  Trakt:
+    trakt_list_details: <<list>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: custom
+
+collections:
+
+#####################################
+#     General Movies Collections    #
+#####################################
+
+  101 Dalmatians:
+    template: {name: Collection, collection: 100693, poster: https://theposterdb.com/api/assets/44903}
+  101 Dalmatians (Live-Action):
+    template: {name: Collection, collection: 124916, poster: https://theposterdb.com/api/assets/112069}
+  12 Rounds:
+    template: {name: Collection, collection: 221622, poster: https://theposterdb.com/api/assets/24430}
+  2001 Maniacs:
+    template: {name: Collection, collection: 285130, poster: https://www.themoviedb.org/t/p/original/pb8s6djWm1OC5wEdJYGH7UHhf3P.jpg}
+  28 Days/Weeks Later:
+    template: {name: Collection, collection: 1565, poster: https://theposterdb.com/api/assets/4963}
+    name_mapping: 28 Days-Weeks Later
