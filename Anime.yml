@@ -14,6 +14,17 @@ templates:
     smart_label: release.desc
     collection_order: release
 
+  Collection:
+    optional:
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    url_poster: <<poster>>
+    url_background: <<background>>
+    sync_mode: sync
+    collection_order: release
+    
 collections:
 
   Current Anime Season:
@@ -43,6 +54,16 @@ collections:
     template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Spring", season_lower: "spring", season_index: "2"}
   Winter 2022 Anime:
     template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Winter", season_lower: "winter", season_index: "3"}
+
+######################################################
+#                  Anime Collections                 #
+######################################################
+
+  Battlestar Galactica:
+    template: {name: Collection, show: "73545, 85040, 204781", poster: https://theposterdb.com/api/assets/122190, background: https://i.imgur.com/gBPKeK3.jpg}
+    summary: Collection of Battlestar Galactica Series.
+    
+    
 
 ######################################################
 #                  Anime Metadata                    #
