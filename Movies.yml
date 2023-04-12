@@ -7205,14 +7205,6 @@ metadata:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/65443
 
-  # Sanjuro
-  Yojimbo:
-    year: 1961
-    url_poster: https://theposterdb.com/api/assets/64831
-  Sanjuro:
-    year: 1962
-    url_poster: https://theposterdb.com/api/assets/64832
-
   # The Santa Clause
   The Santa Clause:
     url_poster: https://theposterdb.com/api/assets/130698
