@@ -43,3 +43,20 @@ collections:
     template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Spring", season_lower: "spring", season_index: "2"}
   Winter 2022 Anime:
     template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Winter", season_lower: "winter", season_index: "3"}
+
+######################################################
+#                  Anime Metadata                    #
+######################################################
+
+metadata:
+
+  Queen's Blade:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/271661
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/271662
+      1:
+        url_poster: https://theposterdb.com/api/assets/271663
+      2:
+        url_poster: https://theposterdb.com/api/assets/271664
