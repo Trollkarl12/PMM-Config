@@ -588,6 +588,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/177731
         summary: The series centers on Law & Order Special Victims Unit character Elliot Stabler, a veteran Detective who returns to the NYPD in New York following his wife's murder. Stabler joins the Organized Crime Task Force, led by Sergeant Ayanna Bell.
 
+  Marco Polo:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/179994
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/40406
+      1:
+        url_poster: https://theposterdb.com/api/assets/40407
+      2:
+        url_poster: https://theposterdb.com/api/assets/40408
+
+
   # Marvel Television - https://theposterdb.com/set/11318 and https://theposterdb.com/set/77796
   Marvel's Agents of S.H.I.E.L.D.:
     year: 2013
