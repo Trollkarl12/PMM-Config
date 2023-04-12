@@ -60,3 +60,38 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/271663
       2:
         url_poster: https://theposterdb.com/api/assets/271664
+
+  Ikkitousen:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/271661
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/167804
+      1:
+        url_poster: https://theposterdb.com/api/assets/167805
+      2:
+        url_poster: https://theposterdb.com/api/assets/167806
+      3:
+        url_poster: https://theposterdb.com/api/assets/167807
+      4:
+        url_poster: https://theposterdb.com/api/assets/167808
+
+  Shin Ikki tousen:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/240494
+    seasons:
+      0:
+        url_poster: 
+      1:
+        url_poster: https://theposterdb.com/api/assets/240494
+
+  Heaven's Lost Property:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/266312
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/266313
+      1:
+        url_poster: https://theposterdb.com/api/assets/266314
+      2:
+        url_poster: https://theposterdb.com/api/assets/266315
