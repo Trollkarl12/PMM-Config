@@ -1452,7 +1452,7 @@ collections:
   Zorro:
     template: {name: Collection, collection: 1657, poster: https://theposterdb.com/api/assets/27774}
   The Last Kingdom:
-    template: {name: Collection, movie: 344183, poster: https://theposterdb.com/api/assets/350790}
+    template: {name: Collection, movie: 948713, poster: https://theposterdb.com/api/assets/350790}
     summary: England, 872. A Saxon man, raised by Danes, must choose a side and play his part in the birth of a nation, alongside the man who would become known as King Alfred the Great.
 
 ######################################################
