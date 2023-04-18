@@ -65,7 +65,7 @@ collections:
     template: {name: Collection, show: "83268, 283468, 385376, 393190, 72244, 351575, 330710, 250498, 356114, 393214, 70399, 73697, 334444, 368742, 380516, 358145", poster: https://theposterdb.com/api/assets/16243, background: https://i.imgur.com/IQUxJne.jpg}
   Star Wars:
     template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867", poster: https://theposterdb.com/api/assets/4448, background: https://i.imgur.com/GdLMZko.jpg}
-    summary: Collection of Star Wars TV Series.
+    summary: "The Complete Saga Of Star Wars"
   The Walking Dead:
     template: {name: Collection, show: "153021, 290853, 372787, 411314, 252861", poster: https://theposterdb.com/api/assets/128886, background: https://i.imgur.com/xRsOWt5.jpg}
     summary: Collection of Walking Dead TV Shows.
