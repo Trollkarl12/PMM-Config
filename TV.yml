@@ -2524,3 +2524,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/180009
       5:
         url_poster: https://theposterdb.com/api/assets/212298
+  
+  Boardwalk Empire:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/143110
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/143111
+      2:
+        url_poster: https://theposterdb.com/api/assets/143112
+      3:
+        url_poster: https://theposterdb.com/api/assets/143113
+      4:
+        url_poster: https://theposterdb.com/api/assets/143114
+      5:
+        url_poster: https://theposterdb.com/api/assets/143115
