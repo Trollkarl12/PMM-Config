@@ -73,7 +73,7 @@ collections:
     template: {name: Collection, show: "77398, 76245", poster: https://theposterdb.com/api/assets/160390, background: https://i.imgur.com/7JCO6cc.jpg}
     summary: Collection of shows from the X-Files
   The Last Kingdom:
-    template: {name: Collection, show: 298566, poster: https://theposterdb.com/api/assets/350790, background: https://i.imgur.com/7JCO6cc.jpg}
+    template: {name: Collection, show: "298566", poster: https://theposterdb.com/api/assets/350790, background: https://i.imgur.com/7JCO6cc.jpg}
     summary: England, 872. A Saxon man, raised by Danes, must choose a side and play his part in the birth of a nation, alongside the man who would become known as King Alfred the Great.
     
 metadata:
