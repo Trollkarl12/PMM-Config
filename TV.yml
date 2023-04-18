@@ -72,8 +72,10 @@ collections:
   The X-Files:
     template: {name: Collection, show: "77398, 76245", poster: https://theposterdb.com/api/assets/160390, background: https://i.imgur.com/7JCO6cc.jpg}
     summary: Collection of shows from the X-Files
-
-
+  The Last Kingdom:
+    template: {name: Collection, show: 298566, poster: https://theposterdb.com/api/assets/350790}
+    summary: England, 872. A Saxon man, raised by Danes, must choose a side and play his part in the birth of a nation, alongside the man who would become known as King Alfred the Great.
+    
 metadata:
 
 ######################################################
@@ -588,7 +590,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/177731
         summary: The series centers on Law & Order Special Victims Unit character Elliot Stabler, a veteran Detective who returns to the NYPD in New York following his wife's murder. Stabler joins the Organized Crime Task Force, led by Sergeant Ayanna Bell.
 
-  Marco Polo (2014):
+  Marco Polo:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/179994
     seasons:
@@ -2458,3 +2460,67 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123801
       5:
         url_poster: https://theposterdb.com/api/assets/123802
+        
+  The Sopranos:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/166648
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/166649      
+      1:
+        url_poster: https://theposterdb.com/api/assets/166650
+      2:
+        url_poster: https://theposterdb.com/api/assets/166651
+      3:
+        url_poster: https://theposterdb.com/api/assets/166652
+      4:
+        url_poster: https://theposterdb.com/api/assets/166653
+      5:
+        url_poster: https://theposterdb.com/api/assets/166654
+      6:
+        url_poster: https://theposterdb.com/api/assets/166655
+
+  Peaky Blinders:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/211777
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/211778     
+      1:
+        url_poster: https://theposterdb.com/api/assets/211779
+      2:
+        url_poster: https://theposterdb.com/api/assets/211780
+      3:
+        url_poster: https://theposterdb.com/api/assets/211781
+      4:
+        url_poster: https://theposterdb.com/api/assets/211782
+      5:
+        url_poster: https://theposterdb.com/api/assets/211783
+      6:
+        url_poster: https://theposterdb.com/api/assets/213300
+
+  Rome:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/121317
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/121318
+      2:
+        url_poster: https://theposterdb.com/api/assets/121319
+
+  The Last Kingdom:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/180004
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/180005   
+      1:
+        url_poster: https://theposterdb.com/api/assets/180006
+      2:
+        url_poster: https://theposterdb.com/api/assets/180007
+      3:
+        url_poster: https://theposterdb.com/api/assets/180008
+      4:
+        url_poster: https://theposterdb.com/api/assets/180009
+      5:
+        url_poster: https://theposterdb.com/api/assets/212298

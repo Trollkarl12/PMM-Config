@@ -1451,7 +1451,10 @@ collections:
     template: {name: Collection, collection: 352789, poster: https://theposterdb.com/api/assets/51995}
   Zorro:
     template: {name: Collection, collection: 1657, poster: https://theposterdb.com/api/assets/27774}
-    
+  The Last Kingdom:
+    template: {name: Collection, movie: 344183, poster: https://theposterdb.com/api/assets/350790}
+    summary: England, 872. A Saxon man, raised by Danes, must choose a side and play his part in the birth of a nation, alongside the man who would become known as King Alfred the Great.
+
 ######################################################
 #              Movie Metadata                        #
 ######################################################
@@ -8698,3 +8701,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/111355
   Who Framed Roger Rabbit:
     url_poster: https://theposterdb.com/api/assets/115828
+
+  # The Last Kingdom
+  "The Last Kingdom: Seven Kings Must Die":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/350791
