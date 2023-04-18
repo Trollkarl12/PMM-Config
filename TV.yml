@@ -2539,3 +2539,61 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/143114
       5:
         url_poster: https://theposterdb.com/api/assets/143115
+        
+  Chernobyl:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/59900
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/59901
+
+  The Boys:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/33985
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/33986
+      2:
+        url_poster: https://theposterdb.com/api/assets/33987
+
+  The Last of Us:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/302339
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/302340
+
+  "The Lord of the Rings: The Rings of Power":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/257535
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/257536
+      1:
+        url_poster: https://theposterdb.com/api/assets/257537
+
+  Better Call Saul:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/18933
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/20569   
+      1:
+        url_poster: https://theposterdb.com/api/assets/18934
+      2:
+        url_poster: https://theposterdb.com/api/assets/18935
+      3:
+        url_poster: https://theposterdb.com/api/assets/18936
+      4:
+        url_poster: https://theposterdb.com/api/assets/18937
+      5:
+        url_poster: https://theposterdb.com/api/assets/40254
+      6:
+        url_poster: https://theposterdb.com/api/assets/227568
+
+  Wednesday:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/287339
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/287340 
