@@ -1253,7 +1253,7 @@ collections:
     template: {name: Collection, collection: 151, poster: https://theposterdb.com/api/assets/146208}
     name_mapping: Star Trek The Original Series
   Star Wars:
-    template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://theposterdb.com/api/assets/39679}
+    template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://theposterdb.com/api/assets/4448}
     summary: "The Complete Saga Of Star Wars"
   Step Up:
     template: {name: Collection, collection: 86092, poster: https://theposterdb.com/api/assets/20867}
