@@ -2549,13 +2549,15 @@ metadata:
 
   The Boys:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/33985
+    url_poster: https://theposterdb.com/api/assets/98453
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/33986
+        url_poster: https://theposterdb.com/api/assets/98454
       2:
-        url_poster: https://theposterdb.com/api/assets/33987
-
+        url_poster: https://theposterdb.com/api/assets/98455
+      3:
+        url_poster: https://theposterdb.com/api/assets/187852
+        
   The Last of Us:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/302339
