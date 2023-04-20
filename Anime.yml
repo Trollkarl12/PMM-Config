@@ -124,3 +124,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/351927
       3:
         url_poster: https://theposterdb.com/api/assets/352028
+
+  Rurouni Kenshin:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/31921
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/31922
+      1:
+        url_poster: https://theposterdb.com/api/assets/31923
+      2:
+        url_poster: https://theposterdb.com/api/assets/31924
+      3:
+        url_poster: https://theposterdb.com/api/assets/31925
