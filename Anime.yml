@@ -58,10 +58,6 @@ collections:
 #                  Anime Collections                 #
 ######################################################
 
-  Battlestar Galactica:
-    template: {name: Collection, show: "73545, 85040, 204781", poster: https://theposterdb.com/api/assets/122190, background: https://i.imgur.com/gBPKeK3.jpg}
-    summary: Collection of Battlestar Galactica Series.
-    
     
 
 ######################################################
@@ -115,3 +111,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/266314
       2:
         url_poster: https://theposterdb.com/api/assets/266315
+
+  Rent-a-Girlfriend:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/351924
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/351925
+      1:
+        url_poster: https://theposterdb.com/api/assets/351926
+      2:
+        url_poster: https://theposterdb.com/api/assets/351927
+      3:
+        url_poster: https://theposterdb.com/api/assets/352028
