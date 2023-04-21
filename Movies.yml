@@ -949,7 +949,7 @@ collections:
   Missing in Action:
     template: {name: Collection, collection: 46512, poster: https://theposterdb.com/api/assets/167681}
   "Mission: Impossible":
-    template: {name: Collection, collection: 87359, poster: https://theposterdb.com/api/assets/2705}
+    template: {name: Collection, collection: 87359, poster: https://theposterdb.com/api/assets/11546}
     name_mapping: Mission Impossible
   Molly Hartley:
     template: {name: Collection, collection: 518876, poster: https://www.themoviedb.org/t/p/original/ikZ6EBNfXGDL0EcmH63oaIaTepI.jpg}
