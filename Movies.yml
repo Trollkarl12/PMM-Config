@@ -901,6 +901,10 @@ collections:
     template: {name: Collection, collection: 531331, poster: https://theposterdb.com/api/assets/48301}
   Mall Cop:
     template: {name: Collection, collection: 328372, poster: https://theposterdb.com/api/assets/65444}
+  Marvel Cinematic Universe:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls031310794/
+    url_poster: https://theposterdb.com/api/assets/162885
   Marvel One-Shot:
     template: {name: Collection, movie: "211387, 76122, 119569, 253980, 505945, 758025, 413279, 441829, 76535", poster: https://theposterdb.com/api/assets/153891}
   The Man with No Name:
@@ -5782,19 +5786,19 @@ metadata:
   # Marvel One-Shot
   "Marvel One-Shot: The Consultant":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/19757
+    url_poster: https://theposterdb.com/api/assets/163501
   "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/19758
+    url_poster: https://theposterdb.com/api/assets/163502
   "Marvel One-Shot: Item 47":
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/19759
+    url_poster: https://theposterdb.com/api/assets/163503
   "Marvel One-Shot: Agent Carter":
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/19760
+    url_poster: https://theposterdb.com/api/assets/163504
   "Marvel One-Shot: All Hail the King":
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/19761
+    url_poster: https://theposterdb.com/api/assets/163505
   Team Thor:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/19762
@@ -5861,72 +5865,75 @@ metadata:
 
   # Marvel Cinematic Universe (https://theposterdb.com/set/4475)
   Iron Man:
-    url_poster: https://theposterdb.com/api/assets/9773
+    url_poster: https://theposterdb.com/api/assets/162896
   The Incredible Hulk:
-    url_poster: https://theposterdb.com/api/assets/9775
+    url_poster: https://theposterdb.com/api/assets/162897
   Iron Man 2:
-    url_poster: https://theposterdb.com/api/assets/9776
+    url_poster: https://theposterdb.com/api/assets/162898
   Thor:
-    url_poster: https://theposterdb.com/api/assets/9777
+    url_poster: https://theposterdb.com/api/assets/162899
   "Captain America: The First Avenger":
-    url_poster: https://theposterdb.com/api/assets/9778
+    url_poster: https://theposterdb.com/api/assets/162900
   The Avengers:
-    url_poster: https://theposterdb.com/api/assets/9779
+    url_poster: https://theposterdb.com/api/assets/162901
   Iron Man 3:
-    url_poster: https://theposterdb.com/api/assets/9780
+    url_poster: https://theposterdb.com/api/assets/162902
   "Thor: The Dark World":
-    url_poster: https://theposterdb.com/api/assets/9781
+    url_poster: https://theposterdb.com/api/assets/162903
   "Captain America: The Winter Soldier":
-    url_poster: https://theposterdb.com/api/assets/9783
+    url_poster: https://theposterdb.com/api/assets/162904
   Guardians of the Galaxy:
-    url_poster: https://theposterdb.com/api/assets/9784
+    url_poster: https://theposterdb.com/api/assets/162905
   "Avengers: Age of Ultron":
-    url_poster: https://theposterdb.com/api/assets/9785
+    url_poster: https://theposterdb.com/api/assets/162906
   Ant-Man:
-    url_poster: https://theposterdb.com/api/assets/9786
+    url_poster: https://theposterdb.com/api/assets/162907
   "Captain America: Civil War":
-    url_poster: https://theposterdb.com/api/assets/9787
+    url_poster: https://theposterdb.com/api/assets/162908
   Doctor Strange:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/9788
+    url_poster: https://theposterdb.com/api/assets/162909
   Guardians of the Galaxy Vol. 2:
-    url_poster: https://theposterdb.com/api/assets/9789
+    url_poster: https://theposterdb.com/api/assets/162910
   "Spider-Man: Homecoming":
-    url_poster: https://theposterdb.com/api/assets/9790
+    url_poster: https://theposterdb.com/api/assets/162911
   "Thor: Ragnarok":
-    url_poster: https://theposterdb.com/api/assets/9791
+    url_poster: https://theposterdb.com/api/assets/162912
   Black Panther:
-    url_poster: https://theposterdb.com/api/assets/9792
+    url_poster: https://theposterdb.com/api/assets/162913
   "Avengers: Infinity War":
-    url_poster: https://theposterdb.com/api/assets/9794
+    url_poster: https://theposterdb.com/api/assets/162914
   Ant-Man and the Wasp:
-    url_poster: https://theposterdb.com/api/assets/9795
+    url_poster: https://theposterdb.com/api/assets/162915
   Captain Marvel:
-    url_poster: https://theposterdb.com/api/assets/9796
+    url_poster: https://theposterdb.com/api/assets/162916
   "Avengers: Endgame":
-    url_poster: https://theposterdb.com/api/assets/9797
+    url_poster: https://theposterdb.com/api/assets/162917
   "Spider-Man: Far from Home":
-    url_poster: https://theposterdb.com/api/assets/9798
+    url_poster: https://theposterdb.com/api/assets/162918
   Black Widow:
-    url_poster: https://theposterdb.com/api/assets/54982
+    url_poster: https://theposterdb.com/api/assets/162919
   Eternals:
-    url_poster: https://theposterdb.com/api/assets/153775
+    url_poster: https://theposterdb.com/api/assets/162921
   Shang-Chi and the Legend of the Ten Rings:
-    url_poster: https://theposterdb.com/api/assets/170437
+    url_poster: https://theposterdb.com/api/assets/162920
   "Spider-Man: No Way Home":
-    url_poster: https://theposterdb.com/api/assets/188475
+    url_poster: https://theposterdb.com/api/assets/190131
   Doctor Strange in the Multiverse of Madness:
-    url_poster: https://theposterdb.com/api/assets/234599
+    url_poster: https://theposterdb.com/api/assets/198589
   "Thor: Love and Thunder":
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/248629
+    url_poster: https://theposterdb.com/api/assets/265776
   Werewolf by Night:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/273727
+    url_poster: https://theposterdb.com/api/assets/274295
   "Black Panther: Wakanda Forever":
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/286152
-
+    url_poster: https://theposterdb.com/api/assets/274296
+  "Ant-Man and the Wasp: Quantumania":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/352073
+    
   # Marvel/Sony
   Spider-Man:
     url_poster: https://theposterdb.com/api/assets/116707
