@@ -535,7 +535,7 @@ collections:
   Fantasia:
     template: {name: Collection, collection: 55427, poster: https://theposterdb.com/api/assets/130368}
   Fantastic Beasts:
-    template: {name: Collection, collection: 435259, poster: https://theposterdb.com/api/assets/27620}
+    template: {name: Collection, collection: 435259, poster: https://theposterdb.com/api/assets/169}
   Fantastic Four:
     template: {name: Collection, collection: 9744, poster: https://theposterdb.com/api/assets/107627}
   Father of the Bride (Steve Martin):
@@ -632,7 +632,7 @@ collections:
   The Girl - Millennium:
     template: {name: Collection, collection: 575987, poster: https://theposterdb.com/api/assets/87828}
   The Godfather:
-    template: {name: Collection, collection: 230, poster: https://theposterdb.com/api/assets/4856}
+    template: {name: Collection, collection: 230, poster: https://theposterdb.com/api/assets/160}
   God of Gamblers:
     template: {name: Collection, collection: 170416, poster: https://www.themoviedb.org/t/p/original/fQV9wWOIM7f9uaRSG9hikrkpr8N.jpg}
   The Gods Must Be Crazy:
@@ -687,7 +687,7 @@ collections:
   Harold & Kumar:
     template: {name: Collection, collection: 30663, poster: https://theposterdb.com/api/assets/41763}
   Harry Potter:
-    template: {name: Collection, collection: 1241, poster: https://theposterdb.com/api/assets/15699}
+    template: {name: Collection, collection: 1241, poster: https://theposterdb.com/api/assets/17185}
   ... Has Fallen:
     template: {name: Collection, collection: 386534, poster: https://theposterdb.com/api/assets/130396}
     name_mapping: Has Fallen
@@ -925,7 +925,7 @@ collections:
   The Mask:
     template: {name: Collection, collection: 43072, poster: https://theposterdb.com/api/assets/18359}
   The Matrix:
-    template: {name: Collection, collection: 2344, poster: https://theposterdb.com/api/assets/65273}
+    template: {name: Collection, collection: 2344, poster: https://theposterdb.com/api/assets/64839}
   The Maze Runner:
     template: {name: Collection, collection: 295130, poster: https://theposterdb.com/api/assets/174}
   Mean Girls:
@@ -1039,7 +1039,7 @@ collections:
   Piranha:
     template: {name: Collection, collection: 212279, poster: https://theposterdb.com/api/assets/217839}
   Pirates of the Caribbean:
-    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/49933}
+    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/49956}
   Pitch Perfect:
     template: {name: Collection, collection: 306031, poster: https://theposterdb.com/api/assets/51631}
   Planes:
@@ -1324,7 +1324,7 @@ collections:
   The Tomorrow War:
     template: {name: Collection, collection: 848922, poster: https://www.themoviedb.org/t/p/original/3YylRW8holkhX6IkOUxAy93DWWs.jpg}
   Top Gun:
-    template: {name: Collection, collection: 531330, poster: https://theposterdb.com/api/assets/235879}
+    template: {name: Collection, collection: 531330, poster: https://theposterdb.com/api/assets/251518}
   The Toxic Avenger:
     template: {name: Collection, collection: 32135, poster: https://theposterdb.com/api/assets/25685}
   Toy Story:
@@ -3542,11 +3542,11 @@ metadata:
 
   # Fantastic Beasts
   Fantastic Beasts and Where to Find Them:
-    url_poster: https://theposterdb.com/api/assets/27621
+    url_poster: https://theposterdb.com/api/assets/1280
   "Fantastic Beasts: The Crimes of Grindelwald":
-    url_poster: https://theposterdb.com/api/assets/27622
+    url_poster: https://theposterdb.com/api/assets/1283
   "Fantastic Beasts: The Secrets of Dumbledore":
-    url_poster: https://theposterdb.com/api/assets/234432
+    url_poster: https://theposterdb.com/api/assets/234574
 
   # Fantastic Four
   Fantastic Four:
@@ -4100,11 +4100,11 @@ metadata:
 
   # The Godfather Saga
   The Godfather:
-    url_poster: https://theposterdb.com/api/assets/4857
+    url_poster: https://theposterdb.com/api/assets/8935
   "The Godfather: Part II":
-    url_poster: https://theposterdb.com/api/assets/4858
+    url_poster: https://theposterdb.com/api/assets/8936
   "The Godfather: Part III":
-    url_poster: https://theposterdb.com/api/assets/4859
+    url_poster: https://theposterdb.com/api/assets/8937
 
   # The Gods Must Be Crazy
   The Gods Must Be Crazy:
@@ -4396,28 +4396,28 @@ metadata:
   # Harry Potter
   Harry Potter and the Philosopher's Stone:
     year: 2001
-    url_poster: https://theposterdb.com/api/assets/15700
+    url_poster: https://theposterdb.com/api/assets/1270
   Harry Potter and the Chamber of Secrets:
     year: 2002
-    url_poster: https://theposterdb.com/api/assets/15701
+    url_poster: https://theposterdb.com/api/assets/1271
   Harry Potter and the Prisoner of Azkaban:
     year: 2004
-    url_poster: https://theposterdb.com/api/assets/15702
+    url_poster: https://theposterdb.com/api/assets/1272
   Harry Potter and the Goblet of Fire:
     year: 2005
-    url_poster: https://theposterdb.com/api/assets/15703
+    url_poster: https://theposterdb.com/api/assets/1273
   Harry Potter and the Order of the Phoenix:
     year: 2007
-    url_poster: https://theposterdb.com/api/assets/15704
+    url_poster: https://theposterdb.com/api/assets/1274
   Harry Potter and the Half-Blood Prince:
     year: 2009
-    url_poster: https://theposterdb.com/api/assets/15705
+    url_poster: https://theposterdb.com/api/assets/1275
   "Harry Potter and the Deathly Hallows: Part 1":
     year: 2010
-    url_poster: https://theposterdb.com/api/assets/15706
+    url_poster: https://theposterdb.com/api/assets/1276
   "Harry Potter and the Deathly Hallows: Part 2":
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/15707
+    url_poster: https://theposterdb.com/api/assets/1278
 
   # ... Has Fallen
   Olympus Has Fallen:
@@ -5966,15 +5966,15 @@ metadata:
 
   # The Matrix
   The Matrix:
-    url_poster: https://theposterdb.com/api/assets/65274
+    url_poster: https://theposterdb.com/api/assets/64840
   The Animatrix:
     url_poster: https://theposterdb.com/api/assets/65275
   The Matrix Revolutions:
-    url_poster: https://theposterdb.com/api/assets/65277
+    url_poster: https://theposterdb.com/api/assets/64842
   The Matrix Reloaded:
-    url_poster: https://theposterdb.com/api/assets/65276
+    url_poster: https://theposterdb.com/api/assets/64841
   The Matrix Resurrections:
-    url_poster: https://theposterdb.com/api/assets/198379
+    url_poster: https://theposterdb.com/api/assets/230901
 
   # The Maze Runner
   The Maze Runner:
@@ -6573,15 +6573,15 @@ metadata:
 
   # Pirates of the Caribbean
   "Pirates of the Caribbean: The Curse of the Black Pearl":
-    url_poster: https://theposterdb.com/api/assets/49934
+    url_poster: https://theposterdb.com/api/assets/71935
   "Pirates of the Caribbean: Dead Man's Chest":
-    url_poster: https://theposterdb.com/api/assets/49935
+    url_poster: https://theposterdb.com/api/assets/71936
   "Pirates of the Caribbean: At World's End":
-    url_poster: https://theposterdb.com/api/assets/49936
+    url_poster: https://theposterdb.com/api/assets/71937
   "Pirates of the Caribbean: On Stranger Tides":
-    url_poster: https://theposterdb.com/api/assets/49937
+    url_poster: https://theposterdb.com/api/assets/71938
   "Pirates of the Caribbean: Dead Men Tell No Tales":
-    url_poster: https://theposterdb.com/api/assets/49938
+    url_poster: https://theposterdb.com/api/assets/71939
 
   # Pitch Perfect
   Pitch Perfect:
@@ -8075,10 +8075,10 @@ metadata:
   # Top Gun
   Top Gun:
     year: 1986
-    url_poster: https://theposterdb.com/api/assets/235880
+    url_poster: https://theposterdb.com/api/assets/258860
   "Top Gun: Maverick":
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/235881
+    url_poster: https://theposterdb.com/api/assets/258861
 
   # The Toxic Avenger
   The Toxic Avenger:
