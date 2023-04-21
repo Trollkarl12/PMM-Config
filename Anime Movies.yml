@@ -19,10 +19,10 @@ collections:
 #####################################
 #     General Movies Collections    #
 #####################################
-
   Studio Ghibli:
-    template: {name: Collection, collection: 4309, poster: https://theposterdb.com/api/assets/325047}
-
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls076439519/
+    url_poster: https://theposterdb.com/api/assets/325047
 
 metadata:
 
