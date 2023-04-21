@@ -29,7 +29,7 @@ collections:
     template: {name: Collection, show: "72368, 75692, 71489, 328518, 74191, 168161, 383397", poster: https://theposterdb.com/api/assets/57562, background: https://i.imgur.com/6ovPJNP.jpg}
     summary: Collection of Law & Order Series.
   Marvel Cinematic Universe:
-    template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783", poster: https://theposterdb.com/api/assets/162885}
+    template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783", poster: https://theposterdb.com/api/assets/162885, background: }
     summary: Collection of shows in the Marvel TV Universe.
   Narcos:
     template: {name: Collection, show: "282670, 353232", poster: https://theposterdb.com/api/assets/196849, background: https://i.imgur.com/RUqzj0C.jpg}
