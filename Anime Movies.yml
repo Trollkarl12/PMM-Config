@@ -20,14 +20,101 @@ collections:
 #     General Movies Collections    #
 #####################################
 
-  101 Dalmatians:
-    template: {name: Collection, collection: 100693, poster: https://theposterdb.com/api/assets/44903}
-  101 Dalmatians (Live-Action):
-    template: {name: Collection, collection: 124916, poster: https://theposterdb.com/api/assets/112069}
-  12 Rounds:
-    template: {name: Collection, collection: 221622, poster: https://theposterdb.com/api/assets/24430}
-  2001 Maniacs:
-    template: {name: Collection, collection: 285130, poster: https://www.themoviedb.org/t/p/original/pb8s6djWm1OC5wEdJYGH7UHhf3P.jpg}
-  28 Days/Weeks Later:
-    template: {name: Collection, collection: 1565, poster: https://theposterdb.com/api/assets/4963}
-    name_mapping: 28 Days-Weeks Later
+  Studio Ghibli:
+    template: {name: Collection, collection: 4309, poster: https://theposterdb.com/api/assets/325047}
+
+
+metadata:
+
+  #Studio Ghibli
+  Castle in the Sky:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/325048
+
+  My Neighbor Totoro:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/325049
+
+  Grave of the Fireflies:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/325050
+
+  Kiki's Delivery Service:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/325051
+
+  Only Yesterday:
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/325052
+
+  Porco Rosso:
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/325053
+
+  Ocean Waves:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/325054
+
+  Pom Poko:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/325055
+
+  Whisper of the Heart:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/325056
+
+  Princess Mononoke:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/325057
+
+  My Neighbors the Yamadas:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/325058
+
+  The Cat Returns:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/325059
+
+  Spirited Away:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/325060
+
+  Howl's Moving Castle:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/325061
+
+  Tales from Earthsea:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/325062
+
+  Ponyo:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/325063
+
+  The Secret World of Arietty:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/325064
+
+  From Up on Poppy Hill:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/325065
+
+  The Wind Rises:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/325066
+
+  The Tale of the Princess Kaguya:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/325067
+
+  When Marnie Was There:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/325068
+
+  Earwig and the Witch:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/325069
+
+  Nausicaä of the Valley of the Wind:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/325099
