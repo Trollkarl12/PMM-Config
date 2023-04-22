@@ -1028,7 +1028,7 @@ collections:
     template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://theposterdb.com/api/assets/4448}
     summary: "The Complete Saga Of Star Wars"
   The Sopranos Collection:
-    template: {name: Collection, movie: "98101", poster: https://theposterdb.com/api/assets/64844}
+    template: {name: Collection, movie: "524369", poster: https://theposterdb.com/api/assets/64844}
   Step Up:
     template: {name: Collection, collection: 86092, poster: https://theposterdb.com/api/assets/20867}
   The Stepfather:
