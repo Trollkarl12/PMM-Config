@@ -1259,6 +1259,8 @@ collections:
   Star Wars:
     template: {name: Collection, collection: 10, movie: "348350, 330459", poster: https://theposterdb.com/api/assets/4448}
     summary: "The Complete Saga Of Star Wars"
+  The Sopranos Collection:
+    template: {name: Collection, movie: "98101", poster: https://theposterdb.com/api/assets/64844}
   Step Up:
     template: {name: Collection, collection: 86092, poster: https://theposterdb.com/api/assets/20867}
   The Stepfather:
@@ -6209,6 +6211,10 @@ metadata:
   "The Mummy: Tomb of the Dragon Emperor":
     year: 2008
     url_poster: https://theposterdb.com/api/assets/69969
+
+  The Many Saints of Newark:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/179749
 
   # The Muppets
   The Muppet Movie:
