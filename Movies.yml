@@ -4101,9 +4101,9 @@ metadata:
   # The Godfather Saga
   The Godfather:
     url_poster: https://theposterdb.com/api/assets/8935
-  "The Godfather: Part II":
+  "The Godfather Part II":
     url_poster: https://theposterdb.com/api/assets/8936
-  "The Godfather: Part III":
+  "The Godfather Part III":
     url_poster: https://theposterdb.com/api/assets/8937
 
   # The Gods Must Be Crazy
@@ -4394,7 +4394,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/41766
 
   # Harry Potter
-  Harry Potter and the Philosopher's Stone:
+  Harry Potter and the Sorcerer's Stone:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/1270
   Harry Potter and the Chamber of Secrets:
