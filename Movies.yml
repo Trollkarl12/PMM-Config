@@ -22,65 +22,12 @@ collections:
 #     General Movies Collections    #
 #####################################
 
-  101 Dalmatians:
-    template: {name: Collection, collection: 100693, poster: https://theposterdb.com/api/assets/44903}
-  101 Dalmatians (Live-Action):
-    template: {name: Collection, collection: 124916, poster: https://theposterdb.com/api/assets/112069}
-  12 Rounds:
-    template: {name: Collection, collection: 221622, poster: https://theposterdb.com/api/assets/24430}
-  2001 Maniacs:
-    template: {name: Collection, collection: 285130, poster: https://www.themoviedb.org/t/p/original/pb8s6djWm1OC5wEdJYGH7UHhf3P.jpg}
-  28 Days/Weeks Later:
-    template: {name: Collection, collection: 1565, poster: https://theposterdb.com/api/assets/4963}
-    name_mapping: 28 Days-Weeks Later
-  3 Men:
-    template: {name: Collection, collection: 107688, poster: https://theposterdb.com/api/assets/231579}
-  3 Ninja:
-    template: {name: Collection, collection: 71458, poster: https://theposterdb.com/api/assets/18124}
-  30 Days of Night:
-    template: {name: Collection, collection: 91660, poster: https://theposterdb.com/api/assets/79831}
   "300":
     template: {name: Collection, collection: 125570, poster: https://theposterdb.com/api/assets/138689}
-  47 Meters Down:
-    template: {name: Collection, collection: 635922, poster: https://theposterdb.com/api/assets/21610}
-  48 Hrs:
-    template: {name: Collection, collection: 93295, poster: https://theposterdb.com/api/assets/20769}
-  8MM:
-    template: {name: Collection, collection: 387618, poster: https://theposterdb.com/api/assets/226994}
-  976-Evil:
-    template: {name: Collection, collection: 135501, poster: https://theposterdb.com/api/assets/48460}
-  The ABCs of Death:
-    template: {name: Collection, collection: 207632, poster: https://image.tmdb.org/t/p/original//fzrKAtcg75Je7N0NereOdKePHDM.jpg}
-  Ace Ventura:
-    template: {name: Collection, collection: 3167, poster: https://theposterdb.com/api/assets/6612}
-  Addams Family:
-    template: {name: Collection, collection: "11716, 750822", poster: https://theposterdb.com/api/assets/53152}
-  Air Bud:
-    template: {name: Collection, collection: 97445, poster: https://theposterdb.com/api/assets/96172}
-  Airplane:
-    template: {name: Collection, collection: 91663, poster: https://theposterdb.com/api/assets/36706}
-  Airport:
-    template: {name: Collection, collection: 33938, poster: https://theposterdb.com/api/assets/44504}
-  Aladdin:
-    template: {name: Collection, collection: 86027, poster: https://theposterdb.com/api/assets/89795}
-  Alex Cross:
-    template: {name: Collection, collection: 142680, poster: https://theposterdb.com/api/assets/129869}
-  Alice in Wonderland:
-    template: {name: Collection, collection: 261307, poster: https://theposterdb.com/api/assets/72185}
   Alien:
     template: {name: Collection, collection: "8091, 135416", poster: https://theposterdb.com/api/assets/1205}
   Alien Nation Collection:
     template: {name: Collection, collection: 174245, poster: https://www.themoviedb.org/t/p/original/sXdKjBbdBimtARvWdVFEsxc4kxu.jpg}
-  All Dogs Go to Heaven:
-    template: {name: Collection, collection: 140910, poster: https://theposterdb.com/api/assets/146348}
-  All Hallows' Eve:
-    template: {name: Collection, collection: 442195, poster: https://theposterdb.com/api/assets/261233}
-  Alligator:
-    template: {name: Collection, collection: 124934, poster: https://www.themoviedb.org/t/p/original/5XOOxT9Lt8tIRahE5judKxjUjNE.jpg}
-  Almighty:
-    template: {name: Collection, collection: 124949, poster: https://theposterdb.com/api/assets/51450}
-  Alone in the Dark:
-    template: {name: Collection, collection: 149704, poster: https://www.themoviedb.org/t/p/original/pCUq2wPTjmpRRTsatXWseAoMzyi.jpg}
   Alvin and the Chipmunks:
     template: {name: Collection, collection: 167613, poster: https://theposterdb.com/api/assets/47178}
   The Amazing Spider-Man:
@@ -290,58 +237,6 @@ collections:
     template: {name: Collection, collection: 131295, poster: https://theposterdb.com/api/assets/4814}
   Captain Marvel:
     template: {name: Collection, collection: 623911, poster: https://theposterdb.com/api/assets/63348}
-  Captain Underpants:
-    template: {name: Collection, collection: 732397, poster: https://theposterdb.com/api/assets/227300}
-  The Car:
-    template: {name: Collection, collection: 629358, poster: https://theposterdb.com/api/assets/247654}
-  Carlito's Way:
-    template: {name: Collection, collection: 625861, poster: https://theposterdb.com/api/assets/211793}
-  Carrie:
-    template: {name: Collection, collection: 257053, poster: https://theposterdb.com/api/assets/17139}
-  Cars:
-    template: {name: Collection, collection: 87118, poster: https://theposterdb.com/api/assets/132}
-  Cat People:
-    template: {name: Collection, collection: 272673, poster: https://www.themoviedb.org/t/p/original/faeXfLsDaqG2gOCF4GlzXPTum9E.jpg}
-  The Cell:
-    template: {name: Collection, collection: 223564, poster: https://theposterdb.com/api/assets/17441}
-  Charlie Brown:
-    template: {name: Collection}
-    imdb_list: https://www.imdb.com/list/ls054850259/
-    url_poster: https://theposterdb.com/api/assets/188202
-    summary: Collection of Movies and TV Specials with the beloved Peanuts characters.
-  Charlie's Angels:
-    template: {name: Collection, collection: 86029, poster: https://theposterdb.com/api/assets/15409}
-  Cheaper by the Dozen:
-    template: {name: Collection, collection: 114783, poster: https://theposterdb.com/api/assets/163134}
-  Cheech & Chong:
-    trakt_list_details: https://trakt.tv/users/siskourso/lists/cheech-chong
-    url_poster: https://theposterdb.com/api/assets/106306
-  Children of the Corn:
-    template: {name: Collection, collection: 115225, poster: https://theposterdb.com/api/assets/80035}
-  Childs Play:
-    template: {name: Collection, collection: 10455, poster: https://theposterdb.com/api/assets/94853}
-  Chili Palmer:
-    template: {name: Collection, collection: 91698, poster: https://www.themoviedb.org/t/p/original/7eq03V9q80w3HPC0gUV2OEQVQ7W.jpg}
-  A Christmas Story:
-    template: {name: Collection, collection: 201873, poster: https://theposterdb.com/api/assets/106204}
-  The Chronicles of Narnia:
-    template: {name: Collection, collection: 420, poster: https://theposterdb.com/api/assets/86941}
-  The Chronicles of Riddick:
-    template: {name: Collection, collection: 2794, poster: https://theposterdb.com/api/assets/22252}
-  Cinderella:
-    template: {name: Collection, collection: 55419, poster: https://theposterdb.com/api/assets/106296}
-  Cinderella Story:
-    template: {name: Collection, collection: 437451, poster: https://theposterdb.com/api/assets/105645}
-  City Slickers:
-    template: {name: Collection, collection: 150156, poster: https://theposterdb.com/api/assets/17434}
-  Clash of the Titans:
-    template: {name: Collection, collection: 86780, poster: https://theposterdb.com/api/assets/34933}
-  Class of 1999:
-    template: {name: Collection, collection: 164397, poster: https://theposterdb.com/api/assets/27999}
-  Clerks:
-    template: {name: Collection, collection: 182813, poster: https://theposterdb.com/api/assets/35320}
-  Clint Eastwood's Iwo Jima:
-    template: {name: Collection, collection: 261382, poster: https://theposterdb.com/api/assets/44093}
   Cloudy with a Chance of Meatballs:
     template: {name: Collection, collection: 177467, poster: https://theposterdb.com/api/assets/37354}
   Cloverfield:
@@ -402,138 +297,11 @@ collections:
     template: {name: Collection, collection: 746434, poster: https://theposterdb.com/api/assets/240763}
   The Dark Knight:
     template: {name: Collection, collection: 263, poster: https://theposterdb.com/api/assets/8489}
-  Dark World:
-    template: {name: Collection, collection: 315054, poster: https://www.themoviedb.org/t/p/original/3sny4ElG5zY9oe4RI0FPswAWnPe.jpg}
-  Darkman:
-    template: {name: Collection, collection: 45154, poster: https://theposterdb.com/api/assets/53025}
-  Darko:
-    template: {name: Collection, collection: 178106, poster: https://theposterdb.com/api/assets/128286}
-  DC Super Hero Girls:
-    template: {name: Collection, collection: "477208, 557495", poster: https://theposterdb.com/api/assets/33060}
-  Dead or Alive:
-    template: {name: Collection, collection: 192532, poster: https://theposterdb.com/api/assets/104579}
-  The Dead:
-    template: {name: Collection, collection: 294226, poster: https://www.themoviedb.org/t/p/original/5ktVahJejSiHQFARdYDl7WfZTWp.jpg}
-  Dead Rising:
-    template: {name: Collection, collection: 407273, poster: https://theposterdb.com/api/assets/222679}
-  Dead River:
-    template: {name: Collection, collection: 534180, poster: https://www.themoviedb.org/t/p/original/qeRP8xge1xUPE6rVFSXg6NuBFKn.jpg}
-  Dead Snow:
-    template: {name: Collection, collection: 286038, poster: https://www.themoviedb.org/t/p/original/qhvXYMyPWcFeOsoO4EqOS8T9lwI.jpg}
-  Deadpool:
-    template: {name: Collection, collection: 448150, movie: 567604, poster: https://theposterdb.com/api/assets/6464}
-  The Death of Superman:
-    template: {name: Collection, collection: 593251, poster: https://theposterdb.com/api/assets/53009}
-  Death Note:
-    template: {name: Collection, collection: 102019, poster: https://theposterdb.com/api/assets/82085}
-  Death Race:
-    template: {name: Collection, collection: 86116, poster: https://theposterdb.com/api/assets/16983}
-  Death Wish:
-    template: {name: Collection, collection: 14377, poster: https://theposterdb.com/api/assets/74841}
-  Deathstalker:
-    template: {name: Collection, collection: 48655, poster: https://theposterdb.com/api/assets/75795}
-  The Debt Collector:
-    template: {name: Collection, collection: 709271, poster: https://theposterdb.com/api/assets/108496}
-  Deep Blue Sea:
-    template: {name: Collection, collection: 518165, poster: https://theposterdb.com/api/assets/218039}
-  The Delta Force:
-    template: {name: Collection, collection: 126166, poster: https://theposterdb.com/api/assets/158873}
-  Demonic Toys:
-    template: {name: Collection, collection: 264434, poster: https://theposterdb.com/api/assets/115630}
-  Demons:
-    template: {name: Collection, collection: 430201, poster: https://theposterdb.com/api/assets/132412}
-  The Descent:
-    template: {name: Collection, collection: 87258, poster: https://theposterdb.com/api/assets/36252}
-  Despicable Me:
-    template: {name: Collection, collection: "86066, 544669", poster: https://theposterdb.com/api/assets/6468}
-  Deuce Bigalow:
-    template: {name: Collection, collection: 95664, poster: https://theposterdb.com/api/assets/168502}
-  Die Hard:
-    template: {name: Collection, collection: 1570, poster: https://theposterdb.com/api/assets/15956}
-  Dirty Dancing:
-    template: {name: Collection, collection: 86058, poster: https://theposterdb.com/api/assets/107314}
-  The Dirty Dozen:
-    template: {name: Collection, collection: 124492, poster: https://theposterdb.com/api/assets/221861}
-  Dirty Harry:
-    template: {name: Collection, collection: 10456, poster: https://theposterdb.com/api/assets/850}
-  District 13:
-    template: {name: Collection, collection: 85946, poster: https://theposterdb.com/api/assets/105651}
-  Divergent:
-    template: {name: Collection, collection: 283579, poster: https://theposterdb.com/api/assets/53782}
-  Doctor Strange:
-    template: {name: Collection, collection: 618529, poster: https://theposterdb.com/api/assets/263819}
-  A Dog's Purpose:
-    template: {name: Collection, collection: 591028, poster: https://theposterdb.com/api/assets/112304}
-  The Doll:
-    template: {name: Collection, collection: 632912, poster: https://www.themoviedb.org/t/p/original/h6vZfE4SS8mmqOR6YI8lUmePY8I.jpg}
-  Don't Breathe:
-    template: {name: Collection, collection: 748919, poster: https://theposterdb.com/api/assets/173568}
-  Doom:
-    template: {name: Collection, collection: 634390, poster: https://theposterdb.com/api/assets/108999}
-  Dracula 2000:
-    template: {name: Collection, collection: 115822, poster: https://theposterdb.com/api/assets/243412}
-  Dracula (Hammer):
-    template: {name: Collection, collection: 123724, poster: https://theposterdb.com/api/assets/263362}
-  Dracula (Universal):
-    template: {name: Collection, collection: 221539, poster: https://theposterdb.com/api/assets/80749}
-  Dragon Ball:
-    template: {name: Collection, collection: 386410, poster: https://theposterdb.com/api/assets/126817}
-  Dragon Ball Super:
-    template: {name: Collection, collection: 620873, poster: https://theposterdb.com/api/assets/126842}
-  Dragon Ball Z:
-    template: {name: Collection, collection: 425164, poster: https://theposterdb.com/api/assets/126823}
-  DragonHeart:
-    template: {name: Collection, collection: 169452, poster: https://theposterdb.com/api/assets/23589}
-  Drunken Master:
-    template: {name: Collection, collection: 12203, poster: https://theposterdb.com/api/assets/170408}
-  The Dukes of Hazzard (Reboot):
-    template: {name: Collection, collection: 332357, poster: https://theposterdb.com/api/assets/76843}
-  Dumb and Dumber:
-    template: {name: Collection, collection: 96665, poster: https://theposterdb.com/api/assets/12114}
-  Dune:
-    template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/197348}
-  Dungeons & Dragons:
-    template: {name: Collection, collection: 106498, poster: https://theposterdb.com/api/assets/73505}
-  El Mariachi:
-    template: {name: Collection, collection: 9649, poster: https://theposterdb.com/api/assets/214459}
-  Elvira:
-    template: {name: Collection, collection: 182617, poster: https://theposterdb.com/api/assets/120347}
-  The Emperor's New Groove:
-    template: {name: Collection, collection: 178117, poster: https://theposterdb.com/api/assets/46820}
-  Enola Holmes:
-    template: {name: Collection, collection: 829314, poster: https://theposterdb.com/api/assets/282823}
-  The Equalizer:
-    template: {name: Collection, collection: 523855, poster: https://theposterdb.com/api/assets/20229}
-  Eraser:
-    template: {name: Collection, collection: 985085, poster: https://theposterdb.com/api/assets/261238}
-  Ernest:
-    template: {name: Collection, collection: 330555, poster: https://theposterdb.com/api/assets/35570}
-  Escape From ...:
-    template: {name: Collection, collection: 115838, poster: https://theposterdb.com/api/assets/96947}
-    name_mapping: Escape From
-  Escape Plan:
-    template: {name: Collection, collection: 525891, poster: https://theposterdb.com/api/assets/63906}
-  Escape Room:
-    template: {name: Collection, collection: 769423, poster: https://theposterdb.com/api/assets/175227}
-  Eugene:
-    template: {name: Collection, collection: 979674, poster: https://www.themoviedb.org/t/p/original/qtmzhleNP1uHSlMsA0oShwIJP1R.jpg}
   Evangelion:
     template: {name: Collection, collection: 210303, poster: https://theposterdb.com/api/assets/65149}
     summary: A Japanese animated film series and a retelling of the original Neon Genesis Evangelion anime television series, produced by Studio Khara. Hideaki Anno served as the writer and general manager of the project, with Kazuya Tsurumaki and Masayuki directing the films themselves. Yoshiyuki Sadamoto, Ikuto Yamashita and Shiro Sagisu returned to provide character designs, mechanical designs and music respectively.
-  Evil Dead Trap:
-    template: {name: Collection, collection: 712820, poster: https://www.themoviedb.org/t/p/original/A0scR38MnACWkgdjuVmlOAfBunx.jpg}
-  Evil Dead:
-    template: {name: Collection, collection: 1960, poster: https://theposterdb.com/api/assets/112881}
-  The Exorcist:
-    template: {name: Collection, collection: 12263, poster: https://theposterdb.com/api/assets/18704}
-  The Expendables:
-    template: {name: Collection, collection: 126125, poster: https://theposterdb.com/api/assets/86703}
-  The Eye:
-    template: {name: Collection, collection: 264335, poster: https://theposterdb.com/api/assets/101572}
   "Family Guy Trilogy Collection: Laugh It Up, Fuzzball!":
     template: {name: Collection, collection: 701402, poster: https://theposterdb.com/api/assets/72866}
-  Fantasia:
-    template: {name: Collection, collection: 55427, poster: https://theposterdb.com/api/assets/130368}
   Fantastic Beasts:
     template: {name: Collection, collection: 435259, poster: https://theposterdb.com/api/assets/169}
   Fantastic Four:
@@ -4421,112 +4189,6 @@ metadata:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/1278
 
-  # ... Has Fallen
-  Olympus Has Fallen:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/130397
-  London Has Fallen:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/130398
-  Angel Has Fallen:
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/130399
-
-  # Hatchet
-  Hatchet:
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/5115
-  Hatchet II:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/5116
-  Hatchet III:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/5117
-  Victor Crowley:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/5118
-
-  # The Haunting in Connecticut
-  The Haunting in Connecticut:
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/59001
-  "The Haunting in Connecticut 2: Ghosts of Georgia":
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/59002
-
-  # Hell House LLC
-  Hell House LLC:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/215235
-  "Hell House LLC II: The Abaddon Hotel":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/215236
-  "Hell House LLC III: Lake of Fire":
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/215237
-
-  # Hellboy
-  Hellboy:
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/11246
-  "Hellboy II: The Golden Army":
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/11247
-  Hellboy (Reboot):
-    title: Hellboy
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/11248
-
-  # Hellboy (Animated)
-  "Hellboy Animated: Sword of Storms":
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/175241
-  "Hellboy Animated: Blood and Iron":
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/175242
-  "Hellboy Animated: Iron Shoes":
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/175243
-  "Hellboy Animated: The Dark Below":
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/175244
-
-  # Hellraiser
-  Hellraiser:
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/27499
-  "Hellbound: Hellraiser II":
-    year: 1988
-    url_poster: https://theposterdb.com/api/assets/27500
-  "Hellraiser III: Hell on Earth":
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/27501
-  "Hellraiser: Bloodline":
-    year: 1996
-    url_poster: https://theposterdb.com/api/assets/27502
-  "Hellraiser: Inferno":
-    year: 2000
-    url_poster: https://theposterdb.com/api/assets/27503
-  "Hellraiser: Hellseeker":
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/27504
-  "Hellraiser: Deader":
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/27505
-  "Hellraiser: Hellworld":
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/27506
-  "Hellraiser: Revelations":
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/27507
-  "Hellraiser: Judgment":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/27508
-  Hellraiser (Reboot):
-    title: Hellraiser
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/272695
-
   # High School Musical
   High School Musical:
     year: 2006
@@ -4615,68 +4277,6 @@ metadata:
   Home Sweet Home Alone:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/189629
-
-  # Homeward Bound
-  "Homeward Bound: The Incredible Journey":
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/84622
-  "Homeward Bound II: Lost in San Francisco":
-    year: 1996
-    url_poster: https://theposterdb.com/api/assets/84623
-
-  # Honey, I Shrunk the Kids
-  Honey, I Shrunk the Kids:
-    year: 1989
-    url_poster: https://theposterdb.com/api/assets/27435
-  Honey, I Blew Up the Kid:
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/27436
-  Honey, We Shrunk Ourselves:
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/27437
-
-  # Horrible Bosses
-  Horrible Bosses:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/41515
-  Horrible Bosses 2:
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/41516
-
-  # Hostel
-  Hostel:
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/19781
-  "Hostel: Part II":
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/19782
-
-  # Hot Shots!
-  Hot Shots!:
-    year: 1991
-    url_poster: https://theposterdb.com/api/assets/63701
-  Hot Shots! Part Deux:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/63702
-
-  # Hot Tub Time Machine
-  Hot Tub Time Machine:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/14256
-  Hot Tub Time Machine 2:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/14257
-
-  # Hotel Transylvania
-  Hotel Transylvania:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/67932
-  Hotel Transylvania 2:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/67933
-  "Hotel Transylvania 3: Summer Vacation":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/67934
 
   # House
   House:
@@ -7781,41 +7381,6 @@ metadata:
   The Star Wars Holiday Special:
     url_poster: https://theposterdb.com/api/assets/124637
 
-  # The Stepfather
-  The Stepfather:
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/113066
-  Stepfather 2:
-    year: 1989
-    url_poster: https://theposterdb.com/api/assets/113067
-  Stepfather 3:
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/113068
-
-  # The Sting
-  The Sting:
-    year: 1973
-    url_poster: https://theposterdb.com/api/assets/76365
-  The Sting II:
-    year: 1983
-    url_poster: https://theposterdb.com/api/assets/76366
-
-  # Stir of Echoes
-  Stir of Echoes:
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/219771
-  "Stir of Echoes: The Homecoming":
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/219772
-
-  # The Strangers
-  The Strangers:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/8552
-  "The Strangers: Prey at Night":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/8553
-
   # Step Up
   Step Up:
     year: 2006
@@ -7913,26 +7478,6 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/112819
 
-  # Tales from the Crypt
-  Tales from the Crypt:
-    year: 1972
-    url_poster: https://theposterdb.com/api/assets/46681
-  The Vault of Horror:
-    year: 1973
-    url_poster: https://theposterdb.com/api/assets/46682
-  Two-Fisted Tales:
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/46683
-  "Tales from the Crypt: Demon Knight":
-    year: 1995
-    url_poster: https://theposterdb.com/api/assets/46357
-  Bordello of Blood:
-    year: 1996
-    url_poster: https://theposterdb.com/api/assets/46358
-  Ritual:
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/46684
-
   # Tales From the Hood
   Tales From the Hood:
     year: 1995
@@ -8004,26 +7549,6 @@ metadata:
   "Tetsuo: The Bullet Man":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/65257
-
-  # Texas Chainsaw Massacre
-  Texas Chainsaw Massacre:
-    year: 1974
-    url_poster: https://theposterdb.com/api/assets/27154
-  The Texas Chainsaw Massacre 2:
-    year: 1986
-    url_poster: https://theposterdb.com/api/assets/27155
-  "Leatherface: The Texas Chainsaw Massacre III":
-    year: 1990
-    url_poster: https://theposterdb.com/api/assets/27156
-  "Texas Chainsaw Massacre: The Next Generation":
-    year: 1995
-    url_poster: https://theposterdb.com/api/assets/27157
-  Texas Chainsaw 3D:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/27158
-  Leatherface:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/27159
 
   # Texas Chainsaw Massacre (Reboot)
   The Texas Chainsaw Massacre:
@@ -8150,54 +7675,6 @@ metadata:
   Bumblebee:
     url_poster: https://theposterdb.com/api/assets/14181
 
-  # The Transporter
-  The Transporter:
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/796
-  Transporter 2:
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/797
-  Transporter 3:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/798
-  The Transporter Refueled:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/799
-
-  # Tremors
-  Tremors:
-    year: 1990
-    url_poster: https://theposterdb.com/api/assets/73822
-  "Tremors 2: Aftershocks":
-    year: 1996
-    url_poster: https://theposterdb.com/api/assets/73823
-  "Tremors 3: Back to Perfection":
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/73824
-  "Tremors 4: The Legend Begins":
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/73825
-  "Tremors 5: Bloodlines":
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/73826
-  "Tremors: A Cold Day in Hell":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/73827
-  "Tremors: Shrieker Island":
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/105106
-
-  # Trolls
-  Trolls:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/61567
-  Trolls World Tour:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/61568
-  Trolls Holiday:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/61713
-
   # TRON
   Tron:
     year: 1982
@@ -8245,67 +7722,6 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/65249
 
-  # Unfriended
-  Unfriended:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/107017
-  "Unfriended: Dark Web":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/107018
-
-  # Universal Soldier
-  Universal Soldier:
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/98128
-  "Universal Soldier II: Brothers in Arms":
-    year: 1998
-    url_poster: https://theposterdb.com/api/assets/98129
-  "Universal Soldier III: Unfinished Business":
-    year: 1998
-    url_poster: https://theposterdb.com/api/assets/98131
-  "Universal Soldier: The Return":
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/98130
-  "Universal Soldier: Regeneration":
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/98132
-  "Universal Soldier: Day of Reckoning":
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/98133
-
-  # Urban Legend
-  Urban Legend:
-    year: 1998
-    url_poster: https://theposterdb.com/api/assets/221981
-  "Urban Legends: Final Cut":
-    year: 2000
-    url_poster: https://theposterdb.com/api/assets/221982
-  "Urban Legends: Bloody Mary":
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/221983
-
-  # U.S. Marshals
-  The Fugitive:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/77410
-  U.S. Marshals:
-    year: 1998
-    url_poster: https://theposterdb.com/api/assets/77411
-
-  # V/H/S
-  V/H/S:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/103362
-  V/H/S/2:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/103363
-  "V/H/S: Viral":
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/103364
-  V/H/S/94:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/181738
-
   # Vacancy
   Vacancy:
     year: 2007
@@ -8352,25 +7768,6 @@ metadata:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/173470
 
-  # Violent Shit
-  Violent Shit:
-    year: 1989
-    url_poster: https://theposterdb.com/api/assets/84518
-  Violent Shit II:
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/84519
-  Violent Shit 3 - Infantry of Doom:
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/84520
-  Nikos the Impaler:
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/84521
-  Karl the Butcher vs Axe:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/84522
-  "Violent Shit: the Movie":
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/84523
 
   # Waiting
   Waiting...:
@@ -8449,22 +7846,6 @@ metadata:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/222647
 
-  # Wayne's World
-  Wayne's World:
-    year: 1992
-    url_poster: https://theposterdb.com/api/assets/68155
-  Wayne's World 2:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/68156
-
-  # Weekend at Bernie's
-  Weekend at Bernie's:
-    year: 1989
-    url_poster: https://theposterdb.com/api/assets/78728
-  Weekend at Bernie's II:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/78729
-
   # Westworld
   Westworld:
     year: 1973
@@ -8519,19 +7900,6 @@ metadata:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/78750
 
-  # The Wolf Man
-  Werewolf of London:
-    year: 1935
-    url_poster: https://theposterdb.com/api/assets/80768
-  The Wolf Man:
-    year: 1941
-    url_poster: https://theposterdb.com/api/assets/80769
-  Frankenstein Meets the Wolf Man:
-    year: 1943
-    url_poster: https://theposterdb.com/api/assets/80770
-  She-Wolf of London:
-    year: 1946
-    url_poster: https://theposterdb.com/api/assets/80771
 
   # The Woman in Black
   The Woman in Black:
@@ -8560,29 +7928,6 @@ metadata:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/31283
 
-  # Wrong Turn - https://theposterdb.com/set/100141
-  Wrong Turn:
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/163801
-  "Wrong Turn 2: Dead End":
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/163802
-  "Wrong Turn 3: Left for Dead":
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/163803
-  "Wrong Turn 4: Bloody Beginnings":
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/163804
-  "Wrong Turn 5: Bloodlines":
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/163805
-  "Wrong Turn 6: Last Resort":
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/163806
-  Wrong Turn (Reboot):
-    year: 2021
-    title: Wrong Turn
-    url_poster: https://theposterdb.com/api/assets/163807
 
   # Wyrmwood
   "Wyrmwood: Road of the Dead":
@@ -8638,16 +7983,6 @@ metadata:
   Once Upon a Deadpool:
     url_poster: https://theposterdb.com/api/assets/6467
 
-  # xXx
-  xXx:
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/5504
-  "xXx: State of the Union":
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/5505
-  "xXx: Return of Xander Cage":
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/5506
 
   # Young Guns
   Young Guns:
@@ -8657,19 +7992,6 @@ metadata:
     year: 1990
     url_poster: https://theposterdb.com/api/assets/153379
 
-  # Zombi
-  Zombie Flesh Eaters:
-    year: 1979
-    url_poster: https://theposterdb.com/api/assets/101394
-  Killing Birds:
-    year: 1988
-    url_poster: https://theposterdb.com/api/assets/101395
-  Zombie 3:
-    year: 1988
-    url_poster: https://theposterdb.com/api/assets/101396
-  After Death:
-    year: 1990
-    url_poster: https://theposterdb.com/api/assets/101397
 
   # Zombieland
   Zombieland:
@@ -8694,23 +8016,6 @@ metadata:
   The Legend of Zorro:
     year: 2005
     url_poster: https://theposterdb.com/api/assets/27776
-
-  # Unsorted
-  Chinatown:
-    url_poster: https://theposterdb.com/api/assets/110518
-  Last Action Hero:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/94940
-  Titanic:
-    url_poster: https://theposterdb.com/api/assets/48395
-  The Black Phone:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/250589
-  THX 1138:
-    year: 1971
-    url_poster: https://theposterdb.com/api/assets/111355
-  Who Framed Roger Rabbit:
-    url_poster: https://theposterdb.com/api/assets/115828
 
   # The Last Kingdom
   "The Last Kingdom: Seven Kings Must Die":
