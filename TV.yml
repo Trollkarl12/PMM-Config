@@ -73,6 +73,21 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/248669    
 
+  The Crown:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/237354
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237355
+      2:
+        url_poster: https://theposterdb.com/api/assets/237356
+      3:
+        url_poster: https://theposterdb.com/api/assets/237357
+      4:
+        url_poster: https://theposterdb.com/api/assets/237358
+      5:
+        url_poster: https://theposterdb.com/api/assets/276458
+
   Marco Polo:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/179994
