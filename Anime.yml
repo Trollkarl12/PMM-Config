@@ -137,3 +137,32 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/31924
       3:
         url_poster: https://theposterdb.com/api/assets/31925
+
+  Blue Orchestra:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/348893
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/348894
+        
+  Chihayafuru:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/92258
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/92259
+      2:
+        url_poster: https://theposterdb.com/api/assets/92260
+      3:
+        url_poster: https://theposterdb.com/api/assets/92261
+        
+  The Daily Life of the Immortal King:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/162346
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/162347
+      2:
+        url_poster: https://theposterdb.com/api/assets/162348
+      3:
+        url_poster: https://theposterdb.com/api/assets/234271
