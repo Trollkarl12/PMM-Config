@@ -586,7 +586,7 @@ collections:
   Joe Dirt:
     template: {name: Collection, collection: 353325, poster: https://theposterdb.com/api/assets/215561}
   John Wick:
-    template: {name: Collection, collection: 404609, poster: https://theposterdb.com/api/assets/13285}
+    template: {name: Collection, collection: 404609, poster: https://theposterdb.com/api/assets/120440}
   Johnny Tsunami:
     template: {name: Collection, collection: 394316, poster: https://image.tmdb.org/t/p/original//1VPrZNk1drpXvggiyBUoMaOpv3Z.jpg}
   Journey:
@@ -4922,11 +4922,13 @@ metadata:
 
   # John Wick
   John Wick:
-    url_poster: https://theposterdb.com/api/assets/13286
+    url_poster: https://theposterdb.com/api/assets/20711
   "John Wick: Chapter 2":
-    url_poster: https://theposterdb.com/api/assets/13287
+    url_poster: https://theposterdb.com/api/assets/20712
   "John Wick: Chapter 3 - Parabellum":
-    url_poster: https://theposterdb.com/api/assets/13288
+    url_poster: https://theposterdb.com/api/assets/20713
+  "John Wick: Chapter 4":
+    url_poster: https://theposterdb.com/api/assets/326803
 
   # Journey
   Journey to the Center of the Earth:
