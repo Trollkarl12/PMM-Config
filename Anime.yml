@@ -92,6 +92,25 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/167808
 
+  Dragon Ball:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/127756
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127757
+      1:
+        url_poster: https://theposterdb.com/api/assets/127758
+      2:
+        url_poster: https://theposterdb.com/api/assets/127759
+      3:
+        url_poster: https://theposterdb.com/api/assets/127760
+      4:
+        url_poster: https://theposterdb.com/api/assets/127761
+      5:
+        url_poster: https://theposterdb.com/api/assets/127762
+      6:
+        url_poster: https://theposterdb.com/api/assets/127763
+
   Shin Ikki Tousen:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/240494
