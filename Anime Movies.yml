@@ -23,6 +23,11 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls076439519/
     url_poster: https://theposterdb.com/api/assets/325047
+    
+  Vampire Hunter D Collection:
+    template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
+
+
 
 metadata:
 
@@ -99,3 +104,9 @@ metadata:
   Mary and The Witch's Flower:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/326423
+  Vampire Hunter D:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/157590
+  "Vampire Hunter D: Bloodlust":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/157591
