@@ -58,7 +58,8 @@ collections:
 #                  Anime Collections                 #
 ######################################################
 
-    
+  Dragon Ball Collection:
+    template: {name: Collection, show: "76666", poster: https://theposterdb.com/api/assets/168842, background: }
 
 ######################################################
 #                  Anime Metadata                    #
