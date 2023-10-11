@@ -252,3 +252,28 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/407928
       2:
         url_poster: https://theposterdb.com/api/assets/344423
+
+  Maken-Ki! Battling Venus:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/174364
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/174365 
+      1:
+        url_poster: https://theposterdb.com/api/assets/174366
+      2:
+        url_poster: https://theposterdb.com/api/assets/174366
+
+  Butareba -The Story of a Man Turned Into a Pig-:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/419325
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/419326
+        
+  I Shall Survive Using Potions!:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/399133
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/399134
