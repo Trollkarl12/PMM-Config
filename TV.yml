@@ -40,11 +40,12 @@ collections:
   Vikings Collection:
     template: {name: Collection, show: "260449, 372700", poster: https://theposterdb.com/api/assets/251220, background: }
     
-metadata:
 
 ######################################################
 #          TV Shows Metadata by Collection           #
 ######################################################
+
+metadata:
 
   # The World of Ice & Fire
   Game of Thrones:
