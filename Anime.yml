@@ -59,19 +59,28 @@ collections:
 ######################################################
 
   Dragon Ball Collection:
-    template: {name: Collection, show: "76666, 81472, 295068", poster: https://theposterdb.com/api/assets/168842, background: }
+    template: {name: Collection, show: "76666, 81472, 295068, 79275, 374191", poster: https://theposterdb.com/api/assets/168842, background:}
   Fate Collection:
-    template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138", poster: https://theposterdb.com/api/assets/141038, background: }
+    template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138", poster: https://theposterdb.com/api/assets/141038, background:}
   Sword Art Online Universe:
-    template: {name: Collection, show: "259640, 335815", poster: https://theposterdb.com/api/assets/134406, background: }
+    template: {name: Collection, show: "259640, 335815", poster: https://theposterdb.com/api/assets/134406, background:}
   That Time I Got Reincarnated as a Slime Collection:
-    template: {name: Collection, show: "352408, 385374", poster: https://theposterdb.com/api/assets/133803, background: }
+    template: {name: Collection, show: "352408, 385374", poster: https://theposterdb.com/api/assets/133803, background:}
   Berserk Collection:
-    template: {name: Collection, show: "73752, 307111", poster: https://theposterdb.com/api/assets/182149, background: }
+    template: {name: Collection, show: "73752, 307111, 425148", poster: https://theposterdb.com/api/assets/182149, background:}
   Naruto TV Collection:
-    template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
+    template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background:}
   Baki Collection:
-    template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297 background: }
+    template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297 background:}
+  Avatar Universe:
+    template: {name: Collection, show: "74852, 251085", poster: https://theposterdb.com/api/assets/94830 background:}
+  Castlevania The Complete Collection:
+    template: {name: Collection, show: "329065, 421113", poster: https://theposterdb.com/api/assets/415577 background:}
+  Steins;Gate The Complete Series:
+    template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696 background:}
+    
+    
+    
     
 ######################################################
 #                  Anime Metadata                    #
@@ -198,3 +207,48 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/162348
       3:
         url_poster: https://theposterdb.com/api/assets/234271
+        
+  The Kingdoms of Ruin:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/418407
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/418408
+        
+  Moriarty the Patriot:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/418834
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/418835
+      1:
+        url_poster: https://theposterdb.com/api/assets/418836
+        
+  SPY x FAMILY:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/416718
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/416719
+      2:
+        url_poster: https://theposterdb.com/api/assets/416720
+
+  Freezing:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/372286
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/372287
+      2:
+        url_poster: https://theposterdb.com/api/assets/372288
+
+  The Eminence in Shadow:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/271644
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/407928 
+      1:
+        url_poster: https://theposterdb.com/api/assets/407928
+      2:
+        url_poster: https://theposterdb.com/api/assets/344423
