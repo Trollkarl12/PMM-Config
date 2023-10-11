@@ -62,6 +62,15 @@ collections:
     template: {name: Collection, show: "76666, 81472, 295068", poster: https://theposterdb.com/api/assets/168842, background: }
   Fate Collection:
     template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138", poster: https://theposterdb.com/api/assets/141038, background: }
+  Sword Art Online Universe:
+    template: {name: Collection, show: "259640, 335815", poster: https://theposterdb.com/api/assets/134406, background: }
+  That Time I Got Reincarnated as a Slime Collection:
+    template: {name: Collection, show: "352408, 385374", poster: https://theposterdb.com/api/assets/133803, background: }
+  Berserk Collection:
+    template: {name: Collection, show: "73752, 307111", poster: https://theposterdb.com/api/assets/182149, background: }
+  Naruto TV Collection:
+    template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
+    
 ######################################################
 #                  Anime Metadata                    #
 ######################################################
