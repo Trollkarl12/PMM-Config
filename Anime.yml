@@ -70,6 +70,8 @@ collections:
     template: {name: Collection, show: "73752, 307111", poster: https://theposterdb.com/api/assets/182149, background: }
   Naruto TV Collection:
     template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
+  Baki Collection:
+    template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297 background: }
     
 ######################################################
 #                  Anime Metadata                    #
