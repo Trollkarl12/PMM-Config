@@ -327,3 +327,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/401275
       2:
         url_poster: https://theposterdb.com/api/assets/401276
+        
+  Monogatari:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/174437
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/174438
+      1:
+        url_poster: https://theposterdb.com/api/assets/174439
+      2:
+        url_poster: https://theposterdb.com/api/assets/174440
+      3:
+        url_poster: https://theposterdb.com/api/assets/174441
+      4:
+        url_poster: https://theposterdb.com/api/assets/174442
+      5:
+        url_poster: https://theposterdb.com/api/assets/174443
