@@ -78,10 +78,7 @@ collections:
     template: {name: Collection, show: "329065, 421113", poster: https://theposterdb.com/api/assets/415577 background:}
   Steins;Gate The Complete Series:
     template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696 background:}
-    
-    
-    
-    
+
 ######################################################
 #                  Anime Metadata                    #
 ######################################################
@@ -277,3 +274,56 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/399134
+        
+  Shakugan no Shana:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/225435
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/225436
+      1:
+        url_poster: https://theposterdb.com/api/assets/225437
+      2:
+        url_poster: https://theposterdb.com/api/assets/225438
+      3:
+        url_poster: https://theposterdb.com/api/assets/225439
+        
+  Assassination Classroom:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/394444
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/394445
+      1:
+        url_poster: https://theposterdb.com/api/assets/394446
+      2:
+        url_poster: https://theposterdb.com/api/assets/394447
+        
+  Baki the Grappler:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/401293
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/401296
+      1:
+        url_poster: https://theposterdb.com/api/assets/401294
+      2:
+        url_poster: https://theposterdb.com/api/assets/401295
+        
+  Baki (2018):
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/401284
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/401285
+      2:
+        url_poster: https://theposterdb.com/api/assets/401286
+        
+  Baki Hanma:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/401274
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/401275
+      2:
+        url_poster: https://theposterdb.com/api/assets/401276
