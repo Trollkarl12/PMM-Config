@@ -71,13 +71,13 @@ collections:
   Naruto TV Collection:
     template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background:}
   Baki Collection:
-    template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297 background:}
+    template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297, background:}
   Avatar Universe:
-    template: {name: Collection, show: "74852, 251085", poster: https://theposterdb.com/api/assets/94830 background:}
+    template: {name: Collection, show: "74852, 251085", poster: https://theposterdb.com/api/assets/94830, background:}
   Castlevania The Complete Collection:
-    template: {name: Collection, show: "329065, 421113", poster: https://theposterdb.com/api/assets/415577 background:}
+    template: {name: Collection, show: "329065, 421113", poster: https://theposterdb.com/api/assets/415577, background:}
   Steins;Gate The Complete Series:
-    template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696 background:}
+    template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696, background:}
 
 ######################################################
 #                  Anime Metadata                    #
