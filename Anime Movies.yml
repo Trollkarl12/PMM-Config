@@ -26,7 +26,8 @@ collections:
     
   Vampire Hunter D Collection:
     template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
-
+  Dragon Ball Collection:
+    template: {name: Collection, movie: "39324, 39323", poster: https://theposterdb.com/api/assets/168842}
 
 
 metadata:

@@ -67,7 +67,7 @@ collections:
   That Time I Got Reincarnated as a Slime Collection:
     template: {name: Collection, show: "352408, 385374", poster: https://theposterdb.com/api/assets/133803, background: }
   Berserk Collection:
-    template: {name: Collection, show: "73752, 307111, 425148", poster: https://theposterdb.com/api/assets/182149, background: }
+    template: {name: Collection, show: "73752, 307111, 425148", poster: https://theposterdb.com/api/assets/402721, background: }
   Naruto TV Collection:
     template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
   Baki Collection:
@@ -344,3 +344,167 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/174442
       5:
         url_poster: https://theposterdb.com/api/assets/174443
+  
+  Highschool DxD:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/333182
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/333183
+      1:
+        url_poster: https://theposterdb.com/api/assets/333184
+      2:
+        url_poster: https://theposterdb.com/api/assets/333185
+      3:
+        url_poster: https://theposterdb.com/api/assets/333186
+      4:
+        url_poster: https://theposterdb.com/api/assets/333187
+
+  To Love-Ru:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/403821
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/403822
+      1:
+        url_poster: https://theposterdb.com/api/assets/403823
+      2:
+        url_poster: https://theposterdb.com/api/assets/403824
+      3:
+        url_poster: https://theposterdb.com/api/assets/403825
+      4:
+        url_poster: https://theposterdb.com/api/assets/403826
+
+  The Fruit of Grisaia:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/183530
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/183526
+      1:
+        url_poster: https://theposterdb.com/api/assets/183527
+      2:
+        url_poster: https://theposterdb.com/api/assets/183528
+        
+  Berserk:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/402714
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/402715
+
+  Berserk:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/402716
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/402720
+      1:
+        url_poster: https://theposterdb.com/api/assets/402718
+      2:
+        url_poster: https://theposterdb.com/api/assets/402719
+
+  "Berserk: The Golden Age Arc - Memorial Edition":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/273468
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/273469
+
+  Back Street Girls -GOKUDOLS-:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/322306
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/322307
+
+  Campione!:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/278459
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/278459
+
+  Classroom for Heroes:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/344173
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/344174
+
+  "Cross Ange: Rondo of Angels and Dragons":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/348427
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/348428
+
+  Demon King Daimao:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/419871
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/419872    
+      1:
+        url_poster: https://theposterdb.com/api/assets/419873
+        
+  Dog & Scissors:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/337266
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/337267
+
+  Freezing:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/372286
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/372287
+      2:
+        url_poster: https://theposterdb.com/api/assets/372289
+
+  Gleipnir:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/172177
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/172178
+
+  Goblin Slayer:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/228789
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/228790
+      1:
+        url_poster: https://theposterdb.com/api/assets/228791
+      2:
+        url_poster: https://theposterdb.com/api/assets/228792
+
+  Harem in the Labyrinth of Another World:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/257972
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/318283
+      1:
+        url_poster: https://theposterdb.com/api/assets/257973
+
+  High School of the Dead:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/392162
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/392163
+      1:
+        url_poster: https://theposterdb.com/api/assets/392164
+
+  How Not to Summon a Demon Lord:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/145528
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/145529
+      2:
+        url_poster: https://theposterdb.com/api/assets/145530
