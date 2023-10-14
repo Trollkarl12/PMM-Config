@@ -455,14 +455,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/337267
 
-  Freezing:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/372286
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/372287
-      2:
-        url_poster: https://theposterdb.com/api/assets/372289
+  #Freezing:
+    #year: 2011
+    #url_poster: https://theposterdb.com/api/assets/372286
+    #seasons:
+     # 1:
+      #  url_poster: https://theposterdb.com/api/assets/372287
+      #2:
+       # url_poster: https://theposterdb.com/api/assets/372289
 
   Gleipnir:
     year: 2020
