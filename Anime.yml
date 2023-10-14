@@ -85,7 +85,7 @@ collections:
 
 metadata:
 
-  Queen's Blade:
+  "Queen's Blade":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/271661
     seasons:
@@ -139,7 +139,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/240494
 
-  Heaven's Lost Property:
+  "Heaven's Lost Property":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/266312
     seasons:
