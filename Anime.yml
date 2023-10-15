@@ -125,6 +125,72 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127762
       6:
         url_poster: https://theposterdb.com/api/assets/127763
+        
+  Dragon Ball Z:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/127764
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127765
+      1:
+        url_poster: https://theposterdb.com/api/assets/127766
+      2:
+        url_poster: https://theposterdb.com/api/assets/127767
+      3:
+        url_poster: https://theposterdb.com/api/assets/127768
+      4:
+        url_poster: https://theposterdb.com/api/assets/127769
+      5:
+        url_poster: https://theposterdb.com/api/assets/127770
+      6:
+        url_poster: https://theposterdb.com/api/assets/127771
+      7:
+        url_poster: https://theposterdb.com/api/assets/127772
+      8:
+        url_poster: https://theposterdb.com/api/assets/127773
+      9:
+        url_poster: https://theposterdb.com/api/assets/127774
+        
+  Dragon Ball GT:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/127784
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127785
+      1:
+        url_poster: https://theposterdb.com/api/assets/127786
+      2:
+        url_poster: https://theposterdb.com/api/assets/127787
+      3:
+        url_poster: https://theposterdb.com/api/assets/127788
+        
+  Dragon Ball Kai:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/127775
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127776
+      1:
+        url_poster: https://theposterdb.com/api/assets/127777
+      2:
+        url_poster: https://theposterdb.com/api/assets/127778
+        
+  Dragon Ball Super:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/127789
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127790
+      1:
+        url_poster: https://theposterdb.com/api/assets/127791
+      2:
+        url_poster: https://theposterdb.com/api/assets/127792
+      3:
+        url_poster: https://theposterdb.com/api/assets/127793
+      4:
+        url_poster: https://theposterdb.com/api/assets/127794
+      5:
+        url_poster: https://theposterdb.com/api/assets/127795
 
   Shin Ikki Tousen:
     year: 2022
@@ -495,3 +561,24 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/145529
       2:
         url_poster: https://theposterdb.com/api/assets/145530
+
+  Ranma ½:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/98604
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/98605
+      1:
+        url_poster: https://theposterdb.com/api/assets/98606
+      2:
+        url_poster: https://theposterdb.com/api/assets/259677
+      3:
+        url_poster: https://theposterdb.com/api/assets/259678
+      4:
+        url_poster: https://theposterdb.com/api/assets/259679
+      5:
+        url_poster: https://theposterdb.com/api/assets/259680
+      6:
+        url_poster: https://theposterdb.com/api/assets/259681
+      7:
+        url_poster: https://theposterdb.com/api/assets/259682
