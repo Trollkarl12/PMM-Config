@@ -1087,3 +1087,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/341074
+
+  Akikan!:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/358145
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/358150
+      1:
+        url_poster: https://theposterdb.com/api/assets/358146
