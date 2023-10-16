@@ -926,6 +926,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/237865
 
+  Black Summoner:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/262264
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/262265
+
   Blade of the Immortal:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/182154
@@ -1038,9 +1045,9 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/180985
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/180986
       1:
+        url_poster: https://theposterdb.com/api/assets/180986
+      2:
         url_poster: https://theposterdb.com/api/assets/226945
 
   Bungo Stray Dogs:
