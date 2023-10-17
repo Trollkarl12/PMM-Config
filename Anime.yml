@@ -2056,3 +2056,12 @@ metadata:
   Corpse Princess:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/244292
+
+  Brynhildr in the Darkness:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/326385
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/326386
+      1:
+        url_poster: https://theposterdb.com/api/assets/326387
