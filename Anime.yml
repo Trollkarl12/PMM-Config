@@ -2079,3 +2079,53 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/393896
+
+  Deadman Wonderland:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/334499
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/334500
+      1:
+        url_poster: https://theposterdb.com/api/assets/334501
+        
+  Giant Beasts of ARS:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/309204
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/309205
+
+  Gintama:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/167565
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/167566
+      1:
+        url_poster: https://theposterdb.com/api/assets/167567
+      2:
+        url_poster: https://theposterdb.com/api/assets/167568
+      3:
+        url_poster: https://theposterdb.com/api/assets/167569
+      4:
+        url_poster: https://theposterdb.com/api/assets/167570
+      5:
+        url_poster: https://theposterdb.com/api/assets/167571
+      6:
+        url_poster: https://theposterdb.com/api/assets/167572
+      7:
+        url_poster: https://theposterdb.com/api/assets/167573
+      8:
+        url_poster: https://theposterdb.com/api/assets/167574
+      9:
+        url_poster: https://theposterdb.com/api/assets/167575
+      10:
+        url_poster: https://theposterdb.com/api/assets/167576
+
+  The Girl I Like Forgot Her Glasses:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/371713
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/371714
