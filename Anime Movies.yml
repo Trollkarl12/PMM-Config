@@ -28,7 +28,10 @@ collections:
     template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
   Dragon Ball Collection:
     template: {name: Collection, movie: "39324, 39323", poster: https://theposterdb.com/api/assets/168842}
-
+  Patlabor Collection:
+    template: {name: Collection, movie: "14571, 14572, 16402", poster: https://theposterdb.com/api/assets/2307}
+  Ghost in the Shell Collection:
+    template: {name: Collection, movie: "9323, 12140, 14092", poster: https://theposterdb.com/api/assets/175259}
 
 metadata:
 
@@ -111,3 +114,62 @@ metadata:
   "Vampire Hunter D: Bloodlust":
     year: 2000
     url_poster: https://theposterdb.com/api/assets/157591
+  Patlabor:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/2308
+  Patlabor:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/2309
+  "Patlabor 3: WXIII":
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/2310
+  Perfect Blue:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/199741
+  Paprika:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/203591
+  Millennium Actress:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/179539
+  Tokyo Godfathers:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/91318
+  Jin-Roh: The Wolf Brigade:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/94589
+  Memories:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/52385
+  Bubble:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/234275
+
+  #Ghost in the Shell
+  Ghost in the Shell:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/175260
+  "Ghost in the Shell 2: Innocence":
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/175261
+  Ghost in the Shell 2.0:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/175262
+
+  #Dragon Ball
+  "Dragon Ball Z: Bardock - The Father of Goku":
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/126827
+  "Dragon Ball Z: The History of Trunks":
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/126832
+
+  5 Centimeters per Second:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/21583
+  Promare:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/69148
+  The Tunnel to Summer, the Exit of Goodbyes:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/373728
