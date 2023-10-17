@@ -2025,3 +2025,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/135626
+
+  Air:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/358142
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/358143
+      1:
+        url_poster: https://theposterdb.com/api/assets/358144
+
+  Air Gear:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/349617
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/349618
+      1:
+        url_poster: https://theposterdb.com/api/assets/349619
