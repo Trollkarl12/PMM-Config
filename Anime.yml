@@ -1096,3 +1096,53 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/358150
       1:
         url_poster: https://theposterdb.com/api/assets/358146
+
+  One Piece:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/129600
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/129601
+      1:
+        url_poster: https://theposterdb.com/api/assets/129608
+      2:
+        url_poster: https://theposterdb.com/api/assets/129610
+      3:
+        url_poster: https://theposterdb.com/api/assets/129947
+      4:
+        url_poster: https://theposterdb.com/api/assets/129614
+      5:
+        url_poster: https://theposterdb.com/api/assets/129616
+      6:
+        url_poster: https://theposterdb.com/api/assets/129618
+      7:
+        url_poster: https://theposterdb.com/api/assets/129620
+      8:
+        url_poster: https://theposterdb.com/api/assets/129622
+      9:
+        url_poster: https://theposterdb.com/api/assets/129624
+      10:
+        url_poster: https://theposterdb.com/api/assets/132253
+      11:
+        url_poster: https://theposterdb.com/api/assets/129628
+      12:
+        url_poster: https://theposterdb.com/api/assets/129630
+      13:
+        url_poster: https://theposterdb.com/api/assets/129632
+      14:
+        url_poster: https://theposterdb.com/api/assets/129634
+      15:
+        url_poster: https://theposterdb.com/api/assets/129636
+      16:
+        url_poster: https://theposterdb.com/api/assets/129638
+      17:
+        url_poster: https://theposterdb.com/api/assets/129640
+      18:
+        url_poster: https://theposterdb.com/api/assets/129641
+      19:
+        url_poster: https://theposterdb.com/api/assets/129642
+      20:
+        url_poster: https://theposterdb.com/api/assets/129643
+      21:
+        url_poster: https://theposterdb.com/api/assets/129644
+        
