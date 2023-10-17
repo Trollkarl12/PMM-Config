@@ -2027,3 +2027,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/201687
+
+  Comet Lucifer:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/135625
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/135626
