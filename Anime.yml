@@ -2072,3 +2072,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/279329
+
+  Appleseed XIII:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/393895
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/393896
