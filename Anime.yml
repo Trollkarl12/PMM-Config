@@ -2043,3 +2043,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/349618
       1:
         url_poster: https://theposterdb.com/api/assets/349619
+
+  "Blade Runner: Black Lotus":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/194523
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/194524
+      1:
+        url_poster: https://theposterdb.com/api/assets/194525
+
+  Corpse Princess:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/244292
