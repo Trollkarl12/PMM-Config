@@ -4671,3 +4671,27 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/391756
+
+  Cat Planet Cuties:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/197792
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/197793
+      1:
+        url_poster: https://theposterdb.com/api/assets/197794
+
+  Code:Breaker:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/86476
+
+  Grimoire of Zero:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/352408
+
+  The Greatest Demon Lord Is Reborn as a Typical Nobody:
+    year: 2022  
+    url_poster: https://theposterdb.com/api/assets/381351
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/381352
