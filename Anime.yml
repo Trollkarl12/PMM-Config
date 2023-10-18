@@ -2840,16 +2840,16 @@ metadata:
 
   "Kuroko's Basketball":
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/137441
+    url_poster: https://theposterdb.com/api/assets/422271
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/137442
+        url_poster: https://theposterdb.com/api/assets/422272
       1:
-        url_poster: https://theposterdb.com/api/assets/137443
+        url_poster: https://theposterdb.com/api/assets/422273
       2:
-        url_poster: https://theposterdb.com/api/assets/137444
+        url_poster: https://theposterdb.com/api/assets/422274
       3:
-        url_poster: https://theposterdb.com/api/assets/137445
+        url_poster: https://theposterdb.com/api/assets/422275
 
   Land of the Lustrous:
     year: 2017
@@ -3015,3 +3015,65 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/160539
       3:
         url_poster: https://theposterdb.com/api/assets/160540
+
+  Made In Abyss:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/237542
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/237543
+      1:
+        url_poster: https://theposterdb.com/api/assets/237544
+      2:
+        url_poster: https://theposterdb.com/api/assets/237545
+
+  Magi:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/68810
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/68811
+      2:
+        url_poster: https://theposterdb.com/api/assets/68812
+
+  "Magi: Adventure of Sinbad":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/68813
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/68814
+
+  Magical Destroyers:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/347047
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/347048
+
+  Magical Girl Spec-Ops Asuka:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/392396
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392397
+
+  The Magical Revolution of the Reincarnated Princess and the Genius Young Lady:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/303049
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/303050
+
+  The Maid I Hired Recently Is Mysterious:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/257847
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/257848
+
+  "Malevolent Spirits: Mononogatari":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/368168
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/368169
