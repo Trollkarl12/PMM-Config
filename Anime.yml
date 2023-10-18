@@ -196,8 +196,6 @@ metadata:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/240494
     seasons:
-      0:
-        url_poster: 
       1:
         url_poster: https://theposterdb.com/api/assets/240494
 
@@ -412,15 +410,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/333182
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/333183
+        url_poster: https://theposterdb.com/api/assets/176071
       1:
-        url_poster: https://theposterdb.com/api/assets/333184
+        url_poster: https://theposterdb.com/api/assets/176072
       2:
-        url_poster: https://theposterdb.com/api/assets/333185
+        url_poster: https://theposterdb.com/api/assets/176073
       3:
-        url_poster: https://theposterdb.com/api/assets/333186
+        url_poster: https://theposterdb.com/api/assets/176074
       4:
-        url_poster: https://theposterdb.com/api/assets/333187
+        url_poster: https://theposterdb.com/api/assets/176075
 
   To Love-Ru:
     year: 2008
@@ -2129,3 +2127,878 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/371714
+
+  The God of High School:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/125047
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/125048
+ 
+  Golden Kamuy:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/272248
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/272249
+      1:
+        url_poster: https://theposterdb.com/api/assets/272250
+      2:
+        url_poster: https://theposterdb.com/api/assets/272251
+      3:
+        url_poster: https://theposterdb.com/api/assets/272252
+      4:
+        url_poster: https://theposterdb.com/api/assets/272253
+
+  Grand Blue:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/153974
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/153975
+ 
+  The Great Cleric:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/379803
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/379804
+ 
+  Great Teacher Onizuka:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/326419
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/326420
+      1:
+        url_poster: https://theposterdb.com/api/assets/326421
+ 
+  Grimgar of Fantasy and Ash:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/185866
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/185867
+      1:
+        url_poster: https://theposterdb.com/api/assets/185868
+ 
+  Guilty Crown:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/126059
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/126060
+      1:
+        url_poster: https://theposterdb.com/api/assets/126061
+ 
+  Gurren Lagann:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/235326
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/235327
+      1:
+        url_poster: https://theposterdb.com/api/assets/235328
+ 
+  Haikyu!!:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/122483
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/122484
+      1:
+        url_poster: https://theposterdb.com/api/assets/122485
+      2:
+        url_poster: https://theposterdb.com/api/assets/122486
+      3:
+        url_poster: https://theposterdb.com/api/assets/122487
+      4:
+        url_poster: https://theposterdb.com/api/assets/122488
+
+  Handyman Saitou in Another World:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/307002
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/307003
+ 
+  Harem in the Labyrinth of Another World:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/257972
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/318283
+      1:
+        url_poster: https://theposterdb.com/api/assets/257973
+ 
+  Hayate the Combat Butler:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/167309
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/167310
+      1:
+        url_poster: https://theposterdb.com/api/assets/167311
+      2:
+        url_poster: https://theposterdb.com/api/assets/167312
+      3:
+        url_poster: https://theposterdb.com/api/assets/167313
+      4:
+        url_poster: https://theposterdb.com/api/assets/167314
+
+  Helck:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/416014
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/416015
+ 
+  Hell Girl:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/127219
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127220
+      1:
+        url_poster: https://theposterdb.com/api/assets/127221
+      2:
+        url_poster: https://theposterdb.com/api/assets/127222
+      3:
+        url_poster: https://theposterdb.com/api/assets/127223
+      4:
+        url_poster: https://theposterdb.com/api/assets/127224
+ 
+  "Hell's Paradise":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/341624
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/341625
+ 
+  Hellsing Ultimate:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/72764
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/72765
+      1:
+        url_poster: https://theposterdb.com/api/assets/72766
+ 
+  The Heroic Legend of Arslan:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/129415
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/129416
+      1:
+        url_poster: https://theposterdb.com/api/assets/129417
+      2:
+        url_poster: https://theposterdb.com/api/assets/129418
+ 
+  "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/143524
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/143525
+ 
+  High School Prodigies Have It Easy Even in Another World!:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/392165
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392166
+ 
+  Hinamatsuri:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/130326
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/130327
+ 
+  The Honor at Magic High School:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/161952
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/161953
+ 
+  Horimiya:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/373852
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/373853
+ 
+  "Horimiya: The Missing Pieces":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/380899
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/380900
+ 
+  How a Realist Hero Rebuilt the Kingdom:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/228332
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/228333
+ 
+  How Heavy Are the Dumbbells You Lift?:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/392171
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392172
+ 
+  Hundred:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/392176
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392177
+ 
+  Hunter x Hunter:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/335025
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/335026
+      1:
+        url_poster: https://theposterdb.com/api/assets/335027
+      2:
+        url_poster: https://theposterdb.com/api/assets/335028
+      3:
+        url_poster: https://theposterdb.com/api/assets/335029
+ 
+  Hyperdimension Neptunia:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/392213
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/392215
+      1:
+        url_poster: https://theposterdb.com/api/assets/392216
+ 
+  "I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/392221
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/137447
+      1:
+        url_poster: https://theposterdb.com/api/assets/137448
+ 
+  I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/336441
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/336442
+ 
+  "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/418523
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/418524
+ 
+  "I'm in Love with the Villainess":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/375459
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/375460
+ 
+  "I'm Quitting Heroing":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/326038
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/326039
+      1:
+        url_poster: https://theposterdb.com/api/assets/326040
+
+  I'm the Villainess, So I'm Taming the Final Boss:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/283238
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/283239
+      1:
+        url_poster: https://theposterdb.com/api/assets/283240
+ 
+  "I've Been Killing Slimes for 300 Years and Maxed Out My Level":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/414706
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/414707
+      2:
+        url_poster: https://theposterdb.com/api/assets/414708
+ 
+  The Iceblade Sorcerer Shall Rule the World:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/306302
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/306303
+ 
+  "ID: INVADED":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/167790
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/167791
+ 
+  In Another World with My Smartphone:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/253864
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/253865
+      2:
+        url_poster: https://theposterdb.com/api/assets/261094
+ 
+  In the Land of Leadale:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/201218
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/201219
+
+  In/Spectre:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/306828
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/306886
+      1:
+        url_poster: https://theposterdb.com/api/assets/306829
+      2:
+        url_poster: https://theposterdb.com/api/assets/306830
+
+  Infinite Dendrogram:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/354274
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/354275
+ 
+  Infinite Stratos:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/171273
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/171274
+      1:
+        url_poster: https://theposterdb.com/api/assets/171275
+      1:
+        url_poster: https://theposterdb.com/api/assets/171276
+ 
+  Initial D:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/254498
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/254499
+      1:
+        url_poster: https://theposterdb.com/api/assets/254500
+      2:
+        url_poster: https://theposterdb.com/api/assets/254501
+      3:
+        url_poster: https://theposterdb.com/api/assets/254502
+      4:
+        url_poster: https://theposterdb.com/api/assets/254503
+      5:
+        url_poster: https://theposterdb.com/api/assets/254504
+      6:
+        url_poster: https://theposterdb.com/api/assets/254505
+ 
+  Insomniacs After School:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/342969
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/342970
+ 
+  Interspecies Reviewers:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/201251
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/201252
+      1:
+        url_poster: https://theposterdb.com/api/assets/201253
+
+  Interviews with Monster Girls:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/392251
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392252
+
+  InuYasha:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/160760
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/160761
+      1:
+        url_poster: https://theposterdb.com/api/assets/160762
+      2:
+        url_poster: https://theposterdb.com/api/assets/160763
+      3:
+        url_poster: https://theposterdb.com/api/assets/160764
+      4:
+        url_poster: https://theposterdb.com/api/assets/160765
+      5:
+        url_poster: https://theposterdb.com/api/assets/160766
+      6:
+        url_poster: https://theposterdb.com/api/assets/160767
+      7:
+        url_poster: https://theposterdb.com/api/assets/160768
+
+  "Inuyashiki: Last Hero":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/156656
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/156657
+
+  The Irregular at Magic High School:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/161955
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/161956
+      1:
+        url_poster: https://theposterdb.com/api/assets/161957
+      2:
+        url_poster: https://theposterdb.com/api/assets/161958
+
+  Is It Wrong to Try to Pick Up Girls in a Dungeon?:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/304930
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/252884
+      1:
+        url_poster: https://theposterdb.com/api/assets/252885
+      2:
+        url_poster: https://theposterdb.com/api/assets/252886
+      3:
+        url_poster: https://theposterdb.com/api/assets/252887
+      4:
+        url_poster: https://theposterdb.com/api/assets/252888
+
+  "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/151086
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/151087
+
+  Isekai Cheat Magician:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/75909
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/75910
+
+  "JoJo's Bizarre Adventure":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/157819
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/157820
+      1:
+        url_poster: https://theposterdb.com/api/assets/157821
+      2:
+        url_poster: https://theposterdb.com/api/assets/157822
+      3:
+        url_poster: https://theposterdb.com/api/assets/157823
+      4:
+        url_poster: https://theposterdb.com/api/assets/157824
+      5:
+        url_poster: https://theposterdb.com/api/assets/157825
+
+  Joker Game:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/91298
+
+  Jujutsu Kaisen:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/162503
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/162504
+      1:
+        url_poster: https://theposterdb.com/api/assets/162505
+      2:
+        url_poster: https://theposterdb.com/api/assets/271040
+
+  K-ON!:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/392311
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/392312
+      1:
+        url_poster: https://theposterdb.com/api/assets/392313
+      2:
+        url_poster: https://theposterdb.com/api/assets/392314
+
+  Kabaneri of the Iron Fortress:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/183932
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/183933
+      1:
+        url_poster: https://theposterdb.com/api/assets/183934
+
+  "Kaguya-sama: Love Is War":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/184182
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/184183
+      1:
+        url_poster: https://theposterdb.com/api/assets/184184
+      2:
+        url_poster: https://theposterdb.com/api/assets/184185
+      3:
+        url_poster: https://theposterdb.com/api/assets/184186
+
+  Kakegurui:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/255283
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/255284
+      1:
+        url_poster: https://theposterdb.com/api/assets/255285
+      2:
+        url_poster: https://theposterdb.com/api/assets/255286
+
+  "KamiKatsu: Working for God in a Godless World":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/345210
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/345211
+
+  Karneval:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/347646
+
+  "Katsugeki: Touken Ranbu":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/159158
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/159159
+
+  Keijo!!!!!!!!:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/392323
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392324
+
+  Kemeko Deluxe!:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/278004
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/278005
+
+  Kemono Jihen:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/345188
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/345189
+
+  Kiba:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/120724
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/120725
+      2:
+        url_poster: https://theposterdb.com/api/assets/120726
+
+  Kids on the Slope:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/254072
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/254073
+
+  Kill la Kill:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/93335
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/93336
+      1:
+        url_poster: https://theposterdb.com/api/assets/93337
+
+  "The King's Avatar":
+    year: 20
+    url_poster: https://theposterdb.com/api/assets/109053
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/109054
+      1:
+        url_poster: https://theposterdb.com/api/assets/109055
+      2:
+        url_poster: https://theposterdb.com/api/assets/109056
+
+  Kingdom:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/157130
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/157131
+      2:
+        url_poster: https://theposterdb.com/api/assets/157132
+      3:
+        url_poster: https://theposterdb.com/api/assets/157133
+      4:
+        url_poster: https://theposterdb.com/api/assets/226427
+
+  KissXsis:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/174352
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/174353
+      1:
+        url_poster: https://theposterdb.com/api/assets/174354
+
+  Kiznaiver:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/392328
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392329
+
+  "Knight's & Magic":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/390829
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/390830
+
+  Knights of Sidonia:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/271808
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/271809
+      1:
+        url_poster: https://theposterdb.com/api/assets/271810
+      2:
+        url_poster: https://theposterdb.com/api/assets/271811
+
+  Kokoro Connect:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/341733
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/341734
+      1:
+        url_poster: https://theposterdb.com/api/assets/341735
+
+  "Komi Can't Communicate":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/392336
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392337
+
+  KONOSUBA – An Explosion on This Wonderful World!:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/319338
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/341808
+
+  "KONOSUBA – God's blessing on this wonderful world!!":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/319011
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319012
+      1:
+        url_poster: https://theposterdb.com/api/assets/319013
+      2:
+        url_poster: https://theposterdb.com/api/assets/319014
+      3:
+        url_poster: https://theposterdb.com/api/assets/319015
+
+  "Kubo Won't Let Me Be Invisible":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/307722
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/307723
+
+  "Kuroko's Basketball":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/137441
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/137442
+      1:
+        url_poster: https://theposterdb.com/api/assets/137443
+      2:
+        url_poster: https://theposterdb.com/api/assets/137444
+      3:
+        url_poster: https://theposterdb.com/api/assets/137445
+
+  Land of the Lustrous:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/253914
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/253915
+
+  Laughing Under the Clouds:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/323970
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/323971
+
+  The Law of Ueki:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/145330
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/145331
+
+  Legend of the Galactic Heroes:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/312932
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/312933
+      1:
+        url_poster: https://theposterdb.com/api/assets/312934
+      2:
+        url_poster: https://theposterdb.com/api/assets/312935
+      3:
+        url_poster: https://theposterdb.com/api/assets/312936
+      4:
+        url_poster: https://theposterdb.com/api/assets/312937
+
+  "The Legend of the Galactic Heroes: Die Neue These":
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/315339
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/315340
+      2:
+        url_poster: https://theposterdb.com/api/assets/315341
+      3:
+        url_poster: https://theposterdb.com/api/assets/315342
+      4:
+        url_poster: https://theposterdb.com/api/assets/315343
+
+  The Legendary Hero Is Dead!:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/330488
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/330489
+
+  Level 1 Demon Lord & One Room Hero:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/379158
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/379159
+
+  Level E:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/64766
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/64767
+
+  "Leviathan: The Last Defense":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/265240
+
+  Liar, Liar:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/383024
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/383025
+
+  Life Lessons with Uramichi Oniisan:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/162667
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/162668
+
+  Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/263312
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/263313
+
+  Little Busters:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/181047
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/181048
+      1:
+        url_poster: https://theposterdb.com/api/assets/181049
+      2:
+        url_poster: https://theposterdb.com/api/assets/181050
+
+  Log Horizon:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/122969
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/122970
+      1:
+        url_poster: https://theposterdb.com/api/assets/122971
+      2:
+        url_poster: https://theposterdb.com/api/assets/122972
+      3:
+        url_poster: https://theposterdb.com/api/assets/122973
+
+  "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note":
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/142212
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/142214
+      1:
+        url_poster: https://theposterdb.com/api/assets/142213
+
+  The Lost Village:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/96629
+
+  Love of Kill:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/236811
+
+  Lycoris Recoil:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/270134
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/270135
