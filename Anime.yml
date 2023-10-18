@@ -2887,6 +2887,15 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/312937
 
+  Legend of the Galactic Heroes Gaiden:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/315336
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/315337
+      2:
+        url_poster: https://theposterdb.com/api/assets/315338
+
   "The Legend of the Galactic Heroes: Die Neue These":
     year: 2018
     url_poster: https://theposterdb.com/api/assets/315339
@@ -2993,3 +3002,16 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/270135
+
+  Aquarion:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/160536
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/160537
+      1:
+        url_poster: https://theposterdb.com/api/assets/160538
+      2:
+        url_poster: https://theposterdb.com/api/assets/160539
+      3:
+        url_poster: https://theposterdb.com/api/assets/160540
