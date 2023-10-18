@@ -4040,3 +4040,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/376972
+
+  God Eater:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/125646
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/125647
+      1:
+        url_poster: https://theposterdb.com/api/assets/125648
