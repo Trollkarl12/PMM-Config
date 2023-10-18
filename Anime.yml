@@ -2066,10 +2066,10 @@ metadata:
 
   "Yamada's First Time: B Gata H Kei":
     year: 2010
-    url_poster: https://theposterdb.com/api/assets/279328
+    url_poster: https://theposterdb.com/api/assets/311853
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/279329
+        url_poster: https://theposterdb.com/api/assets/311854
 
   Appleseed XIII:
     year: 2011
@@ -3335,7 +3335,7 @@ metadata:
 
   Neon Genesis Evangelion:
     year: 1995
-    url_poster: https://theposterdb.com/api/assets/108409
+    url_poster: https://theposterdb.com/api/assets/37307
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/108410
@@ -3402,14 +3402,14 @@ metadata:
 
   One-Punch Man:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/122834
+    url_poster: https://theposterdb.com/api/assets/312223
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/122839
+        url_poster: https://theposterdb.com/api/assets/312224
       1:
-        url_poster: https://theposterdb.com/api/assets/122837
+        url_poster: https://theposterdb.com/api/assets/312225
       2:
-        url_poster: https://theposterdb.com/api/assets/122838
+        url_poster: https://theposterdb.com/api/assets/312226
 
   "ONIMAI: I'm Now Your Sister!":
     year: 2023
@@ -3448,7 +3448,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/330477
 
   Otherside Picnic:
-    year: 2022
+    year: 2021
     url_poster: https://theposterdb.com/api/assets/275684
     seasons:
       1:
@@ -4088,7 +4088,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/329946
 
-  Yozakura Quartet:
+  "Yozakura Quartet: Hana no Uta":
     year: 2008
     url_poster: https://theposterdb.com/api/assets/390626
     seasons:
@@ -4374,7 +4374,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/300600
 
   Unlimited Psychic Squad:
-    year: 2013
+    year: 2008
     url_poster: https://theposterdb.com/api/assets/128690
     seasons:
       1:
