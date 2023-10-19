@@ -90,6 +90,18 @@ collections:
     template: {name: Collection, show: "289882, 321670", poster: https://theposterdb.com/api/assets/106221, background: }
    Magi:
     template: {name: Collection, show: "262094, 310718", poster: https://theposterdb.com/api/assets/68810, background: }
+   Soul Eater:
+    template: {name: Collection, show: "81751, 278371", poster: https://theposterdb.com/api/assets/75257, background: }
+   Magic High School:
+    template: {name: Collection, show: "278329, 394013", poster: https://theposterdb.com/api/assets/161955, background: }
+   Fairy Tail Collection:
+    template: {name: Collection, show: "114801, 388645", poster: https://theposterdb.com/api/assets/359658, background: }
+   Hellsing Collection:
+    template: {name: Collection, show: "71278, 263688", poster: https://theposterdb.com/api/assets/128338, background: }
+   Hunter x Hunter Collection:
+    template: {name: Collection, show: "79076, 252322", poster: https://theposterdb.com/api/assets/335016, background: }
+   Inuyasha Collection:
+    template: {name: Collection, show: "71361, 384485", poster: https://theposterdb.com/api/assets/160751, background: }
 
 ######################################################
 #                  Anime Metadata                    #
