@@ -61,7 +61,7 @@ collections:
   Dragon Ball Collection:
     template: {name: Collection, show: "76666, 81472, 295068, 79275, 88031", poster: https://theposterdb.com/api/assets/168842, background: }
   Fate Collection:
-    template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138, 251047", poster: https://theposterdb.com/api/assets/141038, background: }
+    template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138, 251047, 74522, 394346, 269319", poster: https://theposterdb.com/api/assets/141038, background: }
   Sword Art Online Universe:
     template: {name: Collection, show: "259640, 335815", poster: https://theposterdb.com/api/assets/134406, background: }
   That Time I Got Reincarnated as a Slime Collection:
@@ -74,6 +74,22 @@ collections:
     template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297, background: }
   Steins;Gate The Complete Series:
     template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696, background: }
+  Legend of the Galactic Heroes Collection:
+    template: {name: Collection, show: "81618, 268996, 343237", poster: https://theposterdb.com/api/assets/315344, background: }
+  A Certain Universe:
+    template: {name: Collection, show: "83322, 114921, 360438", poster: https://theposterdb.com/api/assets/184032, background: }
+  Konosuba:
+    template: {name: Collection, show: "303867, 420657", poster: https://theposterdb.com/api/assets/129067, background: }
+  D.Gray-man:
+    template: {name: Collection, show: "79635, 312878", poster: https://theposterdb.com/api/assets/256325, background: }
+   Ikki Tousen:
+    template: {name: Collection, show: "80158, 405904", poster: https://theposterdb.com/api/assets/392229, background: }
+   Rurouni Kenshin:
+    template: {name: Collection, show: "70863, 413578", poster: https://theposterdb.com/api/assets/166499, background: }
+   Is It Wrong to Try to Pick Up Girls in a Dungeon?:
+    template: {name: Collection, show: "289882, 321670", poster: https://theposterdb.com/api/assets/106221, background: }
+   Magi:
+    template: {name: Collection, show: "262094, 310718", poster: https://theposterdb.com/api/assets/68810, background: }
 
 ######################################################
 #                  Anime Metadata                    #
@@ -4690,8 +4706,106 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/352408
 
   The Greatest Demon Lord Is Reborn as a Typical Nobody:
-    year: 2022  
+    year: 2022
     url_poster: https://theposterdb.com/api/assets/381351
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/381352
+
+  OniAi:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/186321
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/186322
+
+  "Monster Musume: Everyday Life with Monster Girls":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/392431
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/392432
+      1:
+        url_poster: https://theposterdb.com/api/assets/392433
+
+  The Ambition of Oda Nobuna:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/181687
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/181688
+
+  Luck & Logic:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/352093
+
+  Mayo Chiki!:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/186304
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/186305
+
+  I My Me! Strawberry Eggs:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/311373
+
+  "Monthly Girls' Nozaki-kun":
+    year: 2014
+    url_poster: 
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/341081
+      1:
+        url_poster: https://theposterdb.com/api/assets/341082
+
+  Blade and Soul:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/75834
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/75835
+
+  Lunar Legend Tsukihime:
+    year: 20
+    url_poster: https://theposterdb.com/api/assets/190880
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/190886
+      1:
+        url_poster: https://theposterdb.com/api/assets/190882
+
+  Manyuu Hiken-chou:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/240961
+
+  Fate/kaleid liner Prisma Illya:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/141209
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141220
+      1:
+        url_poster: https://theposterdb.com/api/assets/141216
+      2:
+        url_poster: https://theposterdb.com/api/assets/141217
+      3:
+        url_poster: https://theposterdb.com/api/assets/141218
+      4:
+        url_poster: https://theposterdb.com/api/assets/141219
+
+  Fate/Grand Carnival:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/249434
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/249435
+      2:
+        url_poster: https://theposterdb.com/api/assets/249436
+
+  Mekakucity Actors:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/253893
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/253894
