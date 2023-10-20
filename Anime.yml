@@ -102,6 +102,8 @@ collections:
     template: {name: Collection, show: "79076, 252322", poster: https://theposterdb.com/api/assets/335016, background: }
   Inuyasha Collection:
     template: {name: Collection, show: "71361, 384485", poster: https://theposterdb.com/api/assets/160751, background: }
+  Patlabor Collection:
+    template: {name: Collection, show: "80789", poster: https://theposterdb.com/api/assets/2307, background }
 
 ######################################################
 #                  Anime Metadata                    #
