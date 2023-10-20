@@ -4764,7 +4764,7 @@ metadata:
 
   "Monthly Girls' Nozaki-kun":
     year: 2014
-    url_poster: 
+    url_poster: https://theposterdb.com/api/assets/341080
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/341081
@@ -4822,7 +4822,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/253894
 
-  Say "I Love You.":
+  "Say "I Love You."":
     year: 2014
     url_poster: https://theposterdb.com/api/assets/258011
     seasons:
