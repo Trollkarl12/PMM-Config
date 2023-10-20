@@ -4832,3 +4832,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/258013
       1:
         url_poster: https://theposterdb.com/api/assets/258012
+
+  K:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/157796
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/157246
+      1:
+        url_poster: https://theposterdb.com/api/assets/157797
+      2:
+        url_poster: https://theposterdb.com/api/assets/157798
