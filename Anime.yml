@@ -4779,7 +4779,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/75835
 
   Lunar Legend Tsukihime:
-    year: 20
+    year: 2003
     url_poster: https://theposterdb.com/api/assets/190880
     seasons:
       0:
@@ -4821,3 +4821,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/253894
+
+  Say "I Love You.":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/258011
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/258013
+      1:
+        url_poster: https://theposterdb.com/api/assets/258012
