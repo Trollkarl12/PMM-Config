@@ -4895,6 +4895,17 @@ metadata:
       0:
         url_poster: https://theposterdb.com/api/assets/266289
       1:
-        url_poster: 
+        url_poster: https://theposterdb.com/api/assets/266290
       2:
         url_poster: https://theposterdb.com/api/assets/266291
+
+  Himouto! Umaru-chan:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/393046
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/393047
+      1:
+        url_poster: https://theposterdb.com/api/assets/393048
+      2:
+        url_poster: https://theposterdb.com/api/assets/393049
