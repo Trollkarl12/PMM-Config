@@ -4880,3 +4880,10 @@ metadata:
   The Legend of the Legendary Heroes:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/250002
+
+  Gosick:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/403041
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/403042
