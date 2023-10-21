@@ -4865,3 +4865,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/344188
       2:
         url_poster: https://theposterdb.com/api/assets/344189
+
+  Jormungand:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/322522
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322523
+      1:
+        url_poster: https://theposterdb.com/api/assets/322524
+      2:
+        url_poster: https://theposterdb.com/api/assets/322525
