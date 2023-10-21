@@ -4843,3 +4843,25 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/157797
       2:
         url_poster: https://theposterdb.com/api/assets/157798
+
+  Soul Eater Not!:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/172709
+
+  "Yashahime: Princess Half-Demon":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/160769
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/160770
+      2:
+        url_poster: https://theposterdb.com/api/assets/160771
+
+  Edens Zero:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/344187
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/344188
+      2:
+        url_poster: https://theposterdb.com/api/assets/344189
