@@ -4887,3 +4887,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/403042
+
+  "Haganai: I Don't Have Many Friends":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/266288
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/266289
+      1:
+        url_poster: 
+      2:
+        url_poster: https://theposterdb.com/api/assets/266291
