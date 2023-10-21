@@ -58,23 +58,23 @@ collections:
 #                  Anime Collections                 #
 ######################################################
 
-  Dragon Ball Collection:
+  Dragon Ball:
     template: {name: Collection, show: "76666, 81472, 295068, 79275, 88031", poster: https://theposterdb.com/api/assets/168842, background: }
-  Fate Collection:
+  Fate:
     template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138, 251047, 74522, 394346, 269319", poster: https://theposterdb.com/api/assets/141038, background: }
   Sword Art Online Universe:
     template: {name: Collection, show: "259640, 335815", poster: https://theposterdb.com/api/assets/134406, background: }
-  That Time I Got Reincarnated as a Slime Collection:
+  That Time I Got Reincarnated as a Slime:
     template: {name: Collection, show: "352408, 385374", poster: https://theposterdb.com/api/assets/133803, background: }
-  Berserk Collection:
+  Berserk:
     template: {name: Collection, show: "73752, 307111, 425148", poster: https://theposterdb.com/api/assets/402721, background: }
-  Naruto TV Collection:
+  Naruto:
     template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
-  Baki Collection:
+  Baki:
     template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297, background: }
   Steins;Gate The Complete Series:
     template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696, background: }
-  Legend of the Galactic Heroes Collection:
+  Legend of the Galactic Heroes:
     template: {name: Collection, show: "81618, 268996, 343237", poster: https://theposterdb.com/api/assets/315344, background: }
   A Certain Universe:
     template: {name: Collection, show: "83322, 114921, 360438", poster: https://theposterdb.com/api/assets/184032, background: }
@@ -94,15 +94,15 @@ collections:
     template: {name: Collection, show: "81751, 278371", poster: https://theposterdb.com/api/assets/75257, background: }
   Magic High School:
     template: {name: Collection, show: "278329, 394013", poster: https://theposterdb.com/api/assets/161955, background: }
-  Fairy Tail Collection:
+  Fairy Tail:
     template: {name: Collection, show: "114801, 388645", poster: https://theposterdb.com/api/assets/359658, background: }
-  Hellsing Collection:
+  Hellsing:
     template: {name: Collection, show: "71278, 263688", poster: https://theposterdb.com/api/assets/128338, background: }
-  Hunter x Hunter Collection:
+  Hunter x Hunter:
     template: {name: Collection, show: "79076, 252322", poster: https://theposterdb.com/api/assets/335016, background: }
-  Inuyasha Collection:
+  Inuyasha:
     template: {name: Collection, show: "71361, 384485", poster: https://theposterdb.com/api/assets/160751, background: }
-  Patlabor Collection:
+  Patlabor:
     template: {name: Collection, show: "80789", poster: https://theposterdb.com/api/assets/2307, background }
 
 ######################################################
