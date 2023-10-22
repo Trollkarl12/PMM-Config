@@ -4992,3 +4992,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/121314
       2:
         url_poster: https://theposterdb.com/api/assets/121315
+
+  Special A:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/266136
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/266137
+      1:
+        url_poster: https://theposterdb.com/api/assets/266138
