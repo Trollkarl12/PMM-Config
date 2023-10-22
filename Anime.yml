@@ -104,6 +104,8 @@ collections:
     template: {name: Collection, show: "71361, 384485", poster: https://theposterdb.com/api/assets/160751, background: }
   Patlabor:
     template: {name: Collection, show: "80789", poster: https://theposterdb.com/api/assets/2307, background }
+  Fullmetal Alchemist:
+    template: {name: Collection, show: "75579, 85249", poster: https://theposterdb.com/api/assets/28489, background: }
 
 ######################################################
 #                  Anime Metadata                    #
@@ -2008,14 +2010,23 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/405591
 
-  "Fullmetal Alchemist: Brotherhood":
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/169265
+  Fullmetal Alchemist:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/169268
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/169269
       1:
         url_poster: https://theposterdb.com/api/assets/169270
+
+  "Fullmetal Alchemist: Brotherhood":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/169265
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/169266
+      1:
+        url_poster: https://theposterdb.com/api/assets/169267
 
   A Galaxy Next Door:
     year: 2023
@@ -5064,3 +5075,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/186328
+
+  Claymore:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/331924
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/331925
+
+  Why the Hell Are You Here, Teacher!?:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/297254
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/297255
+      1:
+        url_poster: https://theposterdb.com/api/assets/297256
+
+  Little Witch Academia:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/236255
