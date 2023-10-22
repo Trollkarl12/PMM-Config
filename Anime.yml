@@ -5210,3 +5210,18 @@ metadata:
   Magic Kaito 1412:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/79520
+
+  Yu Yu Hakusho:
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/64784
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/64785
+      1:
+        url_poster: https://theposterdb.com/api/assets/64786
+      2:
+        url_poster: https://theposterdb.com/api/assets/64787
+      3:
+        url_poster: https://theposterdb.com/api/assets/64788
+      4:
+        url_poster: https://theposterdb.com/api/assets/64789
