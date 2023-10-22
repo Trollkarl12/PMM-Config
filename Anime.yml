@@ -72,8 +72,8 @@ collections:
     template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
   Baki:
     template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297, background: }
-  Steins;Gate:
-    template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696, background: }
+  Science Adventure:
+    template: {name: Collection, show: "244061, 339268, 83358, 320459, 316332, 259849", poster: https://theposterdb.com/api/assets/412283, background: }
   Legend of the Galactic Heroes:
     template: {name: Collection, show: "81618, 268996, 343237", poster: https://theposterdb.com/api/assets/315344, background: }
   A Certain Universe:
@@ -3986,21 +3986,53 @@ metadata:
 
   Steins;Gate:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/181812
+    url_poster: https://theposterdb.com/api/assets/412294
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/181813
+        url_poster: https://theposterdb.com/api/assets/412295
       1:
-        url_poster: https://theposterdb.com/api/assets/181814
+        url_poster: https://theposterdb.com/api/assets/412296
 
   Steins;Gate 0:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/181809
+    url_poster: https://theposterdb.com/api/assets/412297
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/181810
+        url_poster: https://theposterdb.com/api/assets/412298
       1:
-        url_poster: https://theposterdb.com/api/assets/181811
+        url_poster: https://theposterdb.com/api/assets/412299
+
+  Chaos;Head:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/412287
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/412288
+
+  Chaos;Child:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/412284
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/412285
+      1:
+        url_poster: https://theposterdb.com/api/assets/412286
+
+  Occultic;Nine:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/412289
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/412290
+
+  Robotics;Notes:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/412291
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/412292
+      1:
+        url_poster: https://theposterdb.com/api/assets/412293
 
   Strike the Blood:
     year: 2013
@@ -5001,3 +5033,34 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/266137
       1:
         url_poster: https://theposterdb.com/api/assets/266138
+
+  "Drug Store in Another World: The Slow Life of a Cheat Pharmacist":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/300601
+
+  Gangsta.:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/319920
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/319921
+      1:
+        url_poster: https://theposterdb.com/api/assets/319922
+
+  The Qwaser of Stigmata:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/128948
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/128949
+      1:
+        url_poster: https://theposterdb.com/api/assets/128950
+      2:
+        url_poster: https://theposterdb.com/api/assets/128951
+
+  Ouran High School Host Club:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/186327
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/186328
