@@ -2308,7 +2308,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/341625
- 
+
+  Hellsing:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/128326
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/128327
+
   Hellsing Ultimate:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/72764
@@ -2317,7 +2324,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/72765
       1:
         url_poster: https://theposterdb.com/api/assets/72766
- 
+
   The Heroic Legend of Arslan:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/129415
