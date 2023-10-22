@@ -5254,3 +5254,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/344442
+
+  "Ghost in the Shell: Stand Alone Complex":
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/175274
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/175275
+      1:
+        url_poster: https://theposterdb.com/api/assets/175276
+      2:
+        url_poster: https://theposterdb.com/api/assets/175277
