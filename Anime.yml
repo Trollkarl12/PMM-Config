@@ -4931,3 +4931,55 @@ metadata:
   Penguindrum:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/240975
+
+  Majestic Prince:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/336535
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/336536
+      1:
+        url_poster: https://theposterdb.com/api/assets/336537
+
+  Is This A Zombie?:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/157266
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/157267
+      1:
+        url_poster: https://theposterdb.com/api/assets/157269
+      2:
+        url_poster: https://theposterdb.com/api/assets/157270
+
+  Speed Grapher:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/266133
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/266134
+      1:
+        url_poster: https://theposterdb.com/api/assets/266135
+
+  Major:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/329272
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/329262
+      1:
+        url_poster: https://theposterdb.com/api/assets/329263
+      2:
+        url_poster: https://theposterdb.com/api/assets/329264
+      3:
+        url_poster: https://theposterdb.com/api/assets/329265
+      4:
+        url_poster: https://theposterdb.com/api/assets/329266
+      5:
+        url_poster: https://theposterdb.com/api/assets/329267
+      6:
+        url_poster: https://theposterdb.com/api/assets/329268
+
+  The Pet Girl of Sakurasou:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/297834
