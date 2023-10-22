@@ -5225,3 +5225,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/64788
       4:
         url_poster: https://theposterdb.com/api/assets/64789
+
+  The Apothecary Diaries:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/344441
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/344442
