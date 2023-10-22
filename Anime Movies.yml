@@ -24,13 +24,13 @@ collections:
     imdb_list: https://www.imdb.com/list/ls076439519/
     url_poster: https://theposterdb.com/api/assets/325047
     
-  Vampire Hunter D Collection:
+  Vampire Hunter D:
     template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
-  Dragon Ball Collection:
+  Dragon Ball:
     template: {name: Collection, movie: "39324, 39323", poster: https://theposterdb.com/api/assets/168842}
-  Patlabor Collection:
+  Patlabor:
     template: {name: Collection, movie: "14571, 14572, 16402", poster: https://theposterdb.com/api/assets/2307}
-  Ghost in the Shell Collection:
+  Ghost in the Shell:
     template: {name: Collection, movie: "9323, 12140, 14092", poster: https://theposterdb.com/api/assets/175259}
 
 metadata:
