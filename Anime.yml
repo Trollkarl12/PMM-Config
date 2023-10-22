@@ -72,7 +72,7 @@ collections:
     template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
   Baki:
     template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297, background: }
-  Steins;Gate The Complete Series:
+  Steins;Gate:
     template: {name: Collection, show: "244061, 339268", poster: https://theposterdb.com/api/assets/131696, background: }
   Legend of the Galactic Heroes:
     template: {name: Collection, show: "81618, 268996, 343237", poster: https://theposterdb.com/api/assets/315344, background: }
