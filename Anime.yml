@@ -4909,3 +4909,25 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/393048
       2:
         url_poster: https://theposterdb.com/api/assets/393049
+
+  Gate:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/129974
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/129975
+
+  Gatchaman Crowds:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/407272
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/407273
+      1:
+        url_poster: https://theposterdb.com/api/assets/407274
+      2:
+        url_poster: https://theposterdb.com/api/assets/407275
+
+  Penguindrum:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/240975
