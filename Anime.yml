@@ -4983,3 +4983,12 @@ metadata:
   The Pet Girl of Sakurasou:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/297834
+
+  The Promised Neverland:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/121313
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/121314
+      2:
+        url_poster: https://theposterdb.com/api/assets/121315
