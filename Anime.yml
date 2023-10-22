@@ -2398,7 +2398,22 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/392177
- 
+
+  Hunter × Hunter:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/335019
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/335020
+      1:
+        url_poster: https://theposterdb.com/api/assets/335021
+      2:
+        url_poster: https://theposterdb.com/api/assets/335022
+      3:
+        url_poster: https://theposterdb.com/api/assets/335023
+      4:
+        url_poster: https://theposterdb.com/api/assets/335024
+
   Hunter x Hunter:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/335025
