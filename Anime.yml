@@ -5283,3 +5283,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/286484
       2:
         url_poster: https://theposterdb.com/api/assets/286485
+
+  "Wolf's Rain":
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/181180
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/181181
+      1:
+        url_poster: https://theposterdb.com/api/assets/181182
