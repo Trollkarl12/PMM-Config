@@ -5095,3 +5095,64 @@ metadata:
   Little Witch Academia:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/236255
+
+  Chaika - The Coffin Princess:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/328238
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/328333
+      1:
+        url_poster: https://theposterdb.com/api/assets/328239
+      2:
+        url_poster: https://theposterdb.com/api/assets/328240
+
+  Btooom!:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/75265
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/75266
+
+  The Future Diary:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/406951
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/406952
+      1:
+        url_poster: https://theposterdb.com/api/assets/406953
+
+  Katanagatari:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/159066
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/159067
+
+  Devilman Crybaby:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/288482
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/288483
+
+  The Melancholy of Haruhi Suzumiya:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/233839
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/233840
+      1:
+        url_poster: https://theposterdb.com/api/assets/233841
+      2:
+        url_poster: https://theposterdb.com/api/assets/233842
+
+  Hyouka:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/392208
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/392209
+      1:
+        url_poster: https://theposterdb.com/api/assets/392210
