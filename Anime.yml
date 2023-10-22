@@ -5309,3 +5309,12 @@ metadata:
   Desert Punk:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/245217
+
+  "I Can't Understand What My Husband Is Saying":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/104262
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/104263
+      1:
+        url_poster: https://theposterdb.com/api/assets/104264
