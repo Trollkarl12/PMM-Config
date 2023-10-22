@@ -5272,3 +5272,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/422331
+
+  Rage of Bahamut:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/286482
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/286483
+      1:
+        url_poster: https://theposterdb.com/api/assets/286484
+      2:
+        url_poster: https://theposterdb.com/api/assets/286485
