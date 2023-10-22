@@ -5156,3 +5156,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/392209
       1:
         url_poster: https://theposterdb.com/api/assets/392210
+
+  Durarara!!:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/135914
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/135915
+      1:
+        url_poster: https://theposterdb.com/api/assets/135916
+      2:
+        url_poster: https://theposterdb.com/api/assets/135917
