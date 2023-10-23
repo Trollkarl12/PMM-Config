@@ -5349,3 +5349,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/180573
       1:
         url_poster: https://theposterdb.com/api/assets/180574
+
+  Alice in Borderland:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/262045
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/262046
