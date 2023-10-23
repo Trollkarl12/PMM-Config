@@ -5340,3 +5340,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/337606
       1:
         url_poster: https://theposterdb.com/api/assets/337607
+
+  Trigun:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/180572
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/180573
+      1:
+        url_poster: https://theposterdb.com/api/assets/180574
