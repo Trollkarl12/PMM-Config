@@ -5314,7 +5314,20 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/104262
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/104263
       1:
+        url_poster: https://theposterdb.com/api/assets/104263
+      2:
         url_poster: https://theposterdb.com/api/assets/104264
+
+  A Certain Scientific Railgun:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/184041
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/184042
+      1:
+        url_poster: https://theposterdb.com/api/assets/184043
+      2:
+        url_poster: https://theposterdb.com/api/assets/184044
+      3:
+        url_poster: https://theposterdb.com/api/assets/184045
