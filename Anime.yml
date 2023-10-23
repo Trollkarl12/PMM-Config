@@ -944,10 +944,12 @@ metadata:
 
   Black Bullet:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/151088
+    url_poster: https://theposterdb.com/api/assets/422865
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/422866
       1:
-        url_poster: https://theposterdb.com/api/assets/151089
+        url_poster: https://theposterdb.com/api/assets/422867
 
   Black Clover:
     year: 2017
