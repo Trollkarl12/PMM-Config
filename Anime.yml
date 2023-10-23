@@ -5397,3 +5397,28 @@ metadata:
   Rave Master:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/240972
+
+  REBORN!:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/160231
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/160232
+      1:
+        url_poster: https://theposterdb.com/api/assets/160233
+      2:
+        url_poster: https://theposterdb.com/api/assets/160234
+      3:
+        url_poster: https://theposterdb.com/api/assets/160235
+      4:
+        url_poster: https://theposterdb.com/api/assets/160236
+      5:
+        url_poster: https://theposterdb.com/api/assets/160237
+      6:
+        url_poster: https://theposterdb.com/api/assets/160238
+      7:
+        url_poster: https://theposterdb.com/api/assets/160239
+      8:
+        url_poster: https://theposterdb.com/api/assets/160240
+      9:
+        url_poster: https://theposterdb.com/api/assets/160241
