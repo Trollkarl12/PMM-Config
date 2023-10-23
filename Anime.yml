@@ -5356,3 +5356,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/262046
+
+  The Familiar of Zero:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/321185
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/321186
+      1:
+        url_poster: https://theposterdb.com/api/assets/321187
+      2:
+        url_poster: https://theposterdb.com/api/assets/321188
+      3:
+        url_poster: https://theposterdb.com/api/assets/321189
+      4:
+        url_poster: https://theposterdb.com/api/assets/321190
