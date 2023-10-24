@@ -5422,3 +5422,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/160240
       9:
         url_poster: https://theposterdb.com/api/assets/160241
+
+  Samurai Girls:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/348188
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/348189
+      1:
+        url_poster: https://theposterdb.com/api/assets/348190
+      2:
+        url_poster: https://theposterdb.com/api/assets/348191
