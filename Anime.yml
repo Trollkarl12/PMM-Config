@@ -1585,7 +1585,10 @@ metadata:
 
   The Day I Became a God:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/105538
+    url_poster: https://theposterdb.com/api/assets/423883
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/423884
 
   Dead Mount Death Play:
     year: 2023
@@ -1953,20 +1956,20 @@ metadata:
 
   Food Wars! Shokugeki no Soma:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/130007
+    url_poster: https://theposterdb.com/api/assets/424034
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/130008
+        url_poster: https://theposterdb.com/api/assets/423952
       1:
-        url_poster: https://theposterdb.com/api/assets/130009
+        url_poster: https://theposterdb.com/api/assets/423953
       2:
-        url_poster: https://theposterdb.com/api/assets/130010
+        url_poster: https://theposterdb.com/api/assets/423954
       3:
-        url_poster: https://theposterdb.com/api/assets/130011
+        url_poster: https://theposterdb.com/api/assets/423955
       4:
-        url_poster: https://theposterdb.com/api/assets/130012
+        url_poster: https://theposterdb.com/api/assets/423956
       5:
-        url_poster: https://theposterdb.com/api/assets/130013
+        url_poster: https://theposterdb.com/api/assets/423957
 
   Free!:
     year: 2013
@@ -4955,10 +4958,12 @@ metadata:
 
   Gosick:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/403041
+    url_poster: https://theposterdb.com/api/assets/423911
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/423912
       1:
-        url_poster: https://theposterdb.com/api/assets/403042
+        url_poster: https://theposterdb.com/api/assets/423913
 
   "Haganai: I Don't Have Many Friends":
     year: 2011
@@ -5433,3 +5438,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/348190
       2:
         url_poster: https://theposterdb.com/api/assets/348191
+
+  Yamada-kun and the Seven Witches (2015):
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/424016
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/424017
+      1:
+        url_poster: https://theposterdb.com/api/assets/424018
+
+  Somali and the Forest Spirit:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/75934
