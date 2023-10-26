@@ -2820,16 +2820,18 @@ metadata:
 
   Kingdom:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/157130
+    url_poster: https://theposterdb.com/api/assets/424493
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/157131
+        url_poster: https://theposterdb.com/api/assets/424494
       2:
-        url_poster: https://theposterdb.com/api/assets/157132
+        url_poster: https://theposterdb.com/api/assets/424495
       3:
-        url_poster: https://theposterdb.com/api/assets/157133
+        url_poster: https://theposterdb.com/api/assets/424499
       4:
-        url_poster: https://theposterdb.com/api/assets/226427
+        url_poster: https://theposterdb.com/api/assets/424500
+      5:
+        url_poster: https://theposterdb.com/api/assets/424501
 
   KissXsis:
     year: 2010
@@ -5302,7 +5304,7 @@ metadata:
 
   Quanzhi Fashi:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/146528
+    url_poster: https://theposterdb.com/api/assets/424525
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146529
@@ -5455,3 +5457,10 @@ metadata:
   "Kenichi: The Mightiest Disciple":
     year: 2006
     url_poster: https://theposterdb.com/api/assets/250274
+
+  Raven of the Inner Palace:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/271679
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/271680
