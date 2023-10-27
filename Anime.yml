@@ -5478,3 +5478,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/322318
+
+  The Vampire Dies in No Time:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/310012
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/310013
+      2:
+        url_poster: https://theposterdb.com/api/assets/310014
