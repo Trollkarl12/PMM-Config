@@ -5494,3 +5494,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/424503
+
+  "Maoyu: Archenemy & Hero":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/424732
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/424734
+      1:
+        url_poster: https://theposterdb.com/api/assets/424733
