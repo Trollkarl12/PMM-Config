@@ -5487,3 +5487,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/310013
       2:
         url_poster: https://theposterdb.com/api/assets/310014
+
+  Blades of the Guardians:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/424502
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/424503
