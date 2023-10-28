@@ -5503,3 +5503,35 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/424734
       1:
         url_poster: https://theposterdb.com/api/assets/424733
+
+  Plastic Elder Sister:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/392781
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/392782
+
+  Afro Samurai:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/160888
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/160889
+      1:
+        url_poster: https://theposterdb.com/api/assets/160890
+
+  Black Rock Shooter:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/323253
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323254
+      1:
+        url_poster: https://theposterdb.com/api/assets/323255
+
+  Gungrave:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/319060
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/319061
