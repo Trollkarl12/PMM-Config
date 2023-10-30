@@ -5558,3 +5558,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/310033
       1:
         url_poster: https://theposterdb.com/api/assets/310034
+
+  Blue Period:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/230858
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/230859
