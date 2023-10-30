@@ -5549,3 +5549,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/323257
+
+  Dusk Maiden of Amnesia:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/310032
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/310033
+      1:
+        url_poster: https://theposterdb.com/api/assets/310034
