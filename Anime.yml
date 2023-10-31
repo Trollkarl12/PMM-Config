@@ -5565,3 +5565,25 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/230859
+
+  "Sankarea: Undying Love":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/186341
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/186342
+      1:
+        url_poster: https://theposterdb.com/api/assets/186343
+
+  Shomin Sample:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/342443
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/342444
+      1:
+        url_poster: https://theposterdb.com/api/assets/342445
+
+  Kamisama Kiss:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/107098
