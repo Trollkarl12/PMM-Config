@@ -5587,3 +5587,31 @@ metadata:
   Kamisama Kiss:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/107098
+
+  Tsukigakirei:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/390329
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/390330
+
+  My Bride is a Mermaid:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/253862
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/253863
+
+  Aria the Scarlet Ammo AA:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/316917
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/316918
+
+  Chrome Shelled Regios:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/424980
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/424981
