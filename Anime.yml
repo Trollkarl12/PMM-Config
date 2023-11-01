@@ -5615,3 +5615,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/424981
+
+  Aria the Scarlet Ammo:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/316914
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/316915
+      1:
+        url_poster: https://theposterdb.com/api/assets/316916
