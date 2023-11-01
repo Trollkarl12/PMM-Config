@@ -1225,6 +1225,10 @@ collections:
   The Last Kingdom:
     template: {name: Collection, movie: 948713, poster: https://theposterdb.com/api/assets/350790}
     summary: England, 872. A Saxon man, raised by Danes, must choose a side and play his part in the birth of a nation, alongside the man who would become known as King Alfred the Great.
+  DC Extended Universe:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls077827588/
+    url_poster: https://theposterdb.com/api/assets/40928
 
 ######################################################
 #              Movie Metadata                        #
@@ -2669,52 +2673,58 @@ metadata:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/128288
 
-  # DCEU - https://theposterdb.com/set/3146
+  # DCEU - https://theposterdb.com/set/25189
   Man of Steel:
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/7651
+    url_poster: https://theposterdb.com/api/assets/40929
   "Batman v Superman: Dawn of Justice":
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/7652
+    url_poster: https://theposterdb.com/api/assets/40930
   "Batman: The Long Halloween, Part Two":
     url_poster: https://theposterdb.com/api/assets/172875
   "Batman: The Long Halloween, Part One":
     url_poster: https://theposterdb.com/api/assets/172874
   Suicide Squad:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/7653
+    url_poster: https://theposterdb.com/api/assets/40931
   Wonder Woman:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/7654
+    url_poster: https://theposterdb.com/api/assets/40932
   Justice League:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/7655
+    url_poster: https://theposterdb.com/api/assets/40933
   Aquaman:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/7656
+    url_poster: https://theposterdb.com/api/assets/40934
   Shazam!:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/7657
+    url_poster: https://theposterdb.com/api/assets/40935
   Joker:
-    url_poster: https://theposterdb.com/api/assets/79254
+    url_poster: https://theposterdb.com/api/assets/44008
   Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn):
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/47803
+    url_poster: https://theposterdb.com/api/assets/72575
   Wonder Woman 1984:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/58528
+    url_poster: https://theposterdb.com/api/assets/167987
   Zack Snyder's Justice League:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/139248
+    url_poster: https://theposterdb.com/api/assets/139179
   The Suicide Squad:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/167747
+    url_poster: https://theposterdb.com/api/assets/167990
   The Batman:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/99682
+    url_poster: https://theposterdb.com/api/assets/210624
   Black Adam:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/286150  
+    url_poster: https://theposterdb.com/api/assets/348372
+  Shazam! Fury of the Gods:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/348385
+  The Flash:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/354123
 
   # Dead or Alive
   Dead or Alive:
