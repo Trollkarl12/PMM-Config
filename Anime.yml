@@ -5635,3 +5635,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/248871
       2:
         url_poster: https://theposterdb.com/api/assets/248872
+
+  Punch Line:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/427144
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/427145
