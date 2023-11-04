@@ -5642,3 +5642,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/427145
+
+  Laid-Back Camp:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/295767
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/295768
+      1:
+        url_poster: https://theposterdb.com/api/assets/295769
+      2:
+        url_poster: https://theposterdb.com/api/assets/295770
