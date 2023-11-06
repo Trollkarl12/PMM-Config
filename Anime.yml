@@ -2809,14 +2809,16 @@ metadata:
 
   "The King's Avatar":
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/109053
+    url_poster: https://theposterdb.com/api/assets/428092
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/109054
+        url_poster: https://theposterdb.com/api/assets/428093
       1:
-        url_poster: https://theposterdb.com/api/assets/109055
+        url_poster: https://theposterdb.com/api/assets/428094
       2:
-        url_poster: https://theposterdb.com/api/assets/109056
+        url_poster: https://theposterdb.com/api/assets/428095
+      3:
+        url_poster: https://theposterdb.com/api/assets/428096
 
   Kingdom:
     year: 2012
