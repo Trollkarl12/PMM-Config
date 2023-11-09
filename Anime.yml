@@ -5677,3 +5677,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/335394
+
+  March Comes in Like a Lion:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/247633
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/247634
+      1:
+        url_poster: https://theposterdb.com/api/assets/247635
+      2:
+        url_poster: https://theposterdb.com/api/assets/247636
