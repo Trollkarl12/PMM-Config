@@ -5807,3 +5807,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/340439
       2:
         url_poster: https://theposterdb.com/api/assets/340441
+
+  Chobits:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/172011
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/172012
+      1:
+        url_poster: https://theposterdb.com/api/assets/172013
