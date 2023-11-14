@@ -5816,3 +5816,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/172012
       1:
         url_poster: https://theposterdb.com/api/assets/172013
+
+  Deltora Quest:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/335637
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/335638
