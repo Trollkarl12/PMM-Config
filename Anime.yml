@@ -5752,3 +5752,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/419402
+
+  Another:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/318569
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/318570
+      1:
+        url_poster: https://theposterdb.com/api/assets/318571
+
+  "Kino's Journey":
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/107784
+
+  Aoharu x Machinegun:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/307562
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/307563
