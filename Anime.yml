@@ -5772,3 +5772,38 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/307563
+
+  Broken Blade:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/176744
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/176745
+      1:
+        url_poster: https://theposterdb.com/api/assets/176746
+
+  "Anti-Magic Academy: The 35th Test Platoon":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/242315
+
+  A.I.C.O. -Incarnation-:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/249852
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/249853
+
+  "Karin: Chibi Vampire":
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/304989
+
+  Seitokai Yakuindomo:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/340438
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/340440
+      1:
+        url_poster: https://theposterdb.com/api/assets/340439
+      2:
+        url_poster: https://theposterdb.com/api/assets/340441
