@@ -5836,3 +5836,51 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/126198
       2:
         url_poster: https://theposterdb.com/api/assets/126199
+
+  FLCL:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/404515
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/404516
+      1:
+        url_poster: https://theposterdb.com/api/assets/404517
+      2:
+        url_poster: https://theposterdb.com/api/assets/404518
+      3:
+        url_poster: https://theposterdb.com/api/assets/404519
+      4:
+        url_poster: https://theposterdb.com/api/assets/407950
+      5:
+        url_poster: https://theposterdb.com/api/assets/407978
+
+  Spriggan:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/176337
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/176338
+
+  Kyo Kara Maoh!:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/390617
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/396385
+      1:
+        url_poster: https://theposterdb.com/api/assets/390618
+      2:
+        url_poster: https://theposterdb.com/api/assets/396386
+      3:
+        url_poster: https://theposterdb.com/api/assets/396387
+
+  Eureka Seven:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/348044
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/348045
+      1:
+        url_poster: https://theposterdb.com/api/assets/348046
+      2:
+        url_poster: https://theposterdb.com/api/assets/348047
