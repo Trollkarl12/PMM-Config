@@ -5926,3 +5926,10 @@ metadata:
   Panty & Stocking with Garterbelt:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/181868
+
+  Samurai 7:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/186339
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/186340
