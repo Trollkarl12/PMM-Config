@@ -521,10 +521,12 @@ metadata:
 
   Classroom for Heroes:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/344173
+    url_poster: https://theposterdb.com/api/assets/432003
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/432004
       1:
-        url_poster: https://theposterdb.com/api/assets/344174
+        url_poster: https://theposterdb.com/api/assets/432005
 
   "Cross Ange: Rondo of Angels and Dragons":
     year: 2014
@@ -3171,6 +3173,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/376947
       1:
         url_poster: https://theposterdb.com/api/assets/345334
+      2:
+        url_poster: https://theposterdb.com/api/assets/432404
 
   MEGALOBOX:
     year: 2018
@@ -5933,3 +5937,45 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/186340
+
+  Non Non Biyori:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/431958
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/431959
+      1:
+        url_poster: https://theposterdb.com/api/assets/431960
+      2:
+        url_poster: https://theposterdb.com/api/assets/431961
+      3:
+        url_poster: https://theposterdb.com/api/assets/431962
+
+  Sekirei:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/186348
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/186349
+      1:
+        url_poster: https://theposterdb.com/api/assets/186350
+      2:
+        url_poster: https://theposterdb.com/api/assets/186351
+
+  Tears to Tiara:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/378669
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/191204
+      1:
+        url_poster: https://theposterdb.com/api/assets/191203
+
+  "STAR DRIVER: Takuto of the Radiance":
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/247286
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/424223
+      1:
+        url_poster: https://theposterdb.com/api/assets/247287
