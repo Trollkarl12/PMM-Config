@@ -5979,3 +5979,40 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/424223
       1:
         url_poster: https://theposterdb.com/api/assets/247287
+
+  Dies Irae:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/119105
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/119106
+      1:
+        url_poster: https://theposterdb.com/api/assets/119107
+
+  "Fafner in the Azure: Dead Aggressor":
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/336212
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/336213
+      1:
+        url_poster: https://theposterdb.com/api/assets/336217
+      2:
+        url_poster: https://theposterdb.com/api/assets/336218
+      3:
+        url_poster: https://theposterdb.com/api/assets/336219
+
+  Minami-ke:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/279591
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/282304
+      1:
+        url_poster: https://theposterdb.com/api/assets/279592
+      2:
+        url_poster: https://theposterdb.com/api/assets/282305
+      3:
+        url_poster: https://theposterdb.com/api/assets/282306
+      4:
+        url_poster: https://theposterdb.com/api/assets/282307
