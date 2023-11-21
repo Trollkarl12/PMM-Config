@@ -125,6 +125,32 @@ metadata:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/126832
 
+  #Makoto Shinkai
+  Suzume:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/433625
+  Weathering with You:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/433695
+  Your Name.:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/433635
+  The Garden of Words:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/433636
+  Children Who Chase Lost Voices:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/433623
+  5 Centimeters per Second:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/433622
+  The Place Promised in Our Early Days:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/433638
+  Voices of a Distant Star:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/433624
+
   Promare:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/69148
@@ -185,33 +211,9 @@ metadata:
   Night Is Short, Walk On Girl:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/252488
-
-  #Makoto Shinkai
-  Suzume:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/433625
-  Weathering with You:
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/433695
-  Your Name.:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/433635
-  The Garden of Words:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/433636
-  Children Who Chase Lost Voices:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/433623
-  5 Centimeters per Second:
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/433622
-  The Place Promised in Our Early Days:
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/433638
-  Voices of a Distant Star:
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/433624
-
   Spriggan:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/176336
+  Flavors of Youth:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/434155
