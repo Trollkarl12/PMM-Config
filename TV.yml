@@ -112,28 +112,20 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/17302
-        summary: Special episodes from Marvel's Agents of SHIELD.
       1:
         url_poster: https://theposterdb.com/api/assets/87636
-        summary: The first season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows Phil Coulson and his team of S.H.I.E.L.D. agents on several dangerous cases revolving around Project Centipede and Coulson's mysterious resurrection following his death in the film The Avengers (2012).
       2:
         url_poster: https://theposterdb.com/api/assets/87637
-        summary: The second season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows Phil Coulson and his team of S.H.I.E.L.D. agents and allies as they attempt to rebuild the organization after it was revealed to have been infiltrated by Hydra in the film Captain America The Winter Soldier (2014).
       3:
         url_poster: https://theposterdb.com/api/assets/87638
-        summary: The third season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows Phil Coulson and his team of S.H.I.E.L.D. agents and Inhumans as they face new threats to the world.
       4:
         url_poster: https://theposterdb.com/api/assets/87639
-        summary: The fourth season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows Phil Coulson and other S.H.I.E.L.D. agents and allies after the signing of the Sokovia Accords.
       5:
         url_poster: https://theposterdb.com/api/assets/87640
-        summary: The fifth season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows Phil Coulson and other S.H.I.E.L.D. agents and allies as they try to save the world from an apocalyptic future.
       6:
         url_poster: https://theposterdb.com/api/assets/87641
-        summary: The sixth season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows S.H.I.E.L.D. agents and allies as they try to save humanity following the death of director Phil Coulson.
       7:
         url_poster: https://theposterdb.com/api/assets/87642
-        summary: The seventh and final season of the American television series Agents of S.H.I.E.L.D., based on the Marvel Comics organization S.H.I.E.L.D., follows S.H.I.E.L.D. agents and allies as they try to prevent an alien occupation while stranded in time. he season uses time travel to explore the history of S.H.I.E.L.D., and to tie up threads left by previous seasons.
 
   Marvel's Agent Carter:
     year: 2015
@@ -141,10 +133,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145237
-        summary: The first season of the American television series Agent Carter, which is inspired by the film Captain America The First Avenger and the Marvel One-Shot short film of the same name, features the character Peggy Carter, based on the Marvel Comics character of the same name, as she must balance doing administrative work and going on secret missions for Howard Stark while trying to navigate life as a single woman in 1940s America.
       2:
         url_poster: https://theposterdb.com/api/assets/145238
-        summary: The second and final season of the American television series Agent Carter, which is inspired by the 2011 film Captain America The First Avenger and the 2013 Marvel One-Shot short film of the same name, features the character Peggy Carter, based on the Marvel Comics character of the same name, as she moves to Los Angeles to deal with the threats of the new atomic age in the wake of World War II, gaining new friends, a new home, and potential new love.
 
   Marvel's Daredevil:
     year: 2015
@@ -152,13 +142,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146525
-        summary: The first season of the American streaming television series Daredevil, which is based on the Marvel Comics character of the same name, follows the early days of Matt Murdock / Daredevil, a lawyer-by-day who fights crime at night, juxtaposed with the rise of crime lord Wilson Fisk.
       2:
         url_poster: https://theposterdb.com/api/assets/146526
-        summary: The second season of the American streaming television series Daredevil, which is based on the Marvel Comics character of the same name, follows Matt Murdock / Daredevil, a blind lawyer-by-day who fights crime at night, crossing paths with the deadly Frank Castle / Punisher along with the return of an old girlfriend—Elektra Natchios.
       3:
         url_poster: https://theposterdb.com/api/assets/146527
-        summary: The third and final season of the American streaming television series Daredevil, which is based on the Marvel Comics character of the same name, follows Matt Murdock / Daredevil, a blind lawyer-by-day who fights crime at night. When Wilson Fisk is released from prison, Murdock must decide between hiding from the world or embracing his life as a hero vigilante.
 
   Marvel's Jessica Jones:
     year: 2015
@@ -166,13 +153,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146670
-        summary: The first season of the American streaming television series Jessica Jones, which is based on the Marvel Comics character of the same name, follows a former superhero who opens her own detective agency after her superhero career comes to an end at the hands of Kilgrave.
       2:
         url_poster: https://theposterdb.com/api/assets/146671
-        summary: The second season of the American streaming television series Jessica Jones, which is based on the Marvel Comics character of the same name, follows Jones as she takes on a new case after the events surrounding her encounter with Kilgrave.
       3:
         url_poster: https://theposterdb.com/api/assets/146672
-        summary: The third and final season of the American streaming television series Jessica Jones, which is based on the Marvel Comics character of the same name, follows Jones as she teams up with Trish Walker to take down a highly intelligent psychopath until a devastating loss reveals conflicting ideals that pits them against each other.
 
   Marvel's Luke Cage:
     year: 2016
@@ -180,10 +164,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146780
-        summary: The first season of the American streaming television series Luke Cage, which is based on the Marvel Comics character of the same name, follows a former convict with superhuman strength and unbreakable skin who fights crime in Harlem, New York.
       2:
         url_poster: https://theposterdb.com/api/assets/146781
-        summary: The second and final season of the American streaming television series Luke Cage, which is based on the Marvel Comics character of the same name, sees Cage become a hero and celebrity in Harlem after clearing his name, only to face a new threat.
 
   Marvel's Iron Fist:
     year: 2017
@@ -191,10 +173,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146796
-        summary: The first season of the American streaming television series Iron Fist, which is based on the Marvel Comics character of the same name, follows Danny Rand as he returns to New York City after being presumed dead for 15 years and must choose between his family's legacy and his duties as the Iron Fist.
       2:
         url_poster: https://theposterdb.com/api/assets/146797
-        summary: The second and final season of the American streaming television series Iron Fist, which is based on the Marvel Comics character of the same name, follows Danny Rand / Iron Fist, a martial arts expert with the ability to call upon the power of the Iron Fist.
 
   Marvel's The Defenders:
     year: 2017
@@ -202,7 +182,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/149158
-        summary: Marvel's The Defenders is an American television miniseries created by Douglas Petrie and Marco Ramirez for the streaming service Netflix, based on the Marvel Comics characters Daredevil, Jessica Jones, Luke Cage, and Iron Fist, who form the eponymous superhero team.
 
   Marvel's The Punisher:
     year: 2017
@@ -210,10 +189,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146925
-        summary: The first season of the American streaming television series The Punisher, which is based on the Marvel Comics character of the same name, sees Frank Castle uncover a conspiracy while seeking revenge for the death of his family.
       2:
         url_poster: https://theposterdb.com/api/assets/146926
-        summary: The second and final season of the American streaming television series The Punisher, which is based on the Marvel Comics character of the same name, revolves around Frank Castle saving a girl from being murdered, forcing him to decide if he should embrace his life as the Punisher.
 
   Marvel's Inhumans:
     year: 2017
@@ -221,7 +198,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146519
-        summary: Marvel's Inhumans, or simply Inhumans, is an American television series created by Scott Buck for ABC, based on the Marvel Comics race of the same name.
 
   Marvel's Runaways:
     year: 2017
@@ -229,13 +205,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144040
-        summary: Marvel's Runaways, or simply Runaways, is an American television series created by Josh Schwartz and Stephanie Savage for the streaming service Hulu, based on the Marvel Comics superhero team of the same name.
       2:
         url_poster: https://theposterdb.com/api/assets/144041
-        summary: Marvel's Runaways, or simply Runaways, is an American television series created by Josh Schwartz and Stephanie Savage for the streaming service Hulu, based on the Marvel Comics superhero team of the same name.
       3:
         url_poster: https://theposterdb.com/api/assets/144042
-        summary: Marvel's Runaways, or simply Runaways, is an American television series created by Josh Schwartz and Stephanie Savage for the streaming service Hulu, based on the Marvel Comics superhero team of the same name.
 
   Marvel's Cloak & Dagger:
     year: 2018
@@ -243,10 +216,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144048
-        summary: The first season of the American cable television series Cloak & Dagger, based on the Marvel Comics characters of the same name, sees teenagers Tandy Bowen / Dagger and Tyrone Johnson / Cloak discover their powers and learn that they work better together.
       2:
         url_poster: https://theposterdb.com/api/assets/144049
-        summary: The second and final season of the American cable television series Cloak & Dagger, based on the Marvel Comics characters of the same name, sees Tandy Bowen / Dagger and Tyrone Johnson / Cloak use their superpowers together.
 
   Helstrom:
     year: 2020
@@ -254,7 +225,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/105794
-        summary: Helstrom is an American television series created by Paul Zbyszewski for the streaming service Hulu, based on the Marvel Comics characters Daimon and Satana Hellstrom.
 
   WandaVision:
     year: 2021
@@ -262,7 +232,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145245
-        summary: WandaVision is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise and taking place after the events of the film Avengers Endgame (2019).
 
   The Falcon and The Winter Soldier:
     year: 2021
@@ -270,7 +239,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144091
-        summary: The Falcon and the Winter Soldier is an American television miniseries created by Malcolm Spellman for the streaming service Disney+, based on Marvel Comics featuring the characters Sam Wilson / Falcon and Bucky Barnes / Winter Soldier.
 
   Loki:
     year: 2021
@@ -278,39 +246,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/152227
-        summary: After stealing the Tesseract during the events of Avengers Endgame (2019), an alternate version of Loki is brought to the mysterious Time Variance Authority (TVA), a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice face being erased from existence due to being a "time variant", or help fix the timeline and stop a greater threat. Loki ends up trapped in his own crime thriller, traveling through time.
       2:
         url_poster: https://theposterdb.com/api/assets/174417
-        summary: TBA
-
-  What If...?:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/169286
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/169287
-        summary: Following the creation of the multiverse in the season one finale of Loki, What If...? explores various alternate timelines of the multiverse in which major moments from the Marvel Cinematic Universe (MCU) films occur differently, as observed by the Watcher. In the second season, following the formation of the Guardians of the Multiverse, the Watcher continues to explore more strange worlds, meeting new heroes and keeping the multiverse safe.
-
-  Marvel's M.O.D.O.K.:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/153413
-    seasons:
-      1:
-        summary: After spending years failing to gain control of the world and battling superheroes along the way, M.O.D.O.K., having been removed from his company A.I.M. after it falls into bankruptcy and is sold to the rival evil corporation GRUMBL (Just Be Evil), begins to deal with his taunting family while facing a mid-life crisis.
-
-  Marvel's Hit-Monkey:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/193103
-    seasons:
-      1:
-        summary: Hit-Monkey is a wronged Japanese macaque who is mentored by the ghost of an American assassin named Bryce Fowler as he damages Tokyo's crime underworld.
-
-  Marvel's 616:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/177215
-    seasons:
-      1:
-        summary: Marvel's 616 portrays eight amazing stories illustrating some of the most interesting and unknown pockets of the Marvel Universe. It also explores the universe's "rich legacy of pioneering characters, creators, and storytelling to reflect the world outside your window."
 
   Moon Knight:
     year: 2022
@@ -347,450 +284,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/191856
 
-  South Park:
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/36001
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/36002
-      1:
-        url_poster: https://theposterdb.com/api/assets/36003
-      2:
-        url_poster: https://theposterdb.com/api/assets/36004
-      3:
-        url_poster: https://theposterdb.com/api/assets/36005
-      4:
-        url_poster: https://theposterdb.com/api/assets/36006
-      5:
-        url_poster: https://theposterdb.com/api/assets/36007
-      6:
-        url_poster: https://theposterdb.com/api/assets/36008
-      7:
-        url_poster: https://theposterdb.com/api/assets/36009
-      8:
-        url_poster: https://theposterdb.com/api/assets/36010
-      9:
-        url_poster: https://theposterdb.com/api/assets/36011
-      10:
-        url_poster: https://theposterdb.com/api/assets/36012
-      11:
-        url_poster: https://theposterdb.com/api/assets/36013
-      12:
-        url_poster: https://theposterdb.com/api/assets/36014
-      13:
-        url_poster: https://theposterdb.com/api/assets/36015
-      14:
-        url_poster: https://theposterdb.com/api/assets/36016
-      15:
-        url_poster: https://theposterdb.com/api/assets/36017
-      16:
-        url_poster: https://theposterdb.com/api/assets/36018
-      17:
-        url_poster: https://theposterdb.com/api/assets/36019
-      18:
-        url_poster: https://theposterdb.com/api/assets/36020
-      19:
-        url_poster: https://theposterdb.com/api/assets/36021
-      20:
-        url_poster: https://theposterdb.com/api/assets/36022
-      21:
-        url_poster: https://theposterdb.com/api/assets/36023
-      22:
-        url_poster: https://theposterdb.com/api/assets/36024
-      23:
-        url_poster: https://theposterdb.com/api/assets/36025
-      24:
-        url_poster: https://theposterdb.com/api/assets/105039
-      25:
-        url_poster: https://theposterdb.com/api/assets/209817
-      26:
-        url_poster: https://theposterdb.com/api/assets/319392
-
-  Star Trek:
-    year: 1966
-    url_poster: https://theposterdb.com/api/assets/70678
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70679
-        summary: The Starfleet vessel USS Enterprise sets out on a five-year mission to explore new worlds and seek out new lifeforms in the Alpha Quadrant of the Galaxy. Under the command of Human Captain James T. Kirk and the Vulcan Spock, the Enterprise comes across many strange lifeforms in the first year of its mission – including shapeshifters, androids, and even more bizarre creatures. Elsewhere, there are run-ins with several prominent species, including the warrior race of the Klingons, the Romulan Star Empire, and the Gorn.
-      2:
-        url_poster: https://theposterdb.com/api/assets/70680
-        summary: Following their introduction near the end of the previous season, the Klingons were established as major adversaries, appearing in three episodes, "Friday's Child", "The Trouble with Tribbles", and "A Private Little War". The second of those would turn out to be one of the show's most popular and influential episodes, introducing Koloth and the Tribbles, who reappeared on Deep Space 9, with other characters reappearing in the Star Trek The Animated Series episode "More Tribbles, More Troubles".
-      3:
-        url_poster: https://theposterdb.com/api/assets/70681
-        summary: With Star Trek having narrowly avoided cancellation, the basic format remained the same as Season 2. The season opened with "Spock's Brain", a story in which Kara, the priestess-leader of the underground Eymorg city, steals Spock's brain and transfers it to a receptacle so that he can rule their society.
-
-  "Star Trek: The Animated Series":
-    year: 1973
-    url_poster: https://theposterdb.com/api/assets/70880
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70881
-      2:
-        url_poster: https://theposterdb.com/api/assets/70882
-
-  "Star Trek: The Next Generation":
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/70709
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70710
-        summary: A hundred years after the era of James T. Kirk, Captain Jean-Luc Picard takes command of the Galaxy-class USS Enterprise-D with a hand-picked crew. They take on assignments from Starfleet as well as explore those strange new worlds, going where no one has gone before.
-      2:
-        url_poster: https://theposterdb.com/api/assets/70711
-        summary: Season 2 saw the departure of Dr. Beverly Crusher to head Starfleet Medical and her subsequent replacement by Dr. Katherine Pulaski. A number of stories focus on the development of Data, introducing him to his "grandfather," revealing his interest in Sherlock Holmes, determining his status as a living being, and revealing to him the moral implications of the Prime Directive. He also clashes several times with Dr. Pulaski, who does not initially regard him as a living being.
-      3:
-        url_poster: https://theposterdb.com/api/assets/70712
-        summary: Season 3 is marked by a string of abductions, with six people being kidnapped, and Captain Picard being abducted no less than three times. Captain Picard is abducted by aliens, takes a vacation which eventually gets him caught up in the search for a weapon from the future, mind melds with the legendary Vulcan Sarek, and is mistaken for a god by a primitive culture. He was again kidnapped with Doctor Crusher by Ansata terrorists. Data was abducted by Kivas Fajo, a collector of rare objects.
-      4:
-        url_poster: https://theposterdb.com/api/assets/70713
-        summary: Season 4 of TNG saw the show embracing the notion of serialized storylines. A recurring theme throughout the season is the notion of a brewing Duras-Romulan plot against the Federation, coupled with Worf's effort to reclaim his family honor. Both storylines were introduced in TNG Season 3's "Sins of the Father". Worf's discommendation is a major theme in "Family" and "The Drumhead", while his dishonor and the Duras-Romulan plot take center stage in the episodes "Reunion", "The Mind's Eye", and "Redemption".
-      5:
-        url_poster: https://theposterdb.com/api/assets/70714
-        summary: The fifth season of Next Generation starts off with the Federation exposing the secret Romulan-Duras plot explored in the previous season. ("Redemption II") Ensign Ro Laren joins the crew of the USS Enterprise-D, and although some members of the crew, notably Commander William T. Riker, have misgivings about her presence on board, she eventually proves herself to be a valuable crew member.
-      6:
-        url_poster: https://theposterdb.com/api/assets/70715
-        summary: The season begins with the successful rescue of Data from the nineteenth century, and we learn just how long Guinan has actually known Picard. The crew also took part in a variety of shady operations, the first of what would be many departures from Gene Roddenberry's more Utopian vision of the future. Picard is temporarily assigned away from the Enterprise for a dangerous espionage mission against the Cardassians, but is captured and subjected to torture, nearly succumbing before being released. Deanna Troi engaged in a similarly risky mission of espionage against the Romulans. The Enterprise also nearly became a victim of space pirates.
-      7:
-        url_poster: https://theposterdb.com/api/assets/70716
-        summary: The crew defeats Lore and his group of rogue Borg. Geordi La Forge struggles with the loss of his mother, while Data discovers his own. The captain foils a terrorist plot by Vulcan isolationists. It is discovered that warp drive damages subspace. William T. Riker is forced to choose between his loyalties to an old captain and Picard. Deanna Troi and Beverly Crusher learn long-kept family secrets. Worf meets a future version of Alexander Rozhenko, and both he and Deanna consider a romance. Wesley Crusher leaves Starfleet to study with The Traveler. Ro Laren defects to the Maquis. Q concludes his trial of Humanity, giving Picard an opportunity to save mankind.
-
-  "Star Trek: Deep Space Nine":
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/70892
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70893
-        summary: The Provisional Government of Bajor invites Starfleet to help them rebuild after the Cardassian Occupation. Commander Benjamin Sisko is selected to take command of their space station, formerly known as Terok Nor that is then designated by Starfleet as Deep Space 9. As part of the agreement between the Federation and Bajor, Starfleet will help them to become a member of the Federation.
-      2:
-        url_poster: https://theposterdb.com/api/assets/70894
-        summary: In their second year together, the crew of Deep Space 9 face problems that will affect the galaxy forever. A Bajoran extremist group attempts to force the Federation out of the Bajoran system. The Cardassians are secretly supplying them with weapons, hoping to return to reclaim the planet and hold the Bajoran wormhole for the Cardassian Union. However, the greatest enemy of all is lurking beyond it.
-      3:
-        url_poster: https://theposterdb.com/api/assets/70895
-        summary: Benjamin Sisko brings the USS Defiant, a ship he helped to construct at the Utopia Planitia Fleet Yards, to Deep Space 9 to protect the station from a Dominion attack. He and his crew enter the Gamma Quadrant on a mission to locate the Founders of the Dominion. During the same mission, Odo locates his people's homeworld in the Omarion Nebula. His joy at discovering others of his kind is short-lived, however, as the Changelings are discovered to be the Founders of the Dominion. Odo returns to DS9 with his crew mates.
-      4:
-        url_poster: https://theposterdb.com/api/assets/70896
-        summary: Life in the Alpha Quadrant has been uneasy since the revelation the Founders have infiltrated the Alpha Quadrant. Convinced the Dominion are behind a successful coup on Cardassia, Gowron orders a Klingon invasion of the Cardassian Union. When the Federation condemns the invasion, and Sisko protects the members of the Detapa Council, Gowron withdraws from the Khitomer Accords and attacks the station. Although the attack is unsuccessful, the Klingons refuse to give up the Cardassian colonies already seized. Consequently, Captain Benjamin Sisko asks Worf to join the crew of Deep Space 9.
-      5:
-        url_poster: https://theposterdb.com/api/assets/70897
-        summary: Sisko, Odo, O'Brien, and Worf are sent on a mission to expose Chancellor Gowron as a Changeling infiltrator, only to discover that it was Martok who had been replaced. The Changeling impersonating Martok is killed, but Gowron is still not ready to end the war with the Federation but does agree to call a cease fire and begin talks. The crew is able to capture a crashed Jem'Hadar ship and return it to Starfleet. Worf helps Quark woo his ex-wife Grilka, while he and Jadzia Dax start a relationship initiated by Dax.
-      6:
-        url_poster: https://theposterdb.com/api/assets/70898
-        summary: The season begins three months into the Dominion War, and things do not go well for the former crew of Deep Space 9. The crew enters Cardassian space to destroy a ketracel-white installation, Sisko leads a battle to reclaim DS9, O'Brien infiltrates the Orion Syndicate, the Romulans enter the Dominion War, and Jadzia Dax is killed by a pah-wraith-possessed Dukat. Many episodes in this season focus on moral issues in wartime, especially the hard choice between different calamities such as betrayal of principles, treason, and the deaths of dear or unknown people.
-      7:
-        url_poster: https://theposterdb.com/api/assets/70899
-        summary: Benjamin Sisko discovers his mother was a Prophet, a new Dax host arrives on Deep Space 9, Odo discovers that his people have been infected with a fatal disease and Julian Bashir undertakes an assignment for Section 31. Kai Winn turns on the Prophets, and with the assistance of Dukat summons the pah-wraiths. The Breen join the war and side with the Dominion. In the concluding episodes of the season (and the series), the Cardassian-Dominion alliance breaks down, Colonel Kira leads a Cardassian resistance movement involving Legate Damar and Elim Garak, and the alliance of Federation, Klingon, and Romulan forces claim victory in the Dominion War.
-
-  "Star Trek: Voyager":
-    year: 1995
-    url_poster: https://theposterdb.com/api/assets/70749
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70750
-        summary: Captain Kathryn Janeway's chief of security, Lieutenant Tuvok, has disappeared while involved in a counter-espionage mission aboard a Maquis ship, whose last known position was somewhere in the Badlands. While en route to investigate Tuvok's disappearance, the maiden voyage of the Federation starship USS Voyager ends in disaster as the ship and her crew are pulled seventy thousand light years into the far reaches of the Delta Quadrant.
-      2:
-        url_poster: https://theposterdb.com/api/assets/70751
-        summary: Recurrent themes of tension and mistrust between the Starfleet and Maquis crews, although largely resolved in the season one episode "Learning Curve", once again resurface in "Maneuvers" and "Meld". Inter-crew relations are brought to a head while under intense, continuous attack by the Kazon in "Alliances", and when Janeway is cajoled into initiating a Maquis-led idea of a deal between the USS Voyager and the warring Kazon factions, narrowly averted disaster is enough to quell the two crews into a marriage of Starfleet ideals and ethics.
-      3:
-        url_poster: https://theposterdb.com/api/assets/70752
-        summary: Season three begins with the departure of the Kazon. The Doctor gains freedom from sickbay in "Future's End", by way of an autonomous mobile emitter. The same episode also has Harry Kim taking command of Voyager for the first time when the four ranking bridge officers beam to 1996 Earth.
-      4:
-        url_poster: https://theposterdb.com/api/assets/70753
-        summary: Season four furthered and even embellished upon the changes to the franchise already seen by the middle to end of season three. "Scorpion, Part II" concluded the season three finale and—most crucially to the future of the series—introduced a new character, Seven of Nine. One episode later, Jennifer Lien left the cast and Kes departed Voyager, not to return until the season six episode "Fury".
-      5:
-        url_poster: https://theposterdb.com/api/assets/70754
-        summary: With Brannon Braga taking up the showrunner's role after Jeri Taylor's retirement, season five saw the franchise settle into what was to become a familiar pattern of story-telling following the changes made during the latter half of season three, and the tumultuous events of season four. A desire to return to Earth remained the Voyager crew's singular mission, but the themes of "family" and of Voyager as "home" introduced in seasons three and four meant that the series paradigm gently shifted in season five.
-      6:
-        url_poster: https://theposterdb.com/api/assets/70755
-        summary: Star Trek Voyager's sixth season was the first to be televised without running concurrently with seasons of Star Trek Deep Space Nine, and can be characterized as having the feel of being oddly disconnected from seasons four and five that preceded it. As a result, Voyager's season six could be said to have more in common with the story-telling of season one, being populated by numerous episodes with story lines wholly independent of each other and the greater series arc, which by this point, was very well established.
-      7:
-        url_poster: https://theposterdb.com/api/assets/70756
-        summary: A multitude of familiar aliens are revisited for a final shout including the Ferengi in "Inside Man", the Hirogen in "Flesh and Blood", the Klingons in "Prophecy", the Hierarchy in "The Void" and "Renaissance Man", the Q in "Q2", and the Talaxians in "Homestead".
-
-  "Star Trek: Enterprise":
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/70901
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70902
-        summary: In 2151, Humanity finally prepares to take its first steps into deep space by way of the prototype warp five starship Enterprise NX-01, led by Captain Jonathan Archer. Following an incident in which a lone Klingon courier crashes in Broken Bow, Oklahoma, Archer launches the ship from Earth spacedock in order to bring the Klingon home. He then takes Enterprise on a mission of exploration.
-      2:
-        url_poster: https://theposterdb.com/api/assets/70903
-        summary: The second season of Star Trek Enterprise sees less focus on the Temporal Cold War and the conflicts between Vulcan and Andoria. Instead, the season embraces a more episodic format than that of the previous year. However, some service is given to the aforementioned story arcs and a new one is introduced involving the Klingon Empire's attempts to capture and incarcerate Captain Archer. The biggest change to impact Enterprise occurs in the season finale, when an attack against Earth by the Xindi wipes out seven million people. Enterprise NX-01 is refitted and sent on a new mission to locate the Xindi and do everything possible to prevent a second attack.
-      3:
-        url_poster: https://theposterdb.com/api/assets/70904
-        summary: The third season of Star Trek Enterprise focuses on Enterprise NX-01's mission to prevent a second Xindi attack from destroying Earth. Unlike the show's second season, Enterprise's third season embraces a heavily serialized format dedicated to the search for the Xindi primary weapon. Additionally, Archer, Trip, and T'Pol receive considerable character development throughout the year.
-      4:
-        url_poster: https://theposterdb.com/api/assets/70905
-        summary: The fourth season of Star Trek Enterprise concludes the Temporal Cold War story arc that had been a staple of the series since "Broken Bow". The remaining episodes of season four refocus Enterprise on the series' original prequel concept by exploring cultural shifts on Vulcan; establishing the beginnings of conflict between Earth and the Romulans; explaining the difference in appearance between the Klingons of The Original Series and those of Star Trek The Next Generation; giving an insight into the mirror universe prior to any crossover with the prime universe; and exploring the obstacles Humanity must overcome before allying with alien species.
-
-  Star Trek Continues:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/70909
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70910
-        summary: Star Trek Continues is an American fan-made web series set in the Star Trek universe. Produced by the nonprofit charity Trek Continues, Inc. and Dracogen, and initially co-produced by Far from Home LLC and Farragut Films, the series consists of 11 episodes released between 2013 and 2017. The series is an unofficial direct continuation of Star Trek The Original Series, and emulates its visual and storytelling features to achieve the same look and feel. Those who made the show have said in interviews that the intent was to finish the original five-year mission of the show, and this is borne out in the plot lines of the final two episodes.
-
-  "Star Trek: Discovery":
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/70825
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70826
-      2:
-        url_poster: https://theposterdb.com/api/assets/70827
-      3:
-        url_poster: https://theposterdb.com/api/assets/106810
-      4:
-        url_poster: https://theposterdb.com/api/assets/194463
-
-  "Star Trek: Picard":
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/70969
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/70970
-        summary: At the end of the 24th century, and fourteen years after his retirement from Starfleet, Jean-Luc Picard is living a quiet life on his vineyard, assisted by his two Romulan friends and housekeepers Laris and Zhaban. After Dahj Asha comes to him for help, Picard finds reason to believe Dahj is connected to Data and feels compelled to help her, but she is killed by a mysterious force.
-      2:
-        url_poster: https://theposterdb.com/api/assets/233023
-
-  "Star Trek: Lower Decks":
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/187631
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/187632
-        summary: Ensign D'Vana Tendi enthusiastically begins her new assignment aboard the USS Cerritos, a California-class starship specializing in second contact missions, doing the follow-up grunt work of the crews boldly going where no one has gone before. She quickly befriends Ensigns Brad Boimler, Beckett Mariner and Sam Rutherford, collectively nicknamed the "lower decks," as Mariner points out, that is where the real action happens.
-      2:
-        url_poster: https://theposterdb.com/api/assets/195442
-
-  "Star Trek: Prodigy":
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/194520
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/194521
-
-  "Star Trek: Strange New Worlds":
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/245290
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/245291
-        summary: Star Trek Strange New Worlds follows Captain Christopher Pike (played by Anson Mount) and the crew of the starship USS Enterprise (NCC-1701) in the 23rd century as they explore new worlds throughout the galaxy in the decade before Star Trek The Original Series.
-
-  Stargate SG-1:
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/210314
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/211595
-        summary: Special episodes for Stargate SG-1
-      1:
-        url_poster: https://theposterdb.com/api/assets/211596
-        summary: The first season of the military science fiction television series Stargate SG-1 commenced airing on the Showtime channel in the United States on July 27, 1997, concluded on the Sci Fi channel on March 6, 1998, and contained 22 episodes. The show itself is a spin-off from the 1994 hit movie Stargate written by Dean Devlin and Roland Emmerich. Stargate SG-1 re-introduced supporting characters from the film universe, such as Jonathan "Jack" O'Neill and Daniel Jackson and included new characters such as Teal'c, George Hammond and Samantha "Sam" Carter. The first season was about a military-science expedition team discovering how to use the ancient device, named the Stargate, to explore the galaxy. However, they encountered a powerful enemy in the film named the Goa'uld, who are bent on destroying Earth and all who oppose them.
-      2:
-        url_poster: https://theposterdb.com/api/assets/211597
-        summary: he second season of Stargate SG-1, an American-Canadian television series, began airing on June 26, 1998 on Showtime. The second season concluded after 22 episodes on February 10, 1999 on British Sky One, which overtook Showtime in mid-season. The series was developed by Brad Wright and Jonathan Glassner, who also served as executive producers. Season two regular cast members include Richard Dean Anderson, Michael Shanks, Amanda Tapping, Christopher Judge, and Don S. Davis.
-      3:
-        url_poster: https://theposterdb.com/api/assets/211598
-        summary: The third season of the military science fiction television series Stargate SG-1 commenced airing on Showtime in the United States on June 25, 1999, concluded on Sky1 in the United Kingdom on March 8, 2000, and contained 22 episodes. The third season follows SG-1 in their fight against the Goa'uld Empire's System Lords, the main being Sokar until "The Devil You Know" and then Apophis, after he regained power during that episode. The season introduces the long-unseen and unnamed enemy of the Asgards, the Replicators, who are self-replicating machines that seek to convert all civilizations into more of themselves, thus posing a dire threat to all other beings. The Replicators are first mentioned, but not named, in season three episode "Fair Game".
-      4:
-        url_poster: https://theposterdb.com/api/assets/211599
-        summary: The fourth season of Stargate SG-1, an American-Canadian television series, began airing on June 30, 2000 on Showtime. The fourth season concluded after 22 episodes on February 14, 2001 on British Sky One, which overtook Showtime in mid-season. The series was developed by Brad Wright and Jonathan Glassner. Season four regular cast members include Richard Dean Anderson, Michael Shanks, Amanda Tapping, Christopher Judge, and Don S. Davis.
-      5:
-        url_poster: https://theposterdb.com/api/assets/211600
-        summary: The fifth season of the military science fiction television series Stargate SG-1 commenced airing on Showtime in the United States on June 29, 2001, concluded on Sky1 in the United Kingdom on February 6, 2002, and contained 22 episodes. The fifth season introduces future main character Jonas Quinn portrayed by Corin Nemec from 2002–2004. The fifth season is about the ongoing war with the Goa'uld Empire after the death of Apophis at the start of the season and the rise of a new System Lord named Anubis. SG-1, a military-science team, are set to explore the Milky Way Galaxy.
-      6:
-        url_poster: https://theposterdb.com/api/assets/211601
-        summary: The sixth season of Stargate SG-1, an American-Canadian television series, began airing on June 7, 2002 on Sci Fi. The sixth season concluded after 22 episodes on February 19, 2003 on the UK's Sky One, which had overtaken the Sci-Fi Channel's number of new-episode broadcasts mid-season. The series was developed by Brad Wright and Jonathan Glassner. Season six regular cast members include Richard Dean Anderson, Amanda Tapping, Christopher Judge, Corin Nemec, and Don S. Davis.
-      7:
-        url_poster: https://theposterdb.com/api/assets/211602
-        summary: The seventh season of Stargate SG-1, an American-Canadian television series, began airing on June 13, 2003 on Sci Fi. The seventh season concluded after 22 episodes on March 9, 2004 on British Sky One, which overtook the Sci-Fi Channel in mid-season. The series was developed by Brad Wright and Jonathan Glassner. Season seven regular cast members include Richard Dean Anderson, Amanda Tapping, Christopher Judge, Don S. Davis, and Michael Shanks.
-      8:
-        url_poster: https://theposterdb.com/api/assets/211603
-        summary: The eighth season of Stargate SG-1, an American-Canadian military science fiction television series, began airing on July 9, 2004, on the Sci Fi channel. The eighth season concluded on February 22, 2005, after 20 episodes on British Sky One, which overtook the Sci Fi Channel in mid-season. This was the first season of the show to have 20 episodes instead of 22, as well as the first to air concurrently with Stargate SG-1 spinoff series Stargate Atlantis (the first season thereof). The series was originally developed by Brad Wright and Jonathan Glassner, while Brad Wright and Robert C. Cooper served as executive producers. Season eight regular cast members include Richard Dean Anderson, Amanda Tapping, Christopher Judge, and Michael Shanks.
-      9:
-        url_poster: https://theposterdb.com/api/assets/211604
-        summary: The ninth season of Stargate SG-1, an American-Canadian television series, began airing on July 15, 2005 on SCI FI. The ninth season concluded on March 10, 2006, after 20 episodes on the same channel. The series was originally developed by Brad Wright and Jonathan Glassner, and Brad Wright, Robert C. Cooper, Joseph Mallozzi and Paul Mullie served as executive producers. The season arc centers on the new threat of the Ori, a race who Daniel Jackson (Michael Shanks) and Vala Mal Doran (Claudia Black) unleash in an unknown galaxy, and who are threatening to prepare for a crusade into the Milky Way galaxy to convert the beings to their religion called Origin.
-      10:
-        url_poster: https://theposterdb.com/api/assets/211605
-        summary: The tenth and final season of Stargate SG-1, an American-Canadian television series, began airing on July 14, 2006 on Sci Fi Channel (United States). It concluded after 20 episodes on March 13, 2007 on Sky 1, which overtook the Sci-Fi Channel in mid-season. The series was developed by Brad Wright and Jonathan Glassner. Brad Wright, Robert C. Cooper, Joseph Mallozzi, and Paul Mullie served as executive producers. Season ten regular cast members include Ben Browder, Amanda Tapping, Christopher Judge, Claudia Black, Beau Bridges, and Michael Shanks.
-
-  Stargate Atlantis:
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/210312
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/211586
-        summary: Special episodes for Stargate Atlantis
-      1:
-        url_poster: https://theposterdb.com/api/assets/211587
-        summary: The first season of the television series Stargate Atlantis commenced airing on the Sci Fi Channel in the United States on July 16, 2004, concluded on The Movie Network in Canada on January 31, 2005, and contained 20 episodes. The show was a spin off of sister show, Stargate SG-1. Stargate Atlantis re-introduced supporting characters from the SG-1 universe, such as Elizabeth Weir and Rodney McKay among others. The show also included new characters such as Teyla Emmagan and John Sheppard. The first season is about a military-science expedition team discovering Atlantis and exploring the Pegasus Galaxy. However, there is no way to return home, and they inadvertently wake a hostile alien race known as the Wraith, whose primary goal is to gather a fleet to invade Atlantis and find their new "feeding ground", Earth.
-      2:
-        url_poster: https://theposterdb.com/api/assets/211588
-        summary: The second season of the television series Stargate Atlantis commenced airing on the Sci Fi Channel in the United States on July 15, 2005, concluded on The Movie Network in Canada on January 30, 2006, and contained 20 episodes. The show itself is a spin off of its sister show, Stargate SG-1. The series was developed by Brad Wright and Robert C. Cooper, who also served as executive producers. Season two regular cast members include Joe Flanigan, Torri Higginson, Rachel Luttrell, Jason Momoa, Paul McGillion, and David Hewlett as Dr. Rodney McKay.
-      3:
-        url_poster: https://theposterdb.com/api/assets/211589
-        summary: The third season of Stargate Atlantis, an American-Canadian television series, began airing on July 21, 2006 on the US-American Sci Fi Channel. The third season concluded after 20 episodes on February 5, 2007 on the Canadian The Movie Network. The series was developed by Brad Wright and Robert C. Cooper, who also served as executive producers. Season three regular cast members include Joe Flanigan, Torri Higginson, Rachel Luttrell, Jason Momoa, Paul McGillion, and David Hewlett as Dr. Rodney McKay.
-      4:
-        url_poster: https://theposterdb.com/api/assets/211590
-        summary: The fourth season of Stargate Atlantis, an American-Canadian television series, began airing on September 28, 2007 on the US-American Sci Fi Channel. The fourth season concluded after 20 episodes on March 7, 2008 on Sci Fi. The series was developed by Brad Wright and Robert C. Cooper, who also served as executive producers. Amanda Tapping (Col. Samantha Carter) joins the cast as a regular for 14 episodes, Jewel Staite (Dr. Jennifer Keller) was a recurring character for eleven episodes, while regular cast member Torri Higginson (Dr. Elizabeth Weir) was a recurring cast member for four episodes. Other season four regular cast members include Joe Flanigan, Rachel Luttrell, Jason Momoa and David Hewlett.
-      5:
-        url_poster: https://theposterdb.com/api/assets/211591
-        summary: The fifth and final season of the military science fiction television series Stargate Atlantis commenced airing on the Sci Fi Channel in the United States on July 11, 2008, concluded on the same channel on January 9, 2009, and contained 20 episodes. The show itself is a spin off of its sister show, Stargate SG-1. The season upgrades previous supporting characters cast members such as Richard Woolsey (from Stargate SG-1) and Jennifer Keller. Amanda Tapping's character Samantha Carter was downgraded to recurring character in this season. The fifth and final season is about a military-science expedition team fighting against the Wraith from their base of operation, Atlantis. The Wraith primary goal is to gather a fleet to invade Atlantis and find their new "feeding ground", Earth.
-
-  Stargate Universe:
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/210315
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/211606
-        summary: Special episodes from Stargate Universe
-      1:
-        url_poster: https://theposterdb.com/api/assets/211607
-        summary: The first season of Stargate Universe consists of 20 episodes. Brad Wright and Robert C. Cooper wrote the three-parter series opener named "Air", which was originally planned to be a two-parter. The first two parts of "Air" premiered on Syfy on October 2, 2009, with regularly weekly airing beginning on October 9, 2009. "Fire" was originally going to be the title for episode four, but the story and script was too big to be able to fit into one episode, so the producers changed it to become a two-parter called "Darkness" and "Light", therefore pushing all future episodes forward one slot. "Justice" was the mid-season finale. The back half of the first season aired on Friday April 2, 2010 on Space and Syfy.
-      2:
-        url_poster: https://theposterdb.com/api/assets/211608
-        summary: The second and final season of Stargate Universe was announced by Syfy on December 13, 2009. Like the first season, the second season consisted of 20 episodes. The series was moved from the franchise's long history of Friday to Tuesday, along with Caprica, as Syfy had picked up WWE Friday Night SmackDown. The series resumed on September 28, 2009, USA. In Ireland & UK, the series resumed on October 5 at 9pm on Sky1 and Sky1 HD. Syfy announced on December 16, 2010 that it would not be picking Stargate Universe up for a third season and that the Spring 2011 season would be the last to air on its channel.
-
-  Stargate Origins:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/210313
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/211593
-        summary: Special episodes from Stargate Origins
-      1:
-        url_poster: https://theposterdb.com/api/assets/211594
-        summary: A young Catherine Langford embarks on an adventure to unlock the mystery of the Stargate. Catherine and her father examine the gate at a warehouse near Giza.[1] Nazi cultist Wilhelm Brücke takes them hostage, reveals he knows how to use the gate, and force Professor Langford to go through the gate with them. Catherine overpowers her guard and seeks the help of her friends Captain James Beal and Wasif, convincing them to go through the gate with her to rescue her father.
-
-  Stargate Infinity:
-    year: 2002
-    url_poster: https://theposterdb.com/api/assets/210418
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/211592
-        summary: The story arc of Stargate Infinity follows Gus Bonner being framed for opening the Stargate for alien enemies in a future version of Stargate Command (SGC). Bonner escapes with a group of fresh recruits through the Stargate. The team cannot return to Earth before they have cleared their names. The show was cancelled before any of its major plots could be resolved. The story unfolds when the members of the team encounter different alien races from other planets.
-
-  "Star Wars: Droids":
-    year: 1985
-    url_poster: https://theposterdb.com/api/assets/182262
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/182263
-
-  "Star Wars: Ewoks":
-    year: 1985
-    url_poster: https://theposterdb.com/api/assets/182264
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/182265
-      2:
-        url_poster: https://theposterdb.com/api/assets/182266
-
-  "Star Wars: Clone Wars":
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/40038
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/40039
-      2:
-        url_poster: https://theposterdb.com/api/assets/40040
-      3:
-        url_poster: https://theposterdb.com/api/assets/40041
-
-  "Star Wars: The Clone Wars":
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/40021
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/40022
-        summary: Season one focuses on various battles fought between the Republic and the Separatists, and their efforts to convince more planets and races to join them. The main antagonists are Count Dooku, his informal apprentice Asajj Ventress, and the cyborg commander of the Separatists' droid armies, General Grievous. There are also several episodes that do not focus on the conflict with the Separatists, but rather other aspects of the Clone Wars.
-      2:
-        url_poster: https://theposterdb.com/api/assets/40023
-        summary: Season two features both one episode-storylines, and a few arcs that span between two and five episodes. This season focuses heavily on bounty hunter characters, with one story arc featuring Darth Sidious hiring Cad Bane to steal a holocron from the Jedi Temple on Coruscant that will help him locate Force-sensitive children, while another deals with Boba Fett beginning his bounty hunter career and, alongside a group of more experienced mercenaries, seeking revenge against Mace Windu for killing his father. Other major story arcs focus on the planet Mandalore, which took a neutral stance in the Clone Wars and whose pacifist leader, Duchess Satine Kryze, is targeted by both the Separatists and the Mandalorian terrorist faction Death Watch; and the Jedi leading Republic forces in an assault on the main Separatist battle droid manufacturing facility on Geonosis.
-      3:
-        url_poster: https://theposterdb.com/api/assets/40024
-        summary: Season three begins to feature several story arcs that focus on the development of certain characters, such as Anakin, who is led to an ancient Force realm alongside Obi-Wan and Ahsoka, and learns more about the nature of the Force and his role as the Chosen One; Ahsoka, who defies Anakin's orders to join his team in a mission to break a Jedi Master out of a Separatist prison, and must later lead her own team of captured Jedi Padawans when they find themselves hunted by Trandoshans; and Ventress, who is betrayed by Dooku on the orders of Sidious, returns to her Nightsister clan on Dathomir, and tries to exact revenge on her former master through his new apprentice, Savage Opress, who ultimately turns on both Ventress and Dooku to follow his own path.
-      4:
-        url_poster: https://theposterdb.com/api/assets/40025
-        summary: In season four, one story arc focuses on the 501st Legion, who must act independently for the first time. This is due to them having to be under the control of Jedi general Pong Krell. He is revealed to be a traitor and manipulates them into killing each other, forcing the clones to capture and execute him. Other story arcs feature Obi-Wan faking his death and going undercover as a bounty hunter to thwart a plot to capture Chancellor Palpatine; Ventress abandoning her Sith ways and becoming a bounty hunter after the Separatists' massacre of the Nightsisters; and Savage finding his long-lost brother, Darth Maul, who seeks revenge against Obi-Wan for his defeat over a decade prior.
-      5:
-        url_poster: https://theposterdb.com/api/assets/40026
-        summary: Season five features five main story arcs. In the first one, the Republic helps a group of rebels from Onderon, led by siblings Steela and Saw Gerrera, liberate their planet from Separatist occupation. The second arc focuses on a group of Jedi younglings who, after completing their path to becoming Padawans, have to prove themselves by rescuing Ahsoka from pirates. The third arc revolves around a team of droids who, while undertaking a mission to intercept an encrypted Separatist message, encounter an amnesiac former clone commando and must help him recover his memories to escape the planet they have been stranded on. The fourth arc deals with the return of Maul, who joins forces with Death Watch and other criminal syndicates to take over Mandalore and exact revenge on Obi-Wan.
-      6:
-        url_poster: https://theposterdb.com/api/assets/40027
-        summary: Season six consists of four story arcs clone trooper Fives investigating the premature activation of Order 66 in a fellow trooper's mind, and discovering the truth about the inhibitor chips implanted in each clone's brain, only to be silenced by Palpatine before he can expose it; Padmé trying to help her old flame Rush Clovis expose the corruption in the Intergalactic Banking Clan, which causes tensions in her and Anakin's relationship when he learns about her secret mission and intervenes; Jar Jar Binks and Mace Windu rescuing the captured Queen of Bardotta from a cult headed by the Nightsisters' former leader, Mother Talzin; and Yoda embarking on a journey to learn more about the nature of the Force after he is visited by the spirit of the late Qui-Gon Jinn.
-      7:
-        url_poster: https://theposterdb.com/api/assets/69970
-        summary: Season seven consists of three story arcs. The first one is focused on Captain Rex's character, as he, Anakin, and a team of clones with genetic mutations rescue ARC Trooper Echo, previously believed to have been killed in action, and defeat the Separatists on Anaxes with his help. The second one focuses on Ahsoka, who befriends sisters Trace and Rafa Martez and helps them settle a debt with the Pyke Syndicate, while trying to conceal her Force powers because of the sisters' hatred of Jedi. The final arc, which is set concurrently with Revenge of the Sith, depicts the Siege of Mandalore, a battle that had been referenced in previous Star Wars media. Ahsoka reluctantly returns to the Republic to lead an assault alongside Rex and Mandalorian warrior Bo-Katan Kryze against Maul's forces on Mandalore in hopes of capturing him.
-
-  Star Wars Rebels:
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/40028
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/40029
-      2:
-        url_poster: https://theposterdb.com/api/assets/40030
-      3:
-        url_poster: https://theposterdb.com/api/assets/40031
-      4:
-        url_poster: https://theposterdb.com/api/assets/40032
-
-  "Star Wars: Forces of Destiny":
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/40033
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/40034
-      2:
-        url_poster: https://theposterdb.com/api/assets/40035
-
-  Star Wars Galaxy of Adventures:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/40042
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/40043
-      2:
-        url_poster: https://theposterdb.com/api/assets/182292
-
-  Star Wars Resistance:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/124825
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/124826
-      2:
-        url_poster: https://theposterdb.com/api/assets/124827
-
-  "Star Wars: The Bad Batch":
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/157179
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/157180
-
-  "Star Wars: Visions":
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/182268
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/182269
-
   The Mandalorian:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/124658
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/124659
-        summary: The first season of the American television series The Mandalorian stars Pedro Pascal as the title character, a lone bounty hunter hired to retrieve "The Child". It is part of the Star Wars franchise, set five years after the events of Return of the Jedi (1983). The season was produced by Lucasfilm, Fairview Entertainment, and Golem Creations, with Jon Favreau serving as showrunner.
       2:
         url_poster: https://theposterdb.com/api/assets/124660
-        summary: The second season of the American television series The Mandalorian stars Pedro Pascal as the title character, a bounty hunter trying to return "The Child" to his people, the Jedi. It is part of the Star Wars franchise, set after the events of Return of the Jedi (1983). The season was produced by Lucasfilm, Fairview Entertainment, and Golem Creations, with Jon Favreau serving as showrunner.
       3:
         url_poster: https://theposterdb.com/api/assets/101158
 
@@ -800,7 +301,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/124664
-        summary: The Book of Boba Fett is an American space Western television series created by Jon Favreau for the streaming service Disney+. It is part of the Star Wars franchise, taking place after the events of Return of the Jedi (1983). It is a spin-off from the series The Mandalorian that features the crime lord and bounty hunter Boba Fett from that series and other Star Wars media. The Book of Boba Fett exists alongside The Mandalorian and its other spin-off Ahsoka.
 
   Obi-Wan Kenobi:
     year: 2022
@@ -808,7 +308,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/235862
-        summary: Ten years after the events of Star Wars Episode III – Revenge of the Sith (2005)—in which the Jedi were destroyed by Order 66 and Anakin Skywalker became the Sith Lord Darth Vader—Obi-Wan Kenobi is watching over Luke Skywalker on Tatooine when he finds himself embarking on a rollicking adventure.
 
   Andor:
     year: 2022
@@ -816,76 +315,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/266674
-        summary: Beginning five years before the events of Rogue One (2016), the series follows an ensemble cast of characters during the time that a Rebel Alliance is forming in opposition to the Galactic Empire. One of these characters is Cassian Andor, a thief who becomes a revolutionary and eventually joins the Rebellion.      
-
-  The Walking Dead:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/108039
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/12394
-        summary: This season adapts material from issues 1–6 of the comic book series and introduces notable comic character Rick Grimes (Andrew Lincoln), who awakens from a coma, after being shot, in a post-apocalyptic world filled with flesh-eating zombies, dubbed "walkers". After befriending Morgan Jones (Lennie James), Rick sets out to find his family and discover the origins of the walker virus.
-      2:
-        url_poster: https://theposterdb.com/api/assets/12395
-        summary: This season adapts material from issues 7–12 of the comic book series and introduces notable comic characters Hershel Greene (Scott Wilson) and his daughter, Maggie (Lauren Cohan). Mainly set at the Greene Family Farm, after the escape and destruction of the CDC, the season continues the story of Rick Grimes (Andrew Lincoln) and his group of survivors as they continue to survive in a post-apocalyptic world overrun by flesh-eating zombies, dubbed "walkers". After leaving Atlanta, Rick and the group are stopped on the highway by a threat unlike anything they have seen before.
-      3:
-        url_poster: https://theposterdb.com/api/assets/12396
-        summary: This season adapts material from issues 13–39 of the comic book series and introduces notable comic characters, including Michonne (Danai Gurira), Axel (Lew Temple), The Governor (David Morrissey) and Tyreese Williams (Chad L. Coleman). It also marks the return of Merle Dixon (Michael Rooker), the volatile older brother of Daryl Dixon (Norman Reedus), who went missing in the first season, and also features the return of Morgan Jones (Lennie James), the first survivor Rick Grimes (Andrew Lincoln) encountered and befriended, who he lost contact with in season one. As in the comics, this season is mainly set in both an abandoned prison and an active rural town of survivors.
-      4:
-        url_poster: https://theposterdb.com/api/assets/12397
-        summary: This season adapts material from issues 40–61 of the comic book series and introduces notable comic characters, including Bob Stookey (Lawrence Gilliard Jr.), Sgt. Abraham Ford (Michael Cudlitz), Dr. Eugene Porter (Josh McDermitt) and Rosita Espinosa (Christian Serratos), as well as the Chambler Family, a modified version of the Chalmers Family from a tie-in novel, The Walking Dead Rise of the Governor.
-      5:
-        url_poster: https://theposterdb.com/api/assets/12398
-        summary: This season adapts material from issues 61–77 of the comic book series and introduces notable comic characters, including the cannibalistic hunters from Terminus, Father Gabriel Stokes (Seth Gilliam) and Aaron (Ross Marquand), as well as the Anderson and Monroe families. Now reunited, the season continues the story of Rick Grimes (Andrew Lincoln) and his group of survivors as they search for sanctuary, but face new threats from both walkers and other (hostile) human survivors. It also marks the return of Morgan Jones (Lennie James), who was last seen in the third-season episode "Clear".
-      6:
-        url_poster: https://theposterdb.com/api/assets/12399
-        summary: This season adapts material from issues 78–100 of the comic book series and introduces notable comic characters, including Heath (Corey Hawkins), Dr. Denise Cloyd (Merritt Wever), Dwight (Austin Amelio), Paul "Jesus" Rovia (Tom Payne), Gregory (Xander Berkeley) and Negan (Jeffrey Dean Morgan). Following Pete's death, the season continues the story of Rick Grimes (Andrew Lincoln) and his group of survivors, who must take a step back from the violence they've come to embrace, as multiple threats lead them to adopt a mindset of hardness.
-      7:
-        url_poster: https://theposterdb.com/api/assets/12400
-        summary: This season adapts material from issues 100–114 of the comic book series and focuses on the oppressive group of survivors known as the Saviors, led by the vindictive Negan (Jeffrey Dean Morgan). He uses numbers, power and lethal brutality to coerce Rick Grimes (Andrew Lincoln), his group of survivors, and the Alexandria Safe-Zone to make regular offerings of supplies and weapons for the Saviors. Eventually, Rick and his group seek allies to help them confront Negan, including members of the survivor communities of the Hilltop, the Kingdom, Oceanside, and the Scavengers, who have had their own dealings with Negan and the Saviors.
-      8:
-        url_poster: https://theposterdb.com/api/assets/12401
-        summary: This season adapts material from issues 115–126 of the comic book series "All Out War Part I & II" and introduces notable comic book character Siddiq (Avi Nash). The season continues the story of Rick Grimes (Andrew Lincoln) and his group of survivors in their fight against Negan (Jeffrey Dean Morgan) and the Saviors. Rick, along with Maggie (Lauren Cohan), leading The Hilltop, and King Ezekiel (Khary Payton), leader of The Kingdom, unite forces to start a rebellion against the tyrant leader of the Saviors, initiating a war for the freedom of the communities.
-      9:
-        url_poster: https://theposterdb.com/api/assets/12402
-        summary: This season adapts material from issues 127–144 of the comic book series and focuses on the aftermath of All Out War. Eighteen months after the defeat of Negan (Jeffrey Dean Morgan) under an alliance of communities spearheaded by Rick Grimes (Andrew Lincoln), the season focuses on the united communities as they face obstacles and dangers both outside and inside their alliance, with the threat of the mysterious Whisperers looming.
-      10:
-        url_poster: https://theposterdb.com/api/assets/22511
-        summary: This season adapts material from issues 145–174 of the comic book series and focuses on the group's preparation and war against the Whisperers. Set several months after the massacre perpetrated by Alpha (Samantha Morton) during the community fair, the season focuses on the united communities as they initiate a fight in order to end the threat of the Whisperers.
-
-  Fear the Walking Dead:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/108041
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/128801
-        summary: Special epsidoes for Fear the Walking Dead.
-      1:
-        url_poster: https://theposterdb.com/api/assets/128802
-        summary: The season follows a dysfunctional, blended family composed of Madison Clark (Kim Dickens), her fiancé Travis Manawa (Cliff Curtis), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane) and Travis' son Chris (Lorenzo James Henrie) from a previous marriage to Liza Ortiz (Elizabeth Rodriguez). At the onset of the zombie apocalypse, their group is joined by Daniel Salazar (Rubén Blades), his wife Griselda (Patricia Reyes Spíndola), and their daughter Ofelia (Mercedes Mason). The families navigate through Los Angeles in search of a safe haven.
-      2:
-        url_poster: https://theposterdb.com/api/assets/128803
-        summary: The season follows a dysfunctional, blended family composed of Madison Clark (Kim Dickens), her fiancé Travis Manawa (Cliff Curtis), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane) and Travis' son Chris (Lorenzo James Henrie). At the onset of the zombie apocalypse, their group includes Victor Strand (Colman Domingo), a smart and sophisticated conman-turned-businessman, Daniel Salazar (Rubén Blades) and his daughter Ofelia (Mercedes Mason). This season follows the group as they escape land for the sea, and their eventual journey to Mexico.
-      3:
-        url_poster: https://theposterdb.com/api/assets/128804
-        summary: The season follows a dysfunctional, blended family composed of Madison Clark (Kim Dickens), her fiancé Travis Manawa (Cliff Curtis), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane) and his lover Luciana Galvez (Danay García), as they reach the U.S.-Mexico border and find refuge on a ranch owned by the Otto family, consisting of patriarch Jeremiah Otto (Dayton Callie) and his two sons Troy (Daniel Sharman) and Jake (Sam Underwood). Meanwhile, Victor Strand (Colman Domingo) reunites with Daniel Salazar (Rubén Blades), who was presumed dead, who returns to find his daughter Ofelia (Mercedes Mason) who was separated from the group.
-      4:
-        url_poster: https://theposterdb.com/api/assets/128805
-        summary: The season marks a departure from the previous entries, with the story shifting from being a prequel to running concurrently with The Walking Dead. In addition to the group of Madison Clark (Kim Dickens), her daughter Alicia (Alycia Debnam-Carey), her drug-addicted son Nick (Frank Dillane), his lover Luciana Galvez (Danay García), and grifter Victor Strand (Colman Domingo) from the previous seasons, the story follows original series character Morgan Jones (Lennie James) as he encounters them amid their conflict with the antagonistic Vultures. Several new characters are also introduced in the fourth season, including journalist Althea Szewczyk-Przygocki (Maggie Grace), police officer John Dorie (Garret Dillahunt), and nurse June (Jenna Elfman).
-      5:
-        url_poster: https://theposterdb.com/api/assets/128806
-        summary: The season follows the group of survivors led by Morgan Jones (Lennie James) and Alicia Clark (Alycia Debnam-Carey) as they search for other survivors, looking to provide help for others in an effort to make up for the wrongdoings from their pasts.
-      6:
-        url_poster: https://theposterdb.com/api/assets/128807
-        summary: The season follows Morgan Jones (Lennie James) who has been left for dead by Virginia (Colby Minifie), while the remaining members of Morgan's group have been separated by Virginia and her Pioneers and are dispersed across her various settlements. The season also features multiple time jumps.
-
-  "The Walking Dead: World Beyond":
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/109050
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/129843
-        summary: The series, set in Nebraska ten years after the zombie apocalypse, features four teenage protagonists and focuses on "the first generation to come-of-age in the apocalypse as we know it. Some will become heroes. Some will become villains. In the end, all of them will be changed forever. Grown-up and cemented in their identities, both good and bad.
 
   The X-Files:
     year: 1993
@@ -893,683 +322,28 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/160398
-        summary: Special episodes from The X-Files
       1:
         url_poster: https://theposterdb.com/api/assets/160399
-        summary: The first season of the science fiction television series The X-Files commenced airing on the Fox network in the United States on September 10, 1993, and concluded on the same channel on May 13, 1994, after airing all 24 episodes. The first season introduced main characters of the series, including Fox Mulder and Dana Scully who were portrayed by David Duchovny and Gillian Anderson, respectively, and recurring characters Deep Throat, Walter Skinner, and Cigarette Smoking Man. The season introduced the series' main concept, revolving around the investigation of paranormal or supernatural cases, known as X-Files, by the Federal Bureau of Investigation; it also began to lay the groundwork for the series' overarching mythology.
       2:
         url_poster: https://theposterdb.com/api/assets/160400
-        summary: The second season of The X-Files takes place after the closure of the department following the events of the first season finale. In addition to stand-alone "Monster-of-the-Week" episodes, several episodes also furthered the alien conspiracy mythology that had begun to form. Season two introduced several recurring characters—X (Steven Williams), an informant to Mulder; Alex Krycek (Nicholas Lea), Mulder's partner-turned-enemy; and the Alien Bounty Hunter (Brian Thompson), a shape-shifting assassin.
       3:
         url_poster: https://theposterdb.com/api/assets/160401
-        summary: The season features the conclusion of several plot-lines introduced in season two, while also introducing several new plot elements. Major plot arcs include an elaborate conspiracy being discovered when an alien autopsy video is acquired by Mulder, Scully's search for the killer of her sister, and the mystery surrounding X (Steven Williams). Pivotal characters such as the First Elder (Don S. Williams) and the alien virus black oil were first introduced in this season. In addition, the season features a wide variety of "Monster-of-the-Week" episodes, stand-alone stories not of influence to the wider mythology of the series.
       4:
         url_poster: https://theposterdb.com/api/assets/160402
-        summary: The fourth season of the series focuses heavily on FBI federal agents Fox Mulder's (David Duchovny) and his partner Dana Scully's (Gillian Anderson) investigation of an alien conspiracy, which is protected by the mysterious Syndicate. Midway through the season, Scully is diagnosed with terminal cancer, a result of her previous abduction, and Mulder begins to lose his faith in the idea of extraterrestrials. Debuting with high viewing figures and ranking as the twentieth most watched television series during the 1996–97 television year in the United States, the season was a success, with figures averaging around 20 million viewers an episode. This made it, at the time, the highest rated season of The X-Files to air
       5:
         url_poster: https://theposterdb.com/api/assets/160403
-        summary: The fifth season of the series focused heavily on FBI federal agents Fox Mulder's (David Duchovny) loss of faith in the existence of extraterrestrials and his partner, Dana Scully's (Gillian Anderson), resurgence of health following her bout with cancer. New characters were also introduced, including agents Jeffrey Spender (Chris Owens) and Diana Fowley (Mimi Rogers) and the psychic Gibson Praise (Jeff Gulka). The finale, "The End", led up to both the 1998 film and the sixth season premiere "The Beginning".
       6:
         url_poster: https://theposterdb.com/api/assets/160404
-        summary: In Washington, D.C., Agent Fox Mulder appears before an FBI panel regarding his experiences in Antarctica. Assistant Director Walter Skinner (Mitch Pileggi) tells Mulder that he and Scully have been denied reassignment to the division. Mulder goes to his former basement office, only to discover that Jeffrey Spender (Chris Owens) and Diana Fowley (Mimi Rogers) have been assigned to the X-Files. Going against orders, Mulder and Scully track down an escaped alien in Phoenix, Arizona while Cigarette Smoking Man (William B. Davis) gives chase. Mulder and Scully eventually discover that Cigarette Smoking Man has been using Gibson Praise to locate the creature. Scully brings Gibson to the hospital, where it is determined that he has the alien virus in his blood. Later, Skinner is mysteriously poisoned by a nanorobot infection.
       7:
         url_poster: https://theposterdb.com/api/assets/160405
-        summary: After the events of the season six finale, Walter Skinner (Mitch Pileggi) and Michael Kritschgau (John Finn) are desperately attempting to find the truth behind the so-called alien object. Meanwhile, Fox Mulder (David Duchovny) is still imprisoned by his own frenetic brain activity. Dana Scully (Gillian Anderson) and Skinner are unaware of FBI Special Agent Diana Fowley's (Mimi Rogers) duplicity—she is working for Cigarette Smoking Man (William B. Davis). Scully then travels to Africa to unravel the secrets of the alien artifacts, finding something that looks like a spaceship buried under the shoreline off the Côte d'Ivoire coast. The object may prove that life originated elsewhere, and all religion is based on the Navajo contact with alien life.
       8:
         url_poster: https://theposterdb.com/api/assets/160406
-        summary: At the end of the seventh season finale, "Requiem", Fox Mulder (David Duchovny) was abducted by aliens.[1] Dana Scully (Gillian Anderson) meets Special Agent John Doggett (Robert Patrick), the leader of an FBI taskforce organized to conduct a search for Mulder.[2] Although the search ultimately proves unsuccessful, Doggett is assigned to the X-Files and works with Scully to look for explanations to several cases.[3] When Scully learns that several women have reportedly been abducted and impregnated with alien babies, she begins to question her own pregnancy and fears for her unborn child.
       9:
         url_poster: https://theposterdb.com/api/assets/160407
-        summary: After the eighth season finale "Existence", Fox Mulder (David Duchovny) goes into hiding. Dana Scully (Gillian Anderson) is again reassigned to the FBI Academy, and Monica Reyes (Annabeth Gish) becomes John Doggett's (Robert Patrick) new FBI partner in the X-Files office. Doggett asks Scully for help on a case involving an EPA official, Carl Wormus (Nicholas Walker), who died after his car was forced off a bridge by a woman he picked up. Doggett and Walter Skinner (Mitch Pileggi) travel to a reclamation plant, looking for links between Wormus' work and death.
       10:
         url_poster: https://theposterdb.com/api/assets/160408
-        summary: Fourteen years after the closure of the X-Files, Fox Mulder is contacted by Dana Scully at the behest of FBI Assistant Director Walter Skinner, who wants him to meet a right-wing online webcaster named Tad O'Malley. Mulder and Scully reunite in Washington, D.C., where they are picked up by O'Malley in his limousine. They meet a young woman named Sveta, who claims to have fragmented memories of having her fetuses stolen from her during alien abductions and to possess alien DNA.
       11:
         url_poster: https://theposterdb.com/api/assets/160409
-        summary: Dana Scully (Gillian Anderson) wakes up in the hospital after having a seizure, now realizing the events of "My Struggle II" were a vision and haven't actually happened yet. Mulder initially presumes Scully’s ramblings are a product of her illness but leaves the hospital to investigate. Agent Jeffrey Spender later appears at Scully’s bedside, revealing that someone is looking for William. He first balks at telling her the location of her son, revealing only the name of the family that adopted him—Van De Kamp.
-
-  The Lone Gunmen:
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/160394
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/160395
-        summary: Special episodes for The Lone Gunmen.
-      1:
-        url_poster: https://theposterdb.com/api/assets/160396
-        summary: Whereas The X-Files deals mainly with paranormal events and conspiracies to cover up extraterrestrial contact, The Lone Gunmen draws on secret activity of other kinds, such as government-sponsored terrorism, the development of a surveillance society, corporate crime, and escaped Nazis. The show has a light mood and elements of slapstick comedy. The trio are alternately aided and hindered by a mysterious thief named Yves Adele Harlow.
-
-  The First 48:
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/39038
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/39039
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      2:
-        url_poster: https://theposterdb.com/api/assets/39040
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      3:
-        url_poster: https://theposterdb.com/api/assets/39041
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      4:
-        url_poster: https://theposterdb.com/api/assets/39042
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      5:
-        url_poster: https://theposterdb.com/api/assets/39043
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      6:
-        url_poster: https://theposterdb.com/api/assets/39044
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      7:
-        url_poster: https://theposterdb.com/api/assets/39045
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      8:
-        url_poster: https://theposterdb.com/api/assets/39046
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      9:
-        url_poster: https://theposterdb.com/api/assets/39047
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      10:
-        url_poster: https://theposterdb.com/api/assets/39048
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      11:
-        url_poster: https://theposterdb.com/api/assets/39049
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      12:
-        url_poster: https://theposterdb.com/api/assets/39050
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      13:
-        url_poster: https://theposterdb.com/api/assets/39051
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      14:
-        url_poster: https://theposterdb.com/api/assets/39052
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      15:
-        url_poster: https://theposterdb.com/api/assets/39053
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      16:
-        url_poster: https://theposterdb.com/api/assets/39054
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      17:
-        url_poster: https://theposterdb.com/api/assets/39055
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      18:
-        url_poster: https://theposterdb.com/api/assets/39056
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      19:
-        url_poster: https://theposterdb.com/api/assets/53469
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-      20:
-        url_poster: https://theposterdb.com/api/assets/123652
-        summary: Each episode picks one or more homicides in different cities, covering each alternately, showing how detectives use forensic evidence, witness interviews, and other advanced investigative techniques to identify suspects. While most cases are solved within the first 48 hours, some go on days, weeks, months or even years after the first 48.
-
-  Dog the Bounty Hunter:
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/55417
-    seaasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/58348
-      1:
-        url_poster: https://theposterdb.com/api/assets/55418
-      2:
-        url_poster: https://theposterdb.com/api/assets/55419
-      3:
-        url_poster: https://theposterdb.com/api/assets/55420
-      4:
-        url_poster: https://theposterdb.com/api/assets/55421
-      5:
-        url_poster: https://theposterdb.com/api/assets/55422
-      6:
-        url_poster: https://theposterdb.com/api/assets/55423
-      7:
-        url_poster: https://theposterdb.com/api/assets/55424
-      8:
-        url_poster: https://theposterdb.com/api/assets/55425
-
-  Intervention:
-    year: 2005
-    url_poster: https://theposterdb.com/api/assets/26728
-
-  Parking Wars:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/176862
-
-  The Andromeda Strain:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/40492
-
-  The Beast:
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/39933
-
-  Breakout Kings:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/185795
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/185796
-        summary: The series follows a task force assembled by the U.S. Marshals to capture prison escapees. Several current convicts are offered a chance to aid in this effort, with the promise of a transfer to a minimum-security prison and a reduction in their sentences for every fugitive they catch. However, if any of them tries to escape, they will all be returned to their original prisons and their sentences will be doubled.
-      2:
-        url_poster: https://theposterdb.com/api/assets/185797
-        summary: The series follows a task force assembled by the U.S. Marshals to capture prison escapees. Several current convicts are offered a chance to aid in this effort, with the promise of a transfer to a minimum-security prison and a reduction in their sentences for every fugitive they catch. However, if any of them tries to escape, they will all be returned to their original prisons and their sentences will be doubled.
-
-  Bag of Bones:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/161258
-
-  Duck Dynasty:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/88672
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/88673
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      2:
-        url_poster: https://theposterdb.com/api/assets/88674
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      3:
-        url_poster: https://theposterdb.com/api/assets/88675
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      4:
-        url_poster: https://theposterdb.com/api/assets/88676
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      5:
-        url_poster: https://theposterdb.com/api/assets/88677
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      6:
-        url_poster: https://theposterdb.com/api/assets/88678
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      7:
-        url_poster: https://theposterdb.com/api/assets/88679
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      8:
-        url_poster: https://theposterdb.com/api/assets/88680
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      9:
-        url_poster: https://theposterdb.com/api/assets/88681
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      10:
-        url_poster: https://theposterdb.com/api/assets/88682
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-      11:
-        url_poster: https://theposterdb.com/api/assets/88683
-        summary: Duck Dynasty is an American reality television series that aired on A&E from 2012 to 2017. The series portrays the lives of the Robertson family, who became successful from their family-operated business, Duck Commander. The West Monroe, Louisiana business makes products for duck hunters, primarily a duck call called Duck Commander. The Robertson men—brothers Phil and Si, and Phil's sons Alan, Jase, Willie, and Jep—are known for their long beards and their conservative, Evangelical Christian views which is why the show is often considered to be a part of Christian media.
-
-  Longmire:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/179983
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/179984
-        summary: Walt's adult daughter Cady (Cassidy Freeman) is concerned that her father has been stuck since the death of her mother. While preparing to run for re-election, Walt has delegated most police duties to deputies Branch Connally (Bailey Chase) and "The Ferg" (Adam Bartley). Branch has also entered the election, to unseat Longmire, and he is secretly dating Cady. Victoria "Vic" Moretti (Katee Sackhoff), a transplanted Philadelphia homicide detective, arrived in Wyoming six months prior and works as one of Walt's deputies.
-      2:
-        url_poster: https://theposterdb.com/api/assets/179985
-        summary: Cady goes to Denver to speak to Detective Fales, who gives her the details of her mother's murder and informs her the suspected murderer has also been killed. When Fales questions her, she says that her father confides in Henry Standing Bear, inadvertently giving Fales a new target of investigation. Henry tells Walt that he killed the murderer because Walt was unable to do so. Vic encounters Ed Gorski (Lee Tergesen), a retired cop from Philadelphia.
-      3:
-        url_poster: https://theposterdb.com/api/assets/179986
-        summary: As Branch recovers from being shot, he comes to believe he was shot by David Ridges (David Midthunder), a Cheyenne who was thought to have committed suicide and been cremated. Walt and the others do not believe him, and he begins his own investigation. In prison, Henry is abused by other Native Americans, led by former Cheyenne reservation police chief Malachi Strand (Graham Greene). Strand believes Henry contributed to his arrest through his friendship with Walt. When Malachi makes it difficult for Henry to obtain an attorney, Cady decides to represent him. Henry gets released on bail and sets out to prove his innocence.
-      4:
-        url_poster: https://theposterdb.com/api/assets/179987
-        summary: Walt, Vic, and Ferg set out to search for Branch, after finding a disturbing typewritten note on his home computer. Walt finds him dead in a river from what appears to be a self-inflicted shotgun wound. Walt finds soil in the shotgun shell, implying that the shell had been ejected after firing and replaced in the gun. Walt hence refuses to rule Branch's death a suicide, and begins thinking that Nighthorse is behind the murder. A drunken Barlow Connolly confesses to killing Branch.
-      5:
-        url_poster: https://theposterdb.com/api/assets/179988
-        summary: Walt conducts an intense search for the person who kidnapped Donna after the home invasion and seriously wounded him. Walt and Donna continue their relationship. Nighthorse becomes increasingly suspicious of Malachi's activities, and suspects he is skimming at the casino or otherwise earning illegal money. Mathias (Zahn McClarnon), the Chief of Police on the Cheyenne Reservation, figures out that Henry has taken over Hector's duties as vigilante and uses that to his advantage. Archie (The Ferg) begins a relationship with a local nurse. A heroin operation by the Irish mob is discovered in Walt's jurisdiction
-      6:
-        url_poster: https://theposterdb.com/api/assets/179989
-        summary: In the first episode, Henry is still being held by kidnappers (led by Malachi) on the Crow reservation and might die if not found, but is finally freed by Walt with the help of the Crow medicine woman. Walt investigates a bank robbery with some unusual aspects.[14] Based on the use of Jacob Nighthorse's wooden stakes in the Henry kidnapping, Walt still suspects Jacob of being behind Malachi but due to Jacob's fear of Malachi, Henry arranges a reconciliation with Walt. As a result, Jacob agrees to present Malachi’s “Red Pony” ledger to the FBI as proof that Malachi was using the Red Pony to syphon illegal profits.
-
-  Coma:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/40533
-
-  Bates Motel:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/13937
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/13938
-        summary: The first season of Bates Motel premiered on March 18, 2013, and concluded on May 20, 2013. The season consisted of 10 episodes and aired on Mondays at 10 p.m. ET/PT on A&E. The series is described as a "contemporary prequel" to the 1960 film Psycho and follows the life of Norman Bates and his mother Norma prior to the events portrayed in the Hitchcock film. The series takes place in the fictional town of White Pine Bay, Oregon.
-      2:
-        url_poster: https://theposterdb.com/api/assets/13939
-        summary: The second season of Bates Motel consisted of 10 episodes and premiered on A&E on March 3, 2014. The season aired on Mondays at 9 p.m. ET/PT on A&E, and concluded on May 5, 2014. The series itself is described as a "contemporary prequel" to the 1960 film Psycho and follows the life of Norman Bates and his mother Norma in the fictional town of White Pine Bay, Oregon prior to the events portrayed in the Hitchcock film.
-      3:
-        url_poster: https://theposterdb.com/api/assets/13940
-        summary: The third season of Bates Motel consisted of 10 episodes and premiered on A&E on March 9, 2015. The season aired on Mondays at 9 p.m. ET/PT, and concluded on May 11, 2015. The series itself is described as a "contemporary prequel" to the 1960 film Psycho, following the life of Norman Bates and his mother Norma prior to the events portrayed in the Hitchcock film.
-      4:
-        url_poster: https://theposterdb.com/api/assets/13941
-        summary: The fourth season of Bates Motel premiered on March 7, 2016, and concluded on May 16, 2016. The season consisted of 10 episodes and aired on Mondays at 9 p.m. ET/PT on A&E.[1] The series itself is described as a "contemporary prequel" to the 1960 film Psycho, following the life of Norman Bates and his mother Norma prior to the events portrayed in the Hitchcock film.
-      5:
-        url_poster: https://theposterdb.com/api/assets/13942
-        summary: The fifth and final season of Bates Motel premiered on February 20, 2017, and concluded on April 24, 2017. The season consisted of 10 episodes and aired on Mondays at 10 p.m. ET/PT on A&E. The series itself is described as a "contemporary prequel" to the 1960 film Psycho, following the life of Norman Bates and his mother Norma prior to the events portrayed in the Hitchcock film. However, the final season of the series loosely adapts the plot of Psycho.
-
-  Wahlburgers:
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/143221
-
-  Damien:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/29398
-
-  60 Days In:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/181059
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/181060
-      1:
-        url_poster: https://theposterdb.com/api/assets/181061
-      2:
-        url_poster: https://theposterdb.com/api/assets/181062
-      3:
-        url_poster: https://theposterdb.com/api/assets/181063
-      4:
-        url_poster: https://theposterdb.com/api/assets/181064
-      5:
-        url_poster: https://theposterdb.com/api/assets/181065
-      6:
-        url_poster: https://theposterdb.com/api/assets/181066
-
-  Live PD:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/39457
-
-  "Leah Remini: Scientology and the Aftermath":
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/200238
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/200239
-      1:
-        url_poster: https://theposterdb.com/api/assets/200240
-      2:
-        url_poster: https://theposterdb.com/api/assets/200241
-      3:
-        url_poster: https://theposterdb.com/api/assets/200242
-
-  "Live PD: Police Patrol":
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/39459
-
-  Who Killed Tupac?:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/84564
-
-  Marcia Clark Investigates The First 48:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/70216
-
-  Cultureshock:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/53457
-
-  "Live PD Presents: PD Cam":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/39460
-
-  Live Rescue:
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/39461
-
-  Crusade in Europe:
-    year: 1949
-    url_poster: https://theposterdb.com/api/assets/145224
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/145225
-
-  Adventures of Superman:
-    year: 1952
-    url_poster: https://theposterdb.com/api/assets/192966
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/192967
-      2:
-        url_poster: https://theposterdb.com/api/assets/192968
-      3:
-        url_poster: https://theposterdb.com/api/assets/192969
-      4:
-        url_poster: https://theposterdb.com/api/assets/192970
-      5:
-        url_poster: https://theposterdb.com/api/assets/192971
-      6:
-        url_poster: https://theposterdb.com/api/assets/192972
-
-  Popeye the Sailor:
-    year: 1960
-    url_poster: https://theposterdb.com/api/assets/112535
-
-  The Flintstones:
-    year: 1960
-    url_poster: https://theposterdb.com/api/assets/166414
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/166415
-      1:
-        url_poster: https://theposterdb.com/api/assets/166428
-      2:
-        url_poster: https://theposterdb.com/api/assets/166429
-      3:
-        url_poster: https://theposterdb.com/api/assets/166430
-      4:
-        url_poster: https://theposterdb.com/api/assets/166431
-      5:
-        url_poster: https://theposterdb.com/api/assets/166432
-      6:
-        url_poster: https://theposterdb.com/api/assets/166433
-
-  Top Cat:
-    year: 1961
-    url_poster: https://theposterdb.com/api/assets/166449
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/166450
-      1:
-        url_poster: https://theposterdb.com/api/assets/166451
-
-  Calvin and the Colonel:
-    year: 1961
-    url_poster: https://theposterdb.com/api/assets/214782
-
-  The Jetsons:
-    year: 1962
-    url_poster: https://theposterdb.com/api/assets/43293
-
-  Combat!:
-    year: 1962
-    url_poster: https://theposterdb.com/api/assets/40534
-
-  Bewitched:
-    year: 1964
-    url_poster: https://theposterdb.com/api/assets/62593
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/62594
-      2:
-        url_poster: https://theposterdb.com/api/assets/62595
-      3:
-        url_poster: https://theposterdb.com/api/assets/62596
-      4:
-        url_poster: https://theposterdb.com/api/assets/62597
-      5:
-        url_poster: https://theposterdb.com/api/assets/62598
-      6:
-        url_poster: https://theposterdb.com/api/assets/62599
-      7:
-        url_poster: https://theposterdb.com/api/assets/62600
-      8:
-        url_poster: https://theposterdb.com/api/assets/62601
-
-  The Addams Family:
-    year: 1964
-    url_poster: https://theposterdb.com/api/assets/53157
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/156858
-      2:
-        url_poster: https://theposterdb.com/api/assets/156859
-
-  Jonny Quest:
-    year: 1964
-    url_poster: https://theposterdb.com/api/assets/99890
-
-  Honey West:
-    year: 1965
-    url_poster: https://theposterdb.com/api/assets/42008
-
-  Batman:
-    year: 1966
-    url_poster: https://theposterdb.com/api/assets/79553
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/79554
-      1:
-        url_poster: https://theposterdb.com/api/assets/79555
-      2:
-        url_poster: https://theposterdb.com/api/assets/79556
-      3:
-        url_poster: https://theposterdb.com/api/assets/79557
-
-  The Green Hornet:
-    year: 1966
-    url_poster: https://theposterdb.com/api/assets/140843
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/140844
-      1:
-        url_poster: https://theposterdb.com/api/assets/140845
-
-  Spider-Man:
-    year: 1967
-    url_poster: https://theposterdb.com/api/assets/45155
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/45157
-      2:
-        url_poster: https://theposterdb.com/api/assets/45158
-      3:
-        url_poster: https://theposterdb.com/api/assets/45159
-
-  Land of the Giants:
-    year: 1968
-    url_poster: https://theposterdb.com/api/assets/29910
-
-  Scooby-Doo, Where Are You!:
-    year: 1969
-    url_poster: https://theposterdb.com/api/assets/14239
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/14240
-      1:
-        url_poster: https://theposterdb.com/api/assets/14241
-      2:
-        url_poster: https://theposterdb.com/api/assets/14242
-      3:
-        url_poster: https://theposterdb.com/api/assets/14243
-
-  The Brady Bunch:
-    year: 1969
-    url_poster: https://theposterdb.com/api/assets/10872
-
-  Columbo:
-    year: 1971
-    url_poster: https://theposterdb.com/api/assets/137012
-
-  The Streets of San Francisco:
-    year: 1972
-    url_poster: https://theposterdb.com/api/assets/143350
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/143351
-      2:
-        url_poster: https://theposterdb.com/api/assets/143383
-      3:
-        url_poster: https://theposterdb.com/api/assets/143353
-      4:
-        url_poster: https://theposterdb.com/api/assets/143384
-      5:
-        url_poster: https://theposterdb.com/api/assets/143385
-
-  Kung Fu:
-    year: 1972
-    url_poster: https://theposterdb.com/api/assets/42063
-
-  Super Friends:
-    year: 1973
-    url_poster: https://theposterdb.com/api/assets/72300
-
-  The Six Million Dollar Man:
-    year: 1973
-    url_poster: https://theposterdb.com/api/assets/120722
-
-  Hong Kong Phooey:
-    year: 1974
-    url_poster: https://theposterdb.com/api/assets/166452
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/166453
-
-  Rick and Morty:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/168176
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/168177
-      1:
-        url_poster: https://theposterdb.com/api/assets/168178
-      2:
-        url_poster: https://theposterdb.com/api/assets/168179
-      3:
-        url_poster: https://theposterdb.com/api/assets/168180
-      4:
-        url_poster: https://theposterdb.com/api/assets/168181
-      5:
-        url_poster: https://theposterdb.com/api/assets/168182
-      6:
-        url_poster: https://theposterdb.com/api/assets/263703
-
-  The Expanse:
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/183290
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/112862
-        summary: Special episodes for The Expanse.
-      1:
-        url_poster: https://theposterdb.com/api/assets/108607
-        summary: Chrisjen Avasarala, a United Nations executive, works to prevent war between Earth and Mars. Ceres police detective Joe Miller is sent to find a missing young woman, Julie Mao. The space-freighter Canterbury and the Martian Navy flagship Donnager are destroyed by unknown stealth ships. James Holden, Naomi Nagata, Alex Kamal and Amos Burton survive both attacks and escape in a Martian gunship named the Tachi. They subsequently rename the ship Rocinante which becomes the main setting of the series. The crew of the Rocinante, with Miller's help, investigates and eventually discovers a biohazard that kills off most of the humans on the asteroid Eros, including Julie.
-      2:
-        url_poster: https://theposterdb.com/api/assets/108608
-        summary: The crew of the Rocinante, along with members of the OPA, attack the station responsible for the biohazard on Eros. Learning that it is an extra-solar bio-weapon known as the protomolecule, they attempt to destroy Eros. Miller becomes trapped on Eros, and dies when it crashes into Venus. Martian Marine Bobbie Draper fights an inhuman figure on Ganymede and later, during peace talks between Earth and Mars, becomes a protégé of Avasarala. The crew tries to help a father, Prax, find his daughter. In the process, they encounter and kill a figure akin to the one that Draper fought, now known as a "protomolecule hybrid", developed by Jules-Pierre Mao. A research ship, sent to Venus to investigate the crash of Eros into the planet, is stopped dead in the atmosphere and completely disassembled by the protomolecule.
-      3:
-        url_poster: https://theposterdb.com/api/assets/108610
-        summary: The UN declares war, as Earth and Mars send science vessels to investigate what is happening on Venus. Political tensions soar as the OPA is recognized as the government of the Belters, and Prax gets reunited with his daughter. The protomolecule forms the Ring, a structure which takes an orbital position beyond Uranus, and the race begins between all three governments to send their ships through. After a Belter racing ship slingshots through the Ring at high speed, the ring believes the high speed humans and objects to be dangerous and activates defenses that threaten humanity. Through Holden, a projection of Miller tries to shut off the defenses of the ring, and convince the protomolecule that humanity is not a threat.
-      4:
-        url_poster: https://theposterdb.com/api/assets/108612
-        summary: A large rush to other solar systems with habitable worlds begins, with thousands of planets accessible now via the Ring. Refugee ships from the Belt and overcrowded Earth are stopped at the gateway. A ship runs the blockade, and the crew of the Rocinante are sent through the portal to investigate the situation on the exoplanet that has been settled by these Belter refugees, called Ilus. The settlers have been joined by an officially backed scientific expedition with private military support, often leading to violence between the two groups. The crew tries to ease the tensions, but fails, and decide to find out what is happening on the planet and where the previous civilization has gone. With the help of Miller, Holden reactivates the ancient structure, setting off a chain of cataclysmic events. Efforts to terraform Mars also begin to wane as ready-made habitable worlds are now available, as Bobbie Draper realizes.
-      5:
-        url_poster: https://theposterdb.com/api/assets/108617
-        summary: A deadly conspiracy threatens Earth, as the crew of the Rocinante pursue personal missions while their ship is in drydock at Tycho Station. Draper and Avasarala investigate the Martian military's ties to a growing threat from a rogue faction of Belters. Marco Inaros the rebel leader amasses a Belter fleet, and attacks Earth through stealth shielded asteroids.
-      6:
-        url_poster: https://theposterdb.com/api/assets/183289
-        summary: Holden and the crew of the Rocinante fight alongside the Combined Fleet of Earth and Mars to protect the Inner Planets from Marco Inaros and his Free Navy's campaign of death and destruction. The combined fleet, allied with the fleet of Camina Drummer and other Belter fleets, is successful in defeating Marco and his Free Navy. On a distant planet beyond the Rings, a new power rises.
-
-  Teenage Mutant Ninja Turtles:
-    year: 1987
-    url_poster: https://theposterdb.com/api/assets/163236
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/163237
-      1:
-        url_poster: https://theposterdb.com/api/assets/163238
-      2:
-        url_poster: https://theposterdb.com/api/assets/163239
-      3:
-        url_poster: https://theposterdb.com/api/assets/163240
-      4:
-        url_poster: https://theposterdb.com/api/assets/163241
-      5:
-        url_poster: https://theposterdb.com/api/assets/163242
-      6:
-        url_poster: https://theposterdb.com/api/assets/163243
-      7:
-        url_poster: https://theposterdb.com/api/assets/163244
-      8:
-        url_poster: https://theposterdb.com/api/assets/163245
-      9:
-        url_poster: https://theposterdb.com/api/assets/163246
-      10:
-        url_poster: https://theposterdb.com/api/assets/163247
-
-  24:
-    year: 2001
-    url_poster: https://theposterdb.com/api/assets/83054
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/83055
-        summary: The first season takes place on the day of the California Presidential Primary. The season's main plot revolves around an assassination attempt on U.S. Senator from Maryland, David Palmer, a candidate for the Democratic Party presidential nomination, on the day of the primary in California. The central character is Jack Bauer, a former Delta Force operator who is the Director of the fictional Counter Terrorist Unit (CTU) in Los Angeles. Bauer becomes professionally as well as personally involved when his wife Teri and daughter Kim are kidnapped by the people behind the assassination plot.
-      2:
-        url_poster: https://theposterdb.com/api/assets/83056
-        summary: The second season is set 18 months after season one. The season's main plot follows the work of now-U.S. President David Palmer and agent Jack Bauer to stop terrorists from detonating a nuclear bomb in Los Angeles. Introduced into the situation is Kate Warner, a woman who ends up getting vital information related to CTU's mission.
-      3:
-        url_poster: https://theposterdb.com/api/assets/83057
-        summary: The third season is set 3 years after season two. It takes place primarily in Los Angeles but also in northern Mexico when Jack Bauer meets a family of drug dealers. Throughout the day, Jack Bauer and President David Palmer attempt to stop the release of a deadly virus by Stephen Saunders – a former government agent.
-      4:
-        url_poster: https://theposterdb.com/api/assets/83058
-        summary: The fourth season is set 18 months after season three. Jack is now working for Secretary of Defense James Heller after being fired by CTU due to his heroin addiction. As the day begins, he gets caught up in an elaborate terrorist plot which involves James Heller and his daughter Audrey Raines.
-      5:
-        url_poster: https://theposterdb.com/api/assets/83059
-        summary: The fifth season is set 18 months after season four. Former Counter Terrorist Unit agent Jack Bauer begins the season, working as a day-to-day laborer at an oil refinery under the alias "Frank Flynn" in Mojave, California. On a monumental day in Charles Logan's presidency, an anti-terrorism treaty with Russian President Yuri Suvarov is about to be signed when events take a tragic turn.
-      6:
-        url_poster: https://theposterdb.com/api/assets/83060
-        summary: The sixth season is set 20 months after season five. Over the last 11 weeks before Day 6, the United States has been targeted coast-to-coast in a series of suicide bombings. A man named Abu Fayed agrees to give the U.S. the location of Hamri Al-Assad, the supposed terrorist mastermind of these attacks, in exchange for former CTU Agent Jack Bauer with whom he has a personal grudge. As a result, President Wayne Palmer has negotiated the release of Bauer, who was illegally captured by Chinese government agents, under "high-price" terms.
-      7:
-        url_poster: https://theposterdb.com/api/assets/83061
-        summary: The seventh season takes place 46 months after season six and two months after 24 Redemption. Jack Bauer is on trial for alleged crimes he committed while working for CTU. Senator Blaine Mayer has disbanded CTU and strengthened the policies of Allison Taylor's administration against torture. Bauer is brought into another counter-terrorist operation when FBI agent Renee Walker interrupts the hearing to tell him about an imminent threat.
-      8:
-        url_poster: https://theposterdb.com/api/assets/83062
-        summary: Set 18 months after season 7, the story arc involves Jack Bauer contending with assassination threats made during a peace conference between President of the United States Allison Taylor and President Omar Hassan of the fictional Islamic Republic of Kamistan (IRK). The season is set in New York City, with CTU's New York City Office having been re-activated, but while there were originally no plans for filming in New York due to budget constraints, some scenes were shot on-location.
-      9:
-        url_poster: https://theposterdb.com/api/assets/83063
-        summary: 24 Live Another Day also known as Season 9 or Day 9, takes place four years after the events of season 8. James Heller, now president, is negotiating a treaty in London, where a hacker collective preaching freedom of information has enlisted the help of Chloe O'Brian. Jack Bauer, who has been tracking the activities of Chloe's group while living in exile, resurfaces when he hears of an imminent attempt on Heller's life.
-
-  Fringe:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/66312
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/66313
-      1:
-        url_poster: https://theposterdb.com/api/assets/66314
-      2:
-        url_poster: https://theposterdb.com/api/assets/66315
-      3:
-        url_poster: https://theposterdb.com/api/assets/66316
-      4:
-        url_poster: https://theposterdb.com/api/assets/66317
-      5:
-        url_poster: https://theposterdb.com/api/assets/66318
-
-  Oz:
-    year: 1997
-    url_poster: https://theposterdb.com/api/assets/194324
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/194325
-      1:
-        url_poster: https://theposterdb.com/api/assets/194326
-      2:
-        url_poster: https://theposterdb.com/api/assets/194327
-      3:
-        url_poster: https://theposterdb.com/api/assets/194328
-      4:
-        url_poster: https://theposterdb.com/api/assets/194329
-      5:
-        url_poster: https://theposterdb.com/api/assets/194330
-      6:
-        url_poster: https://theposterdb.com/api/assets/194331
-
-  Jackass:
-    year: 2000
-    url_poster: https://theposterdb.com/api/assets/237371
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/237372
-        summary: Special episodes for the series Jackass.
-      1:
-        url_poster: https://theposterdb.com/api/assets/237373
-      2:
-        url_poster: https://theposterdb.com/api/assets/237374
-      3:
-        url_poster: https://theposterdb.com/api/assets/237375
-
-  All of Us Are Dead:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/210649
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/210650
-        summary: After a failed science experiment, a local high school is overrun with zombies, and the trapped students struggle to survive. With no food or water, and communication cut-off by the government, they must use equipment around the school to protect themselves in the midst of a battleground or they will become part of the infected.
 
   Altered Carbon:
     year: 2018
@@ -1577,80 +351,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/43407
-        summary: The series starts over 360 years in the future, with most episodes of the first season set in the year 2384 in a futuristic metropolis known as Bay City. In the future, a person's memories and consciousness (termed digital human freight, or DHF) are recorded onto a disk-shaped device called a cortical stack, which is implanted in the vertebrae at the back of the neck. These storage devices are of alien design and have been reverse-engineered and mass-produced but can only be made from the material on Harlan's World. Physical human or synthetic bodies are called "sleeves" and stacks can be transferred to new bodies after death, but a person can still be killed if their stack is destroyed and there is no backup. Only the wealthiest, known as "Meths" in reference to Methuselah, have the means to change bodies through clones and remote storage of their consciousness in satellites, so they never have to die of old age before being resleeved.
       2:
         url_poster: https://theposterdb.com/api/assets/43408
-        summary: The second season takes place in the early 2410s, set 30 years after the first season Kovacs, now in a new sleeve, continues to search for his lost love and Envoy leader Quellcrist Falconer.
-
-  Arcane:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/188019
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/188020
-        summary: Amidst the escalating unrest between the rich, utopian city of Piltover and the seedy, oppressed undercity of Zaun, sisters Vi and Jinx find themselves on opposing sides of a brewing war over clashing convictions and arcane technologies.
-
-  Arrested Development:
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/138385
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/138386
-        summary: Special and extra episodes for Arrested Development.
-      1:
-        url_poster: https://theposterdb.com/api/assets/138387
-        summary: The first season of the television comedy series Arrested Development aired between November 2, 2003 and June 6, 2004, on Fox in the United States. It consisted of 22 episodes, each running approximately 22 minutes in length. The first season was released on DVD in region 1 on October 19, 2004, in region 2 on March 21, 2005 and in region 4 on February 23, 2005.
-      2:
-        url_poster: https://theposterdb.com/api/assets/138388
-        summary: The second season of the television comedy series Arrested Development aired between November 7, 2004 and April 17, 2005, on Fox in the United States. It consisted of 18 episodes, each running approximately 22 minutes in length. The second season was released on DVD in region 1 on October 11, 2005, in region 2 on January 23, 2006 and in region 4 on March 15, 2006.
-      3:
-        url_poster: https://theposterdb.com/api/assets/138389
-        summary: The third season of the television comedy series Arrested Development aired between September 19, 2005 and February 10, 2006, on Fox in the United States. It consists of 13 episodes, each running approximately 22 minutes in length. The third season was released on DVD in region 1 on August 29, 2006, in region 2 on April 23, 2007 and in region 4 on December 6, 2006. This was the final season of Arrested Development to be aired on Fox, as they had decided to cancel the series. However, Netflix revived the show in 2013 for a fourth season.
-      4:
-        url_poster: https://theposterdb.com/api/assets/138390
-        summary: Unlike other seasons, each episode of the fourth season occurs over approximately the same stretch of time, but focuses on a different character. Information on events depicted in a given episode is often partial and filled in by later episodes. In 2018, a recut version of the season was released, titled Season 4 Remix Fateful Consequences. In contrast to the original cut, it presented the events in chronological order.
-      5:
-        url_poster: https://theposterdb.com/api/assets/138391
-        summary: The fifth season of the television comedy series Arrested Development premiered on Netflix on May 29, 2018. The season consists of 16 episodes, split into two eight-episode parts; with the second half released on March 15, 2019. This is the second revival season after the series was canceled by Fox in 2006, the fourth season premiered in 2013.
-
-  Big Mouth:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/93406
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/93407
-      2:
-        url_poster: https://theposterdb.com/api/assets/93408
-      3:
-        url_poster: https://theposterdb.com/api/assets/93409
-      4:
-        url_poster: https://theposterdb.com/api/assets/93410
-
-  Black Mirror:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/65284
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/65285
-        summary: Specials and Extra episodes from Black Mirror.
-      1:
-        url_poster: https://theposterdb.com/api/assets/65286
-      2:
-        url_poster: https://theposterdb.com/api/assets/65287
-      3:
-        url_poster: https://theposterdb.com/api/assets/65288
-      4:
-        url_poster: https://theposterdb.com/api/assets/65289
-      5:
-        url_poster: https://theposterdb.com/api/assets/65290
-
-  "The Dark Crystal: Age of Resistance":
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/25754
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/25755
-        summary: The Dark Crystal Age of Resistance is an American fantasy television series produced by Netflix and The Jim Henson Company. It is a prequel to the 1982 Jim Henson film The Dark Crystal that explores the world of Thra created for the original film.[1] It follows the story of three Gelflings Rian, Deet, and Brea, as they journey together on a quest to unite the Gelfling clans to rise against the tyrannical Skeksis and save their planet Thra from a destructive blight known as the Darkening. The series premiered on August 30, 2019, to critical acclaim. In September 2020, it was announced that the series had been canceled after one season.
 
   Narcos:
     year: 2015
@@ -1658,13 +360,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/44817
-        summary: The first season of Narcos, an American crime thriller drama web television series produced and created by Chris Brancato, Carlo Bernard, and Doug Miro, follows the story of notorious drug kingpin Pablo Escobar, who became a billionaire through the production and distribution of cocaine, while also focusing on Escobar's interactions with other drug lords, DEA agents, and various opposition entities.
       2:
         url_poster: https://theposterdb.com/api/assets/44818
-        summary: The second season of Narcos, an American crime thriller drama web television series produced and created by Chris Brancato, Carlo Bernard, and Doug Miro, follows the story of notorious drug kingpin Pablo Escobar, who became a billionaire through the production and distribution of cocaine, while also focusing on Escobar's interactions with drug lords, DEA agents, and various opposition entities.
       3:
         url_poster: https://theposterdb.com/api/assets/44819
-        summary: The third and final season of Narcos, an American crime thriller drama streaming television series produced and created by Chris Brancato, Carlo Bernard, and Doug Miro, follows the story of the Cali Cartel. Pedro Pascal reprises his role from the previous two seasons.
 
   "Narcos: Mexico":
     year: 2018
@@ -1683,16 +382,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/238530
-        summary: The first season begins in November 1983, when researchers at Hawkins National Laboratory open a rift to the "Upside Down", an alternate dimension that reflects onto the real world. A monstrous humanoid creature escapes and abducts a boy named Will Byers and a teenage girl named Barbara Holland. Will's mother, Joyce, and the town's police chief, Jim Hopper, search for Will. At the same time, a young psychokinetic girl who goes by the name "Eleven" escapes from the laboratory and assists Will's friends, Mike, Dustin, and Lucas, in their own efforts to find Will.
       2:
         url_poster: https://theposterdb.com/api/assets/238531
-        summary: In the fall of 1984, Will Byers finds himself the target of the Upside Down as a large tentacled entity called the Mind Flayer soon terrorizes the citizens of Hawkins, drawing back Joyce and Hopper along with Mike's sister Nancy, Will's brother Jonathan, and Nancy's boyfriend Steve, as well as Will's close friends; Mike, Dustin, and Lucas. The whole group along with Californian newcomer Max as well as a missing Eleven must join forces once again to prevent the threat from increasing.
       3:
         url_poster: https://theposterdb.com/api/assets/238532
-        summary: In the summer of 1985 in Hawkins, the newly opened Starcourt Mall has become the focal point of the town, driving other stores out of business. Hawkins chief of police, Jim Hopper, disapproves of Eleven and Mike's budding relationship, while Joyce considers moving out of Hawkins for a better life for her children and herself, leaving the state of the children's friendships and her own relationship with Hopper in the air. Joyce notices something strange going on with her magnets and decides to investigate. However, strange power fluctuations trigger Will's awareness of something otherworldly, and Eleven and Max sense something is off about the town's residents. Despite having closed the portal to the Upside Down, they fear that they are all still in danger from it. The friends work together to help Max's brother Billy while Hopper and Joyce have their own adventure.
       4:
         url_poster: https://theposterdb.com/api/assets/238533
-        summary: It's been six months since the Battle of Starcourt, which brought terror and destruction to Hawkins. Struggling with the aftermath, our group of friends are separated for the first time – and navigating the complexities of high school hasn't made things any easier. In this most vulnerable time, a new and horrifying supernatural threat surfaces, presenting a gruesome mystery that, if solved, might finally put an end to the horrors of the Upside Down.
 
   Squid Game:
     year: 2021
@@ -1707,14 +402,11 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/193235
-        summary: Special and Extra episodes for The Witcher.
       1:
         url_poster: https://theposterdb.com/api/assets/193236
-        summary: The first season consisted of eight episodes and was released on Netflix in its entirety on December 20, 2019. It was based on The Last Wish and Sword of Destiny, which are collections of short stories that precede the main Witcher saga.
       2:
         url_poster: https://theposterdb.com/api/assets/193237
-        summary: The second season, also consisting of eight episodes, was released on December 17, 2021.
-        
+
   "The Witcher: Blood Origin":
     year: 2022
     url_poster: https://theposterdb.com/api/assets/293711
