@@ -48,7 +48,6 @@ collections:
 
 metadata:
 
-  # The World of Ice & Fire
   Game of Thrones:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/225917
@@ -107,8 +106,6 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/40408
 
-
-  # Marvel Television - https://theposterdb.com/set/11318 and https://theposterdb.com/set/77796
   Marvel's Agents of S.H.I.E.L.D.:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/87635
@@ -350,7 +347,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/191856
 
-  #South Park Universe
   South Park:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/36001
@@ -410,7 +406,6 @@ metadata:
       26:
         url_poster: https://theposterdb.com/api/assets/319392
 
-  # Star Trek - Summary was sourced from Memory-Alpha
   Star Trek:
     year: 1966
     url_poster: https://theposterdb.com/api/assets/70678
@@ -585,8 +580,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/245291
         summary: Star Trek Strange New Worlds follows Captain Christopher Pike (played by Anson Mount) and the crew of the starship USS Enterprise (NCC-1701) in the 23rd century as they explore new worlds throughout the galaxy in the decade before Star Trek The Original Series.
 
-
-  # Stargate - Summaries sourced from wikipedia
   Stargate SG-1:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/210314
@@ -681,7 +674,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/211592
         summary: The story arc of Stargate Infinity follows Gus Bonner being framed for opening the Stargate for alien enemies in a future version of Stargate Command (SGC). Bonner escapes with a group of fresh recruits through the Stargate. The team cannot return to Earth before they have cleared their names. The show was cancelled before any of its major plots could be resolved. The story unfolds when the members of the team encounter different alien races from other planets.
 
-  # Star Wars (Animated) - https://theposterdb.com/set/24300
   "Star Wars: Droids":
     year: 1985
     url_poster: https://theposterdb.com/api/assets/182262
@@ -789,7 +781,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/182269
 
-  # Star Wars (Live Action) - https://theposterdb.com/set/24300
   The Mandalorian:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/124658
@@ -827,7 +818,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/266674
         summary: Beginning five years before the events of Rogue One (2016), the series follows an ensemble cast of characters during the time that a Rebel Alliance is forming in opposition to the Galactic Empire. One of these characters is Cassian Andor, a thief who becomes a revolutionary and eventually joins the Rebellion.      
 
-  # The Walking Dead - https://theposterdb.com/set/67802
   The Walking Dead:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/108039
@@ -897,7 +887,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/129843
         summary: The series, set in Nebraska ten years after the zombie apocalypse, features four teenage protagonists and focuses on "the first generation to come-of-age in the apocalypse as we know it. Some will become heroes. Some will become villains. In the end, all of them will be changed forever. Grown-up and cemented in their identities, both good and bad.
 
-  # The X-Files - Summaries sourced from wikipedia
   The X-Files:
     year: 1993
     url_poster: https://theposterdb.com/api/assets/160397
@@ -950,16 +939,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/160396
         summary: Whereas The X-Files deals mainly with paranormal events and conspiracies to cover up extraterrestrial contact, The Lone Gunmen draws on secret activity of other kinds, such as government-sponsored terrorism, the development of a surveillance society, corporate crime, and escaped Nazis. The show has a light mood and elements of slapstick comedy. The trio are alternately aided and hindered by a mysterious thief named Yves Adele Harlow.
 
-
-
-
-
-#########################################################################
-#                TV Show Metadata Sorted By Networks                    #
-#          All summaries sourced from wikipedia unless noted            #
-#########################################################################
-
-  # A&E
   The First 48:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/39038
@@ -1232,7 +1211,6 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/39461
 
-  # ABC
   Crusade in Europe:
     year: 1949
     url_poster: https://theposterdb.com/api/assets/145224
@@ -1431,7 +1409,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/166453
 
-  # Adult Swim
   Rick and Morty:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/168176
@@ -1451,7 +1428,6 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/263703
 
-  # Amazon Prime
   The Expanse:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/183290
@@ -1478,7 +1454,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/183289
         summary: Holden and the crew of the Rocinante fight alongside the Combined Fleet of Earth and Mars to protect the Inner Planets from Marco Inaros and his Free Navy's campaign of death and destruction. The combined fleet, allied with the fleet of Camina Drummer and other Belter fleets, is successful in defeating Marco and his Free Navy. On a distant planet beyond the Rings, a new power rises.
 
-  # CBS (Paramount)
   Teenage Mutant Ninja Turtles:
     year: 1987
     url_poster: https://theposterdb.com/api/assets/163236
@@ -1506,10 +1481,6 @@ metadata:
       10:
         url_poster: https://theposterdb.com/api/assets/163247
 
-  # FX/FXX
-
-
-  # Fox
   24:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/83054
@@ -1559,7 +1530,6 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/66318
 
-  # HBO
   Oz:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/194324
@@ -1579,7 +1549,6 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/194331
 
-  # MTV
   Jackass:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/237371
@@ -1594,8 +1563,6 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/237375
 
-
-  # Netflix
   All of Us Are Dead:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/210649
@@ -1734,7 +1701,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/179026
 
-  # The Witcher Universe
   The Witcher:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/197572
