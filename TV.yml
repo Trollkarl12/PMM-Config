@@ -22,7 +22,7 @@ collections:
   Marvel Cinematic Universe:
     template: {name: Collection, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393201, 412429, 412428, 412431, 361834, 361835, 367227", poster: https://theposterdb.com/api/assets/162885, background: }
     summary: Collection of shows in the Marvel TV Universe.
-  The Sopranos Collection:
+  The Sopranos:
     template: {name: Collection, show: "75299", poster: https://theposterdb.com/api/assets/64844, background: }
   Narcos:
     template: {name: Collection, show: "282670, 353232", poster: https://theposterdb.com/api/assets/196849, background: https://i.imgur.com/RUqzj0C.jpg}
@@ -33,11 +33,11 @@ collections:
   The Last Kingdom:
     template: {name: Collection, show: "298566", poster: https://theposterdb.com/api/assets/350790, background: https://i.imgur.com/7JCO6cc.jpg}
     summary: England, 872. A Saxon man, raised by Danes, must choose a side and play his part in the birth of a nation, alongside the man who would become known as King Alfred the Great.
-  The Boys Complete Collection:
+  The Boys:
     template: {name: Collection, show: "417909, 355567", poster: https://theposterdb.com/api/assets/408209, background: }
-  World of Ice and Fire Collection:
+  The World of Ice and Fire:
     template: {name: Collection, show: "121361, 371572", poster: https://theposterdb.com/api/assets/255378, background: }
-  Vikings Collection:
+  Vikings:
     template: {name: Collection, show: "260449, 372700", poster: https://theposterdb.com/api/assets/251220, background: }
   Middle Earth:
     template: {name: Collection, show: "367506", poster: https://theposterdb.com/api/assets/12360, background: }
