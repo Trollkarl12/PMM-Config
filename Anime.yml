@@ -108,6 +108,8 @@ collections:
     template: {name: Collection, show: "75579, 85249", poster: https://theposterdb.com/api/assets/28489, background: }
   The Prince of Tennis:
     template: {name: Collection, show: "73532, 254899", poster: https://theposterdb.com/api/assets/318986, background: }
+  The Seven Deadly Sins:
+    template: {name: Collection, show: "284131, 420018", poster: https://theposterdb.com/api/assets/431175, background: }
 
 ######################################################
 #                  Anime Metadata                    #
@@ -3892,18 +3894,18 @@ metadata:
 
   The Seven Deadly Sins:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/92245
+    url_poster: https://theposterdb.com/api/assets/431997
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/92246
+        url_poster: https://theposterdb.com/api/assets/431991
       1:
-        url_poster: https://theposterdb.com/api/assets/92247
+        url_poster: https://theposterdb.com/api/assets/431999
       2:
-        url_poster: https://theposterdb.com/api/assets/92248
+        url_poster: https://theposterdb.com/api/assets/432000
       3:
-        url_poster: https://theposterdb.com/api/assets/92249
+        url_poster: https://theposterdb.com/api/assets/432001
       4:
-        url_poster: https://theposterdb.com/api/assets/92250
+        url_poster: https://theposterdb.com/api/assets/432002
 
   The Seven Heavenly Virtues:
     year: 2018
