@@ -5600,7 +5600,14 @@ metadata:
 
   Kamisama Kiss:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/107098
+    url_poster: https://theposterdb.com/api/assets/435831
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/435832
+      1:
+        url_poster: https://theposterdb.com/api/assets/435833
+      2:
+        url_poster: https://theposterdb.com/api/assets/435834
 
   Tsukigakirei:
     year: 2017
@@ -6051,6 +6058,61 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/341691
       2:
         url_poster: https://theposterdb.com/api/assets/341693
+
+  Love Live! School Idol Project:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/392362
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/392363
+      1:
+        url_poster: https://theposterdb.com/api/assets/392364
+      2:
+        url_poster: https://theposterdb.com/api/assets/392365
+
+  "Dragonaut: The Resonance":
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/300284
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/300286
+      1:
+        url_poster: https://theposterdb.com/api/assets/300285
+
+  Rainbow:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/186331
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/186332
+
+  "Asura Cryin'":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/162545
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/162546
+      1:
+        url_poster: https://theposterdb.com/api/assets/162547
+      2:
+        url_poster: https://theposterdb.com/api/assets/162548
+
+  Saiyuki:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/204287
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/204288
+      1:
+        url_poster: https://theposterdb.com/api/assets/204289
+      2:
+        url_poster: https://theposterdb.com/api/assets/204290
+      3:
+        url_poster: https://theposterdb.com/api/assets/204291
+      4:
+        url_poster: https://theposterdb.com/api/assets/204292
+      5:
+        url_poster: https://theposterdb.com/api/assets/204293
 
   #Winter Season 2024
   Tales of Wedding Rings:
