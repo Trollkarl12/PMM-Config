@@ -855,12 +855,14 @@ metadata:
 
   "Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside":
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/200858
+    url_poster: https://theposterdb.com/api/assets/416839
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/248357
+        url_poster: https://theposterdb.com/api/assets/416840
       1:
-        url_poster: https://theposterdb.com/api/assets/248358
+        url_poster: https://theposterdb.com/api/assets/416841
+      2:
+        url_poster: https://theposterdb.com/api/assets/416842
 
   Barakamon:
     year: 2014
