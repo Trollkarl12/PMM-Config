@@ -3575,8 +3575,12 @@ metadata:
     year: 1988
     url_poster: https://theposterdb.com/api/assets/271636
     seasons:
-      1:
+      0:
         url_poster: https://theposterdb.com/api/assets/271632
+      1:
+        url_poster: https://theposterdb.com/api/assets/271635
+      2:
+        url_poster: https://theposterdb.com/api/assets/271634
 
   Plastic Memories:
     year: 2015
