@@ -6110,15 +6110,20 @@ metadata:
       0:
         url_poster: https://theposterdb.com/api/assets/204288
       1:
-        url_poster: https://theposterdb.com/api/assets/204289
+        url_poster: https://theposterdb.com/api/assets/274408
       2:
-        url_poster: https://theposterdb.com/api/assets/204290
+        url_poster: https://theposterdb.com/api/assets/274409
       3:
-        url_poster: https://theposterdb.com/api/assets/204291
+        url_poster: https://theposterdb.com/api/assets/274410
       4:
-        url_poster: https://theposterdb.com/api/assets/204292
-      5:
-        url_poster: https://theposterdb.com/api/assets/204293
+        url_poster: https://theposterdb.com/api/assets/274411
+
+  Saiyuki Reload -Zeroin-:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/274412
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/274412
 
   #Winter Season 2024
   Tales of Wedding Rings:
