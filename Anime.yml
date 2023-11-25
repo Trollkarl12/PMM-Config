@@ -5298,14 +5298,14 @@ metadata:
 
   Rage of Bahamut:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/286482
+    url_poster: https://theposterdb.com/api/assets/435512
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/286483
+        url_poster: https://theposterdb.com/api/assets/435513
       1:
-        url_poster: https://theposterdb.com/api/assets/286484
+        url_poster: https://theposterdb.com/api/assets/435514
       2:
-        url_poster: https://theposterdb.com/api/assets/286485
+        url_poster: https://theposterdb.com/api/assets/435515
 
   "Wolf's Rain":
     year: 2003
@@ -6020,6 +6020,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/282306
       4:
         url_poster: https://theposterdb.com/api/assets/282307
+
+  Mysteria Friends:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/435516
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/435517
 
   #Winter Season 2024
   Tales of Wedding Rings:
