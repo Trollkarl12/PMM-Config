@@ -6138,6 +6138,19 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/369287
 
+  Ace of Diamond:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/125641
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/125642
+      1:
+        url_poster: https://theposterdb.com/api/assets/125643
+      2:
+        url_poster: https://theposterdb.com/api/assets/125644
+      3:
+        url_poster: https://theposterdb.com/api/assets/125645
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
