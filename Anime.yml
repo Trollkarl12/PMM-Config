@@ -103,7 +103,7 @@ collections:
   Inuyasha:
     template: {name: Collection, show: "71361, 384485", poster: https://theposterdb.com/api/assets/160751, background: }
   Patlabor:
-    template: {name: Collection, show: "80789, 393352", poster: https://theposterdb.com/api/assets/2307, background }
+    template: {name: Collection, show: "80789, 0159883, 393352", poster: https://theposterdb.com/api/assets/2307, background }
   Fullmetal Alchemist:
     template: {name: Collection, show: "75579, 85249", poster: https://theposterdb.com/api/assets/28489, background: }
   The Prince of Tennis:
