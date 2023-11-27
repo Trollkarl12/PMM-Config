@@ -3769,14 +3769,16 @@ metadata:
 
   The Rising of the Shield Hero:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/126066
+    url_poster: https://theposterdb.com/api/assets/436621
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/436622
       1:
-        url_poster: https://theposterdb.com/api/assets/419379
+        url_poster: https://theposterdb.com/api/assets/436623
       2:
-        url_poster: https://theposterdb.com/api/assets/419380
+        url_poster: https://theposterdb.com/api/assets/436624
       3:
-        url_poster: https://theposterdb.com/api/assets/419381
+        url_poster: https://theposterdb.com/api/assets/436625
 
   Romantic Killer:
     year: 2022
