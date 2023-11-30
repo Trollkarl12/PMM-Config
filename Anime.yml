@@ -6162,6 +6162,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/390667
 
+  Azur Lane:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/437603
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/437604
+      1:
+        url_poster: https://theposterdb.com/api/assets/437605
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
