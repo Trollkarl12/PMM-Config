@@ -1273,10 +1273,12 @@ metadata:
 
   Azur Lane:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/399476
+    url_poster: https://theposterdb.com/api/assets/437603
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/437604
       1:
-        url_poster: https://theposterdb.com/api/assets/399477
+        url_poster: https://theposterdb.com/api/assets/437605
 
   Blast of Tempest:
     year: 2012
@@ -6161,15 +6163,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/390670
       1:
         url_poster: https://theposterdb.com/api/assets/390667
-
-  Azur Lane:
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/437603
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/437604
-      1:
-        url_poster: https://theposterdb.com/api/assets/437605
 
   Suppose a Kid From the Last Dungeon Boonies Moved to a Starter Town?:
     year: 2021
