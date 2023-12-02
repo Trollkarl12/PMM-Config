@@ -1607,10 +1607,12 @@ metadata:
 
   Death Note:
     year: 2006
-    url_poster: https://theposterdb.com/api/assets/72761
+    url_poster: https://theposterdb.com/api/assets/335133
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/335134
       1:
-        url_poster: https://theposterdb.com/api/assets/72762
+        url_poster: https://theposterdb.com/api/assets/335135
 
   Death Parade:
     year: 2015
