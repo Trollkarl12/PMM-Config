@@ -6173,6 +6173,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/124380
 
+  BlazBlue Alter Memory:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/439254
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/439255
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
