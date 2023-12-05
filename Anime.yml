@@ -6236,3 +6236,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/434272
+
+  Ishura:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/439374
+    seasons:
+      0:
+        url_poster: 
+      1:
+        url_poster: 
