@@ -3945,6 +3945,8 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/407889
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/439984
       1:
         url_poster: https://theposterdb.com/api/assets/407890
 
@@ -6182,6 +6184,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/439255
 
+  "Wandering Witch: The Journey of Elaina":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/439961
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/439957
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
@@ -6243,7 +6252,12 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/439374
     seasons:
-      0:
-        url_poster: 
       1:
         url_poster: 
+
+  "Mr. Villain's Day Off":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/439887
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/439888
