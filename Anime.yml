@@ -4373,10 +4373,10 @@ metadata:
 
   "Wandering Witch: The Journey of Elaina":
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/108771
+    url_poster: https://theposterdb.com/api/assets/439961
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/108771
+        url_poster: https://theposterdb.com/api/assets/439957
 
   Wagnaria!!:
     year: 2010
@@ -6183,13 +6183,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/439255
-
-  "Wandering Witch: The Journey of Elaina":
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/439961
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/439957
 
   #Winter Season 2024
   Tales of Wedding Rings:
