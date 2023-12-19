@@ -292,15 +292,19 @@ metadata:
         
   The Daily Life of the Immortal King:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/162346
+    url_poster: 
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/332336
       1:
-        url_poster: https://theposterdb.com/api/assets/162347
+        url_poster: https://theposterdb.com/api/assets/332307
       2:
-        url_poster: https://theposterdb.com/api/assets/162348
+        url_poster: https://theposterdb.com/api/assets/332308
       3:
-        url_poster: https://theposterdb.com/api/assets/234271
-        
+        url_poster: https://theposterdb.com/api/assets/332309
+      4:
+        url_poster: https://theposterdb.com/api/assets/445134
+
   The Kingdoms of Ruin:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/418407
