@@ -3315,22 +3315,24 @@ metadata:
 
   My Hero Academia:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/126283
+    url_poster: https://theposterdb.com/api/assets/234252
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/126284
+        url_poster: https://theposterdb.com/api/assets/234253
       1:
-        url_poster: https://theposterdb.com/api/assets/126285
+        url_poster: https://theposterdb.com/api/assets/234254
       2:
-        url_poster: https://theposterdb.com/api/assets/126286
+        url_poster: https://theposterdb.com/api/assets/234255
       3:
-        url_poster: https://theposterdb.com/api/assets/126287
+        url_poster: https://theposterdb.com/api/assets/234256
       4:
-        url_poster: https://theposterdb.com/api/assets/126288
+        url_poster: https://theposterdb.com/api/assets/234257
       5:
-        url_poster: https://theposterdb.com/api/assets/126289
+        url_poster: https://theposterdb.com/api/assets/234258
       6:
-        url_poster: https://theposterdb.com/api/assets/273467
+        url_poster: https://theposterdb.com/api/assets/234259
+      7:
+        url_poster: https://theposterdb.com/api/assets/445992
 
   My Home Hero:
     year: 2023
@@ -3664,10 +3666,10 @@ metadata:
 
   Ragna Crimson:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/405038
+    url_poster: https://theposterdb.com/api/assets/446001
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/405039
+        url_poster: https://theposterdb.com/api/assets/446002
 
   Rascal Does Not Dream of Bunny Girl Senpai:
     year: 2018
