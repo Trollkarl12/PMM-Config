@@ -6234,6 +6234,19 @@ metadata:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/93055
 
+  My-Otome:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/226101
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/226102
+      1:
+        url_poster: https://theposterdb.com/api/assets/226103
+      2:
+        url_poster: https://theposterdb.com/api/assets/226104
+      3:
+        url_poster: https://theposterdb.com/api/assets/226105
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
