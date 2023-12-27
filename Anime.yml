@@ -6190,6 +6190,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/439255
 
+  Ah! My Goddess:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/250364
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/250365
+      1:
+        url_poster: https://theposterdb.com/api/assets/250366
+      2:
+        url_poster: https://theposterdb.com/api/assets/250367
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
