@@ -6201,6 +6201,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/250367
 
+  Rewrite:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/344248
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/344249
+      2:
+        url_poster: https://theposterdb.com/api/assets/344250
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
