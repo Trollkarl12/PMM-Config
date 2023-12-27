@@ -6210,6 +6210,19 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/344250
 
+  Aria:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/318537
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/318538
+      1:
+        url_poster: https://theposterdb.com/api/assets/318539
+      2:
+        url_poster: https://theposterdb.com/api/assets/318540
+      3:
+        url_poster: https://theposterdb.com/api/assets/318541
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
