@@ -6263,6 +6263,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322356
 
+  "Akiba's Trip The Animation":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/181730
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/181731
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
