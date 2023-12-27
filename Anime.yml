@@ -6247,6 +6247,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/226105
 
+  My-Hime:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/225412
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/225413
+      1:
+        url_poster: https://theposterdb.com/api/assets/225414
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
