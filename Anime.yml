@@ -6223,6 +6223,13 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/318541
 
+  Burn the Witch:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/275706
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/275707
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
