@@ -6281,9 +6281,9 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/448390
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/448391
       1:
+        url_poster: https://theposterdb.com/api/assets/448391
+      2:
         url_poster: https://theposterdb.com/api/assets/448392
 
   #Winter Season 2024
