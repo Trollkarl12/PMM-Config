@@ -5280,18 +5280,18 @@ metadata:
 
   Yu Yu Hakusho:
     year: 1992
-    url_poster: https://theposterdb.com/api/assets/64784
+    url_poster: https://theposterdb.com/api/assets/448667
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/64785
+        url_poster: https://theposterdb.com/api/assets/448668
       1:
-        url_poster: https://theposterdb.com/api/assets/64786
+        url_poster: https://theposterdb.com/api/assets/448669
       2:
-        url_poster: https://theposterdb.com/api/assets/64787
+        url_poster: https://theposterdb.com/api/assets/448670
       3:
-        url_poster: https://theposterdb.com/api/assets/64788
+        url_poster: https://theposterdb.com/api/assets/448671
       4:
-        url_poster: https://theposterdb.com/api/assets/64789
+        url_poster: https://theposterdb.com/api/assets/448672
 
   The Apothecary Diaries:
     year: 2023
@@ -6276,6 +6276,15 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/434825
+
+  The Fire Hunter:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/448390
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/448391
+      1:
+        url_poster: https://theposterdb.com/api/assets/448392
 
   #Winter Season 2024
   Tales of Wedding Rings:
