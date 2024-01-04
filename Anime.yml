@@ -6286,6 +6286,24 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/448392
 
+  Yosuga no Sora:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/337396
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/337411
+      1:
+        url_poster: https://theposterdb.com/api/assets/337397
+
+  My Wife is the Student Council President:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/284535
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/284536
+      1:
+        url_poster: https://theposterdb.com/api/assets/284537
+
   #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
@@ -6336,7 +6354,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/434121
 
-  Gushing over Magical Girls:
+  Gushing Over Magical Girls:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/434271
     seasons:
