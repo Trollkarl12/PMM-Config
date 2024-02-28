@@ -3891,10 +3891,12 @@ metadata:
 
   Seraph of the End:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/75368
+    url_poster: https://theposterdb.com/api/assets/180021
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/180022
       1:
-        url_poster: https://theposterdb.com/api/assets/75369
+        url_poster: https://theposterdb.com/api/assets/180023
 
   Serial Experiments Lain:
     year: 1998
@@ -5098,6 +5100,9 @@ metadata:
   The Pet Girl of Sakurasou:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/297834
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450314
 
   The Promised Neverland:
     year: 2019
@@ -5310,6 +5315,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/175276
       2:
         url_poster: https://theposterdb.com/api/assets/175277
+      3:
+        url_poster: https://theposterdb.com/api/assets/175279
+      4:
+        url_poster: https://theposterdb.com/api/assets/224419
 
   "The Seven Deadly Sins: Four Knights of the Apocalypse":
     year: 2023
@@ -6304,7 +6313,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/284537
 
-  #Winter Season 2024
   Tales of Wedding Rings:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/433898
@@ -6393,6 +6401,8 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/443681
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/450331
       1:
         url_poster: https://theposterdb.com/api/assets/443682
 
@@ -6416,3 +6426,186 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/449962
+
+  Solo Leveling:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/340049
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/450288
+      1:
+        url_poster: https://theposterdb.com/api/assets/340050
+
+  The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450342
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450343
+
+  Sasaki and Peeps:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450061
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450062
+
+  The Foolish Angel Dances with the Devil:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450344
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450345
+
+  Ninja Kamui:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450275
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450276
+
+  The Weakest Tamer Began a Journey to Pick Up Trash:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450289
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450290
+
+  Brave Bang Bravern!:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450309
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450310
+
+  Hokkaido Gals Are Super Adorable!:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450340
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450341
+
+  "Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450333
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450334
+
+  "'Tis Time for "Torture," Princess":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450327
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450328
+
+  "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/422111
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/422112
+
+  A Sign of Affection:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/439656
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/439657
+
+  High Card:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/410102
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/410103
+      2:
+        url_poster: https://theposterdb.com/api/assets/410104
+
+  Urusei Yatsura:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/275401
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/275402
+      2:
+        url_poster: https://theposterdb.com/api/assets/413687
+
+  BUCCHIGIRI?!:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450273
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450274
+
+  "Doctor Elise: The Royal Lady with the Lamp":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450311
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450312
+
+  The Case Study of Vanitas:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/196611
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/196612
+      2:
+        url_poster: https://theposterdb.com/api/assets/199406
+
+  Golden Boy:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/410785
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/410786
+
+  "Shironeko Project: Zero Chronicle":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/107034
+
+  "I'm Standing on a Million Lives":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/159434
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/159435
+      2:
+        url_poster: https://theposterdb.com/api/assets/159436
+
+  Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/303686
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/303687
+
+#Gundam
+
+  Mobile Suit Gundam:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/329452
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/329453
+      1:
+        url_poster: https://theposterdb.com/api/assets/329454
+
+  Mobile Suit Zeta Gundam:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/322819
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322820
+      1:
+        url_poster: https://theposterdb.com/api/assets/322821
+
+  Mobile Suit Gundam ZZ:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/322822
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322823
+      1:
+        url_poster: https://theposterdb.com/api/assets/322824
