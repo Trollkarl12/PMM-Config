@@ -6314,9 +6314,9 @@ metadata:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/284535
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/284536
       1:
+        url_poster: https://theposterdb.com/api/assets/284536
+      2:
         url_poster: https://theposterdb.com/api/assets/284537
 
   Tales of Wedding Rings:
