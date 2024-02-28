@@ -812,7 +812,7 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/312252
 
-  AYAKA:
+  Ayaka:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/373440
     seasons:
@@ -857,7 +857,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/321302
 
-  "Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside":
+  "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/416839
     seasons:
@@ -1710,7 +1710,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/290443
 
-  "Don't Toy with Me, Miss Nagatoro":
+  "DON'T TOY WITH ME, MISS NAGATORO":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/303705
     seasons:
@@ -2486,7 +2486,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/418524
  
-  "I'm in Love With the Villainess":
+  "I'm in Love with the Villainess":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/375459
     seasons:
@@ -3361,7 +3361,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/392453
 
-  My Love Story With Yamada-kun at Lv999:
+  My Love Story with Yamada-kun at Lv999:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/347197
     seasons:
@@ -4573,7 +4573,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/303122
 
-  Tsukimichi -Moonlit Fantasy-:
+  TSUKIMICHI -Moonlit Fantasy-:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/401913
     seasons:
@@ -4910,7 +4910,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/190882
 
-  Manyuu Hiken-chou:
+  Manyu Scroll:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/240961
 
@@ -6157,7 +6157,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/317104
 
   "YuruYuri: Happy Go Lily":
-    year: 2003
+    year: 2011
     url_poster: https://theposterdb.com/api/assets/369282
     seasons:
       0:
@@ -6347,13 +6347,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/434092
 
-  Wind Breaker:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/434095
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/434096
-
   The Demon Prince of Momochi House:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/434099
@@ -6442,7 +6435,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/450062
 
-  The Foolish Angel Dances with the Devil:
+  The Foolish Angel Dances With the Devil:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450344
     seasons:
@@ -6674,3 +6667,10 @@ metadata:
         url_poster: 
       1:
         url_poster: 
+
+  Wind Breaker:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/434095
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/434096
