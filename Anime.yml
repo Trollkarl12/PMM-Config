@@ -1124,6 +1124,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/344791
+      2:
+        url_poster: https://theposterdb.com/api/assets/450305
 
   Campfire Cooking in Another World with my Absurd Skill:
     year: 2023
@@ -1421,10 +1423,12 @@ metadata:
 
   Chainsaw Man:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/274812
+    url_poster: https://theposterdb.com/api/assets/344239
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/445979
       1:
-        url_poster: https://theposterdb.com/api/assets/274811
+        url_poster: https://theposterdb.com/api/assets/344240
 
   Charlotte:
     year: 2015
@@ -4678,10 +4682,12 @@ metadata:
 
   Toilet-Bound Hanako-kun:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/419334
+    url_poster: https://theposterdb.com/api/assets/425164
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/419335
+        url_poster: https://theposterdb.com/api/assets/425165
+      2:
+        url_poster: https://theposterdb.com/api/assets/450293
 
   Today's Menu for the Emiya Family:
     year: 2017
@@ -6405,20 +6411,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/450331
       1:
         url_poster: https://theposterdb.com/api/assets/443682
-
-  Kaiju No.8:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/445893
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/445894
-
-  The Elusive Samurai:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/445895
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/445896
 
   The Unwanted Undead Adventurer:
     year: 2024
