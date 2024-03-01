@@ -27,6 +27,10 @@ templates:
     
 collections:
 
+######################################################
+#                  Special Collections                 #
+######################################################
+
   Current Anime Season:
     ### Always displayed as the first collection.
     sort_title: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++_Current Season
