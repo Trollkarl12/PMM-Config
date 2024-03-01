@@ -6560,6 +6560,15 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/447028
 
+  Revue Starlight:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/250530
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/437180
+      1:
+        url_poster: https://theposterdb.com/api/assets/250531
+
 #Gundam
 
   Mobile Suit Gundam:
