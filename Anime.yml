@@ -6565,6 +6565,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322824
 
+  Mobile Suit Gundam Unicorn:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/322849
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322850
+      1:
+        url_poster: https://theposterdb.com/api/assets/322851
+
 #Not yet released
 
   "Chillin' in Another World with Level 2 Super Cheat Powers":
