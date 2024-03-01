@@ -1,0 +1,112 @@
+templates:
+  Anime Season:
+    # sort_year is to ensure we can sort by showing the most recent seasons first
+    # season_index is used to ensure we order the anime correctly, Winter > Spring > Summer > Fall
+    url_poster: https://github.com/Drapersniper/Posters/raw/main/anime/seasons/<<year>>/<<season>>.jpg
+    mal_season:
+      season: <<season_lower>>
+      year: <<year>>
+      limit: 500
+      sort_by: members
+    sync_mode: sync
+    sort_title: zzzz_Season_<<sort_year>>_<<season_index>>_<<year>>
+    summary: Anime airing during <<season_lower>> anime season in <<year>>.
+    smart_label: release.desc
+    collection_order: release
+
+  Collection:
+    optional:
+      - list
+      - show
+    tvdb_list_details: <<list>>
+    tvdb_show: <<show>>
+    url_poster: <<poster>>
+    url_background: <<background>>
+    sync_mode: sync
+    collection_order: release
+    
+collections:
+
+  Current Anime Season:
+    ### Always displayed as the first collection.
+    sort_title: +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++_Current Season
+    mal_season:
+      sort_by: members
+      limit: 500
+    summary: Anime airing this season.
+    smart_label: episode_added.desc
+    sync_mode: sync
+
+  Fall 2023 Anime:
+    template: {name: Anime Season, year: 2023, sort_year: "00977", season: "Fall", season_lower: "fall", season_index: "0"}
+  Summer 2023 Anime:
+    template: {name: Anime Season, year: 2023, sort_year: "00977", season: "Summer", season_lower: "summer", season_index: "1"}
+  Spring 2023 Anime:
+    template: {name: Anime Season, year: 2023, sort_year: "00977", season: "Spring", season_lower: "spring", season_index: "2"}
+  Winter 2023 Anime:
+    template: {name: Anime Season, year: 2023, sort_year: "00977", season: "Winter", season_lower: "winter", season_index: "3"}
+  Fall 2022 Anime:
+    template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Fall", season_lower: "fall", season_index: "0"}
+  Summer 2022 Anime:
+    template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Summer", season_lower: "summer", season_index: "1"}
+  Spring 2022 Anime:
+    template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Spring", season_lower: "spring", season_index: "2"}
+  Winter 2022 Anime:
+    template: {name: Anime Season, year: 2022, sort_year: "00978", season: "Winter", season_lower: "winter", season_index: "3"}
+
+######################################################
+#                  Anime Collections                 #
+######################################################
+
+  Dragon Ball:
+    template: {name: Collection, show: "76666, 81472, 295068, 79275, 88031", poster: https://theposterdb.com/api/assets/168842, background: }
+  Fate:
+    template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138, 251047, 74522, 394346, 269319", poster: https://theposterdb.com/api/assets/141038, background: }
+  Sword Art Online Universe:
+    template: {name: Collection, show: "259640, 335815", poster: https://theposterdb.com/api/assets/134406, background: }
+  That Time I Got Reincarnated as a Slime:
+    template: {name: Collection, show: "352408, 385374", poster: https://theposterdb.com/api/assets/133803, background: }
+  Berserk:
+    template: {name: Collection, show: "73752, 307111, 425148", poster: https://theposterdb.com/api/assets/402721, background: }
+  Naruto:
+    template: {name: Collection, show: "78857, 79824, 321285", poster: https://theposterdb.com/api/assets/128350, background: }
+  Baki:
+    template: {name: Collection, show: "79237, 348742, 406152", poster: https://theposterdb.com/api/assets/401297, background: }
+  Science Adventure:
+    template: {name: Collection, show: "244061, 339268, 83358, 320459, 316332, 259849", poster: https://theposterdb.com/api/assets/412283, background: }
+  Legend of the Galactic Heroes:
+    template: {name: Collection, show: "81618, 268996, 343237", poster: https://theposterdb.com/api/assets/315344, background: }
+  A Certain Universe:
+    template: {name: Collection, show: "83322, 114921, 360438", poster: https://theposterdb.com/api/assets/184032, background: }
+  Konosuba:
+    template: {name: Collection, show: "303867, 420657", poster: https://theposterdb.com/api/assets/129067, background: }
+  D.Gray-man:
+    template: {name: Collection, show: "79635, 312878", poster: https://theposterdb.com/api/assets/256325, background: }
+  Ikki Tousen:
+    template: {name: Collection, show: "80158, 405904", poster: https://theposterdb.com/api/assets/392229, background: }
+  Rurouni Kenshin:
+    template: {name: Collection, show: "70863, 413578", poster: https://theposterdb.com/api/assets/166499, background: }
+  Is It Wrong to Try to Pick Up Girls in a Dungeon?:
+    template: {name: Collection, show: "289882, 321670", poster: https://theposterdb.com/api/assets/106221, background: }
+  Magi:
+    template: {name: Collection, show: "262094, 310718", poster: https://theposterdb.com/api/assets/68810, background: }
+  Soul Eater:
+    template: {name: Collection, show: "81751, 278371", poster: https://theposterdb.com/api/assets/75257, background: }
+  Magic High School:
+    template: {name: Collection, show: "278329, 394013", poster: https://theposterdb.com/api/assets/161955, background: }
+  Fairy Tail:
+    template: {name: Collection, show: "114801, 388645", poster: https://theposterdb.com/api/assets/359658, background: }
+  Hellsing:
+    template: {name: Collection, show: "71278, 263688", poster: https://theposterdb.com/api/assets/128338, background: }
+  Hunter x Hunter:
+    template: {name: Collection, show: "79076, 252322", poster: https://theposterdb.com/api/assets/335016, background: }
+  Inuyasha:
+    template: {name: Collection, show: "71361, 384485", poster: https://theposterdb.com/api/assets/160751, background: }
+  Patlabor:
+    template: {name: Collection, show: "80789, 0159883, 393352", poster: https://theposterdb.com/api/assets/2307, background }
+  Fullmetal Alchemist:
+    template: {name: Collection, show: "75579, 85249", poster: https://theposterdb.com/api/assets/28489, background: }
+  The Prince of Tennis:
+    template: {name: Collection, show: "73532, 254899", poster: https://theposterdb.com/api/assets/318986, background: }
+  The Seven Deadly Sins:
+    template: {name: Collection, show: "284131, 420018", poster: https://theposterdb.com/api/assets/431175, background: }
