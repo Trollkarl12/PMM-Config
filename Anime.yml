@@ -1449,6 +1449,8 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/329781
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/458970
       1:
         url_poster: https://theposterdb.com/api/assets/329782
       2:
@@ -5649,6 +5651,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/322786
       3:
         url_poster: https://theposterdb.com/api/assets/322787
+      4:
+        url_poster: https://theposterdb.com/api/assets/459030
 
   "Nura: Rise of the Yokai Clan":
     year: 2010
@@ -6467,6 +6471,71 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/457895
 
+  BOCCHI THE ROCK!:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/273982
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/409803
+      1:
+        url_poster: https://theposterdb.com/api/assets/273983
+
+  LINK CLICK:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/205595
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/205596
+      1:
+        url_poster: https://theposterdb.com/api/assets/205597
+      2:
+        url_poster: https://theposterdb.com/api/assets/385009
+
+  ODDTAXI:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/270992
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/429553
+      1:
+        url_poster: https://theposterdb.com/api/assets/270993
+
+  Kaiji:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/99490
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/99491
+      2:
+        url_poster: https://theposterdb.com/api/assets/99492
+
+  "Tomorrow's Joe":
+    year: 1970
+    url_poster: https://theposterdb.com/api/assets/76711
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/76712
+      2:
+        url_poster: https://theposterdb.com/api/assets/76713
+
+  "Heaven Official's Blessing":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/434546
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/434547
+      1:
+        url_poster: https://theposterdb.com/api/assets/434548
+      2:
+        url_poster: https://theposterdb.com/api/assets/434549
+
+  Summer Time Rendering:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/228680
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/228681
+
 #Gundam
 
   Mobile Suit Gundam:
@@ -6537,10 +6606,8 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450306
     seasons:
-      0:
-        url_poster: 
       1:
-        url_poster: 
+        url_poster: https://theposterdb.com/api/assets/458955
 
   Unnamed Memory:
     year: 2024
@@ -6560,7 +6627,7 @@ metadata:
       1:
         url_poster: 
 
-  Gods' Game We Play:
+  "Gods' Game We Play":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/451229
     seasons:
