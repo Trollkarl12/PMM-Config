@@ -6536,6 +6536,30 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/228681
 
+  Nana:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/217642
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/217643
+      1:
+        url_poster: https://theposterdb.com/api/assets/217644
+
+  Slam Dunk:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/446144
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/446145
+      1:
+        url_poster: https://theposterdb.com/api/assets/446146
+      2:
+        url_poster: https://theposterdb.com/api/assets/447026
+      3:
+        url_poster: https://theposterdb.com/api/assets/447027
+      4:
+        url_poster: https://theposterdb.com/api/assets/447028
+
 #Gundam
 
   Mobile Suit Gundam:
