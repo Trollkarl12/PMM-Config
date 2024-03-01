@@ -1047,16 +1047,16 @@ metadata:
 
   Blue Exorcist:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/128908
+    url_poster: https://theposterdb.com/api/assets/457848
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/128909
+        url_poster: https://theposterdb.com/api/assets/457849
       1:
-        url_poster: https://theposterdb.com/api/assets/128910
+        url_poster: https://theposterdb.com/api/assets/457850
       2:
-        url_poster: https://theposterdb.com/api/assets/128911
+        url_poster: https://theposterdb.com/api/assets/457851
       3:
-        url_poster: https://theposterdb.com/api/assets/409276
+        url_poster: https://theposterdb.com/api/assets/457852
 
   BLUELOCK:
     year: 2022
@@ -1385,6 +1385,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/202711
       31:
         url_poster: https://theposterdb.com/api/assets/306821
+      32:
+        url_poster: https://theposterdb.com/api/assets/457131
 
   "Cautious Hero: The Hero Is Overpowered but Overly Cautious":
     year: 2019
@@ -1850,14 +1852,12 @@ metadata:
 
   The Faraway Paladin:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/393720
+    url_poster: https://theposterdb.com/api/assets/457891
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/393721
       1:
-        url_poster: https://theposterdb.com/api/assets/393722
+        url_poster: https://theposterdb.com/api/assets/457892
       2:
-        url_poster: https://theposterdb.com/api/assets/399092
+        url_poster: https://theposterdb.com/api/assets/457893
 
   Farming Life in Another World:
     year: 2023
@@ -6565,6 +6565,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/303687
+
+  "Meiji Gekken: 1874":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/457896
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/457897
+
+  Sengoku Youko:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/457894
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/457895
 
 #Gundam
 
