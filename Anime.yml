@@ -6569,6 +6569,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/250531
 
+  "Wise Man's Grandchild":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/461930
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/461931
+
 #Gundam
 
   Mobile Suit Gundam:
@@ -6613,6 +6620,8 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450307
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/461928
       1:
         url_poster: https://theposterdb.com/api/assets/450308
 
