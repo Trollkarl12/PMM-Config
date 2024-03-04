@@ -6680,12 +6680,10 @@ metadata:
 
   "Gods' Game We Play":
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/451229
+    url_poster: https://theposterdb.com/api/assets/462661
     seasons:
-      0:
-        url_poster: 
       1:
-        url_poster: 
+        url_poster: https://theposterdb.com/api/assets/462662
 
   Wind Breaker:
     year: 2024
