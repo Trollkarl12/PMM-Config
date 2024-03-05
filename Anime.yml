@@ -212,6 +212,8 @@ metadata:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/416718
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/461066
       1:
         url_poster: https://theposterdb.com/api/assets/416719
       2:
