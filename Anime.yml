@@ -6682,10 +6682,8 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450304
     seasons:
-      0:
-        url_poster: 
       1:
-        url_poster: 
+        url_poster: https://theposterdb.com/api/assets/465598
 
   "Gods' Game We Play":
     year: 2024
