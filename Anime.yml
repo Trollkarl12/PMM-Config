@@ -6643,6 +6643,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322851
 
+  Mobile Suit Victory Gundam:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/323581
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323582
+      1:
+        url_poster: https://theposterdb.com/api/assets/323583
+
 #Not yet released
 
   "Chillin' in Another World with Level 2 Super Cheat Powers":
