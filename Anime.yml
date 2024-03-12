@@ -6596,6 +6596,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/465942
 
+  RPG Real Estate:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/465955
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/465956
+      1:
+        url_poster: https://theposterdb.com/api/assets/465957
+
 #Gundam
 
   Mobile Suit Gundam:
