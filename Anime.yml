@@ -3286,10 +3286,10 @@ metadata:
 
   My Senpai Is Annoying:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/201258
+    url_poster: https://theposterdb.com/api/assets/465985
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/201259
+        url_poster: https://theposterdb.com/api/assets/465986
 
   My Teen Romantic Comedy SNAFU:
     year: 2013
@@ -6584,6 +6584,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/462955
+
+  Call of the Night:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/249005
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/465941
+      1:
+        url_poster: https://theposterdb.com/api/assets/249006
+      2:
+        url_poster: https://theposterdb.com/api/assets/465942
 
 #Gundam
 
