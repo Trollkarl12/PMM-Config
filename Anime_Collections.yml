@@ -114,5 +114,5 @@ collections:
     template: {name: Collection, show: "73532, 254899", poster: https://theposterdb.com/api/assets/318986, background: }
   The Seven Deadly Sins:
     template: {name: Collection, show: "284131, 420018", poster: https://theposterdb.com/api/assets/431175, background: }
- Mobile Suit Gundam:
+  Mobile Suit Gundam:
     template: {name: Collection, show: "76547, 403849, 72352, 71535", poster: https://theposterdb.com/api/assets/322526, background: }
