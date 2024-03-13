@@ -3476,7 +3476,9 @@ metadata:
 
   Parasyte -the maxim-:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/75331
+    url_poster: https://theposterdb.com/api/assets/466401
+      1:
+        url_poster: https://theposterdb.com/api/assets/466402
 
   "Patlabor: The Mobile Police":
     year: 1989
@@ -6604,6 +6606,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/465956
       1:
         url_poster: https://theposterdb.com/api/assets/465957
+
+  Galaxy Express 999:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/466284
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/466284
 
 #Gundam
 
