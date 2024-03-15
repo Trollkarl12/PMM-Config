@@ -3477,6 +3477,7 @@ metadata:
   Parasyte -the maxim-:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/466401
+    seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/466402
 
@@ -4731,7 +4732,10 @@ metadata:
 
   Grimoire of Zero:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/352408
+    url_poster: https://theposterdb.com/api/assets/467265
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/467266
 
   The Greatest Demon Lord Is Reborn as a Typical Nobody:
     year: 2022
@@ -6759,3 +6763,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/464724
+
+  "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/467263
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/467264
