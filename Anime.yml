@@ -6710,6 +6710,8 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450291
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/467915
       1:
         url_poster: https://theposterdb.com/api/assets/450292
 
@@ -6779,3 +6781,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/467264
+
+  Go! Go! Loser Ranger!:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/467910
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/467911
