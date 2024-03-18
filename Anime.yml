@@ -6634,6 +6634,13 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/467293
 
+  MF GHOST:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/401377
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/401378
+
 #Gundam
 
   Mobile Suit Gundam:
