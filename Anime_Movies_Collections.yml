@@ -1,0 +1,37 @@
+templates:
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: release
+  Trakt:
+    trakt_list_details: <<list>>
+    url_poster: <<poster>>
+    sync_mode: sync
+    collection_order: custom
+
+collections:
+
+#####################################
+#     General Movies Collections    #
+#####################################
+  Studio Ghibli:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls076439519/
+    url_poster: https://theposterdb.com/api/assets/325047
+    
+  Vampire Hunter D:
+    template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
+  Dragon Ball:
+    template: {name: Collection, movie: "39324, 39323", poster: https://theposterdb.com/api/assets/168842}
+  Patlabor:
+    template: {name: Collection, movie: "14571, 14572, 16402", poster: https://theposterdb.com/api/assets/2307}
+  Ghost in the Shell:
+    template: {name: Collection, movie: "9323, 12140, 14092", poster: https://theposterdb.com/api/assets/175259}
+  Makoto Shinkai:
+    template: {name: Collection, movie: "372058, 568160, 198375, 38142, 79707, 916224, 12924, 37910", poster: https://theposterdb.com/api/assets/433619}
+
