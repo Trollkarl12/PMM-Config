@@ -43,3 +43,5 @@ collections:
     template: {name: Collection, show: "367506", poster: https://theposterdb.com/api/assets/12360, background: }
   Avatar Universe:
     template: {name: Collection, show: "74852, 251085", poster: https://theposterdb.com/api/assets/94830, background: }
+  Arrowverse:
+    template: {name: Collection, show: "257655, 361315, 332525, 295760, 279121, 295759, 361868, 375655, 273690, 77746, 72218", poster: https://theposterdb.com/api/assets/133022, background: }
