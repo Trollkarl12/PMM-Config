@@ -41,3 +41,5 @@ collections:
     template: {name: Collection, show: "260449, 372700", poster: https://theposterdb.com/api/assets/251220, background: }
   Middle Earth:
     template: {name: Collection, show: "367506", poster: https://theposterdb.com/api/assets/12360, background: }
+  Avatar Universe:
+    template: {name: Collection, show: "74852, 251085", poster: https://theposterdb.com/api/assets/94830, background: }
