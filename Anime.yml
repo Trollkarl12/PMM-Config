@@ -3894,6 +3894,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/401830
+      2:
+        url_poster: https://theposterdb.com/api/assets/470197
 
   Sirius the Jaeger:
     year: 2018
@@ -4487,12 +4489,14 @@ metadata:
 
   Tower of God:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/307143
+    url_poster: https://theposterdb.com/api/assets/470258
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/470259
       1:
-        url_poster: https://theposterdb.com/api/assets/307144
+        url_poster: https://theposterdb.com/api/assets/470260
       2:
-        url_poster: https://theposterdb.com/api/assets/307144
+        url_poster: https://theposterdb.com/api/assets/470261
 
   Toriko:
     year: 2011
@@ -6640,6 +6644,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/401378
+      2:
+        url_poster: https://theposterdb.com/api/assets/470128
 
 #Gundam
 
