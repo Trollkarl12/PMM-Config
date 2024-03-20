@@ -533,6 +533,28 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/464576
 
+#CastleVania https://theposterdb.com/set/230686
+
+  Castlevania:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/415570
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/415571
+      2:
+        url_poster: https://theposterdb.com/api/assets/415572
+      3:
+        url_poster: https://theposterdb.com/api/assets/415573
+      4:
+        url_poster: https://theposterdb.com/api/assets/415574
+
+  "Castlevania: Nocturne":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/415575
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/415576
+
 #Random Tv Shows
 
   The Crown:
@@ -549,6 +571,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/237358
       5:
         url_poster: https://theposterdb.com/api/assets/276458
+      6:
+        url_poster: https://theposterdb.com/api/assets/431286
 
   Marco Polo:
     year: 2014
@@ -944,3 +968,178 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/214240
       3:
         url_poster: https://theposterdb.com/api/assets/214241
+
+  The Bridge:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/171217
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/171218
+      2:
+        url_poster: https://theposterdb.com/api/assets/171219
+      3:
+        url_poster: https://theposterdb.com/api/assets/171220
+      4:
+        url_poster: https://theposterdb.com/api/assets/171221
+
+  The Brothers Sun:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450194
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450195
+
+  Clarkson's Farm:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/224024
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/224025
+      2:
+        url_poster: https://theposterdb.com/api/assets/318332
+
+  Dexter:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/387280
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/387281
+      1:
+        url_poster: https://theposterdb.com/api/assets/387282
+      2:
+        url_poster: https://theposterdb.com/api/assets/387283
+      3:
+        url_poster: https://theposterdb.com/api/assets/387284
+      4:
+        url_poster: https://theposterdb.com/api/assets/387285
+      5:
+        url_poster: https://theposterdb.com/api/assets/387286
+      6:
+        url_poster: https://theposterdb.com/api/assets/387287
+      7:
+        url_poster: https://theposterdb.com/api/assets/387288
+      8:
+        url_poster: https://theposterdb.com/api/assets/387289
+
+  A Discovery of Witches:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/131461
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/131462
+      2:
+        url_poster: https://theposterdb.com/api/assets/131463
+      3:
+        url_poster: https://theposterdb.com/api/assets/224288
+
+  Downton Abbey:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/197196
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/197197
+      1:
+        url_poster: https://theposterdb.com/api/assets/197198
+      2:
+        url_poster: https://theposterdb.com/api/assets/197199
+      3:
+        url_poster: https://theposterdb.com/api/assets/197200
+      4:
+        url_poster: https://theposterdb.com/api/assets/197201
+      5:
+        url_poster: https://theposterdb.com/api/assets/197202
+      6:
+        url_poster: https://theposterdb.com/api/assets/197203
+
+  Dr. Death:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/437854
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/437855
+      2:
+        url_poster: https://theposterdb.com/api/assets/437856
+
+  Dracula (2020):
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/67437
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/67438
+      1:
+        url_poster: https://theposterdb.com/api/assets/67439
+
+  The Expanse:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/238940
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/238941
+      2:
+        url_poster: https://theposterdb.com/api/assets/238942
+      3:
+        url_poster: https://theposterdb.com/api/assets/238943
+      4:
+        url_poster: https://theposterdb.com/api/assets/238944
+      5:
+        url_poster: https://theposterdb.com/api/assets/238945
+      6:
+        url_poster: https://theposterdb.com/api/assets/238946
+
+  Extracurricular:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/95208
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/95209
+
+  Family Guy:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/343600
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/343602
+      1:
+        url_poster: https://theposterdb.com/api/assets/343604
+      2:
+        url_poster: https://theposterdb.com/api/assets/343606
+      3:
+        url_poster: https://theposterdb.com/api/assets/343607
+      4:
+        url_poster: https://theposterdb.com/api/assets/343608
+      5:
+        url_poster: https://theposterdb.com/api/assets/343609
+      6:
+        url_poster: https://theposterdb.com/api/assets/343610
+      7:
+        url_poster: https://theposterdb.com/api/assets/343611
+      8:
+        url_poster: https://theposterdb.com/api/assets/343612
+      9:
+        url_poster: https://theposterdb.com/api/assets/343613
+      10:
+        url_poster: https://theposterdb.com/api/assets/343614
+      11:
+        url_poster: https://theposterdb.com/api/assets/343615
+      12:
+        url_poster: https://theposterdb.com/api/assets/343616
+      13:
+        url_poster: https://theposterdb.com/api/assets/343617
+      14:
+        url_poster: https://theposterdb.com/api/assets/343618
+      15:
+        url_poster: https://theposterdb.com/api/assets/343619
+      16:
+        url_poster: https://theposterdb.com/api/assets/343620
+      17:
+        url_poster: https://theposterdb.com/api/assets/343621
+      18:
+        url_poster: https://theposterdb.com/api/assets/343622
+      19:
+        url_poster: https://theposterdb.com/api/assets/343623
+      20:
+        url_poster: https://theposterdb.com/api/assets/343624
+      21:
+        url_poster: https://theposterdb.com/api/assets/343625
+      22:
+        url_poster: https://theposterdb.com/api/assets/418189

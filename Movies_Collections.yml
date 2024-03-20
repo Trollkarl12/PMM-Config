@@ -24,8 +24,6 @@ collections:
 
   Alien:
     template: {name: Collection, collection: "8091, 135416", poster: https://theposterdb.com/api/assets/1205}
-  The Amazing Spider-Man:
-    template: {name: Collection, collection: 125574, poster: https://theposterdb.com/api/assets/107621}
   American Pie:
     template: {name: Collection, collection: 2806, poster: https://theposterdb.com/api/assets/951}
   American Pie (Spin-off):
