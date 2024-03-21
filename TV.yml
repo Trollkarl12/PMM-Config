@@ -601,35 +601,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/105794
 
-  The X-Files:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/160397
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/160398
-      1:
-        url_poster: https://theposterdb.com/api/assets/160399
-      2:
-        url_poster: https://theposterdb.com/api/assets/160400
-      3:
-        url_poster: https://theposterdb.com/api/assets/160401
-      4:
-        url_poster: https://theposterdb.com/api/assets/160402
-      5:
-        url_poster: https://theposterdb.com/api/assets/160403
-      6:
-        url_poster: https://theposterdb.com/api/assets/160404
-      7:
-        url_poster: https://theposterdb.com/api/assets/160405
-      8:
-        url_poster: https://theposterdb.com/api/assets/160406
-      9:
-        url_poster: https://theposterdb.com/api/assets/160407
-      10:
-        url_poster: https://theposterdb.com/api/assets/160408
-      11:
-        url_poster: https://theposterdb.com/api/assets/160409
-
   Altered Carbon:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/43406
