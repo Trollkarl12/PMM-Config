@@ -36,7 +36,7 @@ metadata:
       0:
         url_poster: https://theposterdb.com/api/assets/294073
       1:
-        url_poster: https://theposterdb.com/api/assets/248669    
+        url_poster: https://theposterdb.com/api/assets/248669
 
 #Middle Earth
 
@@ -49,7 +49,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/257537
 
-#Marvel Cinematic Universe
+#Marvel Cinematic Universe https://theposterdb.com/set/99475
 
   Marvel's Agent Carter:
     year: 2015
@@ -164,7 +164,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/152227
       2:
-        url_poster: https://theposterdb.com/api/assets/174417
+        url_poster: https://theposterdb.com/api/assets/421311
 
   Ms. Marvel:
     year: 2022
@@ -193,6 +193,13 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/191856
+
+  Secret Invasion:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/379998
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/379999
 
 #Arrowverse https://theposterdb.com/poster/133540
 
@@ -371,7 +378,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/187887
 
-#Witcher
+#Witcher https://theposterdb.com/set/116515
 
   The Witcher:
     year: 2019
@@ -383,6 +390,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/193236
       2:
         url_poster: https://theposterdb.com/api/assets/193237
+      3:
+        url_poster: https://theposterdb.com/api/assets/354837
 
   "The Witcher: Blood Origin":
     year: 2022
@@ -705,12 +714,12 @@ metadata:
 
   Rome:
     year: 2005
-    url_poster: https://theposterdb.com/api/assets/121317
+    url_poster: https://theposterdb.com/api/assets/239447
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/121318
+        url_poster: https://theposterdb.com/api/assets/239448
       2:
-        url_poster: https://theposterdb.com/api/assets/121319
+        url_poster: https://theposterdb.com/api/assets/239449
 
   The Last Kingdom:
     year: 2015
@@ -1410,3 +1419,390 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/206985
       1:
         url_poster: https://theposterdb.com/api/assets/206986
+
+  Penny Dreadful:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/326449
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/326450
+      2:
+        url_poster: https://theposterdb.com/api/assets/326451
+      3:
+        url_poster: https://theposterdb.com/api/assets/326452
+
+  Preacher:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/236699
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/236700
+      2:
+        url_poster: https://theposterdb.com/api/assets/236701
+      3:
+        url_poster: https://theposterdb.com/api/assets/236702
+      4:
+        url_poster: https://theposterdb.com/api/assets/236703
+
+  Reacher:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/212490
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/212491
+      2:
+        url_poster: https://theposterdb.com/api/assets/431292
+
+  Rick and Morty:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/159152
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/159153
+      2:
+        url_poster: https://theposterdb.com/api/assets/159154
+      3:
+        url_poster: https://theposterdb.com/api/assets/159155
+      4:
+        url_poster: https://theposterdb.com/api/assets/159156
+      5:
+        url_poster: https://theposterdb.com/api/assets/159157
+      6:
+        url_poster: https://theposterdb.com/api/assets/264625
+      7:
+        url_poster: https://theposterdb.com/api/assets/422106
+
+  Severance:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/231507
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/231508
+
+  Shōgun:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/464601
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/464602
+
+  Silo:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/362440
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/362441
+
+  Snowfall (2017):
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/177553
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/177554
+      2:
+        url_poster: https://theposterdb.com/api/assets/177555
+      3:
+        url_poster: https://theposterdb.com/api/assets/177556
+      4:
+        url_poster: https://theposterdb.com/api/assets/177557
+      5:
+        url_poster: https://theposterdb.com/api/assets/227650
+      6:
+        url_poster: https://theposterdb.com/api/assets/324677
+
+  South Park:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/223085
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/223086
+      1:
+        url_poster: https://theposterdb.com/api/assets/223087
+      2:
+        url_poster: https://theposterdb.com/api/assets/223088
+      3:
+        url_poster: https://theposterdb.com/api/assets/223089
+      4:
+        url_poster: https://theposterdb.com/api/assets/223090
+      5:
+        url_poster: https://theposterdb.com/api/assets/223091
+      6:
+        url_poster: https://theposterdb.com/api/assets/223092
+      7:
+        url_poster: https://theposterdb.com/api/assets/223093
+      8:
+        url_poster: https://theposterdb.com/api/assets/223094
+      9:
+        url_poster: https://theposterdb.com/api/assets/223095
+      10:
+        url_poster: https://theposterdb.com/api/assets/223096
+      11:
+        url_poster: https://theposterdb.com/api/assets/223097
+      12:
+        url_poster: https://theposterdb.com/api/assets/223098
+      13:
+        url_poster: https://theposterdb.com/api/assets/223099
+      14:
+        url_poster: https://theposterdb.com/api/assets/223100
+      15:
+        url_poster: https://theposterdb.com/api/assets/223101
+      16:
+        url_poster: https://theposterdb.com/api/assets/223102
+      17:
+        url_poster: https://theposterdb.com/api/assets/223103
+      18:
+        url_poster: https://theposterdb.com/api/assets/223104
+      19:
+        url_poster: https://theposterdb.com/api/assets/223105
+      20:
+        url_poster: https://theposterdb.com/api/assets/223106
+      21:
+        url_poster: https://theposterdb.com/api/assets/223107
+      22:
+        url_poster: https://theposterdb.com/api/assets/223108
+      23:
+        url_poster: https://theposterdb.com/api/assets/223109
+      24:
+        url_poster: https://theposterdb.com/api/assets/223110
+      25:
+        url_poster: https://theposterdb.com/api/assets/223111
+      26:
+        url_poster: https://theposterdb.com/api/assets/318863
+
+  Supernatural:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/274004
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/274005
+      1:
+        url_poster: https://theposterdb.com/api/assets/274006
+      2:
+        url_poster: https://theposterdb.com/api/assets/274007
+      3:
+        url_poster: https://theposterdb.com/api/assets/274008
+      4:
+        url_poster: https://theposterdb.com/api/assets/274009
+      5:
+        url_poster: https://theposterdb.com/api/assets/274010
+      6:
+        url_poster: https://theposterdb.com/api/assets/274011
+      7:
+        url_poster: https://theposterdb.com/api/assets/274012
+      8:
+        url_poster: https://theposterdb.com/api/assets/274013
+      9:
+        url_poster: https://theposterdb.com/api/assets/274014
+      10:
+        url_poster: https://theposterdb.com/api/assets/274015
+      11:
+        url_poster: https://theposterdb.com/api/assets/274016
+      12:
+        url_poster: https://theposterdb.com/api/assets/274017
+      13:
+        url_poster: https://theposterdb.com/api/assets/274018
+      14:
+        url_poster: https://theposterdb.com/api/assets/274019
+      15:
+        url_poster: https://theposterdb.com/api/assets/274020
+
+  The Swarm:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/327704
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/327705
+      1:
+        url_poster: https://theposterdb.com/api/assets/327706
+
+  ted:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/454940
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/454941
+
+  Timeless (2016):
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/270223
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/270224
+      2:
+        url_poster: https://theposterdb.com/api/assets/270225
+
+  Top Gear:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/271346
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/271347
+      1:
+        url_poster: https://theposterdb.com/api/assets/271348
+      2:
+        url_poster: https://theposterdb.com/api/assets/271349
+      3:
+        url_poster: https://theposterdb.com/api/assets/271352
+      4:
+        url_poster: https://theposterdb.com/api/assets/271353
+      5:
+        url_poster: https://theposterdb.com/api/assets/271354
+      6:
+        url_poster: https://theposterdb.com/api/assets/271355
+      7:
+        url_poster: https://theposterdb.com/api/assets/271356
+      8:
+        url_poster: https://theposterdb.com/api/assets/271357
+      9:
+        url_poster: https://theposterdb.com/api/assets/271358
+      19:
+        url_poster: https://theposterdb.com/api/assets/271359
+      11:
+        url_poster: https://theposterdb.com/api/assets/271360
+      12:
+        url_poster: https://theposterdb.com/api/assets/271361
+      13:
+        url_poster: https://theposterdb.com/api/assets/271362
+      14:
+        url_poster: https://theposterdb.com/api/assets/271363
+      15:
+        url_poster: https://theposterdb.com/api/assets/271364
+      16:
+        url_poster: https://theposterdb.com/api/assets/271365
+      17:
+        url_poster: https://theposterdb.com/api/assets/271366
+      18:
+        url_poster: https://theposterdb.com/api/assets/271367
+      19:
+        url_poster: https://theposterdb.com/api/assets/271368
+      20:
+        url_poster: https://theposterdb.com/api/assets/271369
+      21:
+        url_poster: https://theposterdb.com/api/assets/271370
+      22:
+        url_poster: https://theposterdb.com/api/assets/271371
+
+  True Blood:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/65420
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/65421
+      2:
+        url_poster: https://theposterdb.com/api/assets/65422
+      3:
+        url_poster: https://theposterdb.com/api/assets/65423
+      4:
+        url_poster: https://theposterdb.com/api/assets/65424
+      5:
+        url_poster: https://theposterdb.com/api/assets/65425
+      6:
+        url_poster: https://theposterdb.com/api/assets/65426
+      7:
+        url_poster: https://theposterdb.com/api/assets/65427
+
+  The Tudors:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/88211
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/88212
+      2:
+        url_poster: https://theposterdb.com/api/assets/88213
+      3:
+        url_poster: https://theposterdb.com/api/assets/88214
+      4:
+        url_poster: https://theposterdb.com/api/assets/88215
+
+  The Vampire Diaries:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/76110
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/76111
+      2:
+        url_poster: https://theposterdb.com/api/assets/76112
+      3:
+        url_poster: https://theposterdb.com/api/assets/76113
+      4:
+        url_poster: https://theposterdb.com/api/assets/76114
+      5:
+        url_poster: https://theposterdb.com/api/assets/76115
+      6:
+        url_poster: https://theposterdb.com/api/assets/76116
+      7:
+        url_poster: https://theposterdb.com/api/assets/76117
+      8:
+        url_poster: https://theposterdb.com/api/assets/76118
+
+  Wayne:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/455330
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/455331
+
+  Westworld:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/56229
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/56230
+      1:
+        url_poster: https://theposterdb.com/api/assets/56231
+      2:
+        url_poster: https://theposterdb.com/api/assets/56232
+      3:
+        url_poster: https://theposterdb.com/api/assets/56233
+      4:
+        url_poster: https://theposterdb.com/api/assets/245630
+
+  The X-Files:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/375037
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/375038
+      1:
+        url_poster: https://theposterdb.com/api/assets/375039
+      2:
+        url_poster: https://theposterdb.com/api/assets/375040
+      3:
+        url_poster: https://theposterdb.com/api/assets/375041
+      4:
+        url_poster: https://theposterdb.com/api/assets/375042
+      5:
+        url_poster: https://theposterdb.com/api/assets/375043
+      6:
+        url_poster: https://theposterdb.com/api/assets/375044
+      7:
+        url_poster: https://theposterdb.com/api/assets/375045
+      8:
+        url_poster: https://theposterdb.com/api/assets/375046
+      9:
+        url_poster: https://theposterdb.com/api/assets/375047
+      10:
+        url_poster: https://theposterdb.com/api/assets/375048
+      11:
+        url_poster: https://theposterdb.com/api/assets/375049
+
+  Yellowstone (2018):
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/269994
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/269995
+      2:
+        url_poster: https://theposterdb.com/api/assets/269996
+      3:
+        url_poster: https://theposterdb.com/api/assets/269997
+      4:
+        url_poster: https://theposterdb.com/api/assets/269998
+      5:
+        url_poster: https://theposterdb.com/api/assets/287743
+
+  Zomboat!:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/84399
+
+#Missing posters Barda, Doktor Snuggles, Dr. Death: The Undoctored Story, The Office (SE), Samurai Jack, Solsidan, SvampBob Fyrkant, Wallander
