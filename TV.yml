@@ -4,7 +4,7 @@
 
 metadata:
 
-#The World of Ice and Fire
+#The World of Ice and Fire https://theposterdb.com/set/152511
 
   Game of Thrones:
     year: 2011
@@ -38,7 +38,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/248669
 
-#Middle Earth
+#Middle Earth https://theposterdb.com/set/153678
 
   "The Lord of the Rings: The Rings of Power":
     year: 2022
@@ -313,7 +313,7 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/141701
 
-#Star Wars
+#Star Wars https://theposterdb.com/set/78057
 
   The Mandalorian:
     year: 2019
@@ -354,29 +354,29 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/385729
 
-#Narocs 
+#Narocs https://theposterdb.com/set/120756
 
   Narcos:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/44816
+    url_poster: https://theposterdb.com/api/assets/200351
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/44817
+        url_poster: https://theposterdb.com/api/assets/200352
       2:
-        url_poster: https://theposterdb.com/api/assets/44818
+        url_poster: https://theposterdb.com/api/assets/200353
       3:
-        url_poster: https://theposterdb.com/api/assets/44819
+        url_poster: https://theposterdb.com/api/assets/200354
 
   "Narcos: Mexico":
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/58219
+    url_poster: https://theposterdb.com/api/assets/200355
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/58220
+        url_poster: https://theposterdb.com/api/assets/200356
       2:
-        url_poster: https://theposterdb.com/api/assets/58221
+        url_poster: https://theposterdb.com/api/assets/200357
       3:
-        url_poster: https://theposterdb.com/api/assets/187887
+        url_poster: https://theposterdb.com/api/assets/200358
 
 #Witcher https://theposterdb.com/set/116515
 
@@ -400,7 +400,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/293710
 
-#Vikings
+#Vikings https://theposterdb.com/set/129029
 
   Vikings:
     year: 2013
