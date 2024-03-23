@@ -6661,6 +6661,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/471193
 
+  The Tatami Galaxy:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/341146
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/341147
+      1:
+        url_poster: https://theposterdb.com/api/assets/341148
+      2:
+        url_poster: https://theposterdb.com/api/assets/341149
+
 #Gundam
 
   Mobile Suit Gundam:
