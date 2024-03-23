@@ -6672,6 +6672,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/341149
 
+  Kengan Ashura:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/389589
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/389590
+      2:
+        url_poster: https://theposterdb.com/api/assets/389591
+
 #Gundam
 
   Mobile Suit Gundam:
