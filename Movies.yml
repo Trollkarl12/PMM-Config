@@ -8,3 +8,88 @@ metadata:
   "The Last Kingdom: Seven Kings Must Die":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/350791
+
+  # Marvel Cinematic Universe (https://theposterdb.com/set/4475)
+  Iron Man:
+    url_poster: https://theposterdb.com/api/assets/162896
+  The Incredible Hulk:
+    url_poster: https://theposterdb.com/api/assets/162897
+  Iron Man 2:
+    url_poster: https://theposterdb.com/api/assets/162898
+  Thor:
+    url_poster: https://theposterdb.com/api/assets/162899
+  "Captain America: The First Avenger":
+    url_poster: https://theposterdb.com/api/assets/162900
+  The Avengers:
+    url_poster: https://theposterdb.com/api/assets/162901
+  Iron Man 3:
+    url_poster: https://theposterdb.com/api/assets/162902
+  "Thor: The Dark World":
+    url_poster: https://theposterdb.com/api/assets/162903
+  "Captain America: The Winter Soldier":
+    url_poster: https://theposterdb.com/api/assets/162904
+  Guardians of the Galaxy:
+    url_poster: https://theposterdb.com/api/assets/162905
+  "Avengers: Age of Ultron":
+    url_poster: https://theposterdb.com/api/assets/162906
+  Ant-Man:
+    url_poster: https://theposterdb.com/api/assets/162907
+  "Captain America: Civil War":
+    url_poster: https://theposterdb.com/api/assets/162908
+  Doctor Strange:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/162909
+  Guardians of the Galaxy Vol. 2:
+    url_poster: https://theposterdb.com/api/assets/162910
+  "Spider-Man: Homecoming":
+    url_poster: https://theposterdb.com/api/assets/162911
+  "Thor: Ragnarok":
+    url_poster: https://theposterdb.com/api/assets/162912
+  Black Panther:
+    url_poster: https://theposterdb.com/api/assets/162913
+  "Avengers: Infinity War":
+    url_poster: https://theposterdb.com/api/assets/162914
+  Ant-Man and the Wasp:
+    url_poster: https://theposterdb.com/api/assets/162915
+  Captain Marvel:
+    url_poster: https://theposterdb.com/api/assets/162916
+  "Avengers: Endgame":
+    url_poster: https://theposterdb.com/api/assets/162917
+  "Spider-Man: Far from Home":
+    url_poster: https://theposterdb.com/api/assets/162918
+  Black Widow:
+    url_poster: https://theposterdb.com/api/assets/162919
+  Eternals:
+    url_poster: https://theposterdb.com/api/assets/162921
+  Shang-Chi and the Legend of the Ten Rings:
+    url_poster: https://theposterdb.com/api/assets/162920
+  "Spider-Man: No Way Home":
+    url_poster: https://theposterdb.com/api/assets/190131
+  Doctor Strange in the Multiverse of Madness:
+    url_poster: https://theposterdb.com/api/assets/198589
+  "Thor: Love and Thunder":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/265776
+  Werewolf by Night:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/274295
+  "Black Panther: Wakanda Forever":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/274296
+  "Ant-Man and the Wasp: Quantumania":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/352073
+
+  # Marvel/Sony
+  Spider-Man:
+    url_poster: https://theposterdb.com/api/assets/116707
+  Spider-Man 2:
+    url_poster: https://theposterdb.com/api/assets/116708
+  Spider-Man 3:
+    url_poster: https://theposterdb.com/api/assets/116709
+  "Spider-Man: Into the Spider-Verse":
+    url_poster: https://theposterdb.com/api/assets/116713
+  Venom:
+    url_poster: https://theposterdb.com/api/assets/116712
+  "Venom: Let There Be Carnage":
+    url_poster: https://theposterdb.com/api/assets/192587
