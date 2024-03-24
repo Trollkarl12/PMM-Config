@@ -186,6 +186,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/263971
+      2:
+        url_poster: https://theposterdb.com/api/assets/417741
 
   Hawkeye (2021):
     year: 2021
