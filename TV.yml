@@ -201,6 +201,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/379999
 
+  Helstrom:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/105793
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/105794
+
 #Arrowverse https://theposterdb.com/poster/133540
 
   Arrow:
@@ -594,13 +601,6 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/40408
 
-  Helstrom:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/105793
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/105794
-
   Altered Carbon:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/43406
@@ -790,33 +790,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/124936
       11:
         url_poster: https://theposterdb.com/api/assets/124937
-
-  Adventure Time:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/47191
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/47192
-      1:
-        url_poster: https://theposterdb.com/api/assets/47193
-      2:
-        url_poster: https://theposterdb.com/api/assets/47194
-      3:
-        url_poster: https://theposterdb.com/api/assets/47195
-      4:
-        url_poster: https://theposterdb.com/api/assets/47196
-      5:
-        url_poster: https://theposterdb.com/api/assets/47197
-      6:
-        url_poster: https://theposterdb.com/api/assets/47198
-      7:
-        url_poster: https://theposterdb.com/api/assets/47199
-      8:
-        url_poster: https://theposterdb.com/api/assets/47200
-      9:
-        url_poster: https://theposterdb.com/api/assets/47201
-      10:
-        url_poster: https://theposterdb.com/api/assets/47202
 
   American Horror Story:
     year: 2011
@@ -1776,4 +1749,4 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/84399
 
-#Missing posters Barda, Doktor Snuggles, Dr. Death: The Undoctored Story, The Office (SE), Samurai Jack, Solsidan, SvampBob Fyrkant, Wallander
+#Missing posters Barda, The Office (SE), Samurai Jack, Solsidan, Wallander
