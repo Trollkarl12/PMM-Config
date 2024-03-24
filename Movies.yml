@@ -9,7 +9,7 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/350791
 
-  # Marvel Cinematic Universe (https://theposterdb.com/set/4475)
+  # Marvel Cinematic Universe https://theposterdb.com/set/99475
   Iron Man:
     url_poster: https://theposterdb.com/api/assets/162896
   The Incredible Hulk:
@@ -82,14 +82,14 @@ metadata:
 
   # Marvel/Sony
   Spider-Man:
-    url_poster: https://theposterdb.com/api/assets/116707
+    url_poster: https://theposterdb.com/api/assets/163871
   Spider-Man 2:
-    url_poster: https://theposterdb.com/api/assets/116708
+    url_poster: https://theposterdb.com/api/assets/163872
   Spider-Man 3:
-    url_poster: https://theposterdb.com/api/assets/116709
+    url_poster: https://theposterdb.com/api/assets/163873
   "Spider-Man: Into the Spider-Verse":
-    url_poster: https://theposterdb.com/api/assets/116713
+    url_poster: https://theposterdb.com/api/assets/421249
   Venom:
-    url_poster: https://theposterdb.com/api/assets/116712
+    url_poster: https://theposterdb.com/api/assets/163926
   "Venom: Let There Be Carnage":
-    url_poster: https://theposterdb.com/api/assets/192587
+    url_poster: https://theposterdb.com/api/assets/192206
