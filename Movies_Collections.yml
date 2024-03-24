@@ -43,7 +43,7 @@ collections:
   Fantastic Four:
     template: {name: Collection, collection: 9744, poster: https://theposterdb.com/api/assets/107627}
   The Fast and the Furious:
-    template: {name: Collection, collection: "9485, 688042", poster: https://theposterdb.com/api/assets/110853}
+    template: {name: Collection, collection: 9485, poster: https://theposterdb.com/api/assets/110853}
   Ghostbusters:
     template: {name: Collection, collection: 2980, movie: 43074, poster: https://theposterdb.com/api/assets/203163}
   The Hangover:
@@ -128,7 +128,7 @@ collections:
   Shrek:
     template: {name: Collection, collection: 2150, poster: https://theposterdb.com/api/assets/6997}
   Tomb Raider:
-    template: {name: Collection, collection: "2467, 621142", poster: https://theposterdb.com/api/assets/73151}
+    template: {name: Collection, collection: 2467, poster: https://theposterdb.com/api/assets/73151}
   Top Gun:
     template: {name: Collection, collection: 531330, poster: https://theposterdb.com/api/assets/251518}
   X-Men:
