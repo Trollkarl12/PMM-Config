@@ -25,15 +25,13 @@ collections:
   Alien:
     template: {name: Collection, collection: "8091, 135416", poster: https://theposterdb.com/api/assets/1205}
   American Pie:
-    template: {name: Collection, collection: 2806, poster: https://theposterdb.com/api/assets/951}
-  American Pie (Spin-off):
-    template: {name: Collection, collection: 298820, poster: https://theposterdb.com/api/assets/960}
+    template: {name: Collection, collection: 2806, poster: https://theposterdb.com/api/assets/317618}
   Austin Powers:
     template: {name: Collection, collection: 1006, poster: https://theposterdb.com/api/assets/35262}
   Avatar:
     template: {name: Collection, collection: 87096, poster: https://theposterdb.com/api/assets/267820}
   Back to the Future:
-    template: {name: Collection, collection: 264, poster: https://theposterdb.com/api/assets/108170}
+    template: {name: Collection, collection: 264, poster: https://theposterdb.com/api/assets/87588}
   Blade Runner:
     template: {name: Collection, collection: 422837, poster: https://theposterdb.com/api/assets/6081}
   Crocodile Dundee:
@@ -43,13 +41,13 @@ collections:
   Fantastic Four:
     template: {name: Collection, collection: 9744, poster: https://theposterdb.com/api/assets/107627}
   The Fast and the Furious:
-    template: {name: Collection, collection: 9485, poster: https://theposterdb.com/api/assets/110853}
+    template: {name: Collection, collection: "9485, 384018", poster: https://theposterdb.com/api/assets/110853}
   Ghostbusters:
     template: {name: Collection, collection: 2980, movie: 43074, poster: https://theposterdb.com/api/assets/203163}
   The Hangover:
     template: {name: Collection, collection: 86119, poster: https://theposterdb.com/api/assets/40149}
-  Harry Potter:
-    template: {name: Collection, collection: 1241, poster: https://theposterdb.com/api/assets/17185}
+  Wizarding World:
+    template: {name: Collection, collection: "1241, 435259", poster: https://theposterdb.com/api/assets/218037}
   Highlander:
     template: {name: Collection, collection: 8050, poster: https://theposterdb.com/api/assets/63711}
   Home Alone:
@@ -57,11 +55,11 @@ collections:
   How to Train Your Dragon:
     template: {name: Collection, collection: 89137, poster: https://theposterdb.com/api/assets/57147}
   The Hunger Games:
-    template: {name: Collection, collection: 131635, poster: https://theposterdb.com/api/assets/18154}
+    template: {name: Collection, collection: 131635, poster: https://theposterdb.com/api/assets/31012}
   Ice Age:
     template: {name: Collection, collection: 8354, movie: "79218, 717095, 387893", poster: https://theposterdb.com/api/assets/19083}
   Indiana Jones:
-    template: {name: Collection, collection: 84, poster: https://theposterdb.com/api/assets/12872}
+    template: {name: Collection, collection: 84, poster: https://theposterdb.com/api/assets/206972}
   Ip Man:
     template: {name: Collection, collection: 70068, movie: "658009, 643413, 450001, 751391, 44249, 182127, 44865", poster: https://theposterdb.com/api/assets/52647}
     collection_order: alpha
@@ -74,21 +72,17 @@ collections:
   Jaws:
     template: {name: Collection, collection: 2366, poster: https://theposterdb.com/api/assets/8288}
   John Wick:
-    template: {name: Collection, collection: 404609, poster: https://theposterdb.com/api/assets/120440}
+    template: {name: Collection, collection: 404609, poster: https://theposterdb.com/api/assets/362872}
   Jump Street:
     template: {name: Collection, collection: 212562, poster: https://theposterdb.com/api/assets/22121}
   Jurassic Park:
-    template: {name: Collection, collection: 328, movie: 630322, poster: https://theposterdb.com/api/assets/13234}
+    template: {name: Collection, collection: 328, movie: 630322, poster: https://theposterdb.com/api/assets/158968}
   The Karate Kid:
     template: {name: Collection, collection: 8580, movie: 38575, poster: https://theposterdb.com/api/assets/2563}
   Kill Bill:
-    template: {name: Collection, collection: 2883, poster: https://theposterdb.com/api/assets/40153}
+    template: {name: Collection, collection: 2883, poster: https://theposterdb.com/api/assets/63400}
   Kung Fu Panda:
     template: {name: Collection, collection: 77816, poster: https://theposterdb.com/api/assets/112270}
-  The Last Exorcism:
-    template: {name: Collection, collection: 177675, poster: https://theposterdb.com/api/assets/45656}
-  Madagascar:
-    template: {name: Collection, collection: 14740, movie: "161143, 25472, 270946", poster: https://theposterdb.com/api/assets/931}
   Marvel Cinematic Universe:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls031310794/
@@ -98,11 +92,11 @@ collections:
   The Maze Runner:
     template: {name: Collection, collection: 295130, poster: https://theposterdb.com/api/assets/174}
   Men In Black:
-    template: {name: Collection, collection: 86055, movie: 479455, poster: https://theposterdb.com/api/assets/103970}
+    template: {name: Collection, collection: 86055, movie: 479455, poster: https://theposterdb.com/api/assets/16550}
   Middle Earth:
     template: {name: Collection, collection: "121938, 119", poster: https://theposterdb.com/api/assets/12360}
   "Mission: Impossible":
-    template: {name: Collection, collection: 87359, poster: https://theposterdb.com/api/assets/11546}
+    template: {name: Collection, collection: 87359, poster: https://theposterdb.com/api/assets/154661}
     name_mapping: Mission Impossible
   Monty Python:
     template: {name: Collection}
@@ -110,13 +104,13 @@ collections:
     url_poster: https://theposterdb.com/api/assets/148489
     summary: Monty Python is a British surreal comedy troupe who created sketch comedy television shows and movies
   The Mummy:
-    template: {name: Collection, collection: 1733, poster: https://theposterdb.com/api/assets/69966}
+    template: {name: Collection, collection: 1733, poster: https://theposterdb.com/api/assets/1041}
   Pacific Rim:
     template: {name: Collection, collection: 363369, poster: https://theposterdb.com/api/assets/3397}
   Pirates of the Caribbean:
-    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/49956}
-  Planet of the Apes (Reboot):
-    template: {name: Collection, collection: 173710, poster: https://theposterdb.com/api/assets/262164}
+    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/9840}
+  Planet of the Apes:
+    template: {name: Collection, collection: 173710, poster: https://theposterdb.com/api/assets/338}
   Resident Evil:
     template: {name: Collection, collection: 17255, poster: https://theposterdb.com/api/assets/11303}
   Saw:
@@ -127,6 +121,11 @@ collections:
     template: {name: Collection, collection: 530064, poster: https://theposterdb.com/api/assets/81432}
   Shrek:
     template: {name: Collection, collection: 2150, poster: https://theposterdb.com/api/assets/6997}
+  Star Wars:
+    template: {name: Collection, collection: 10, poster: https://theposterdb.com/api/assets/4448}
+    summary: "The Complete Saga Of Star Wars"
+  The Terminator:
+    template: {name: Collection, collection: 528, poster: https://theposterdb.com/api/assets/42442}
   Tomb Raider:
     template: {name: Collection, collection: 2467, poster: https://theposterdb.com/api/assets/73151}
   Top Gun:
@@ -137,3 +136,7 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls077827588/
     url_poster: https://theposterdb.com/api/assets/40928
+  Dune:
+    template: {name: Collection, collection: "6187, 290272", poster: https://theposterdb.com/api/assets/356988}
+  Jumanji:
+    template: {name: Collection, collection: 495527, poster: https://theposterdb.com/api/assets/8779}
