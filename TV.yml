@@ -1766,4 +1766,24 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/431287
 
+  Legacies:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/125282
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/125283
+      2:
+        url_poster: https://theposterdb.com/api/assets/125284
+      3:
+        url_poster: https://theposterdb.com/api/assets/125285
+      4:
+        url_poster: https://theposterdb.com/api/assets/182130
+
+  Interview with the Vampire:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/271668
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/271669
+
 #Missing posters Barda, The Office (SE), Samurai Jack, Solsidan, Wallander
