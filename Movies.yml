@@ -413,6 +413,12 @@ metadata:
   "Ant-Man and the Wasp: Quantumania":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/352073
+  Guardians of the Galaxy Vol. 3:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/392840
+  The Marvels:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/452675
 
   # Marvel/Sony
   Spider-Man:
@@ -753,3 +759,11 @@ metadata:
   "Fantastic Beasts: The Secrets of Dumbledore":
     year: 2022
     url_poster: https://theposterdb.com/api/assets/217955
+
+# Random movies
+  12 Angry Men:
+    year: 1957
+    url_poster: https://theposterdb.com/api/assets/34334
+  13 Hours:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/254760
