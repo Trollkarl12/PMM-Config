@@ -123,7 +123,7 @@ collections:
   The Terminator:
     template: {name: Collection, collection: 528, poster: https://theposterdb.com/api/assets/42442}
   Tomb Raider:
-    template: {name: Collection, collection: 2467, poster: https://theposterdb.com/api/assets/73151}
+    template: {name: Collection, collection: 2467, movie: 338970, poster: https://theposterdb.com/api/assets/73151}
   Top Gun:
     template: {name: Collection, collection: 531330, poster: https://theposterdb.com/api/assets/251518}
   X-Men:
