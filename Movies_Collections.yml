@@ -37,7 +37,7 @@ collections:
   Crocodile Dundee:
     template: {name: Collection, collection: 9332, poster: https://theposterdb.com/api/assets/908}
   The Fast and the Furious:
-    template: {name: Collection, collection: 9485, poster: https://theposterdb.com/api/assets/110853}
+    template: {name: Collection, collection: 9485, movie: 384018, poster: https://theposterdb.com/api/assets/110853}
   Ghostbusters:
     template: {name: Collection, collection: 2980, movie: 43074, poster: https://theposterdb.com/api/assets/203163}
   The Hangover:
