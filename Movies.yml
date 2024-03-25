@@ -4,6 +4,14 @@
 
 metadata:
 
+  # 300
+  300:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/138690
+  "300: Rise of an Empire":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/138691
+
   # American Pie https://theposterdb.com/set/186875
   American Pie:
     year: 1999
@@ -289,6 +297,14 @@ metadata:
   "John Wick: Chapter 4":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/362876
+    
+  # Jump Street https://theposterdb.com/set/12936
+  21 Jump Street:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/22122
+  22 Jump Street:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/22123
 
   # Jumanji https://theposterdb.com/set/3628
   Jumanji:
@@ -767,3 +783,18 @@ metadata:
   13 Hours:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/254760
+  The 36th Chamber of Shaolin:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/430517
+  1917:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/48473
+  "2001: A Space Odyssey":
+    year: 1968
+    url_poster: https://theposterdb.com/api/assets/6457
+  2046:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/98666
+  "Abraham Lincoln: Vampire Hunter":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/34627
