@@ -5,7 +5,7 @@
 metadata:
 
   # 300
-  300:
+  "300":
     year: 2007
     url_poster: https://theposterdb.com/api/assets/138690
   "300: Rise of an Empire":
@@ -777,7 +777,7 @@ metadata:
   The 36th Chamber of Shaolin:
     year: 1978
     url_poster: https://theposterdb.com/api/assets/430517
-  1917:
+  "1917":
     year: 2020
     url_poster: https://theposterdb.com/api/assets/48473
   "2001: A Space Odyssey":
