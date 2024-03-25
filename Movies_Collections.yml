@@ -36,12 +36,8 @@ collections:
     template: {name: Collection, collection: 422837, poster: https://theposterdb.com/api/assets/6081}
   Crocodile Dundee:
     template: {name: Collection, collection: 9332, poster: https://theposterdb.com/api/assets/908}
-  Fantastic Beasts:
-    template: {name: Collection, collection: 435259, poster: https://theposterdb.com/api/assets/169}
-  Fantastic Four:
-    template: {name: Collection, collection: 9744, poster: https://theposterdb.com/api/assets/107627}
   The Fast and the Furious:
-    template: {name: Collection, collection: "9485, 384018", poster: https://theposterdb.com/api/assets/110853}
+    template: {name: Collection, collection: 9485, poster: https://theposterdb.com/api/assets/110853}
   Ghostbusters:
     template: {name: Collection, collection: 2980, movie: 43074, poster: https://theposterdb.com/api/assets/203163}
   The Hangover:
@@ -137,6 +133,6 @@ collections:
     imdb_list: https://www.imdb.com/list/ls077827588/
     url_poster: https://theposterdb.com/api/assets/40928
   Dune:
-    template: {name: Collection, collection: "6187, 290272", poster: https://theposterdb.com/api/assets/356988}
+    template: {name: Collection, collection: 726871, poster: https://theposterdb.com/api/assets/356988}
   Jumanji:
     template: {name: Collection, collection: 495527, poster: https://theposterdb.com/api/assets/8779}

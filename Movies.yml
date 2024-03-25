@@ -57,10 +57,6 @@ metadata:
   "Batman v Superman: Dawn of Justice":
     year: 2016
     url_poster: https://theposterdb.com/api/assets/40930
-  "Batman: The Long Halloween, Part Two":
-    url_poster: https://theposterdb.com/api/assets/172875
-  "Batman: The Long Halloween, Part One":
-    url_poster: https://theposterdb.com/api/assets/172874
   Suicide Squad:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/40931
@@ -78,7 +74,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40935
   Joker:
     url_poster: https://theposterdb.com/api/assets/44008
-  Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn):
+  Birds of Prey:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/72575
   Wonder Woman 1984:
@@ -169,7 +165,7 @@ metadata:
   "Highlander II: The Quickening":
     year: 1991
     url_poster: https://theposterdb.com/api/assets/63713
-  "Highlander III: The Sorcerer":
+  "Highlander: The Final Dimension":
     year: 1994
     url_poster: https://theposterdb.com/api/assets/63714
   "Highlander: Endgame":
@@ -189,9 +185,6 @@ metadata:
   "How to Train Your Dragon: The Hidden World":
     year: 2019
     url_poster: https://theposterdb.com/api/assets/57150
-  "How to Train Your Dragon: Homecoming":
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/57250
 
   # Ice Age https://theposterdb.com/set/23445
   Ice Age:
@@ -328,7 +321,7 @@ metadata:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/158971
   Jurassic World:
-    year: 20195
+    year: 2015
     url_poster: https://theposterdb.com/api/assets/158972
   "Jurassic World: Fallen Kingdom":
     year: 2018
@@ -705,8 +698,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/124635
   "Star Wars: Episode IX - The Rise of Skywalker":
     url_poster: https://theposterdb.com/api/assets/124636
-  The Star Wars Holiday Special:
-    url_poster: https://theposterdb.com/api/assets/124637
 
   # The Terminator https://theposterdb.com/set/93020
   The Terminator:
