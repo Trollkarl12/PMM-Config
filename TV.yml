@@ -1755,4 +1755,15 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/84399
 
+  Upload:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/270562
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/270563
+      2:
+        url_poster: https://theposterdb.com/api/assets/270564
+      3:
+        url_poster: https://theposterdb.com/api/assets/431287
+
 #Missing posters Barda, The Office (SE), Samurai Jack, Solsidan, Wallander
