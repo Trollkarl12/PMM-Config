@@ -34,6 +34,14 @@ metadata:
     year: 1982
     url_poster: https://theposterdb.com/api/assets/453488
 
+  # Arn https://theposterdb.com/set/62537
+  "Arn: Tempelriddaren":
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/98993
+  "Arn: Riket vid vägens slut":
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/98994
+
   # American Pie https://theposterdb.com/set/186875
   American Pie:
     year: 1999
@@ -129,7 +137,7 @@ metadata:
 
   # Walt Disney Animation Studios https://theposterdb.com/set/52224
   Snow White and the Seven Dwarfs:
-    year: 1937
+    year: 1938
     url_poster: https://theposterdb.com/api/assets/81862
   Pinocchio:
     year: 1940
@@ -652,6 +660,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163926
   "Venom: Let There Be Carnage":
     url_poster: https://theposterdb.com/api/assets/192206
+  The Amazing Spider-Man:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/163876
+  The Amazing Spider-Man 2:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/163877
 
   # The Matrix https://theposterdb.com/set/41339
   The Matrix:
@@ -1005,3 +1019,36 @@ metadata:
   Ali G Indahouse:
     year: 2002
     url_poster: https://theposterdb.com/api/assets/22660
+  All Quiet on the Western Front:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/270945
+  Amadeus:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/34689
+  American Beauty:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/25765
+  American History X:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/79193
+  American Psycho:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/153800
+  American Sniper:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/62093
+  Angels & Demons:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/843
+  Apocalypse Now:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/32549
+  Argylle:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/442559
+  Asteroid City:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/406909
+  Autumn Sonata:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/92929
