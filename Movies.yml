@@ -80,6 +80,39 @@ metadata:
   Back to the Future Part III:
     url_poster: https://theposterdb.com/api/assets/87591
 
+  # Battle Royale
+  Battle Royale:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/72142
+  "Battle Royale II: Requiem":
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/72143
+
+  # Batman
+  Batman:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/27395
+  Batman & Robin:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/27398
+  Batman Forever:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/27397
+  Batman Returns:
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/27396
+
+  # Dark Knight
+  Batman Begins:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/22276
+  The Dark Knight:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/22277
+  The Dark Knight Rises:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/22278
+
  # DCEU - https://theposterdb.com/set/25189
   Man of Steel:
     year: 2013
@@ -135,7 +168,7 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/453625
 
-  # Walt Disney Animation Studios https://theposterdb.com/set/52224
+  # Disney Animation Studios https://theposterdb.com/set/52224
   Snow White and the Seven Dwarfs:
     year: 1938
     url_poster: https://theposterdb.com/api/assets/81862
@@ -329,6 +362,101 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/356989
   "Dune: Part Two":
     url_poster: https://theposterdb.com/api/assets/356990
+
+  # Films by Akira Kurosawa
+  Sanshiro Sugata:
+    year: 1943
+    url_poster: https://theposterdb.com/api/assets/83550
+  The Most Beautiful:
+    year: 1944
+    url_poster: https://theposterdb.com/api/assets/83551
+  The Men Who Tread on the Tiger's Tail:
+    year: 1952
+    url_poster: https://theposterdb.com/api/assets/83561
+  Sanshiro Sugata Part Two:
+    year: 1945
+    url_poster: https://theposterdb.com/api/assets/83552
+  Those Who Make Tomorrow:
+    year: 1946
+    url_poster: https://theposterdb.com/api/assets/83550
+  No Regrets for Our Youth:
+    year: 1946
+    url_poster: https://theposterdb.com/api/assets/83553
+  One Wonderful Sunday:
+    year: 1947
+    url_poster: https://theposterdb.com/api/assets/83554
+  Drunken Angel:
+    year: 1948
+    url_poster: https://theposterdb.com/api/assets/83555
+  The Quiet Duel:
+    year: 1949
+    url_poster: https://theposterdb.com/api/assets/83556
+  Stray Dog:
+    year: 1949
+    url_poster: https://theposterdb.com/api/assets/83557
+  Scandal:
+    year: 1950
+    url_poster: https://theposterdb.com/api/assets/83558
+  Rashomon:
+    year: 1950
+    url_poster: https://theposterdb.com/api/assets/83559
+  The Idiot:
+    year: 1951
+    url_poster: https://theposterdb.com/api/assets/83560
+  Ikiru:
+    year: 1952
+    url_poster: https://theposterdb.com/api/assets/83562
+  Seven Samurai:
+    year: 1954
+    url_poster: https://theposterdb.com/api/assets/83563
+  I Live in Fear:
+    year: 1955
+    url_poster: https://theposterdb.com/api/assets/83564
+  Throne of Blood:
+    year: 1957
+    url_poster: https://theposterdb.com/api/assets/83565
+  The Lower Depths:
+    year: 1957
+    url_poster: https://theposterdb.com/api/assets/83566
+  The Hidden Fortress:
+    year: 1958
+    url_poster: https://theposterdb.com/api/assets/83567
+  The Bad Sleep Well:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/83568
+  Yojimbo:
+    year: 1961
+    url_poster: https://theposterdb.com/api/assets/83569
+  Sanjuro:
+    year: 1962
+    url_poster: https://theposterdb.com/api/assets/83570
+  High and Low:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/83571
+  Red Beard:
+    year: 1965
+    url_poster: https://theposterdb.com/api/assets/83572
+  Dodes'ka-den:
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/83573
+  Dersu Uzala:
+    year: 1975
+    url_poster: https://theposterdb.com/api/assets/83574
+  Kagemusha:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/83575
+  Ran:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/83576
+  Dreams:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/83577
+  Rhapsody in August:
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/83578
+  Madadayo:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/83579
 
   # The Fast and the Furious https://theposterdb.com/set/69598
   The Fast and the Furious:
@@ -1052,3 +1180,27 @@ metadata:
   Autumn Sonata:
     year: 1978
     url_poster: https://theposterdb.com/api/assets/92929
+  The Aviator:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/47932
+  Baby Driver:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/24288
+  The Banker:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/57652
+  Baraka:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/48110
+  Barbie:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/421597
+  Barry Lyndon:
+    year: 1975
+    url_poster: https://theposterdb.com/api/assets/30667
+  Battleship:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/26945
+  Bean:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/27732
