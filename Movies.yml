@@ -12,6 +12,28 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/138691
 
+  # Alien https://theposterdb.com/set/24729
+  Alien:
+    url_poster: https://theposterdb.com/api/assets/40346
+  Aliens:
+    url_poster: https://theposterdb.com/api/assets/40347
+  Alien 3:
+    url_poster: https://theposterdb.com/api/assets/40348
+  Alien Resurrection:
+    url_poster: https://theposterdb.com/api/assets/40349
+  Prometheus:
+    url_poster: https://theposterdb.com/api/assets/40352
+  "Alien: Covenant":
+    url_poster: https://theposterdb.com/api/assets/40353
+
+  # Airplane! https://theposterdb.com/set/253220
+  Airplane!:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/453487
+  "Airplane II: The Sequel":
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/453488
+
   # American Pie https://theposterdb.com/set/186875
   American Pie:
     year: 1999
@@ -104,6 +126,194 @@ metadata:
   Aquaman and the Lost Kingdom:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/453625
+
+  # Walt Disney Animation Studios https://theposterdb.com/set/52224
+  Snow White and the Seven Dwarfs:
+    year: 1937
+    url_poster: https://theposterdb.com/api/assets/81862
+  Pinocchio:
+    year: 1940
+    url_poster: https://theposterdb.com/api/assets/81863
+  Fantasia:
+    year: 1940
+    url_poster: https://theposterdb.com/api/assets/81864
+  Dumbo:
+    year: 1941
+    url_poster: https://theposterdb.com/api/assets/81865
+  Bambi:
+    year: 1942
+    url_poster: https://theposterdb.com/api/assets/81866
+  Saludos Amigos:
+    year: 1942
+    url_poster: https://theposterdb.com/api/assets/81867
+  The Three Caballeros:
+    year: 1944
+    url_poster: https://theposterdb.com/api/assets/81868
+  Make Mine Music:
+    year: 1946
+    url_poster: https://theposterdb.com/api/assets/81869
+  Fun and Fancy Free:
+    year: 1947
+    url_poster: https://theposterdb.com/api/assets/81870
+  Melody Time:
+    year: 1948
+    url_poster: https://theposterdb.com/api/assets/81871
+  The Adventures of Ichabod and Mr. Toad:
+    year: 1949
+    url_poster: https://theposterdb.com/api/assets/81872
+  Cinderella:
+    year: 1950
+    url_poster: https://theposterdb.com/api/assets/81873
+  Alice in Wonderland:
+    year: 1951
+    url_poster: https://theposterdb.com/api/assets/81874
+  Peter Pan:
+    year: 1953
+    url_poster: https://theposterdb.com/api/assets/81875
+  Lady and the Tramp:
+    year: 1955
+    url_poster: https://theposterdb.com/api/assets/81876
+  Sleeping Beauty:
+    year: 1959
+    url_poster: https://theposterdb.com/api/assets/81877
+  One Hundred and One Dalmatians:
+    year: 1961
+    url_poster: https://theposterdb.com/api/assets/81878
+  The Sword in the Stone:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/81879
+  The Jungle Book:
+    year: 1967
+    url_poster: https://theposterdb.com/api/assets/81880
+  The Aristocats:
+    year: 1970
+    url_poster: https://theposterdb.com/api/assets/81881
+  Robin Hood:
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/81882
+  The Many Adventures of Winnie the Pooh:
+    year: 1977
+    url_poster: https://theposterdb.com/api/assets/81883
+  The Rescuers:
+    year: 1977
+    url_poster: https://theposterdb.com/api/assets/81884
+  The Fox and the Hound:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/81885
+  The Black Cauldron:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/81886
+  The Great Mouse Detective:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/81887
+  Oliver & Company:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/81888
+  The Little Mermaid:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/81889
+  The Rescuers Down Under:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/81890
+  Beauty and the Beast:
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/81891
+  Aladdin:
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/81892
+  The Lion King:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/81893
+  Pocahontas:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/81894
+  The Hunchback of Notre Dame:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/81895
+  Hercules:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/81896
+  Mulan:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/81897
+  Tarzan:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/81898
+  Fantasia 2000:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/81899
+  Dinosaur:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/81900
+  The Emperor's New Groove:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/161020
+  "Atlantis: The Lost Empire":
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/81902
+  Lilo & Stitch:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/81903
+  Treasure Planet:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/81904
+  Brother Bear:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/81905
+  Home on the Range:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/81906
+  Chicken Little:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/81907
+  Meet the Robinsons:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/81908
+  Bolt:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/81909
+  The Princess and the Frog:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/81910
+  Tangled:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/81911
+  Winnie the Pooh:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/81912
+  Wreck-It Ralph:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/81913
+  Frozen:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/81914
+  Big Hero 6:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/81915
+  Zootopia:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/81916
+  Moana:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/81917
+  Ralph Breaks the Internet:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/81918
+  Frozen II:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/81919
+  Raya and the Last Dragon:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/81920
+  Encanto:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/199735
+  Strange World:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/300719
+  Wish:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/467888
 
   # Dune https://theposterdb.com/set/203877
   Dune:
@@ -789,3 +999,9 @@ metadata:
   "Abraham Lincoln: Vampire Hunter":
     year: 2012
     url_poster: https://theposterdb.com/api/assets/34627
+  The Adam Project:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/218916
+  Ali G Indahouse:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/22660
