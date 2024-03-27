@@ -121,7 +121,7 @@ metadata:
   Beverly Hills Cop III:
     url_poster: https://theposterdb.com/api/assets/45079
 
-  # Blade Runner
+  # Blade Runner https://theposterdb.com/set/16911
   Blade Runner:
     year: 1982
     url_poster: https://theposterdb.com/api/assets/28343
@@ -140,6 +140,33 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/102333
 
+  # Borat https://theposterdb.com/set/67601
+  Borat:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/107767
+  Borat Subsequent Moviefilm:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/107768
+
+  # Cars https://theposterdb.com/set/42
+  Cars:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/133
+  Cars 2:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/134
+  Cars 3:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/135
+
+  # Code 8 https://theposterdb.com/set/250002
+  Code 8:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/452872
+  "Code 8: Part II":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/452870
+
   # Dark Knight
   Batman Begins:
     year: 2005
@@ -150,6 +177,17 @@ metadata:
   The Dark Knight Rises:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/22278
+
+  # The Chronicles of Narnia https://theposterdb.com/set/46
+  "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe":
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/151
+  "The Chronicles of Narnia: Prince Caspian":
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/152
+  "The Chronicles of Narnia: The Voyage of the Dawn Treader":
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/153
 
  # DCEU - https://theposterdb.com/set/25189
   Man of Steel:
@@ -647,6 +685,90 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/127152
 
+  # James Bond https://theposterdb.com/set/78937
+  Dr. No:
+    year: 1962
+    url_poster: https://theposterdb.com/api/assets/126241
+  From Russia with Love:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/126242
+  Goldfinger:
+    year: 1964
+    url_poster: https://theposterdb.com/api/assets/126243
+  Thunderball:
+    year: 1965
+    url_poster: https://theposterdb.com/api/assets/126244
+  Casino Royale:
+    year: 1967
+    url_poster: https://theposterdb.com/api/assets/126245
+  You Only Live Twice:
+    year: 1967
+    url_poster: https://theposterdb.com/api/assets/126246
+  On Her Majesty's Secret Service:
+    year: 1969
+    url_poster: https://theposterdb.com/api/assets/126247
+  Diamonds Are Forever:
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/126248
+  Live and Let Die:
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/126249
+  The Man with the Golden Gun:
+    year: 1974
+    url_poster: https://theposterdb.com/api/assets/126250
+  The Spy Who Loved Me:
+    year: 1977
+    url_poster: https://theposterdb.com/api/assets/126251
+  Moonraker:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/126252
+  For Your Eyes Only:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/126253
+  Octopussy:
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/126254
+  Never Say Never Again:
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/126255
+  A View to a Kill:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/126256
+  The Living Daylights:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/126257
+  Licence to Kill:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/126258
+  GoldenEye:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/126259
+  Tomorrow Never Dies:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/126260
+  The World Is Not Enough:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/126261
+  Die Another Day:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/126262
+  Casino Royale (Remake):
+    title: Casino Royale
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/126263
+  Quantum of Solace:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/126264
+  Skyfall:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/126265
+  Spectre:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/126266
+  No Time to Die:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/126267
+
   # Jarhead
   Jarhead:
     year: 2005
@@ -660,6 +782,23 @@ metadata:
   "Jarhead: Law of Return":
     year: 2019
     url_poster: https://theposterdb.com/api/assets/80447
+
+  # Jason Bourne https://theposterdb.com/set/63719
+  The Bourne Identity:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/101179
+  The Bourne Legacy:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/101182
+  The Bourne Supremacy:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/101180
+  The Bourne Ultimatum:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/101181
+  Jason Bourne:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/101183
 
   # John Wick https://theposterdb.com/set/206818
   John Wick:
@@ -1263,3 +1402,60 @@ metadata:
   Blow Out:
     year: 1981
     url_poster: https://theposterdb.com/api/assets/34977
+  The Boat:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/164559
+  The Book of Eli:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/92297
+  Boyhood:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/31208
+  Braveheart:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/49275
+  A Bronx Tale:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/119179
+  Bullet Train:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/269457
+  Burnt:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/448346
+  "El Camino: A Breaking Bad Movie":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/20287
+  Carol:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/50078
+  Casablanca:
+    year: 1943
+    url_poster: https://theposterdb.com/api/assets/187774
+  Casino:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/47506
+  Cast Away:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/24699
+  Catch Me If You Can:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/34303
+  Cinema Paradiso:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/150370
+  Citizen Kane:
+    year: 1941
+    url_poster: https://theposterdb.com/api/assets/39946
+  Cobweb:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/396119
+  Cocaine Bear:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/344608
+  Collateral:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/50202
+  Come and See:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/382727
