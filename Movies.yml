@@ -121,6 +121,25 @@ metadata:
   Beverly Hills Cop III:
     url_poster: https://theposterdb.com/api/assets/45079
 
+  # Blade Runner
+  Blade Runner:
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/28343
+  Blade Runner 2049:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/28344
+
+  # Blair Witch
+  The Blair Witch Project:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/102331
+  "Book of Shadows: Blair Witch 2":
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/102332
+  Blair Witch:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/102333
+
   # Dark Knight
   Batman Begins:
     year: 2005
@@ -1232,3 +1251,15 @@ metadata:
   The Big Short:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/42563
+  Black Hawk Down:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/27565
+  Blackhat:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/74184
+  Blood Diamond:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/48595
+  Blow Out:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/34977
