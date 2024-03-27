@@ -3954,14 +3954,14 @@ metadata:
 
   Spice and Wolf:
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/175037
+    url_poster: https://theposterdb.com/api/assets/474020
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/175038
+        url_poster: https://theposterdb.com/api/assets/474021
       1:
-        url_poster: https://theposterdb.com/api/assets/175039
+        url_poster: https://theposterdb.com/api/assets/474022
       2:
-        url_poster: https://theposterdb.com/api/assets/175040
+        url_poster: https://theposterdb.com/api/assets/474023
 
   Steins;Gate:
     year: 2011
@@ -6851,3 +6851,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/468908
       1:
         url_poster: https://theposterdb.com/api/assets/468909
+
+  "Spice and Wolf: merchant meets the wise wolf":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/474029
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/474030
