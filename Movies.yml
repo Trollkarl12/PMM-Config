@@ -432,12 +432,37 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/467888
 
+  # Doom
+  Doom:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/109000
+  "Doom: Annihilation":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/109001
+
   # Dune https://theposterdb.com/set/203877
   Dune:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/356989
   "Dune: Part Two":
     url_poster: https://theposterdb.com/api/assets/356990
+
+  # Dr. Dolittle   https://theposterdb.com/set/191951
+  Doctor Dolittle:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/329308
+  Dr. Dolittle 2:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/329309
+  Dr. Dolittle 3:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/329310
+  "Dr. Dolittle: Tail to the Chief":
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/329311
+  "Dr. Dolittle: Million Dollar Mutts":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/329312
 
   # Films by Akira Kurosawa
   Sanshiro Sugata:
@@ -1271,6 +1296,14 @@ metadata:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/998
 
+  # The Shining
+  The Shining:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/32302
+  Doctor Sleep:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/32303
+
   # Star Wars https://theposterdb.com/set/78057
   "Star Wars: Episode IV - A New Hope":
     url_poster: https://theposterdb.com/api/assets/124622
@@ -1363,7 +1396,7 @@ metadata:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/217955
 
-# Random movies
+  # Random movies
   12 Angry Men:
     year: 1957
     url_poster: https://theposterdb.com/api/assets/34334
@@ -1571,3 +1604,18 @@ metadata:
   Django Unchained:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/31978
+  Doctor Zhivago:
+    year: 1965
+    url_poster: https://theposterdb.com/api/assets/98102
+  "Don't Look Up":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/199249
+  Double Indemnity:
+    year: 1944
+    url_poster: https://theposterdb.com/api/assets/319805
+  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb":
+    year: 1964
+    url_poster: https://theposterdb.com/api/assets/30664
+  Dracula Untold:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/19321
