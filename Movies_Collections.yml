@@ -33,7 +33,7 @@ collections:
   Back to the Future:
     template: {name: Collection, collection: 264, poster: https://theposterdb.com/api/assets/87588}
   Blade Runner:
-    template: {name: Collection, collection: 422837, poster: https://theposterdb.com/api/assets/6081}
+    template: {name: Collection, collection: 422837, poster: https://theposterdb.com/api/assets/28342}
   Crocodile Dundee:
     template: {name: Collection, collection: 9332, poster: https://theposterdb.com/api/assets/908}
   The Fast and the Furious:
