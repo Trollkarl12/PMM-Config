@@ -41,6 +41,17 @@ metadata:
   "Arn: Riket vid vägens slut":
     year: 2008
     url_poster: https://theposterdb.com/api/assets/98994
+    
+  # A Better Tomorrow https://theposterdb.com/set/255182
+  A Better Tomorrow:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/463808
+  A Better Tomorrow II:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/463807
+  "A Better Tomorrow III: Love and Death in Saigon":
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/463806
 
   # American Pie https://theposterdb.com/set/186875
   American Pie:
@@ -101,6 +112,14 @@ metadata:
   Batman Returns:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/27396
+
+  # Beverly Hills Cop
+  Beverly Hills Cop:
+    url_poster: https://theposterdb.com/api/assets/45077
+  Beverly Hills Cop II:
+    url_poster: https://theposterdb.com/api/assets/45078
+  Beverly Hills Cop III:
+    url_poster: https://theposterdb.com/api/assets/45079
 
   # Dark Knight
   Batman Begins:
@@ -1204,3 +1223,12 @@ metadata:
   Bean:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/27732
+  The Beekeeper:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/453427
+  Ben-Hur:
+    year: 1959
+    url_poster: https://theposterdb.com/api/assets/88192
+  The Big Short:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/42563
