@@ -568,6 +568,17 @@ metadata:
   "Ghostbusters: Afterlife":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/75479
+    
+  # Hercule Poirot https://theposterdb.com/set/128263
+  Murder on the Orient Express:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/212862
+  Death on the Nile:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/212863
+  A Haunting in Venice:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/386561
 
   # The Hangover
   The Hangover:
@@ -952,18 +963,24 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/452675
 
-  # Marvel/Sony
+  # In Association With Marvel https://theposterdb.com/set/99475
   Spider-Man:
+    year: 2002
     url_poster: https://theposterdb.com/api/assets/163871
   Spider-Man 2:
+    year: 2004
     url_poster: https://theposterdb.com/api/assets/163872
   Spider-Man 3:
+    year: 2007
     url_poster: https://theposterdb.com/api/assets/163873
   "Spider-Man: Into the Spider-Verse":
+    year: 2018
     url_poster: https://theposterdb.com/api/assets/421249
   Venom:
+    year: 2018
     url_poster: https://theposterdb.com/api/assets/163926
   "Venom: Let There Be Carnage":
+    year: 2021
     url_poster: https://theposterdb.com/api/assets/192206
   The Amazing Spider-Man:
     year: 2012
@@ -971,6 +988,45 @@ metadata:
   The Amazing Spider-Man 2:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/163877
+  X-Men:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/163840
+  X2:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/163841
+  "X-Men: The Last Stand":
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/163842
+  "X-Men Origins: Wolverine":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/163888
+  "X-Men: First Class":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/163843
+  The Wolverine:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/163889
+  "X-Men: Days of Future Past":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/163844
+  Deadpool:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/163902
+  "X-Men: Apocalypse":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/163845
+  Logan:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/163890
+  Deadpool 2:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/163903
+  Dark Phoenix:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/163846
+  The New Mutants:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/163847
 
   # The Matrix https://theposterdb.com/set/41339
   The Matrix:
@@ -1491,3 +1547,27 @@ metadata:
   A Dangerous Method:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/114105
+  Days of Being Wild:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/98664
+  Death Proof:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/31976
+  Decision to Leave:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/383129
+  The Deer Hunter:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/75987
+  The Departed:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/54278
+  "The Devil's Advocate":
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/68481
+  The Dictator:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/426718
+  Django Unchained:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/31978
