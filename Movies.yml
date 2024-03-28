@@ -473,6 +473,17 @@ metadata:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/464401
 
+  # The Equalizer
+  The Equalizer:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/131878
+  The Equalizer 2:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/131879
+  The Equalizer 3:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/422215
+
   # Films by Akira Kurosawa
   Sanshiro Sugata:
     year: 1943
@@ -1860,3 +1871,9 @@ metadata:
   Elvis:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/256532
+  The Emigrants:
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/97405
+  Empire of the Sun:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/53824
