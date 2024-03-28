@@ -140,3 +140,7 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls076436131/
     url_poster: https://theposterdb.com/api/assets/81861
+  Pixar:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls087911008/
+    url_poster: https://theposterdb.com/api/assets/69452
