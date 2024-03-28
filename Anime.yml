@@ -114,6 +114,25 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127794
       5:
         url_poster: https://theposterdb.com/api/assets/127795
+        
+  Super Dragon Ball Heroes:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/127796
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/127797
+      1:
+        url_poster: https://theposterdb.com/api/assets/127798
+      2:
+        url_poster: https://theposterdb.com/api/assets/127799
+      3:
+        url_poster: https://theposterdb.com/api/assets/127800
+      4:
+        url_poster: https://theposterdb.com/api/assets/140890
+      5:
+        url_poster: https://theposterdb.com/api/assets/216800
+      6:
+        url_poster: https://theposterdb.com/api/assets/423879
 
   Shin Ikki Tousen:
     year: 2022
@@ -5207,10 +5226,14 @@ metadata:
 
   The Apothecary Diaries:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/344441
+    url_poster: https://theposterdb.com/api/assets/388822
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/474397
       1:
-        url_poster: https://theposterdb.com/api/assets/344442
+        url_poster: https://theposterdb.com/api/assets/388823
+      2:
+        url_poster: https://theposterdb.com/api/assets/474395
 
   "Ghost in the Shell: Stand Alone Complex":
     year: 2002
@@ -6273,10 +6296,12 @@ metadata:
 
   Ishura:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/439374
+    url_poster: https://theposterdb.com/api/assets/450038
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/439375
+        url_poster: https://theposterdb.com/api/assets/450039
+      2:
+        url_poster: https://theposterdb.com/api/assets/474327
 
   "Mr. Villain's Day Off":
     year: 2024
@@ -6858,3 +6883,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474030
+
+  Mysterious Disappearances:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/474311
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/474312
+      1:
+        url_poster: https://theposterdb.com/api/assets/474313
