@@ -159,6 +159,14 @@ metadata:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/135
 
+  # The Cannonball Run https://theposterdb.com/set/46050
+  The Cannonball Run:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/72226
+  Cannonball Run II:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/72227
+
   # Code 8 https://theposterdb.com/set/250002
   Code 8:
     year: 2019
