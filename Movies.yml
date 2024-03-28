@@ -17,7 +17,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40346
   Aliens:
     url_poster: https://theposterdb.com/api/assets/40347
-  Alien 3:
+  Alien³:
     url_poster: https://theposterdb.com/api/assets/40348
   Alien Resurrection:
     url_poster: https://theposterdb.com/api/assets/40349
@@ -450,9 +450,13 @@ metadata:
 
   # Dune https://theposterdb.com/set/203877
   Dune:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/357716
+  Dune:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/356989
   "Dune: Part Two":
+    year: 2024
     url_poster: https://theposterdb.com/api/assets/356990
 
   # Dr. Dolittle   https://theposterdb.com/set/191951
@@ -471,6 +475,14 @@ metadata:
   "Dr. Dolittle: Million Dollar Mutts":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/329312
+    
+  # Election https://theposterdb.com/set/255619
+  Election:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/464402
+  Election 2:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/464401
 
   # Films by Akira Kurosawa
   Sanshiro Sugata:
@@ -1749,3 +1761,21 @@ metadata:
   Dracula Untold:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/19321
+  Drive:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/62078
+  Drive My Car:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/220304
+  The Duchess:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/35644
+  "Dungeons & Dragons: Honor Among Thieves":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/294889
+  Dunkirk:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/21693
+  Edge of Tomorrow:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/47298
