@@ -148,17 +148,6 @@ metadata:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/107768
 
-  # Cars https://theposterdb.com/set/42
-  Cars:
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/133
-  Cars 2:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/134
-  Cars 3:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/135
-
   # The Cannonball Run https://theposterdb.com/set/46050
   The Cannonball Run:
     year: 1981
@@ -1330,6 +1319,89 @@ metadata:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/9846
 
+  # Pixar Animation Studios https://theposterdb.com/set/38813
+  Toy Story:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/60686
+  "A Bug's Life":
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/60687
+  Toy Story 2:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/60688
+  Monsters, Inc.:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/60689
+  Finding Nemo:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/60690
+  The Incredibles:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/60691
+  Cars:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/60692
+  Ratatouille:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/60693
+  WALL·E:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/60694
+  Up:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/60695
+  Toy Story 3:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/60696
+  Cars 2:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/60697
+  Brave:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/60698
+  Monsters University:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/60699
+  Inside Out:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/60700
+  The Good Dinosaur:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/60701
+  Finding Dory:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/60702
+  Cars 3:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/60703
+  Coco:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/60704
+  Incredibles 2:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/60705
+  Toy Story 4:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/60706
+  Onward:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/60707
+  Soul:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/218900
+  Luca:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/218894
+  Turning Red:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/218895
+  Lightyear:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/218896
+  Elemental:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/397811
+
   # Planet of the Apes (Reboot)
   Rise of the Planet of the Apes:
     year: 2011
@@ -1779,3 +1851,12 @@ metadata:
   Edge of Tomorrow:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/47298
+  Elizabeth:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/147842
+  "Elizabeth: The Golden Age":
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/147843
+  Elvis:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/256532
