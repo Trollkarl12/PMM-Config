@@ -669,6 +669,128 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/38163
 
+  # Ingmar Bergman’s Cinema https://theposterdb.com/set/236918
+  Crisis:
+    year: 1946
+    url_poster: https://theposterdb.com/api/assets/428128
+  A Ship to India:
+    year: 1947
+    url_poster: https://theposterdb.com/api/assets/428122
+  Port of Call:
+    year: 1948
+    url_poster: https://theposterdb.com/api/assets/428137
+  Thirst:
+    year: 1949
+    url_poster: https://theposterdb.com/api/assets/428156
+  To Joy:
+    year: 1950
+    url_poster: https://theposterdb.com/api/assets/428158
+  Summer Interlude:
+    year: 1951
+    url_poster: https://theposterdb.com/api/assets/428144
+  Waiting Women:
+    year: 1952
+    url_poster: https://theposterdb.com/api/assets/428159
+  Summer with Monika:
+    year: 1953
+    url_poster: https://theposterdb.com/api/assets/428145
+  Sawdust and Tinsel:
+    year: 1953
+    url_poster: https://theposterdb.com/api/assets/428139
+  A Lesson in Love:
+    year: 1954
+    url_poster: https://theposterdb.com/api/assets/428121
+  Dreams:
+    year: 1955
+    url_poster: https://theposterdb.com/api/assets/428129
+  Smiles of a Summer Night:
+    year: 1955
+    url_poster: https://theposterdb.com/api/assets/428143
+  The Seventh Seal:
+    year: 1957
+    url_poster: https://theposterdb.com/api/assets/428152
+  Wild Strawberries:
+    year: 1957
+    url_poster: https://theposterdb.com/api/assets/428160
+  Brink of Life:
+    year: 1958
+    url_poster: https://theposterdb.com/api/assets/428126
+  The Magician:
+    year: 1958
+    url_poster: https://theposterdb.com/api/assets/428148
+  The Virgin Spring:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/428155
+  The Devil’s Eye:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/428146
+  Through a Glass Darkly:
+    year: 1961
+    url_poster: https://theposterdb.com/api/assets/428157
+  Winter Light:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/428161
+  The Silence:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/428153
+  All These Women:
+    year: 1964
+    url_poster: https://theposterdb.com/api/assets/428124
+  Persona:
+    year: 1966
+    url_poster: https://theposterdb.com/api/assets/428136
+  Hour of the Wolf:
+    year: 1968
+    url_poster: https://theposterdb.com/api/assets/428135
+  Shame:
+    year: 1968
+    url_poster: https://theposterdb.com/api/assets/428142
+  The Rite:
+    year: 1969
+    url_poster: https://theposterdb.com/api/assets/428150
+  The Passion of Anna:
+    year: 1969
+    url_poster: https://theposterdb.com/api/assets/428149
+  Fårö Document:
+    year: 1970
+    url_poster: https://theposterdb.com/api/assets/428132
+  The Touch:
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/428154
+  Cries and Whispers:
+    year: 1972
+    url_poster: https://theposterdb.com/api/assets/428127
+  Scenes from a Marriage:
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/428140
+  The Magic Flute:
+    year: 1975
+    url_poster: https://theposterdb.com/api/assets/428147
+  The Serpent’s Egg:
+    year: 1977
+    url_poster: https://theposterdb.com/api/assets/428151
+  Autumn Sonata:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/428125
+  Fårö Document 1979:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/428133
+  From the Life of the Marionettes:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/428134
+  "Fanny and Alexander: Theatrical Version":
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/428130
+  "Fanny and Alexander: Television Version":
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/428131
+  After the Rehearsal:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/428123
+  Saraband:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/428138
+
   # The Hunger Games https://theposterdb.com/set/18631
   The Hunger Games:
     year: 2012
