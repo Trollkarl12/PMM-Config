@@ -491,7 +491,7 @@ metadata:
   The Most Beautiful:
     year: 1944
     url_poster: https://theposterdb.com/api/assets/83551
-  The Men Who Tread on the Tiger's Tail:
+  "The Men Who Tread on the Tiger's Tail":
     year: 1952
     url_poster: https://theposterdb.com/api/assets/83561
   Sanshiro Sugata Part Two:
@@ -557,7 +557,7 @@ metadata:
   Red Beard:
     year: 1965
     url_poster: https://theposterdb.com/api/assets/83572
-  Dodes'ka-den:
+  "Dodes'ka-den":
     year: 1971
     url_poster: https://theposterdb.com/api/assets/83573
   Dersu Uzala:
@@ -1299,20 +1299,6 @@ metadata:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/1044
 
-  # Ocean's Too Many
-  Ocean's Eleven:
-    sort_title: Ocean's 11
-    url_poster: https://theposterdb.com/api/assets/64819
-  Ocean's Twelve:
-    sort_title: Ocean's 12
-    url_poster: https://theposterdb.com/api/assets/64820
-  Ocean's Thirteen:
-    sort_title: Ocean's 13
-    url_poster: https://theposterdb.com/api/assets/64821
-  Ocean's Eight:
-    sort_title: Ocean's 8
-    url_poster: https://theposterdb.com/api/assets/64822
-
   # Pirates of the Caribbean https://theposterdb.com/set/4494
   "Pirates of the Caribbean: The Curse of the Black Pearl":
     year: 2003
@@ -1355,7 +1341,7 @@ metadata:
   Ratatouille:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/60693
-  WALL·E:
+  "WALL·E":
     year: 2008
     url_poster: https://theposterdb.com/api/assets/60694
   Up:
@@ -1413,7 +1399,7 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/397811
 
-  # Planet of the Apes (Reboot)
+  # Planet of the Apes
   Rise of the Planet of the Apes:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/339
