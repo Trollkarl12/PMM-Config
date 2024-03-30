@@ -659,14 +659,16 @@ metadata:
 
   "Arifureta: From Commonplace to World's Strongest":
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/204175
+    url_poster: https://theposterdb.com/api/assets/475296
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/204176
+        url_poster: https://theposterdb.com/api/assets/475297
       1:
-        url_poster: https://theposterdb.com/api/assets/204177
+        url_poster: https://theposterdb.com/api/assets/475298
       2:
-        url_poster: https://theposterdb.com/api/assets/204178
+        url_poster: https://theposterdb.com/api/assets/475299
+      3:
+        url_poster: https://theposterdb.com/api/assets/475300
 
   "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far":
     year: 2023
