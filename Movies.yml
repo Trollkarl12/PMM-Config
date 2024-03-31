@@ -733,7 +733,7 @@ metadata:
   The Virgin Spring:
     year: 1960
     url_poster: https://theposterdb.com/api/assets/428155
-  The Devil’s Eye:
+  "The Devil's Eye":
     year: 1960
     url_poster: https://theposterdb.com/api/assets/428146
   Through a Glass Darkly:
@@ -770,7 +770,7 @@ metadata:
     year: 1971
     url_poster: https://theposterdb.com/api/assets/428154
   Cries and Whispers:
-    year: 1972
+    year: 1973
     url_poster: https://theposterdb.com/api/assets/428127
   Scenes from a Marriage:
     year: 1973
