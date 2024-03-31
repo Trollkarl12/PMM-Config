@@ -432,7 +432,7 @@ metadata:
   # Disney Live Action https://theposterdb.com/set/66490
   The Little Mermaid (Live Action):
     year: 2023
-    url_poster: 
+    url_poster: https://theposterdb.com/api/assets/393719
 
   # Doom
   Doom:
@@ -2380,7 +2380,7 @@ metadata:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/50948
   Lone Survivor:
-    year: 2013
+    year: 2014
     url_poster: https://theposterdb.com/api/assets/56195
   The Lost City of Z:
     year: 2017
