@@ -773,12 +773,12 @@ metadata:
     year: 1973
     url_poster: https://theposterdb.com/api/assets/428127
   Scenes from a Marriage:
-    year: 1973
+    year: 1974
     url_poster: https://theposterdb.com/api/assets/428140
   The Magic Flute:
     year: 1975
     url_poster: https://theposterdb.com/api/assets/428147
-  The Serpent’s Egg:
+  "The Serpent's Egg":
     year: 1977
     url_poster: https://theposterdb.com/api/assets/428151
   Autumn Sonata:
@@ -788,7 +788,7 @@ metadata:
     year: 1979
     url_poster: https://theposterdb.com/api/assets/428133
   From the Life of the Marionettes:
-    year: 1980
+    year: 1981
     url_poster: https://theposterdb.com/api/assets/428134
   "Fanny and Alexander: Theatrical Version":
     year: 1982
@@ -800,7 +800,7 @@ metadata:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/428123
   Saraband:
-    year: 2003
+    year: 2004
     url_poster: https://theposterdb.com/api/assets/428138
 
   # The Hunger Games https://theposterdb.com/set/18631
