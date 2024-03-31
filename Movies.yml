@@ -484,6 +484,20 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/422215
 
+  # The Expendables https://theposterdb.com/set/121410
+  The Expendables:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/202665
+  The Expendables 2:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/202666
+  The Expendables 3:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/202667
+  Expend4bles:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/415569
+
   # Films by Akira Kurosawa
   Sanshiro Sugata:
     year: 1943
@@ -790,12 +804,9 @@ metadata:
   From the Life of the Marionettes:
     year: 1981
     url_poster: https://theposterdb.com/api/assets/428134
-  "Fanny and Alexander: Theatrical Version":
+  Fanny and Alexander:
     year: 1982
     url_poster: https://theposterdb.com/api/assets/428130
-  "Fanny and Alexander: Television Version":
-    year: 1983
-    url_poster: https://theposterdb.com/api/assets/428131
   After the Rehearsal:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/428123
@@ -1860,3 +1871,45 @@ metadata:
   Empire of the Sun:
     year: 1987
     url_poster: https://theposterdb.com/api/assets/53824
+  Bloodshot:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/44515
+  "Bob Marley: One Love":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/462658
+  Escape from Alcatraz:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/55016
+  Eternal Sunshine of the Spotless Mind:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/156128
+  Everything Everywhere All at Once:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/234953
+  Evolution:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/83670
+  Excalibur:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/54977
+  Eyes Wide Shut:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/30670
+  The Fabelmans:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/420690
+  Fallen Angels:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/146429
+  Fame:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/275952
+  The Family Plan:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/442778
+  Fear:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/68443
+  Fearless:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/110758
