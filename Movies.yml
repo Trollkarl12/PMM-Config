@@ -639,6 +639,20 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/75479
 
+  # The Grudge
+  The Grudge:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/100698
+  The Grudge 2:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/100699
+  The Grudge 3:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/100700
+  The Grudge (Reboot):
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/100701
+
   # Hercule Poirot https://theposterdb.com/set/128263
   Murder on the Orient Express:
     year: 2017
@@ -661,6 +675,58 @@ metadata:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/40152
 
+  # Hannibal Lecter https://theposterdb.com/set/97593
+  Manhunter:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/159797
+  The Silence of the Lambs:
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/159798
+  Hannibal:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/159799
+  Red Dragon:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/159800
+  Hannibal Rising:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/159801
+
+  # Halloween - https://theposterdb.com/set/115186
+  Halloween:
+    year: 1978
+    url_poster: https://theposterdb.com/api/assets/190033
+  Halloween II:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/190034
+  "Halloween III: Season of the Witch":
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/190035
+  "Halloween 4: The Return of Michael Myers":
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/190036
+  "Halloween 5: The Revenge of Michael Myers":
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/190037
+  "Halloween: The Curse of Michael Myers":
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/190038
+  "Halloween H20: 20 Years Later":
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/190039
+  "Halloween: Resurrection":
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/190040
+  Halloween (2018):
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/190041
+  Halloween Kills:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/190042
+  Halloween Ends:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/190043
+
   # Highlander
   Highlander:
     year: 1986
@@ -677,6 +743,14 @@ metadata:
   "Highlander: The Source":
     year: 2007
     url_poster: https://theposterdb.com/api/assets/63716
+
+  # The Hills Have Eyes (Reboot) https://theposterdb.com/set/100902
+  The Hills Have Eyes:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/164895
+  The Hills Have Eyes 2:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/164896
 
   # How to Train Your Dragon
   How to Train Your Dragon:
@@ -898,7 +972,7 @@ metadata:
   Thunderball:
     year: 1965
     url_poster: https://theposterdb.com/api/assets/126244
-  Casino Royale:
+  Casino Royale (1967):
     year: 1967
     url_poster: https://theposterdb.com/api/assets/126245
   You Only Live Twice:
@@ -952,8 +1026,7 @@ metadata:
   Die Another Day:
     year: 2002
     url_poster: https://theposterdb.com/api/assets/126262
-  Casino Royale (Remake):
-    title: Casino Royale
+  Casino Royale:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/126263
   Quantum of Solace:
@@ -2018,3 +2091,93 @@ metadata:
   Glory Road:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/115295
+  The Ballad of Narayama:
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/332165
+  A Brighter Summer Day:
+    year: 1991
+    url_poster: https://theposterdb.com/api/assets/383459
+  Gods and Generals:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/288635
+  Godzilla:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/397782
+  Gone with the Wind:
+    year: 1940
+    url_poster: https://theposterdb.com/api/assets/79902
+  Good Will Hunting:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/60825
+  Goodfellas:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/54268
+  Gran Turismo:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/362016
+  The Gray Man:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/267418
+  The Great Escape:
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/84737
+  The Great Gatsby:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/40047
+  Green Book:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/118904
+  The Green Mile:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/40063
+  Greyhound:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/97377
+  The Guns of Navarone:
+    year: 1961
+    url_poster: https://theposterdb.com/api/assets/427953
+  Hacksaw Ridge:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/40137
+  The Handmaiden:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/89538
+  Happy Together:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/146555
+  Harakiri:
+    year: 1962
+    url_poster: https://theposterdb.com/api/assets/91583
+  The Hateful Eight:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/31979
+  Heat:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/60339
+  Hellraiser:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/267123
+  The Hole:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/382270
+  House of Flying Daggers:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/143579
+  The Hunt:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/305861
+  Hypnotic:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/367831
+  The Imitation Game:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/81190
+  In the Mood for Love:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/98665
+  In Time:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/83791
+  Inception:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/52633
