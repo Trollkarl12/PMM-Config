@@ -930,6 +930,34 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/347769
 
+  # Infernal Affaris https://theposterdb.com/set/206595
+  Infernal Affairs:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/362406
+  Infernal Affairs II:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/362407
+  Infernal Affairs III:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/362408
+
+  # Insidious https://theposterdb.com/set/228202
+  Insidious:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/410122
+  "Insidious: Chapter 2":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/410123
+  "Insidious: Chapter 3":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/410124
+  "Insidious: The Last Key":
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/410125
+  "Insidious: The Red Door":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/410126
+
   # IP Man
   Ip Man:
     year: 2008
@@ -2181,3 +2209,21 @@ metadata:
   Inception:
     year: 2010
     url_poster: https://theposterdb.com/api/assets/52633
+  Infinity Pool:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/320137
+  Inglourious Basterds:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/31977
+  Inheritance:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/242115
+  Inside Job:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/187460
+  Insomnia:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/52629
+  The Intern:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/43579
