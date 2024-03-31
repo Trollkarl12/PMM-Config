@@ -431,7 +431,6 @@ metadata:
 
   # Disney Live Action https://theposterdb.com/set/66490
   The Little Mermaid (Live Action):
-    title: The Little Mermaid
     year: 2023
     url_poster: 
 
@@ -1353,6 +1352,17 @@ metadata:
   Johnny English Strikes Again:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/36969
+
+  # Look Who's Talking https://theposterdb.com/set/83584
+  Look Who's Talking:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/134202
+  Look Who's Talking Too:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/134203
+  Look Who's Talking Now!:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/134204
 
   # The Matrix https://theposterdb.com/set/41339
   The Matrix:
@@ -2366,3 +2376,12 @@ metadata:
   The Lincoln Lawyer:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/94548
+  The Lives of Others:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/50948
+  Lone Survivor:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/56195
+  The Lost City of Z:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/34206
