@@ -233,7 +233,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/348385
   The Flash:
     year: 2023
-    url_poster: https://theposterdb.com/api/assets/354123
+    url_poster: https://theposterdb.com/api/assets/427021
   Blue Beetle:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/427022
@@ -617,6 +617,17 @@ metadata:
   Fast X:
     url_poster: https://theposterdb.com/api/assets/373081
 
+  # The Godfather Saga
+  The Godfather:
+    year: 1972
+    url_poster: https://theposterdb.com/api/assets/8935
+  The Godfather Part II:
+    year: 1974
+    url_poster: https://theposterdb.com/api/assets/8936
+  The Godfather Part III:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/8937
+
   # Ghostbusters https://theposterdb.com/set/48032
   Ghostbusters:
     year: 1984
@@ -627,7 +638,7 @@ metadata:
   "Ghostbusters: Afterlife":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/75479
-    
+
   # Hercule Poirot https://theposterdb.com/set/128263
   Murder on the Orient Express:
     year: 2017
@@ -1064,6 +1075,17 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/460803
 
+  # The Man With No Name
+  A Fistful of Dollars:
+    year: 1964
+    url_poster: https://theposterdb.com/api/assets/167249
+  For a Few Dollars More:
+    year: 1965
+    url_poster: https://theposterdb.com/api/assets/167247
+  The Good, the Bad and the Ugly:
+    year: 1966
+    url_poster: https://theposterdb.com/api/assets/167245
+
   # Marvel Cinematic Universe https://theposterdb.com/set/99475
   Iron Man:
     url_poster: https://theposterdb.com/api/assets/162896
@@ -1420,6 +1442,20 @@ metadata:
   War for the Planet of the Apes:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/341
+
+  # The Purge
+  The Purge:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/5945
+  "The Purge: Anarchy":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/5946
+  "The Purge: Election Year":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/5947
+  The First Purge:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/5948
 
   # Rambo
   First Blood:
@@ -1913,3 +1949,72 @@ metadata:
   Fearless:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/110758
+  Ferrari:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/447213
+  The Fifth Element:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/64827
+  Fight Club:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/64093
+  Fist of Fury:
+    year: 1972
+    url_poster: https://theposterdb.com/api/assets/30554
+  "Five Nights at Freddy's":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/424845
+  Flightplan:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/134368
+  Ford v Ferrari:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/54081
+  Forrest Gump:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/40165
+  Fractured:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/183867
+  Free Guy:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/177576
+  Freelance:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/401356
+  Full Metal Jacket:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/30669
+  Fury:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/44443
+  Gangs of New York:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/54275
+  The Gangster, the Cop, the Devil:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/50970
+  Gaslight:
+    year: 1944
+    url_poster: https://theposterdb.com/api/assets/416952
+  The Gentlemen:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/58303
+  Gettysburg:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/456509
+  Ghost in the Shell:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/39538
+  Ghosted:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/354194
+  Gladiator:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/62642
+  Glass Onion:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/290535
+  Glory Road:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/115295
