@@ -4,6 +4,53 @@
 
 metadata:
 
+  # Mobile Suit Gundam 
+  Mobile Suit Gundam:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/329452
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/329453
+      1:
+        url_poster: https://theposterdb.com/api/assets/329454
+
+  Mobile Suit Zeta Gundam:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/322819
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322820
+      1:
+        url_poster: https://theposterdb.com/api/assets/322821
+
+  Mobile Suit Gundam ZZ:
+    year: 1986
+    url_poster: https://theposterdb.com/api/assets/322822
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322823
+      1:
+        url_poster: https://theposterdb.com/api/assets/322824
+
+  Mobile Suit Gundam Unicorn:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/322849
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322850
+      1:
+        url_poster: https://theposterdb.com/api/assets/322851
+
+  Mobile Suit Victory Gundam:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/323581
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323582
+      1:
+        url_poster: https://theposterdb.com/api/assets/323583
+
+  # Random Anime shows 
   "Queen's Blade":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/271661
@@ -6715,55 +6762,53 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/381136
 
-#Gundam
+  "Re:Monster":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450306
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/458955
 
-  Mobile Suit Gundam:
-    year: 1979
-    url_poster: https://theposterdb.com/api/assets/329452
+  I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450302
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/450303
+
+  "Spice and Wolf: Merchant Meets the Wise Wolf":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/474029
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/474030
+
+  The Banished Former Hero Lives as He Pleases:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/468907
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/329453
+        url_poster: https://theposterdb.com/api/assets/468908
       1:
-        url_poster: https://theposterdb.com/api/assets/329454
+        url_poster: https://theposterdb.com/api/assets/468909
 
-  Mobile Suit Zeta Gundam:
-    year: 1985
-    url_poster: https://theposterdb.com/api/assets/322819
+  "Ghost in the Shell: Arise - Alternative Architecture":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/175929
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/322820
+        url_poster: https://theposterdb.com/api/assets/175930
       1:
-        url_poster: https://theposterdb.com/api/assets/322821
+        url_poster: https://theposterdb.com/api/assets/175931
 
-  Mobile Suit Gundam ZZ:
-    year: 1986
-    url_poster: https://theposterdb.com/api/assets/322822
+  "Gods' Game We Play":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/462661
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/322823
       1:
-        url_poster: https://theposterdb.com/api/assets/322824
+        url_poster: https://theposterdb.com/api/assets/462662
 
-  Mobile Suit Gundam Unicorn:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/322849
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/322850
-      1:
-        url_poster: https://theposterdb.com/api/assets/322851
-
-  Mobile Suit Victory Gundam:
-    year: 1993
-    url_poster: https://theposterdb.com/api/assets/323581
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/323582
-      1:
-        url_poster: https://theposterdb.com/api/assets/323583
-
-#Not yet released
-
+  # Not yet released
   "Chillin' in Another World with Level 2 Super Cheat Powers":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450307
@@ -6772,13 +6817,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/461928
       1:
         url_poster: https://theposterdb.com/api/assets/450308
-
-  I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/450302
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/450303
 
   "An Archdemon's Dilemma: How to Love Your Elf Bride":
     year: 2024
@@ -6826,13 +6864,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/465598
 
-  "Gods' Game We Play":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/462661
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/462662
-
   Wind Breaker:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/434095
@@ -6869,22 +6900,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/467911
-
-  The Banished Former Hero Lives as He Pleases:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/468907
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/468908
-      1:
-        url_poster: https://theposterdb.com/api/assets/468909
-
-  "Spice and Wolf: merchant meets the wise wolf":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/474029
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/474030
 
   Mysterious Disappearances:
     year: 2024
