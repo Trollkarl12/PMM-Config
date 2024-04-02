@@ -6780,6 +6780,8 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/474029
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/477190
       1:
         url_poster: https://theposterdb.com/api/assets/474030
 
