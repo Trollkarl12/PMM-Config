@@ -146,3 +146,5 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls087911008/
     url_poster: https://theposterdb.com/api/assets/69452
+  Rocky:
+    template: {name: Collection, collection: 1575, poster: https://theposterdb.com/api/assets/54535}
