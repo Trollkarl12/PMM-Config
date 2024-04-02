@@ -1708,6 +1708,26 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/11309
 
+  # Rocky https://theposterdb.com/set/34803
+  Rocky:
+    year: 1976
+    url_poster: https://theposterdb.com/api/assets/54536
+  Rocky II:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/54537
+  Rocky III:
+    year: 1982
+    url_poster: https://theposterdb.com/api/assets/54538
+  Rocky IV:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/54539
+  Rocky V:
+    year: 1990
+    url_poster: https://theposterdb.com/api/assets/54540
+  Rocky Balboa:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/54541
+
   # Robert Langdon https://theposterdb.com/set/230
   The Da Vinci Code:
     year: 2006
@@ -1764,9 +1784,26 @@ metadata:
   Scary Movie 4:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/997
-  Scary Movie 5:
+  Scary Movie V:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/998
+
+  # Scream
+  Scream:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/805
+  Scream 2:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/806
+  Scream 3:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/807
+  Scream 4:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/808
+  Scream (2022):
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/212929
 
   # The Shining
   The Shining:
