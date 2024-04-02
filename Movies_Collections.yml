@@ -126,6 +126,8 @@ collections:
     template: {name: Collection, collection: 2467, movie: 338970, poster: https://theposterdb.com/api/assets/116910}
   Top Gun:
     template: {name: Collection, collection: 531330, poster: https://theposterdb.com/api/assets/251589}
+  Transformers:
+    template: {name: Collection, collection: "8650, 939352", movie: 424783, poster: https://theposterdb.com/api/assets/159630}
   X-Men:
     template: {name: Collection, collection: "748, 453993, 448150", movie: 567604, poster: https://theposterdb.com/api/assets/163839}
   DC Extended Universe:

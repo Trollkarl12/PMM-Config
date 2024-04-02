@@ -1870,6 +1870,29 @@ metadata:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/258861
 
+  # Transformers https://theposterdb.com/set/97513
+  Transformers:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/159631
+  "Transformers: Dark of the Moon":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/159633
+  "Transformers: Revenge of the Fallen":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/159632
+  "Transformers: The Last Knight":
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/159635
+  "Transformers: Age of Extinction":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/159634
+  Bumblebee:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/159636
+  "Transformers: Rise of the Beasts":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/420713
+
   # Wizarding World https://theposterdb.com/set/131416
   Harry Potter and the Sorcerer's Stone:
     year: 2001
