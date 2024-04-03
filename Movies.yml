@@ -1307,6 +1307,9 @@ metadata:
   "Spider-Man: Into the Spider-Verse":
     year: 2018
     url_poster: https://theposterdb.com/api/assets/421249
+  "Spider-Man: Across the Spider-Verse":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/421250
   Venom:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/163926
@@ -1688,7 +1691,7 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/2620
 
-  # Resident Evil
+  # Resident Evil https://theposterdb.com/set/5593
   Resident Evil:
     year: 2002
     url_poster: https://theposterdb.com/api/assets/11304
@@ -1707,6 +1710,9 @@ metadata:
   "Resident Evil: The Final Chapter":
     year: 2016
     url_poster: https://theposterdb.com/api/assets/11309
+  "Resident Evil: Welcome to Raccoon City":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/251418
 
   # Rocky https://theposterdb.com/set/34803
   Rocky:
@@ -1738,6 +1744,31 @@ metadata:
   Inferno:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/844
+
+  # Ringu https://theposterdb.com/set/3153
+  Ringu:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/7677
+  Spiral:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/7678
+  Ringu 2:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/7679
+  Ringu 0:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/7680
+
+  # Samurai https://theposterdb.com/set/67529
+  "Samurai I: Musashi Miyamoto":
+    year: 1954
+    url_poster: https://theposterdb.com/api/assets/107617
+  "Samurai II: Duel at Ichijoji Temple":
+    year: 1955
+    url_poster: https://theposterdb.com/api/assets/107618
+  "Samurai III: Duel at Ganryu Island":
+    year: 1956
+    url_poster: https://theposterdb.com/api/assets/107619
 
   # Saw
   Saw:
@@ -1818,26 +1849,37 @@ metadata:
 
   # Star Wars https://theposterdb.com/set/78057
   "Star Wars: Episode IV - A New Hope":
+    year: 1977
     url_poster: https://theposterdb.com/api/assets/124622
   "Star Wars: Episode V - The Empire Strikes Back":
+    year: 1980
     url_poster: https://theposterdb.com/api/assets/124624
   "Star Wars: Episode VI - Return of the Jedi":
+    year: 1983
     url_poster: https://theposterdb.com/api/assets/124625
   "Star Wars: Episode I - The Phantom Menace":
+    year: 1999
     url_poster: https://theposterdb.com/api/assets/124628
   "Star Wars: Episode II - Attack of the Clones":
+    year: 2002
     url_poster: https://theposterdb.com/api/assets/124629
   "Star Wars: Episode III - Revenge of the Sith":
+    year: 2005
     url_poster: https://theposterdb.com/api/assets/124630
   "Star Wars: Episode VII - The Force Awakens":
+    year: 2015
     url_poster: https://theposterdb.com/api/assets/124632
   "Rogue One: A Star Wars Story":
+    year: 2016
     url_poster: https://theposterdb.com/api/assets/124633
   "Star Wars: Episode VIII - The Last Jedi":
+    year: 2017
     url_poster: https://theposterdb.com/api/assets/124634
   "Solo: A Star Wars Story":
+    year: 2018
     url_poster: https://theposterdb.com/api/assets/124635
   "Star Wars: Episode IX - The Rise of Skywalker":
+    year: 2019
     url_poster: https://theposterdb.com/api/assets/124636
 
   # The Terminator https://theposterdb.com/set/93020
@@ -2679,3 +2721,162 @@ metadata:
   The Prestige:
     year: 2006
     url_poster: https://theposterdb.com/api/assets/52641
+  Pride & Prejudice:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/186186
+  Primer:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/188502
+  "Prince of Persia: The Sands of Time":
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/51879
+  Prisoners:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/64296
+  The Promised Land:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/447675
+  Psycho:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/432190
+  Public Enemies:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/189603
+  Pulp Fiction:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/31972
+  Puss in Boots:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/307427
+  "Puss in Boots: The Last Wish":
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/307428
+  Raging Bull:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/54259
+  Rain Man:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/34988
+  Ready Player One:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/60857
+  Rear Window:
+    year: 1954
+    url_poster: https://theposterdb.com/api/assets/432185
+  "Rebel Moon - Part One: A Child of Fire":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/446039
+  Red Notice:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/189422
+  The Red Shoes:
+    year: 1948
+    url_poster: https://theposterdb.com/api/assets/109228
+  Renfield:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/305845
+  Rescue Dawn:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/65863
+  Reservoir Dogs:
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/31971
+  Return to the 36th Chamber:
+    year: 1980
+    url_poster: https://theposterdb.com/api/assets/430518
+  The Revenant:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/53106
+  Richie Rich:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/120295
+  The Ritual Killer:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/337490
+  Rocketman:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/47588
+  Romeo and Juliet:
+    year: 1968
+    url_poster: https://theposterdb.com/api/assets/103863
+  Samsara:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/97711
+  Saving Private Ryan:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/34772
+  "Schindler's List":
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/36107
+  School of Rock:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/87263
+  Scooby-Doo:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/5899
+  Se7en:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/108334
+  Shark Tale:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/20652
+  The Shawshank Redemption:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/51857
+  She-Devil:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/252473
+  Shutter Island:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/47513
+  Silent Night:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/417143
+  "Singin' in the Rain":
+    year: 1952
+    url_poster: https://theposterdb.com/api/assets/186899
+  Sisu:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/362414
+  Snowden:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/80407
+  Sorry to Bother You:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/117909
+  Sound of Freedom:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/442630
+  The Sound of Music:
+    year: 1965
+    url_poster: https://theposterdb.com/api/assets/187781
+  Spaceman:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/446036
+  Spartacus:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/92763
+  Speed:
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/55593
+  The Spiderwick Chronicles:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/87939
+  Stalingrad:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/153948
+  Stand and Deliver:
+    year: 1988
+    url_poster: https://theposterdb.com/api/assets/410662
+  Starship Troopers:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/5526
+  Sunset Boulevard:
+    year: 1950
+    url_poster: https://theposterdb.com/api/assets/196845
+  The Super Mario Bros. Movie:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/360913
+  Superbad:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/87264
