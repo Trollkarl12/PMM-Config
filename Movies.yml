@@ -1914,6 +1914,14 @@ metadata:
   "Top Gun: Maverick":
     year: 2022
     url_poster: https://theposterdb.com/api/assets/258861
+    
+  # Trainspotting https://theposterdb.com/set/96552
+  Trainspotting:
+    year: 1996
+    url_poster: https://theposterdb.com/api/assets/157703
+  T2 Trainspotting:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/157704
 
   # Transformers https://theposterdb.com/set/97513
   Transformers:
@@ -1937,6 +1945,14 @@ metadata:
   "Transformers: Rise of the Beasts":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/420713
+
+  # Teenage Mutant Ninja Turtles https://theposterdb.com/set/39014
+  Teenage Mutant Ninja Turtles:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/60982
+  "Teenage Mutant Ninja Turtles: Out of the Shadows":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/60983
 
   # Wizarding World https://theposterdb.com/set/131416
   Harry Potter and the Sorcerer's Stone:
@@ -2880,3 +2896,30 @@ metadata:
   Superbad:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/87264
+  Sympathy for Mr. Vengeance:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/62607
+  Tár:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/293865
+  Taxi Driver:
+    year: 1976
+    url_poster: https://theposterdb.com/api/assets/319812
+  The Ten Commandments:
+    year: 1956
+    url_poster: https://theposterdb.com/api/assets/274393
+  Tenet:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/96449
+  The Terminal:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/215360
+  Tetris:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/343386
+  The Texas Chain Saw Massacre:
+    year: 1974
+    url_poster: https://theposterdb.com/api/assets/209104
+  The Thin Red Line:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/93075
