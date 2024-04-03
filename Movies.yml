@@ -1788,7 +1788,7 @@ metadata:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/998
 
-  # Scream
+  # Scream https://theposterdb.com/set/224
   Scream:
     year: 1996
     url_poster: https://theposterdb.com/api/assets/805
@@ -1804,6 +1804,9 @@ metadata:
   Scream (2022):
     year: 2022
     url_poster: https://theposterdb.com/api/assets/212929
+  Scream VI:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/355473
 
   # The Shining
   The Shining:
