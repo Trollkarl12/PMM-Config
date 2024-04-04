@@ -2801,7 +2801,7 @@ metadata:
     year: 1980
     url_poster: https://theposterdb.com/api/assets/430518
   The Revenant:
-    year: 2015
+    year: 2016
     url_poster: https://theposterdb.com/api/assets/53106
   Richie Rich:
     year: 1994
@@ -2887,7 +2887,7 @@ metadata:
   Starship Troopers:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/5526
-  Sunset Blvd.:
+  "Sunset Blvd.":
     year: 1950
     url_poster: https://theposterdb.com/api/assets/196845
   The Super Mario Bros. Movie:
