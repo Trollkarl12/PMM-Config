@@ -2610,14 +2610,16 @@ metadata:
 
   The Irregular at Magic High School:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/161955
+    url_poster: https://theposterdb.com/api/assets/457882
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/161956
+        url_poster: https://theposterdb.com/api/assets/457883
       1:
-        url_poster: https://theposterdb.com/api/assets/161957
+        url_poster: https://theposterdb.com/api/assets/457884
       2:
-        url_poster: https://theposterdb.com/api/assets/161958
+        url_poster: https://theposterdb.com/api/assets/457885
+      3:
+        url_poster: https://theposterdb.com/api/assets/457886
 
   Is It Wrong to Try to Pick Up Girls in a Dungeon?:
     year: 2015
@@ -4680,14 +4682,16 @@ metadata:
 
   That Time I Got Reincarnated as a Slime:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/133803
+    url_poster: https://theposterdb.com/api/assets/352477
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/133803
+        url_poster: https://theposterdb.com/api/assets/352478
       1:
-        url_poster: https://theposterdb.com/api/assets/133803
+        url_poster: https://theposterdb.com/api/assets/352479
       2:
-        url_poster: https://theposterdb.com/api/assets/133806
+        url_poster: https://theposterdb.com/api/assets/352480
+      3:
+        url_poster: https://theposterdb.com/api/assets/352482
 
   The Testament of Sister New Devil:
     year: 2015
