@@ -1953,6 +1953,17 @@ metadata:
   "Teenage Mutant Ninja Turtles: Out of the Shadows":
     year: 2016
     url_poster: https://theposterdb.com/api/assets/60983
+    
+  # Three Colors https://theposterdb.com/poster/80626 https://theposterdb.com/poster/80625 https://theposterdb.com/poster/80624
+  "Three Colors: Blue":
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/80626
+  "Three Colors: Red":
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/80625
+  "Three Colors: White":
+    year: 1994
+    url_poster: https://theposterdb.com/api/assets/80624
 
   # Wizarding World https://theposterdb.com/set/131416
   Harry Potter and the Sorcerer's Stone:
@@ -2926,3 +2937,33 @@ metadata:
   The Thin Red Line:
     year: 1999
     url_poster: https://theposterdb.com/api/assets/93075
+  Thirst (박쥐):
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/272065
+  Threads:
+    year: 1084
+    url_poster: https://theposterdb.com/api/assets/419731
+  A Time to Kill:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/54162
+  Titanic:
+    year: 1997
+    url_poster: https://theposterdb.com/api/assets/48394
+  To Catch a Killer:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/364413
+  Tokyo Story:
+    year: 1953
+    url_poster: https://theposterdb.com/api/assets/263399
+  Tolkien:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/73177
+  Tora! Tora! Tora!:
+    year: 1970
+    url_poster: https://theposterdb.com/api/assets/18758
+  Triangle of Sadness:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/293872
+  Troy:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/82374

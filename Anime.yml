@@ -6853,6 +6853,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/478121
 
+  Studio Apartment, Good Lighting, Angel Included:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/476165
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/476166
+      1:
+        url_poster: https://theposterdb.com/api/assets/476167
+
   # Not yet released
   "Chillin' in Another World with Level 2 Super Cheat Powers":
     year: 2024
@@ -6952,3 +6961,28 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474873
+
+  Grandpa and Grandma Turn Young Again:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/478892
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/478893
+      1:
+        url_poster: https://theposterdb.com/api/assets/478894
+
+  "YATAGARASU: The Raven Does Not Choose Its Master":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/478537
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/478538
+
+  "Mission: Yozakura Family":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/478657
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/478658
+      1:
+        url_poster: https://theposterdb.com/api/assets/478659
