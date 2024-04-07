@@ -2975,6 +2975,9 @@ metadata:
   Tolkien:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/73177
+  Tombstone:
+    year: 1993
+    url_poster: https://theposterdb.com/api/assets/148425
   Tora! Tora! Tora!:
     year: 1970
     url_poster: https://theposterdb.com/api/assets/18758
@@ -3026,3 +3029,51 @@ metadata:
   Watchmen:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/36535
+  Waterloo:
+    year: 1970
+    url_poster: https://theposterdb.com/api/assets/134107
+  The Way of the Dragon:
+    year: 1972
+    url_poster: https://theposterdb.com/api/assets/30555
+  The Whale:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/332616
+  Where Eagles Dare:
+    year: 1968
+    url_poster: https://theposterdb.com/api/assets/427857
+  Whiplash:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/54134
+  "White Men Can't Jump":
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/364513
+  The Wind that Shakes the Barley:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/335981
+  The Witch:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/108123
+  The Witches:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/104487
+  Witness for the Prosecution:
+    year: 1958
+    url_poster: https://theposterdb.com/api/assets/55091
+  The Wolf of Wall Street:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/54281
+  Wonka:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/454485
+  World War Z:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/33877
+  Yes Man:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/302284
+  Zodiac:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/64095
+  Zulu:
+    year: 1964
+    url_poster: https://theposterdb.com/api/assets/259752
