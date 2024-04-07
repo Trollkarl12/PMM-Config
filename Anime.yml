@@ -1735,10 +1735,14 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/343833
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/465581
       1:
         url_poster: https://theposterdb.com/api/assets/343834
       2:
         url_poster: https://theposterdb.com/api/assets/379176
+      3:
+        url_poster: https://theposterdb.com/api/assets/453533
 
   The Dungeon of Black Company:
     year: 2021
@@ -3912,10 +3916,12 @@ metadata:
 
   Shaman King:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/143064
+    url_poster: https://theposterdb.com/api/assets/159184
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/143065
+        url_poster: https://theposterdb.com/api/assets/159185
+      2:
+        url_poster: https://theposterdb.com/api/assets/457137
 
   Shangri-La Frontier:
     year: 2023
@@ -6862,6 +6868,38 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/476167
 
+  "Mission: Yozakura Family":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/478657
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/478658
+      1:
+        url_poster: https://theposterdb.com/api/assets/478659
+
+  Go! Go! Loser Ranger!:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/467910
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/467911
+
+  Grandpa and Grandma Turn Young Again:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/478892
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/478893
+      1:
+        url_poster: https://theposterdb.com/api/assets/478894
+
+  "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/467263
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/467264
+
   # Not yet released
   "Chillin' in Another World with Level 2 Super Cheat Powers":
     year: 2024
@@ -6911,20 +6949,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/464724
 
-  "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/467263
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/467264
-
-  Go! Go! Loser Ranger!:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/467910
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/467911
-
   Mysterious Disappearances:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/474311
@@ -6962,27 +6986,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/474873
 
-  Grandpa and Grandma Turn Young Again:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/478892
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/478893
-      1:
-        url_poster: https://theposterdb.com/api/assets/478894
-
   "YATAGARASU: The Raven Does Not Choose Its Master":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/478537
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/478538
-
-  "Mission: Yozakura Family":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/478657
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/478658
-      1:
-        url_poster: https://theposterdb.com/api/assets/478659
