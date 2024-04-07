@@ -1965,6 +1965,23 @@ metadata:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/80624
 
+  # Underworld https://theposterdb.com/set/116
+  Underworld:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/574
+  "Underworld: Evolution":
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/576
+  "Underworld: Rise of the Lycans":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/580
+  "Underworld: Awakening":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/582
+  "Underworld: Blood Wars":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/583
+
   # Wizarding World https://theposterdb.com/set/131416
   Harry Potter and the Sorcerer's Stone:
     year: 2001
@@ -2967,3 +2984,45 @@ metadata:
   Troy:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/82374
+  Tucker and Dale vs Evil:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/108978
+  Unthinkable:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/56643
+  The Untouchables:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/284398
+  Upgrade:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/93323
+  The Usual Suspects:
+    year: 1995
+    url_poster: https://theposterdb.com/api/assets/39060
+  V for Vendetta:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/66055
+  Valerian and the City of a Thousand Planets:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/61870
+  Valkyrie:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/92711
+  Valley Uprising:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/231226
+  Vertigo:
+    year: 1958
+    url_poster: https://theposterdb.com/api/assets/15359
+  The Wailing:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/454394
+  War of the Worlds:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/74519
+  Warcraft:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/203749
+  Watchmen:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/36535
