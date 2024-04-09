@@ -5924,12 +5924,12 @@ metadata:
 
   Shiki:
     year: 2010
-    url_poster: https://theposterdb.com/api/assets/281577
+    url_poster: https://theposterdb.com/api/assets/479942
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/281578
+        url_poster: https://theposterdb.com/api/assets/479943
       1:
-        url_poster: https://theposterdb.com/api/assets/281579
+        url_poster: https://theposterdb.com/api/assets/479944
 
   One Outs:
     year: 2008
@@ -6909,6 +6909,24 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/450308
 
+  Snow White with the Red Hair:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/480139
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/480140
+      1:
+        url_poster: https://theposterdb.com/api/assets/480141
+
+  Unnamed Memory:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/416862
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/450332
+      1:
+        url_poster: https://theposterdb.com/api/assets/416863
+
   # Not yet released
   Kaiju No.8:
     year: 2024
@@ -6925,15 +6943,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/445896
-
-  Unnamed Memory:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/416862
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/450332
-      1:
-        url_poster: https://theposterdb.com/api/assets/416863
 
   Quality Assurance in Another World:
     year: 2024
