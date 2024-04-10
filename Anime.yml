@@ -1542,18 +1542,20 @@ metadata:
 
   Date A Live:
     year: 2013
-    url_poster: https://theposterdb.com/api/assets/184764
+    url_poster: https://theposterdb.com/api/assets/334183
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/184765
+        url_poster: https://theposterdb.com/api/assets/334184
       1:
-        url_poster: https://theposterdb.com/api/assets/184766
+        url_poster: https://theposterdb.com/api/assets/334185
       2:
-        url_poster: https://theposterdb.com/api/assets/184767
+        url_poster: https://theposterdb.com/api/assets/334188
       3:
-        url_poster: https://theposterdb.com/api/assets/184768
+        url_poster: https://theposterdb.com/api/assets/334187
       4:
-        url_poster: https://theposterdb.com/api/assets/184769
+        url_poster: https://theposterdb.com/api/assets/334188
+      5:
+        url_poster: https://theposterdb.com/api/assets/450301
 
   The Dawn of the Witch:
     year: 2022
