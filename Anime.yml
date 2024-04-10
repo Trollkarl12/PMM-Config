@@ -6932,6 +6932,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/416863
 
+  Viral Hit:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/474435
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/474436
+
+  Mysterious Disappearances:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/474311
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/474312
+      1:
+        url_poster: https://theposterdb.com/api/assets/474313
+
   # Not yet released
   Kaiju No.8:
     year: 2024
@@ -6962,22 +6978,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/464724
-
-  Mysterious Disappearances:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/474311
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/474312
-      1:
-        url_poster: https://theposterdb.com/api/assets/474313
-
-  Viral Hit:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/474435
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/474436
 
   "Wistoria: Wand and Sword":
     year: 2024
