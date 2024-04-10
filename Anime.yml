@@ -4023,12 +4023,12 @@ metadata:
 
   Soul Eater:
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/134445
+    url_poster: https://theposterdb.com/api/assets/480562
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/134446
+        url_poster: https://theposterdb.com/api/assets/480563
       1:
-        url_poster: https://theposterdb.com/api/assets/134447
+        url_poster: https://theposterdb.com/api/assets/480564
 
   Spice and Wolf:
     year: 2008
@@ -4948,7 +4948,10 @@ metadata:
 
   Soul Eater Not!:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/172709
+    url_poster: https://theposterdb.com/api/assets/480565
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/480566
 
   "Yashahime: Princess Half-Demon":
     year: 2020
