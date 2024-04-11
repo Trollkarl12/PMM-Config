@@ -1786,4 +1786,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/271669
 
-#Missing posters Barda, The Office (SE), Samurai Jack, Solsidan, Wallander
+  Fallout:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/454935
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/454936
