@@ -1619,6 +1619,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/194937
       4:
         url_poster: https://theposterdb.com/api/assets/329801
+      5:
+        url_poster: https://theposterdb.com/api/assets/481762
 
   The Demon Sword Master of Excalibur Academy:
     year: 2023
@@ -3734,12 +3736,12 @@ metadata:
 
   ReLIFE:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/186333
+    url_poster: https://theposterdb.com/api/assets/481623
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/186334
+        url_poster: https://theposterdb.com/api/assets/481624
       1:
-        url_poster: https://theposterdb.com/api/assets/186335
+        url_poster: https://theposterdb.com/api/assets/481625
 
   "A Returner's Magic Should Be Special":
     year: 2023
