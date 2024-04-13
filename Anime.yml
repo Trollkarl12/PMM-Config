@@ -6952,8 +6952,21 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/474313
 
-  # Not yet released
-  Kaiju No.8:
+  The New Gate:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/464723
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/464724
+
+  "YATAGARASU: The Raven Does Not Choose Its Master":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/478537
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/478538
+
+  Kaiju No. 8:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/450291
     seasons:
@@ -6961,6 +6974,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/467915
       1:
         url_poster: https://theposterdb.com/api/assets/450292
+
+  # Not yet released
 
   The Elusive Samurai:
     year: 2024
@@ -6975,13 +6990,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/465598
-
-  The New Gate:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/464723
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/464724
 
   "Wistoria: Wand and Sword":
     year: 2024
@@ -7003,10 +7011,3 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474873
-
-  "YATAGARASU: The Raven Does Not Choose Its Master":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/478537
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/478538
