@@ -1792,3 +1792,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/454936
+
+  Business Proposal:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/222637
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/222638
