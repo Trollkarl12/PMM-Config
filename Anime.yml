@@ -6975,6 +6975,24 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/450292
 
+  Little Busters:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/483981
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/483982
+      1:
+        url_poster: https://theposterdb.com/api/assets/483983
+      2:
+        url_poster: https://theposterdb.com/api/assets/483984
+
+  Buso Renkin:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/484158
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/484159
+
   # Not yet released
 
   The Elusive Samurai:
