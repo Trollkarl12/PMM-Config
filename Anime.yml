@@ -2585,10 +2585,12 @@ metadata:
 
   Interviews with Monster Girls:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/392251
+    url_poster: https://theposterdb.com/api/assets/484340
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/484341
       1:
-        url_poster: https://theposterdb.com/api/assets/392252
+        url_poster: https://theposterdb.com/api/assets/484342
 
   InuYasha:
     year: 2000
