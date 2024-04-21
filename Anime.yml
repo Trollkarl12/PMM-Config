@@ -6995,12 +6995,23 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/484159
 
-  "Actually, I Am...":
+  Actually, I Am...:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/484311
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/484312
+
+  "Saekano: How to Raise a Boring Girlfriend":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/484583
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/484584
+      1:
+        url_poster: https://theposterdb.com/api/assets/484585
+      2:
+        url_poster: https://theposterdb.com/api/assets/484586
 
   # Not yet released
 
