@@ -2402,6 +2402,9 @@ metadata:
   Gone with the Wind:
     year: 1940
     url_poster: https://theposterdb.com/api/assets/79902
+  Good Time:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/123290
   Good Will Hunting:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/60825
