@@ -3026,14 +3026,14 @@ metadata:
 
   Little Busters:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/181047
+    url_poster: https://theposterdb.com/api/assets/483981
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/181048
+        url_poster: https://theposterdb.com/api/assets/483982
       1:
-        url_poster: https://theposterdb.com/api/assets/181049
+        url_poster: https://theposterdb.com/api/assets/483983
       2:
-        url_poster: https://theposterdb.com/api/assets/181050
+        url_poster: https://theposterdb.com/api/assets/483984
 
   Log Horizon:
     year: 2013
@@ -6976,17 +6976,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/467915
       1:
         url_poster: https://theposterdb.com/api/assets/450292
-
-  Little Busters:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/483981
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/483982
-      1:
-        url_poster: https://theposterdb.com/api/assets/483983
-      2:
-        url_poster: https://theposterdb.com/api/assets/483984
 
   Buso Renkin:
     year: 2006
