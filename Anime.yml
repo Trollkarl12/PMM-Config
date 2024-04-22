@@ -4146,18 +4146,18 @@ metadata:
 
   Sword Art Online:
     year: 2012
-    url_poster: https://theposterdb.com/api/assets/69626
+    url_poster: https://theposterdb.com/api/assets/484993
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/69627
+        url_poster: https://theposterdb.com/api/assets/484994
       1:
-        url_poster: https://theposterdb.com/api/assets/69628
+        url_poster: https://theposterdb.com/api/assets/484995
       2:
-        url_poster: https://theposterdb.com/api/assets/69629
+        url_poster: https://theposterdb.com/api/assets/484996
       3:
-        url_poster: https://theposterdb.com/api/assets/69630
+        url_poster: https://theposterdb.com/api/assets/484997
       4:
-        url_poster: https://theposterdb.com/api/assets/69631
+        url_poster: https://theposterdb.com/api/assets/484998
 
   Synduality Noir:
     year: 2023
@@ -4177,12 +4177,14 @@ metadata:
 
   "Sword Art Online Alternative: Gun Gale Online":
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/134396
+    url_poster: https://theposterdb.com/api/assets/484999
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/134397
+        url_poster: https://theposterdb.com/api/assets/485000
       1:
-        url_poster: https://theposterdb.com/api/assets/134398
+        url_poster: https://theposterdb.com/api/assets/485001
+      2:
+        url_poster: https://theposterdb.com/api/assets/485002
 
   "Zom 100: Bucket List of the Dead":
     year: 2023
