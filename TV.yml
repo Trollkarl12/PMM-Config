@@ -956,6 +956,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/224025
       2:
         url_poster: https://theposterdb.com/api/assets/318332
+      3:
+        url_poster: https://theposterdb.com/api/assets/488776
 
   Dexter:
     year: 2006
@@ -1799,3 +1801,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/222638
+
+  From:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/214022
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/214023
+      2:
+        url_poster: https://theposterdb.com/api/assets/347291
+
+  Baby Reindeer:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/489059
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/489060
