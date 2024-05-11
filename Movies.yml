@@ -2399,6 +2399,9 @@ metadata:
   Godzilla:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/397782
+  Godzilla Minus One:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/452807
   Gone with the Wind:
     year: 1940
     url_poster: https://theposterdb.com/api/assets/79902
