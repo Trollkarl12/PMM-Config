@@ -650,16 +650,19 @@ metadata:
     year: 1990
     url_poster: https://theposterdb.com/api/assets/8937
 
-  # Ghostbusters https://theposterdb.com/set/48032
+  # Ghostbusters https://theposterdb.com/set/271083
   Ghostbusters:
     year: 1984
-    url_poster: https://theposterdb.com/api/assets/75476
+    url_poster: https://theposterdb.com/api/assets/491818
   Ghostbusters II:
     year: 1989
-    url_poster: https://theposterdb.com/api/assets/75477
+    url_poster: https://theposterdb.com/api/assets/491817
   "Ghostbusters: Afterlife":
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/75479
+    url_poster: https://theposterdb.com/api/assets/491815
+  "Ghostbusters: Frozen Empire":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/491814
 
   # The Grudge
   The Grudge:
@@ -2303,6 +2306,9 @@ metadata:
   The Fabelmans:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/420690
+  The Fall Guy:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/489533
   Fallen Angels:
     year: 1995
     url_poster: https://theposterdb.com/api/assets/146429
