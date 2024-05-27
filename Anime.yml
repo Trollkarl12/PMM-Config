@@ -7204,6 +7204,13 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/358141
 
+  Devil May Cry:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/422520
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/422521
+
   # Not yet released
 
   The Elusive Samurai:
