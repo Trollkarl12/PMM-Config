@@ -7222,6 +7222,23 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/88201
 
+  Sayonara Zetsubou Sensei:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/242949
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/242950
+      1:
+        url_poster: https://theposterdb.com/api/assets/242951
+      2:
+        url_poster: https://theposterdb.com/api/assets/242952
+      3:
+        url_poster: https://theposterdb.com/api/assets/242953
+
+  Stigma of the Wind:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/95639
+
   # Not yet released
 
   The Elusive Samurai:
