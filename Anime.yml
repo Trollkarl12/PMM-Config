@@ -7121,6 +7121,60 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/323702
 
+  Haven't You Heard? I'm Sakamoto:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/108433
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/108434
+
+  Basilisk:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/126151
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/126152
+      1:
+        url_poster: https://theposterdb.com/api/assets/126153
+      2:
+        url_poster: https://theposterdb.com/api/assets/126150
+
+  A Couple of Cuckoos:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/332185
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/332189
+      1:
+        url_poster: https://theposterdb.com/api/assets/332186
+
+  Record of Ragnarok:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/253654
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/253655
+      2:
+        url_poster: https://theposterdb.com/api/assets/253714
+
+  Zombie Land SAGA:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/323089
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323090
+      1:
+        url_poster: https://theposterdb.com/api/assets/323091
+      2:
+        url_poster: https://theposterdb.com/api/assets/323092
+
+  High-Rise Invasion:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/133151
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/133152
+
   # Not yet released
 
   The Elusive Samurai:
