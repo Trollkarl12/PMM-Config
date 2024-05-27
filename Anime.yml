@@ -7011,6 +7011,116 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/492992
 
+  Orange:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/255334
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/424759
+      1:
+        url_poster: https://theposterdb.com/api/assets/255335
+
+  Sound! Euphonium:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/450315
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/450316
+      1:
+        url_poster: https://theposterdb.com/api/assets/450317
+      2:
+        url_poster: https://theposterdb.com/api/assets/450318
+      3:
+        url_poster: https://theposterdb.com/api/assets/450319
+
+  Black Lagoon:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/323116
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323117
+      1:
+        url_poster: https://theposterdb.com/api/assets/323118
+
+  Fruits Basket:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/393640
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/393641
+      1:
+        url_poster: https://theposterdb.com/api/assets/393642
+      2:
+        url_poster: https://theposterdb.com/api/assets/393643
+      3:
+        url_poster: https://theposterdb.com/api/assets/393644
+
+  Spy Classroom:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/303513
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/303514
+      2:
+        url_poster: https://theposterdb.com/api/assets/361525
+
+  Hikaru no Go:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/165307
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/165308
+      1:
+        url_poster: https://theposterdb.com/api/assets/165309
+      2:
+        url_poster: https://theposterdb.com/api/assets/165310
+      3:
+        url_poster: https://theposterdb.com/api/assets/165311
+
+  Bottom-Tier Character Tomozaki:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/416000
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/416001
+      1:
+        url_poster: https://theposterdb.com/api/assets/416002
+      2:
+        url_poster: https://theposterdb.com/api/assets/416003
+
+  "From Me to You: Kimi ni Todoke":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/493330
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/493331
+      1:
+        url_poster: https://theposterdb.com/api/assets/493332
+      2:
+        url_poster: https://theposterdb.com/api/assets/493333
+      3:
+        url_poster: https://theposterdb.com/api/assets/493334
+
+  Girls und Panzer:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/409203
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/409204
+      1:
+        url_poster: https://theposterdb.com/api/assets/409205
+
+  "TONIKAWA: Over the Moon for You":
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/323699
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323700
+      1:
+        url_poster: https://theposterdb.com/api/assets/323701
+      2:
+        url_poster: https://theposterdb.com/api/assets/323702
+
   # Not yet released
 
   The Elusive Samurai:
