@@ -7211,6 +7211,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/422521
 
+  .hack:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/88197
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/88198
+      2:
+        url_poster: https://theposterdb.com/api/assets/88200
+      3:
+        url_poster: https://theposterdb.com/api/assets/88201
+
   # Not yet released
 
   The Elusive Samurai:
