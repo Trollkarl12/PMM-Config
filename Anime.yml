@@ -7175,6 +7175,35 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/133152
 
+  Last Exile:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/317024
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/317026
+      2:
+        url_poster: https://theposterdb.com/api/assets/317027
+
+  Kannagi:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/250764
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/250765
+      1:
+        url_poster: https://theposterdb.com/api/assets/250766
+
+  Ai Yori Aoshi:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/358138
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/358139
+      1:
+        url_poster: https://theposterdb.com/api/assets/358140
+      2:
+        url_poster: https://theposterdb.com/api/assets/358141
+
   # Not yet released
 
   The Elusive Samurai:
