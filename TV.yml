@@ -1871,3 +1871,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/189035
       16:
         url_poster: https://theposterdb.com/api/assets/357913
+
+  "DOTA: Dragon's Blood":
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/209902
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/209903
+      2:
+        url_poster: https://theposterdb.com/api/assets/209904
+      3:
+        url_poster: https://theposterdb.com/api/assets/256941
