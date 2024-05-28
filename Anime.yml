@@ -7239,6 +7239,13 @@ metadata:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/95639
 
+  Super Crooks:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/192736
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/192737
+
   # Not yet released
 
   The Elusive Samurai:
