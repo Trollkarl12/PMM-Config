@@ -7255,6 +7255,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/495261
 
+  Great Pretender:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/493046
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/493049
+      1:
+        url_poster: https://theposterdb.com/api/assets/493047
+      2:
+        url_poster: https://theposterdb.com/api/assets/493048
+
   # Not yet released
 
   The Elusive Samurai:
