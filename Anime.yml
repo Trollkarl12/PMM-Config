@@ -3461,6 +3461,7 @@ metadata:
   Noblesse:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/106464
+    seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/498326
       1:
