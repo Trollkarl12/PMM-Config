@@ -117,6 +117,7 @@ metadata:
     year: 2003
     url_poster: https://theposterdb.com/api/assets/433624
 
+  # Random Movies
   Promare:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/69148
@@ -231,3 +232,15 @@ metadata:
   Steamboy:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/203599
+  Hello World:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/203564
+  Wicked City:
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/293275
+  Her Blue Sky:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/285514
+  Black Fox:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/449371
