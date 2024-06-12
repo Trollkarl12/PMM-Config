@@ -363,6 +363,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/385729
 
+  The Acolyte:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/475798
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/475799
+
 #Narocs https://theposterdb.com/set/120756
 
   Narcos:

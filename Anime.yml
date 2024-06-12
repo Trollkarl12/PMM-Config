@@ -7271,6 +7271,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/493048
 
+  BLUE LOCK:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/499738
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/499739
+      1:
+        url_poster: https://theposterdb.com/api/assets/499740
+
   # Not yet released
 
   The Elusive Samurai:
@@ -7314,3 +7323,38 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/493741
+
+  ATRI -My Dear Moments-:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499566
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499567
+
+  Dungeon People:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499568
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499569
+
+  2.5 Dimensional Seduction:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499580
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499581
+
+  "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499600
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499601
+
+  My Deer Friend Nokotan:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499639
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499640

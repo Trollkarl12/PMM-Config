@@ -4,6 +4,14 @@
 
 metadata:
 
+  # 28 Collection https://theposterdb.com/api/assets/24138
+  28 Days Later:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/24139
+  28 Weeks Later:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/24140
+
   # 300
   "300":
     year: 2007
@@ -2027,6 +2035,9 @@ metadata:
   13 Hours:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/254760
+  31:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/20081
   The 36th Chamber of Shaolin:
     year: 1978
     url_poster: https://theposterdb.com/api/assets/430517
@@ -2387,6 +2398,9 @@ metadata:
   Ghosted:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/354194
+  The Girl with All the Gifts:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/105509
   Gladiator:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/62642
@@ -2405,7 +2419,10 @@ metadata:
   Gods and Generals:
     year: 2003
     url_poster: https://theposterdb.com/api/assets/288635
-  Godzilla:
+  Godzilla (1954):
+    year: 1954
+    url_poster: https://theposterdb.com/api/assets/397751
+  Godzilla (1998):
     year: 1998
     url_poster: https://theposterdb.com/api/assets/397782
   Godzilla (2014):
@@ -2648,6 +2665,9 @@ metadata:
   Lone Survivor:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/56195
+  Lords of Chaos:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/93808
   The Lost City of Z:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/34206
