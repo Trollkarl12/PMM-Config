@@ -2035,7 +2035,7 @@ metadata:
   13 Hours:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/254760
-  31:
+  "31":
     year: 2016
     url_poster: https://theposterdb.com/api/assets/20081
   The 36th Chamber of Shaolin:
@@ -2666,7 +2666,7 @@ metadata:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/56195
   Lords of Chaos:
-    year: 2018
+    year: 2019
     url_poster: https://theposterdb.com/api/assets/93808
   The Lost City of Z:
     year: 2017
