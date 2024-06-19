@@ -1891,3 +1891,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/209904
       3:
         url_poster: https://theposterdb.com/api/assets/256941
+
+  Succession:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/274870
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/274871
+      2:
+        url_poster: https://theposterdb.com/api/assets/274872
+      3:
+        url_poster: https://theposterdb.com/api/assets/274873
+      4:
+        url_poster: https://theposterdb.com/api/assets/330494
