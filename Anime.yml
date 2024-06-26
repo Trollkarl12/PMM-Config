@@ -7287,6 +7287,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/499740
 
+  Hamatora:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/502961
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/502962
+      2:
+        url_poster: https://theposterdb.com/api/assets/502963
+
   # Not yet released
 
   The Elusive Samurai:
@@ -7393,3 +7402,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/502298
+
+  "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/502666
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/502667

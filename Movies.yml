@@ -1217,6 +1217,23 @@ metadata:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/460803
 
+  # Mad Max https://theposterdb.com/set/256266
+  Mad Max:
+    year: 1979
+    url_poster: https://theposterdb.com/api/assets/465666
+  Mad Max 2:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/465665
+  Mad Max Beyond Thunderdome:
+    year: 1985
+    url_poster: https://theposterdb.com/api/assets/465664
+  "Mad Max: Fury Road":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/465663
+  "Furiosa: A Mad Max Saga":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/465630
+
   # The Man With No Name
   A Fistful of Dollars:
     year: 1964
