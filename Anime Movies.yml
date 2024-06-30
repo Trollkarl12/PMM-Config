@@ -71,6 +71,9 @@ metadata:
   Earwig and the Witch:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/325069
+  The Boy and the Heron:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/453915
 
   #Ghost in the Shell
   Ghost in the Shell:
@@ -247,3 +250,9 @@ metadata:
   Baki Hanma VS Kengan Ashura:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/498483
+  Tamako Love Story:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/266125
+  TAILENDERS:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/122315
