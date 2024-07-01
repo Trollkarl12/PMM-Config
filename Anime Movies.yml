@@ -256,3 +256,12 @@ metadata:
   TAILENDERS:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/122315
+  Cencoroll:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/490621
+  Cencoroll Connect:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/490623
+  Venus Wars:
+    year: 1989
+    url_poster: https://theposterdb.com/api/assets/198928
