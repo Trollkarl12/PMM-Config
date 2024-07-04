@@ -3514,7 +3514,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/186326
 
-  Oshi no Ko:
+  Oshi No Ko:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/341189
     seasons:
@@ -7319,14 +7319,51 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/501229
 
+  The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/502297
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/502298
+
+  Alya Sometimes Hides Her Feelings in Russian:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505105
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/505106
+      1:
+        url_poster: https://theposterdb.com/api/assets/505107
+
+  I Parry Everything!:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/493740
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/493741
+
+  "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499600
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499601
+
+  TASUKETSU -Fate of the Majority-:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505110
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/505111
+
   # Not yet released
 
   The Elusive Samurai:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/445895
+    url_poster: https://theposterdb.com/api/assets/505225
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/445896
+        url_poster: https://theposterdb.com/api/assets/505226
 
   Quality Assurance in Another World:
     year: 2024
@@ -7349,13 +7386,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/474516
 
-  "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/493740
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/493741
-
   Dungeon People:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/499568
@@ -7369,13 +7399,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/499581
-
-  "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/499600
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/499601
 
   My Deer Friend Nokotan:
     year: 2024
@@ -7412,16 +7435,25 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/502459
 
-  The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/502297
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/502298
-
   "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/502666
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/502667
+
+  "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505209
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/505210
+      1:
+        url_poster: https://theposterdb.com/api/assets/505211
+
+  Bye Bye, Earth:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505127
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/505128
