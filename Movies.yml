@@ -796,6 +796,17 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/57150
 
+  # High School Musical https://theposterdb.com/set/52924
+  High School Musical:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/83047
+  High School Musical 2:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/83048
+  High School Musical 3:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/83049
+
   # Ice Age https://theposterdb.com/set/23445
   Ice Age:
     year: 2002
@@ -2208,6 +2219,9 @@ metadata:
   Citizen Kane:
     year: 1941
     url_poster: https://theposterdb.com/api/assets/39946
+  Civil War:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/477512
   Cobweb:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/396119
