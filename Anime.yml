@@ -7357,6 +7357,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/499581
 
+  Dungeon People:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499568
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499569
+
   # Not yet released
 
   The Elusive Samurai:
@@ -7386,13 +7393,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474516
-
-  Dungeon People:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/499568
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/499569
 
   My Deer Friend Nokotan:
     year: 2024
