@@ -7356,6 +7356,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/505111
 
+  2.5 Dimensional Seduction:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/499580
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/499581
+
   # Not yet released
 
   The Elusive Samurai:
@@ -7392,13 +7399,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/499569
-
-  2.5 Dimensional Seduction:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/499580
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/499581
 
   My Deer Friend Nokotan:
     year: 2024
