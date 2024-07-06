@@ -7364,6 +7364,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/499569
 
+  Quality Assurance in Another World:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/450304
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/465598
+
   The Elusive Samurai:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/505225
@@ -7388,13 +7395,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/505211
 
   # Not yet released
-
-  Quality Assurance in Another World:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/450304
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/465598
 
   "Wistoria: Wand and Sword":
     year: 2024
