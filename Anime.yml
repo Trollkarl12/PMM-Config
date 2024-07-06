@@ -6066,7 +6066,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/435517
 
   "Hitori no Shita: The Outcast":
-    year: 2014
+    year: 2016
     url_poster: https://theposterdb.com/api/assets/162623
     seasons:
       0:
@@ -7364,14 +7364,30 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/499569
 
-  # Not yet released
-
   The Elusive Samurai:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/505225
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/505226
+
+  "SHOSHIMIN: How to Become Ordinary":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/501928
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/501929
+
+  "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505209
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/505210
+      1:
+        url_poster: https://theposterdb.com/api/assets/505211
+
+  # Not yet released
 
   Quality Assurance in Another World:
     year: 2024
@@ -7415,13 +7431,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/501455
 
-  "SHOSHIMIN: How to Become Ordinary":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/501928
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/501929
-
   Why Does Nobody Remember Me in This World?:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/502458
@@ -7435,15 +7444,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/502667
-
-  "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/505209
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/505210
-      1:
-        url_poster: https://theposterdb.com/api/assets/505211
 
   Bye Bye, Earth:
     year: 2024
