@@ -1908,14 +1908,16 @@ metadata:
 
   Fire Force:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/129076
+    url_poster: https://theposterdb.com/api/assets/319030
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/129077
+        url_poster: https://theposterdb.com/api/assets/319031
       1:
-        url_poster: https://theposterdb.com/api/assets/129078
+        url_poster: https://theposterdb.com/api/assets/319032
       2:
-        url_poster: https://theposterdb.com/api/assets/129079
+        url_poster: https://theposterdb.com/api/assets/319033
+      3:
+        url_poster: https://theposterdb.com/api/assets/506194
 
   Fist of the North Star:
     year: 1984
@@ -7401,7 +7403,12 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/505211
 
-  # Not yet released
+  A Nobody's Way Up to an Exploration Hero:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505931
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/505932
 
   "Wistoria: Wand and Sword":
     year: 2024
@@ -7410,19 +7417,28 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/474506
 
-  "ATRI: My Dear Moments":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/474515
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/474516
-
   My Deer Friend Nokotan:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/499639
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/499640
+
+  "VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/502666
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/502667
+
+  # Not yet released
+
+  "ATRI: My Dear Moments":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/474515
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/474516
 
   No Longer Allowed in Another World:
     year: 2024
@@ -7445,23 +7461,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/502459
 
-  "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream":
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/502666
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/502667
-
   Bye Bye, Earth:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/505127
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/505128
-
-  A Nobody's Way Up to an Exploration Hero:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/505931
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/505932
