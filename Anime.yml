@@ -223,7 +223,7 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/359657
 
-  "Fairy Tail: 100 Years Quest":
+  FAIRY TAIL 100 YEARS QUEST:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/506297
     seasons:
@@ -1200,6 +1200,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/457851
       3:
         url_poster: https://theposterdb.com/api/assets/457852
+      4:
+        url_poster: https://theposterdb.com/api/assets/506153
 
   "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.":
     year: 2020
@@ -1481,6 +1483,11 @@ metadata:
   "Chain Chronicle: The Light of Haecceitas":
     year: 2017
     url_poster: https://theposterdb.com/api/assets/92262
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/506411
+      1:
+        url_poster: https://theposterdb.com/api/assets/506412
 
   Chainsaw Man:
     year: 2022
@@ -7449,6 +7456,20 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/502667
 
+  "A Journey Through Another World: Raising Kids While Adventuring":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/506462
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/506463
+
+  MAYONAKA PUNCH:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/501454
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/501455
+
   # Not yet released
 
   "ATRI: My Dear Moments":
@@ -7464,13 +7485,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/501442
-
-  MAYONAKA PUNCH:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/501454
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/501455
 
   Why Does Nobody Remember Me in This World?:
     year: 2024
