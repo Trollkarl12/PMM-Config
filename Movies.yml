@@ -1677,16 +1677,19 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/397811
 
-  # Planet of the Apes
+  # Planet of the Apes https://theposterdb.com/set/86302
   Rise of the Planet of the Apes:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/339
+    url_poster: https://theposterdb.com/api/assets/138600
   Dawn of the Planet of the Apes:
     year: 2014
-    url_poster: https://theposterdb.com/api/assets/340
+    url_poster: https://theposterdb.com/api/assets/138601
   War for the Planet of the Apes:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/341
+    url_poster: https://theposterdb.com/api/assets/138602
+  Kingdom of the Planet of the Apes:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/483882
 
   # Police Story https://theposterdb.com/set/168528
   Police Story:
@@ -2055,6 +2058,29 @@ metadata:
   "Fantastic Beasts: The Secrets of Dumbledore":
     year: 2022
     url_poster: https://theposterdb.com/api/assets/217955
+
+  # Wrong Turn https://theposterdb.com/set/110536
+  Wrong Turn:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/181599
+  "Wrong Turn 2: Dead End":
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/181600
+  "Wrong Turn 3: Left for Dead":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/181601
+  "Wrong Turn 4: Bloody Beginnings":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/181602
+  "Wrong Turn 5: Bloodlines":
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/181603
+  "Wrong Turn 6: Last Resort":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/181604
+  Wrong Turn (2021):
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/181605
 
   # Random movies
   12 Angry Men:

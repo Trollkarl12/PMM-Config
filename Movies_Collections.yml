@@ -106,7 +106,7 @@ collections:
   Pirates of the Caribbean:
     template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/9840}
   Planet of the Apes:
-    template: {name: Collection, collection: 173710, poster: https://theposterdb.com/api/assets/338}
+    template: {name: Collection, collection: 173710, poster: https://theposterdb.com/api/assets/138599}
   Resident Evil:
     template: {name: Collection, collection: 17255, poster: https://theposterdb.com/api/assets/11303}
   Saw:
@@ -148,3 +148,5 @@ collections:
     url_poster: https://theposterdb.com/api/assets/69452
   Rocky:
     template: {name: Collection, collection: 1575, poster: https://theposterdb.com/api/assets/54535}
+  Wrong Turn:
+    template: {name: Collection, collection: 52985, poster: https://theposterdb.com/api/assets/181598}

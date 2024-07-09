@@ -53,7 +53,7 @@ collections:
   Magic High School:
     template: {name: Collection, show: "278329, 394013", poster: https://theposterdb.com/api/assets/161955, background: }
   Fairy Tail:
-    template: {name: Collection, show: "114801, 388645", poster: https://theposterdb.com/api/assets/359658, background: }
+    template: {name: Collection, show: "114801, 388645, 410031", poster: https://theposterdb.com/api/assets/359658, background: }
   Hellsing:
     template: {name: Collection, show: "71278, 263688", poster: https://theposterdb.com/api/assets/128338, background: }
   Hunter x Hunter:

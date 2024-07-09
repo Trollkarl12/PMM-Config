@@ -4,6 +4,42 @@
 
 metadata:
 
+  # A Certain Universe
+  A Certain Magical Index:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/184033
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/184034
+      1:
+        url_poster: https://theposterdb.com/api/assets/184035
+      2:
+        url_poster: https://theposterdb.com/api/assets/184036
+      3:
+        url_poster: https://theposterdb.com/api/assets/184037
+
+  A Certain Scientific Railgun:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/184041
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/184042
+      1:
+        url_poster: https://theposterdb.com/api/assets/184043
+      2:
+        url_poster: https://theposterdb.com/api/assets/184044
+      3:
+        url_poster: https://theposterdb.com/api/assets/184045
+
+  A Certain Scientific Accelerator:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/184038
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/184039
+      1:
+        url_poster: https://theposterdb.com/api/assets/184040
+
   # Baki
   Baki the Grappler:
     year: 2001
@@ -93,6 +129,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/502285
+
+  # D.Gray-man
+  D.Gray-man:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/134440
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/134441
+      2:
+        url_poster: https://theposterdb.com/api/assets/134442
+
+  D.Gray-man Hallow:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/134443
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/134444
 
   # Dragon Ball
   Dragon Ball:
@@ -230,6 +283,123 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/506298
 
+  # Fate
+  Fate/Apocrypha:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/141171
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/142587
+
+  Fate/Extra Last Encore:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/141927
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141928
+      1:
+        url_poster: https://theposterdb.com/api/assets/141929
+      2:
+        url_poster: https://theposterdb.com/api/assets/141930
+
+  "Fate/Grand Order Absolute Demonic Front: Babylonia":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/141232
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141240
+      1:
+        url_poster: https://theposterdb.com/api/assets/141239
+
+  Fate/stay night:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/141144
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/142586
+      1:
+        url_poster: https://theposterdb.com/api/assets/142585
+
+  Fate/stay night [Unlimited Blade Works]:
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/141039
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141042
+      1:
+        url_poster: https://theposterdb.com/api/assets/141040
+      2:
+        url_poster: https://theposterdb.com/api/assets/141041
+
+  Fate/Zero:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/141145
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141154
+      1:
+        url_poster: https://theposterdb.com/api/assets/141146
+      2:
+        url_poster: https://theposterdb.com/api/assets/141150
+
+  Fate/kaleid liner Prisma Illya:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/141209
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141220
+      1:
+        url_poster: https://theposterdb.com/api/assets/141216
+      2:
+        url_poster: https://theposterdb.com/api/assets/141217
+      3:
+        url_poster: https://theposterdb.com/api/assets/141218
+      4:
+        url_poster: https://theposterdb.com/api/assets/141219
+
+  Fate/Grand Carnival:
+    year: 2020
+    url_poster: https://theposterdb.com/api/assets/249434
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/249435
+      2:
+        url_poster: https://theposterdb.com/api/assets/249436
+
+  Lunar Legend Tsukihime:
+    year: 2003
+    url_poster: https://theposterdb.com/api/assets/190880
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/190886
+      1:
+        url_poster: https://theposterdb.com/api/assets/190882
+
+  Carnival Phantasm:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/142203
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/142205
+      1:
+        url_poster: https://theposterdb.com/api/assets/142204
+
+  Today's Menu for the Emiya Family:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/142206
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/147778
+
+  "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note":
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/142212
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/142214
+      1:
+        url_poster: https://theposterdb.com/api/assets/142213
+
   # Fullmetal Alchemist  
   Fullmetal Alchemist:
     year: 2003
@@ -265,6 +435,35 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/72765
       1:
         url_poster: https://theposterdb.com/api/assets/72766
+
+  # Hunter x Hunter
+  Hunter × Hunter:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/335019
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/335020
+      1:
+        url_poster: https://theposterdb.com/api/assets/335021
+      2:
+        url_poster: https://theposterdb.com/api/assets/335022
+      3:
+        url_poster: https://theposterdb.com/api/assets/335023
+      4:
+        url_poster: https://theposterdb.com/api/assets/335024
+
+  Hunter x Hunter:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/335025
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/335026
+      1:
+        url_poster: https://theposterdb.com/api/assets/335027
+      2:
+        url_poster: https://theposterdb.com/api/assets/335028
+      3:
+        url_poster: https://theposterdb.com/api/assets/335029
 
   # Ikki Tousen
   Ikki Tousen:
@@ -1369,15 +1568,6 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/214087
 
-  Carnival Phantasm:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/142203
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/142205
-      1:
-        url_poster: https://theposterdb.com/api/assets/142204
-
   Detective Conan:
     year: 1996
     url_poster: https://theposterdb.com/api/assets/141079
@@ -1457,28 +1647,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/296384
       1:
         url_poster: https://theposterdb.com/api/assets/296385
-
-  A Certain Magical Index:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/184033
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/184034
-      1:
-        url_poster: https://theposterdb.com/api/assets/184035
-      2:
-        url_poster: https://theposterdb.com/api/assets/184036
-      3:
-        url_poster: https://theposterdb.com/api/assets/184037
-
-  A Certain Scientific Accelerator:
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/184038
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/184039
-      1:
-        url_poster: https://theposterdb.com/api/assets/184040
 
   "Chain Chronicle: The Light of Haecceitas":
     year: 2017
@@ -1565,22 +1733,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/245119
-
-  D.Gray-man:
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/134440
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/134441
-      2:
-        url_poster: https://theposterdb.com/api/assets/134442
-
-  D.Gray-man Hallow:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/134443
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/134444
 
   Dagashi Kashi:
     year: 2016
@@ -1907,64 +2059,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/306507
-
-  Fate/Apocrypha:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/141171
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/142587
-
-  Fate/Extra Last Encore:
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/141927
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/141928
-      1:
-        url_poster: https://theposterdb.com/api/assets/141929
-      2:
-        url_poster: https://theposterdb.com/api/assets/141930
-
-  "Fate/Grand Order Absolute Demonic Front: Babylonia":
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/141232
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/141240
-      1:
-        url_poster: https://theposterdb.com/api/assets/141239
-
-  Fate/stay night:
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/141144
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/142586
-      1:
-        url_poster: https://theposterdb.com/api/assets/142585
-
-  Fate/stay night [Unlimited Blade Works]:
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/141039
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/141042
-      1:
-        url_poster: https://theposterdb.com/api/assets/141040
-      2:
-        url_poster: https://theposterdb.com/api/assets/141041
-
-  Fate/Zero:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/141145
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/141154
-      1:
-        url_poster: https://theposterdb.com/api/assets/141146
-      2:
-        url_poster: https://theposterdb.com/api/assets/141150
 
   Hajime no Ippo:
     year: 2000
@@ -2436,34 +2530,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/392177
 
-  Hunter × Hunter:
-    year: 1999
-    url_poster: https://theposterdb.com/api/assets/335019
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/335020
-      1:
-        url_poster: https://theposterdb.com/api/assets/335021
-      2:
-        url_poster: https://theposterdb.com/api/assets/335022
-      3:
-        url_poster: https://theposterdb.com/api/assets/335023
-      4:
-        url_poster: https://theposterdb.com/api/assets/335024
-
-  Hunter x Hunter:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/335025
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/335026
-      1:
-        url_poster: https://theposterdb.com/api/assets/335027
-      2:
-        url_poster: https://theposterdb.com/api/assets/335028
-      3:
-        url_poster: https://theposterdb.com/api/assets/335029
- 
   "Hyperdimension Neptunia: The Animation":
     year: 2013
     url_poster: https://theposterdb.com/api/assets/392213
@@ -3088,15 +3154,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/122972
       3:
         url_poster: https://theposterdb.com/api/assets/122973
-
-  "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/142212
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/142214
-      1:
-        url_poster: https://theposterdb.com/api/assets/142213
 
   The Lost Village:
     year: 2016
@@ -4709,13 +4766,6 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/450293
 
-  Today's Menu for the Emiya Family:
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/142206
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/147778
-
   To Your Eternity:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/271021
@@ -4926,42 +4976,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/75835
 
-  Lunar Legend Tsukihime:
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/190880
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/190886
-      1:
-        url_poster: https://theposterdb.com/api/assets/190882
-
   Manyu Scroll:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/240961
-
-  Fate/kaleid liner Prisma Illya:
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/141209
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/141220
-      1:
-        url_poster: https://theposterdb.com/api/assets/141216
-      2:
-        url_poster: https://theposterdb.com/api/assets/141217
-      3:
-        url_poster: https://theposterdb.com/api/assets/141218
-      4:
-        url_poster: https://theposterdb.com/api/assets/141219
-
-  Fate/Grand Carnival:
-    year: 2020
-    url_poster: https://theposterdb.com/api/assets/249434
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/249435
-      2:
-        url_poster: https://theposterdb.com/api/assets/249436
 
   Mekakucity Actors:
     year: 2014
@@ -5410,19 +5427,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/104263
       2:
         url_poster: https://theposterdb.com/api/assets/104264
-
-  A Certain Scientific Railgun:
-    year: 2009
-    url_poster: https://theposterdb.com/api/assets/184041
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/184042
-      1:
-        url_poster: https://theposterdb.com/api/assets/184043
-      2:
-        url_poster: https://theposterdb.com/api/assets/184044
-      3:
-        url_poster: https://theposterdb.com/api/assets/184045
 
   Maid Sama!:
     year: 2010
@@ -7470,6 +7474,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/501455
 
+  No Longer Allowed in Another World:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/501441
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/501442
+
   # Not yet released
 
   "ATRI: My Dear Moments":
@@ -7478,13 +7489,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474516
-
-  No Longer Allowed in Another World:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/501441
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/501442
 
   Why Does Nobody Remember Me in This World?:
     year: 2024
