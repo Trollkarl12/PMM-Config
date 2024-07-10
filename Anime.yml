@@ -2621,10 +2621,12 @@ metadata:
  
   In the Land of Leadale:
     year: 2022
-    url_poster: https://theposterdb.com/api/assets/201218
+    url_poster: https://theposterdb.com/api/assets/506837
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/506838
       1:
-        url_poster: https://theposterdb.com/api/assets/201219
+        url_poster: https://theposterdb.com/api/assets/506839
 
   In/Spectre:
     year: 2020
@@ -7480,6 +7482,13 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/501442
+
+  The Magical Girl and the Evil Lieutenant Used to Be Archenemies:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/506865
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/506866
 
   # Not yet released
 
