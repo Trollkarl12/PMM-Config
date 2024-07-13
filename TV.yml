@@ -1908,3 +1908,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/274873
       4:
         url_poster: https://theposterdb.com/api/assets/330494
+
+  Crash Landing on You:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/396623
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/396624
+
+  Crash Landing on You:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/355047
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/355048
