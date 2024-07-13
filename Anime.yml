@@ -7490,6 +7490,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/506866
 
+  Bye Bye, Earth:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/505127
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/505128
+
+  Birdie Wing -Golf Girls' Story-:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/249008
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/249009
+      2:
+        url_poster: https://theposterdb.com/api/assets/249012
+
   # Not yet released
 
   "ATRI: My Dear Moments":
@@ -7505,10 +7521,3 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/502459
-
-  Bye Bye, Earth:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/505127
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/505128
