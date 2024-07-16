@@ -121,13 +121,15 @@ metadata:
     year: 1992
     url_poster: https://theposterdb.com/api/assets/27396
 
-  # Beverly Hills Cop
+  # Beverly Hills Cop https://theposterdb.com/set/278253
   Beverly Hills Cop:
-    url_poster: https://theposterdb.com/api/assets/45077
+    url_poster: https://theposterdb.com/api/assets/502948
   Beverly Hills Cop II:
-    url_poster: https://theposterdb.com/api/assets/45078
+    url_poster: https://theposterdb.com/api/assets/502947
   Beverly Hills Cop III:
-    url_poster: https://theposterdb.com/api/assets/45079
+    url_poster: https://theposterdb.com/api/assets/502946
+  "Beverly Hills Cop: Axel F":
+    url_poster: https://theposterdb.com/api/assets/502945
 
   # Blade Runner https://theposterdb.com/set/16911
   Blade Runner:
@@ -1404,6 +1406,14 @@ metadata:
     year: 2022
     url_poster: https://theposterdb.com/api/assets/235382
 
+  # The Mechanic https://theposterdb.com/set/23493
+  The Mechanic:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/38280
+  "Mechanic: Resurrection":
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/38281
+
   # Naked Gun https://theposterdb.com/set/98185
   "The Naked Gun: From the Files of Police Squad!":
     year: 1988
@@ -1715,6 +1725,14 @@ metadata:
   The First Purge:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/5948
+
+  # A Quiet Place https://theposterdb.com/set/23690
+  A Quiet Place:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/38788
+  A Quiet Place Part II:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/38789
 
   # Rambo
   First Blood:
@@ -2680,6 +2698,9 @@ metadata:
   The Last Waltz:
     year: 1978
     url_poster: https://theposterdb.com/api/assets/219176
+  Latency:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/507316
   Lawrence of Arabia:
     year: 1962
     url_poster: https://theposterdb.com/api/assets/55426
