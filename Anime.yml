@@ -7525,6 +7525,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/502459
 
+  My First Girlfriend is a Gal:
+    year: 2017
+    url_poster: https://theposterdb.com/api/assets/511099
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/511100
+      1:
+        url_poster: https://theposterdb.com/api/assets/511101
+
   # Not yet released
 
   Blue Box:
