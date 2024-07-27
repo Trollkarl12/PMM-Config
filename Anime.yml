@@ -3159,7 +3159,10 @@ metadata:
 
   The Lost Village:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/96629
+    url_poster: https://theposterdb.com/api/assets/511333
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/511334
 
   Love of Kill:
     year: 2022
@@ -4636,10 +4639,10 @@ metadata:
 
   Twin Star Exorcists:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/126614
+    url_poster: https://theposterdb.com/api/assets/511374
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/126615
+        url_poster: https://theposterdb.com/api/assets/511375
 
   Tsurune:
     year: 2018
@@ -7533,6 +7536,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/511100
       1:
         url_poster: https://theposterdb.com/api/assets/511101
+
+  Maria the Virgin Witch:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/511330
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/511331
 
   # Not yet released
 
