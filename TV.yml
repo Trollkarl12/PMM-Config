@@ -4,8 +4,7 @@
 
 metadata:
 
-#The World of Ice and Fire https://theposterdb.com/set/152511
-
+  #The World of Ice and Fire https://theposterdb.com/set/152511
   Game of Thrones:
     year: 2011
     url_poster: https://theposterdb.com/api/assets/225917
@@ -40,8 +39,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/495066
 
-#Middle Earth https://theposterdb.com/set/153678
-
+  #Middle Earth https://theposterdb.com/set/153678
   "The Lord of the Rings: The Rings of Power":
     year: 2022
     url_poster: https://theposterdb.com/api/assets/257535
@@ -51,8 +49,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/257537
 
-#Marvel Cinematic Universe https://theposterdb.com/set/99475
-
+  #Marvel Cinematic Universe https://theposterdb.com/set/99475
   Marvel's Agent Carter:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/145236
@@ -212,8 +209,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
 
-#Arrowverse https://theposterdb.com/poster/133540
-
+  #Arrowverse https://theposterdb.com/poster/133540
   Arrow:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/133540
@@ -324,8 +320,7 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/141701
 
-#Star Wars https://theposterdb.com/set/78057
-
+  #Star Wars https://theposterdb.com/set/78057
   The Mandalorian:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/124658
@@ -372,8 +367,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/475799
 
-#Narocs https://theposterdb.com/set/120756
-
+  #Narocs https://theposterdb.com/set/120756
   Narcos:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/200351
@@ -396,8 +390,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/200358
 
-#Witcher https://theposterdb.com/set/116515
-
+  #Witcher https://theposterdb.com/set/116515
   The Witcher:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/197572
@@ -418,8 +411,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/293710
 
-#Vikings https://theposterdb.com/set/129029
-
+  #Vikings https://theposterdb.com/set/129029
   Vikings:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/213893
@@ -450,8 +442,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/500003
 
-#The boys https://theposterdb.com/set/227521
-
+  #The boys https://theposterdb.com/set/227521
   The Boys:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/408212
@@ -474,9 +465,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/408211
 
-#Avatar https://theposterdb.com/set/250744
-
-
+  #Avatar https://theposterdb.com/set/250744
   "Avatar: The Last Airbender":
     year: 2005
     url_poster: https://theposterdb.com/api/assets/454022
@@ -512,8 +501,7 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/454021
 
-#The Big bang Theory
-
+  #The Big bang Theory
   The Big Bang Theory:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/276691
@@ -564,8 +552,7 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/464576
 
-#CastleVania https://theposterdb.com/set/230686
-
+  #CastleVania https://theposterdb.com/set/230686
   Castlevania:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/415570
@@ -586,8 +573,37 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/415576
 
-#Random Tv Shows
+  #Yellowstone https://theposterdb.com/set/170697
+  Yellowstone (2018):
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/156053
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/156054
+      2:
+        url_poster: https://theposterdb.com/api/assets/156055
+      3:
+        url_poster: https://theposterdb.com/api/assets/156056
+      4:
+        url_poster: https://theposterdb.com/api/assets/156057
+      5:
+        url_poster: https://theposterdb.com/api/assets/284095
 
+  1883:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/287902
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/287904
+
+  1923:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/287905
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/293983
+
+  #Random Tv Shows
   The Crown:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/237354
@@ -1750,21 +1766,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/375048
       11:
         url_poster: https://theposterdb.com/api/assets/375049
-
-  Yellowstone (2018):
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/269994
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/269995
-      2:
-        url_poster: https://theposterdb.com/api/assets/269996
-      3:
-        url_poster: https://theposterdb.com/api/assets/269997
-      4:
-        url_poster: https://theposterdb.com/api/assets/269998
-      5:
-        url_poster: https://theposterdb.com/api/assets/287743
 
   Zomboat!:
     year: 2019
