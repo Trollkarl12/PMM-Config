@@ -1930,3 +1930,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/491080
+
+  The Rookie:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/178282
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/178283
+      2:
+        url_poster: https://theposterdb.com/api/assets/178284
+      3:
+        url_poster: https://theposterdb.com/api/assets/178285
+      4:
+        url_poster: https://theposterdb.com/api/assets/178286
+      5:
+        url_poster: https://theposterdb.com/api/assets/266716
+      6:
+        url_poster: https://theposterdb.com/api/assets/454933
