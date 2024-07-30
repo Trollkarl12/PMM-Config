@@ -2483,10 +2483,10 @@ metadata:
  
   Hinamatsuri:
     year: 2018
-    url_poster: https://theposterdb.com/api/assets/130326
+    url_poster: https://theposterdb.com/api/assets/511953
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/130327
+        url_poster: https://theposterdb.com/api/assets/511954
  
   The Honor at Magic High School:
     year: 2021
@@ -6299,7 +6299,10 @@ metadata:
 
   Deca-Dence:
     year: 2020
-    url_poster: https://theposterdb.com/api/assets/93055
+    url_poster: https://theposterdb.com/api/assets/511695
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/511696
 
   My-Otome:
     year: 2005
@@ -7335,10 +7338,10 @@ metadata:
 
   "The Strongest Magician in the Demon Lord's Army Was a Human":
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/501226
+    url_poster: https://theposterdb.com/api/assets/511745
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/501227
+        url_poster: https://theposterdb.com/api/assets/511746
 
   Suicide Squad Isekai:
     year: 2024
@@ -7543,6 +7546,26 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/511331
+
+  Ladies versus Butlers!:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/511682
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/511683
+      1:
+        url_poster: https://theposterdb.com/api/assets/511684
+
+  Horizon in the Middle of Nowhere:
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/511979
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/511980
+      1:
+        url_poster: https://theposterdb.com/api/assets/511981
+      2:
+        url_poster: https://theposterdb.com/api/assets/511982
 
   # Not yet released
 
