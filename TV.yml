@@ -1947,3 +1947,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/266716
       6:
         url_poster: https://theposterdb.com/api/assets/454933
+
+  Tulsa King:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/304240
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/304241
