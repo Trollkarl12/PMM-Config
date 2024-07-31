@@ -1954,3 +1954,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/304241
+
+  PEN15:
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/198895
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/206656
+      2:
+        url_poster: https://theposterdb.com/api/assets/206657
