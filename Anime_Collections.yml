@@ -71,4 +71,4 @@ collections:
   Mobile Suit Gundam:
     template: {name: Collection, show: "76547, 403849, 72352, 71535, 71536", poster: https://theposterdb.com/api/assets/322526, background: }
   Ghost in the Shell:
-    template: {name: Collection, movie: "293491, 73749", poster: https://theposterdb.com/api/assets/175259}
+    template: {name: Collection, show: "293491, 73749", poster: https://theposterdb.com/api/assets/175259}
