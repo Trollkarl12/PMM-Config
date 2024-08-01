@@ -7175,10 +7175,12 @@ metadata:
 
   Haven't You Heard? I'm Sakamoto:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/108433
+    url_poster: https://theposterdb.com/api/assets/512670
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/512671
       1:
-        url_poster: https://theposterdb.com/api/assets/108434
+        url_poster: https://theposterdb.com/api/assets/512672
 
   Basilisk:
     year: 2005
