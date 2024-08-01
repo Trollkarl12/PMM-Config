@@ -7569,6 +7569,43 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/511982
 
+  "Rokka: Braves of the Six Flowers":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/511200
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/511201
+
+  4 Cut Hero:
+    year: 2023
+    url_poster: https://theposterdb.com/api/assets/504056
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/504057
+
+  Welcome to the N.H.K.:
+    year: 2006
+    url_poster: https://theposterdb.com/api/assets/473487
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/473489
+
+  Good Luck Girl!:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/441877
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/441878
+
+  Amnesia (2013):
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/480619
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/480620
+      1:
+        url_poster: https://theposterdb.com/api/assets/480621
+
   # Not yet released
 
   Blue Box:
