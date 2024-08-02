@@ -117,7 +117,7 @@ metadata:
   tt0381348:
     url_poster: https://theposterdb.com/api/assets/433638
   # Voices of a Distant Star
-  tt0370754:
+  tt0381348:
     url_poster: https://theposterdb.com/api/assets/433624
 
   # Random Movies
@@ -201,4 +201,67 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/424436
   # "A Silent Voice: The Movie"
   tt5323662:
-    url_poster: https://theposterdb
+    url_poster: https://theposterdb.com/api/assets/165669
+  # Summer Ghost
+  tt15087774:
+    url_poster: https://theposterdb.com/api/assets/374140
+  # Summer Wars
+  tt1474276:
+    url_poster: https://theposterdb.com/api/assets/508452
+  # Sword of the Stranger
+  tt1121794:
+    url_poster: https://theposterdb.com/api/assets/82396
+  # A Whisker Away
+  tt11958344:
+    url_poster: https://theposterdb.com/api/assets/83253
+  # Wolf Children
+  tt2140203:
+    url_poster: https://theposterdb.com/api/assets/176678
+  # The Boy and the Beast
+  tt4272866:
+    url_poster: https://theposterdb.com/api/assets/194700
+  # Fireworks
+  tt6317962:
+    url_poster: https://theposterdb.com/api/assets/450013
+  # Hotarubi no Mori e
+  tt2078631:
+    url_poster: https://theposterdb.com/api/assets/125461
+  # Josee, the Tiger and the Fish
+  tt13294028:
+    url_poster: https://theposterdb.com/api/assets/217307
+  # Ninja Scroll
+  tt0107692:
+    url_poster: https://theposterdb.com/api/assets/111224
+  # Steamboy
+  tt0348121:
+    url_poster: https://theposterdb.com/api/assets/203599
+  # Hello World
+  tt9418812:
+    url_poster: https://theposterdb.com/api/assets/500871
+  # Wicked City
+  tt0098692:
+    url_poster: https://theposterdb.com/api/assets/293275
+  # Her Blue Sky
+  tt10687108:
+    url_poster: https://theposterdb.com/api/assets/285514
+  # Black Fox
+  tt10205428:
+    url_poster: https://theposterdb.com/api/assets/449371
+  # Baki Hanma VS Kengan Ashura
+  tt14561300:
+    url_poster: https://theposterdb.com/api/assets/498483
+  # Tamako Love Story
+  tt3392800:
+    url_poster: https://theposterdb.com/api/assets/266125
+  # TAILENDERS
+  tt1563081:
+    url_poster: https://theposterdb.com/api/assets/122315
+  # Cencoroll
+  tt14583956:
+    url_poster: https://theposterdb.com/api/assets/490621
+  # Cencoroll Connect
+  tt14583964:
+    url_poster: https://theposterdb.com/api/assets/490623
+  # Venus Wars
+  tt0098575:
+    url_poster: https://theposterdb.com/api/assets/198928
