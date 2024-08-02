@@ -6,262 +6,199 @@ metadata:
 
   #Studio Ghibli https://theposterdb.com/set/190354
   # Castle in the Sky
-  10515:
+  tt0092067:
     url_poster: https://theposterdb.com/api/assets/325048
   # My Neighbor Totoro
-  8392:
+  tt0096283:
     url_poster: https://theposterdb.com/api/assets/325049
   # Grave of the Fireflies
-  12477:
+  tt0095327:
     url_poster: https://theposterdb.com/api/assets/325050
-  # Kiki's Delivery Service
-  16859:
+  # "Kiki's Delivery Service"
+  tt0097814:
     url_poster: https://theposterdb.com/api/assets/325051
   # Only Yesterday
-  16539:
+  tt0102587:
     url_poster: https://theposterdb.com/api/assets/325052
   # Porco Rosso
-  11621:
+  tt0104652:
     url_poster: https://theposterdb.com/api/assets/325053
   # Ocean Waves
-  14480:
+  tt0108432:
     url_poster: https://theposterdb.com/api/assets/325054
   # Pom Poko
-  30138:
+  tt0110008:
     url_poster: https://theposterdb.com/api/assets/325055
   # Whisper of the Heart
-  37954:
+  tt0113824:
     url_poster: https://theposterdb.com/api/assets/325056
   # Princess Mononoke
-  128:
+  tt0119698:
     url_poster: https://theposterdb.com/api/assets/325057
   # My Neighbors the Yamadas
-  21044:
+  tt0206013:
     url_poster: https://theposterdb.com/api/assets/325058
   # The Cat Returns
-  15370:
+  tt0347618:
     url_poster: https://theposterdb.com/api/assets/325059
   # Spirited Away
-  129:
+  tt0245429:
     url_poster: https://theposterdb.com/api/assets/325060
-  # Howl's Moving Castle
-  4935:
+  # "Howl's Moving Castle"
+  tt0347149:
     url_poster: https://theposterdb.com/api/assets/325061
   # Tales from Earthsea
-  15115:
+  tt0495596:
     url_poster: https://theposterdb.com/api/assets/325062
   # Ponyo
-  12437:
+  tt0876563:
     url_poster: https://theposterdb.com/api/assets/325063
   # The Secret World of Arrietty
-  37531:
+  tt1568921:
     url_poster: https://theposterdb.com/api/assets/325064
   # From Up on Poppy Hill
-  78459:
+  tt1798188:
     url_poster: https://theposterdb.com/api/assets/325065
   # The Wind Rises
-  149870:
+  tt2013293:
     url_poster: https://theposterdb.com/api/assets/325066
   # The Tale of The Princess Kaguya
-  239254:
+  tt2576852:
     url_poster: https://theposterdb.com/api/assets/325067
   # When Marnie Was There
-  242828:
+  tt3398268:
     url_poster: https://theposterdb.com/api/assets/325068
   # Earwig and the Witch
-  675327:
+  tt12454468:
     url_poster: https://theposterdb.com/api/assets/325069
   # The Boy and the Heron
-  964980:
+  tt15148962:
     url_poster: https://theposterdb.com/api/assets/453915
 
   #Ghost in the Shell
   # Ghost in the Shell
-  9327:
+  tt0113568:
     url_poster: https://theposterdb.com/api/assets/175260
-  # Ghost in the Shell 2: Innocence
-  12627:
+  # "Ghost in the Shell 2: Innocence"
+  tt0347246:
     url_poster: https://theposterdb.com/api/assets/175261
   # Ghost in the Shell 2.0
-  16399:
+  tt1260502:
     url_poster: https://theposterdb.com/api/assets/175262
 
   #Dragon Ball
-  # Dragon Ball Z: Bardock - The Father of Goku
-  9480:
+  # "Dragon Ball Z: Bardock - The Father of Goku"
+  tt0142235:
     url_poster: https://theposterdb.com/api/assets/126827
-  # Dragon Ball Z: The History of Trunks
-  9181:
+  # "Dragon Ball Z: The History of Trunks"
+  tt0167743:
     url_poster: https://theposterdb.com/api/assets/126832
 
   #Makoto Shinkai
   # Suzume
-  899112:
+  tt16428256:
     url_poster: https://theposterdb.com/api/assets/433625
   # Weathering with You
-  568160:
+  tt9426210:
     url_poster: https://theposterdb.com/api/assets/433695
   # Your Name.
-  372058:
+  tt5311514:
     url_poster: https://theposterdb.com/api/assets/433635
   # The Garden of Words
-  200180:
+  tt2591814:
     url_poster: https://theposterdb.com/api/assets/433636
   # Children Who Chase Lost Voices
-  90140:
+  tt1839494:
     url_poster: https://theposterdb.com/api/assets/433623
   # 5 Centimeters per Second
-  22782:
+  tt0983213:
     url_poster: https://theposterdb.com/api/assets/433622
   # The Place Promised in Our Early Days
-  23538:
+  tt0381348:
     url_poster: https://theposterdb.com/api/assets/433638
   # Voices of a Distant Star
-  22225:
+  tt0381348:
     url_poster: https://theposterdb.com/api/assets/433624
 
   # Random Movies
   # Promare
-  592225:
+  tt9491986:
     url_poster: https://theposterdb.com/api/assets/69148
   # The Tunnel to Summer, the Exit of Goodbyes
-  992992:
+  tt15766982:
     url_poster: https://theposterdb.com/api/assets/373728
   # Nausicaä of the Valley of the Wind
-  81:
+  tt0087544:
     url_poster: https://theposterdb.com/api/assets/325099
-  # Mary and The Witch's Flower
-  427189:
+  # "Mary and The Witch's Flower"
+  tt6336356:
     url_poster: https://theposterdb.com/api/assets/326423
   # Vampire Hunter D
-  14921:
+  tt0090248:
     url_poster: https://theposterdb.com/api/assets/157590
-  # Vampire Hunter D: Bloodlust
-  15240:
+  # "Vampire Hunter D: Bloodlust"
+  tt0216651:
     url_poster: https://theposterdb.com/api/assets/157591
-  # Patlabor: The Movie
-  14157:
+  # "Patlabor: The Movie"
+  tt0100339:
     url_poster: https://theposterdb.com/api/assets/2308
-  # Patlabor 2: The Movie
-  15065:
+  # "Patlabor 2: The Movie"
+  tt0108682:
     url_poster: https://theposterdb.com/api/assets/2309
-  # Patlabor 3: WXIII
-  29712:
+  # "Patlabor 3: WXIII"
+  tt0318819:
     url_poster: https://theposterdb.com/api/assets/2310
   # Perfect Blue
-  407:
+  tt0156887:
     url_poster: https://theposterdb.com/api/assets/199741
   # Paprika
-  19913:
+  tt0851578:
     url_poster: https://theposterdb.com/api/assets/203591
   # Millennium Actress
-  7340:
+  tt0291350:
     url_poster: https://theposterdb.com/api/assets/179539
   # Tokyo Godfathers
-  13929:
+  tt0388473:
     url_poster: https://theposterdb.com/api/assets/91318
-  # Jin-Roh: The Wolf Brigade
-  2575:
+  # "Jin-Roh: The Wolf Brigade"
+  tt0193253:
     url_poster: https://theposterdb.com/api/assets/94589
   # Memories
-  12415:
+  tt0113799:
     url_poster: https://theposterdb.com/api/assets/52385
   # Bubble
-  834085:
+  tt12029640:
     url_poster: https://theposterdb.com/api/assets/234275
   # I Want to Eat Your Pancreas
-  469133:
+  tt7236034:
     url_poster: https://theposterdb.com/api/assets/203571
   # A Letter to Momo
-  94631:
+  tt1920885:
     url_poster: https://theposterdb.com/api/assets/208243
-  # Angel's Egg
-  13096:
+  # "Angel's Egg"
+  tt0201901:
     url_poster: https://theposterdb.com/api/assets/246389
   # Night Is Short, Walk On Girl
-  408860:
+  tt6662736:
     url_poster: https://theposterdb.com/api/assets/252488
   # Spriggan
-  15196:
+  tt0164917:
     url_poster: https://theposterdb.com/api/assets/176336
   # Flavors of Youth
-  536872:
+  tt8786862:
     url_poster: https://theposterdb.com/api/assets/434155
   # Penguin Highway
-  514439:
+  tt8079248:
     url_poster: https://theposterdb.com/api/assets/446003
   # Blue Giant
-  992563:
+  tt14320590:
     url_poster: https://theposterdb.com/api/assets/306903
   # Lonely Castle in the Mirror
-  1065701:
+  tt15595610:
     url_poster: https://theposterdb.com/api/assets/453974
   # Inu-Oh
-  694060:
+  tt16099854:
     url_poster: https://theposterdb.com/api/assets/424436
-  # A Silent Voice: The Movie
-  378064:
-    url_poster: https://theposterdb.com/api/assets/165669
-  # Summer Ghost
-  783675:
-    url_poster: https://theposterdb.com/api/assets/374140
-  # Summer Wars
-  39469:
-    url_poster: https://theposterdb.com/api/assets/508452
-  # Sword of the Stranger
-  14297:
-    url_poster: https://theposterdb.com/api/assets/82396
-  # A Whisker Away
-  694919:
-    url_poster: https://theposterdb.com/api/assets/83253
-  # Wolf Children
-  110428:
-    url_poster: https://theposterdb.com/api/assets/176678
-  # The Boy and the Beast
-  319466:
-    url_poster: https://theposterdb.com/api/assets/194700
-  # Fireworks
-  444853:
-    url_poster: https://theposterdb.com/api/assets/450013
-  # Hotarubi no Mori e
-  105801:
-    url_poster: https://theposterdb.com/api/assets/125461
-  # Josee, the Tiger and the Fish
-  724089:
-    url_poster: https://theposterdb.com/api/assets/217307
-  # Ninja Scroll
-  14853:
-    url_poster: https://theposterdb.com/api/assets/111224
-  # Steamboy
-  17318:
-    url_poster: https://theposterdb.com/api/assets/203599
-  # Hello World
-  592705:
-    url_poster: https://theposterdb.com/api/assets/500871
-  # Wicked City
-  13918:
-    url_poster: https://theposterdb.com/api/assets/293275
-  # Her Blue Sky
-  584470:
-    url_poster: https://theposterdb.com/api/assets/285514
-  # Black Fox
-  593532:
-    url_poster: https://theposterdb.com/api/assets/449371
-  # Baki Hanma VS Kengan Ashura
-  1165378:
-    url_poster: https://theposterdb.com/api/assets/498483
-  # Tamako Love Story
-  253338:
-    url_poster: https://theposterdb.com/api/assets/266125
-  # TAILENDERS
-  36842:
-    url_poster: https://theposterdb.com/api/assets/122315
-  # Cencoroll
-  39929:
-    url_poster: https://theposterdb.com/api/assets/490621
-  # Cencoroll Connect
-  602228:
-    url_poster: https://theposterdb.com/api/assets/490623
-  # Venus Wars
-  13079:
-    url_poster: https://theposterdb.com/api/assets/198928
+  # "A Silent Voice: The Movie"
+  tt5323662:
+    url_poster: https://theposterdb
