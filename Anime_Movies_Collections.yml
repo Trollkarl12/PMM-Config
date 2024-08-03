@@ -26,8 +26,6 @@ collections:
     
   Vampire Hunter D:
     template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
-  Dragon Ball:
-    template: {name: Collection, movie: "39324, 39323", poster: https://theposterdb.com/api/assets/168842}
   Patlabor:
     template: {name: Collection, movie: "14571, 14572, 16402", poster: https://theposterdb.com/api/assets/2307}
   Ghost in the Shell:
