@@ -1175,26 +1175,28 @@ metadata:
 
   Futurama:
     year: 1999
-    url_poster: https://theposterdb.com/api/assets/388501
+    url_poster: https://theposterdb.com/api/assets/513280
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/388502
+        url_poster: https://theposterdb.com/api/assets/513281
       1:
-        url_poster: https://theposterdb.com/api/assets/388503
+        url_poster: https://theposterdb.com/api/assets/513282
       2:
-        url_poster: https://theposterdb.com/api/assets/388504
+        url_poster: https://theposterdb.com/api/assets/513283
       3:
-        url_poster: https://theposterdb.com/api/assets/388505
+        url_poster: https://theposterdb.com/api/assets/513284
       4:
-        url_poster: https://theposterdb.com/api/assets/388506
+        url_poster: https://theposterdb.com/api/assets/513285
       5:
-        url_poster: https://theposterdb.com/api/assets/388507
+        url_poster: https://theposterdb.com/api/assets/513286
       6:
-        url_poster: https://theposterdb.com/api/assets/388508
+        url_poster: https://theposterdb.com/api/assets/513287
       7:
-        url_poster: https://theposterdb.com/api/assets/388509
+        url_poster: https://theposterdb.com/api/assets/513288
       8:
-        url_poster: https://theposterdb.com/api/assets/388510
+        url_poster: https://theposterdb.com/api/assets/513289
+      9:
+        url_poster: https://theposterdb.com/api/assets/513290
 
   The Gentlemen:
     year: 2024
