@@ -4,7 +4,7 @@
 
 metadata:
 
-  #Studio Ghibli https://theposterdb.com/set/190354
+  # Studio Ghibli https://theposterdb.com/set/190354
   # Castle in the Sky
   tt0092067:
     url_poster: https://theposterdb.com/api/assets/325048
@@ -69,10 +69,10 @@ metadata:
   tt3398268:
     url_poster: https://theposterdb.com/api/assets/325068
   # Earwig and the Witch
-  tt12454468:
+  tt12441478:
     url_poster: https://theposterdb.com/api/assets/325069
   # The Boy and the Heron
-  tt15148962:
+  tt6587046:
     url_poster: https://theposterdb.com/api/assets/453915
 
   # Ghost in the Shell
@@ -86,7 +86,7 @@ metadata:
   tt1260502:
     url_poster: https://theposterdb.com/api/assets/175262
 
-  #Dragon Ball
+  # Dragon Ball
   # Dragon Ball Z: Bardock - The Father of Goku
   tt0142245:
     url_poster: https://theposterdb.com/api/assets/126827
@@ -265,3 +265,4 @@ metadata:
   # Venus Wars
   tt0135037:
     url_poster: https://theposterdb.com/api/assets/198928
+
