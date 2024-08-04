@@ -604,8 +604,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/293983
 
   # Random Tv Shows
-  The Crown:
-    year: 2016
+
+  # The Crown
+  tt4786824:
     url_poster: https://theposterdb.com/api/assets/237354
     seasons:
       1:
@@ -621,8 +622,8 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/431286
 
-  Marco Polo:
-    year: 2014
+  # Marco Polo
+  tt2189461:
     url_poster: https://theposterdb.com/api/assets/179994
     seasons:
       0:
@@ -632,8 +633,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/40408
 
-  Altered Carbon:
-    year: 2018
+  # Altered Carbon
+  tt2261227:
     url_poster: https://theposterdb.com/api/assets/43406
     seasons:
       1:
@@ -641,8 +642,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/43408
 
-  Stranger Things:
-    year: 2016
+  # Stranger Things
+  tt4574334:
     url_poster: https://theposterdb.com/api/assets/238529
     seasons:
       1:
@@ -654,15 +655,15 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/238533
 
-  Squid Game:
-    year: 2021
+  # Squid Game
+  tt10919420:
     url_poster: https://theposterdb.com/api/assets/179025
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/179026
 
-  Breaking Bad:
-    year: 2008
+  # Breaking Bad
+  tt0903747:
     url_poster: https://theposterdb.com/api/assets/123797
     seasons:
       1:
@@ -675,9 +676,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123801
       5:
         url_poster: https://theposterdb.com/api/assets/123802
-        
-  The Sopranos:
-    year: 1999
+
+  # The Sopranos
+  tt0141842:
     url_poster: https://theposterdb.com/api/assets/166648
     seasons:
       0:
@@ -695,8 +696,8 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/166655
 
-  Peaky Blinders:
-    year: 2013
+  # Peaky Blinders
+  tt2442560:
     url_poster: https://theposterdb.com/api/assets/211777
     seasons:
       0:
@@ -714,8 +715,8 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/213300
 
-  Rome:
-    year: 2005
+  # Rome
+  tt0384766:
     url_poster: https://theposterdb.com/api/assets/239447
     seasons:
       1:
@@ -723,8 +724,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/239449
 
-  The Last Kingdom:
-    year: 2015
+  # The Last Kingdom
+  tt4179452:
     url_poster: https://theposterdb.com/api/assets/139503
     seasons:
       0:
@@ -739,9 +740,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/139507
       5:
         url_poster: https://theposterdb.com/api/assets/216431
-  
-  Boardwalk Empire:
-    year: 2010
+
+  # Boardwalk Empire
+  tt0979432:
     url_poster: https://theposterdb.com/api/assets/143110
     seasons:
       1:
@@ -754,27 +755,27 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/143114
       5:
         url_poster: https://theposterdb.com/api/assets/143115
-        
-  Chernobyl:
-    year: 2019
+
+  # Chernobyl
+  tt7366338:
     url_poster: https://theposterdb.com/api/assets/59900
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/59901
-      
-  The Last of Us:
-    year: 2023
+
+  # The Last of Us
+  tt3581920:
     url_poster: https://theposterdb.com/api/assets/294968
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/294969
 
-  Better Call Saul:
-    year: 2015
+  # Better Call Saul
+  tt3032476:
     url_poster: https://theposterdb.com/api/assets/123779
     seasons:
       0:
-        url_poster:  https://theposterdb.com/api/assets/258327
+        url_poster: https://theposterdb.com/api/assets/258327
       1:
         url_poster: https://theposterdb.com/api/assets/123780
       2:
@@ -788,15 +789,15 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/220411
 
-  Wednesday:
-    year: 2022
+  # Wednesday
+  tt13443470:
     url_poster: https://theposterdb.com/api/assets/287339
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/287340 
 
-  Shameless:
-    year: 2011
+  # Shameless
+  tt1586680:
     url_poster: https://theposterdb.com/api/assets/124926
     seasons:
       1:
@@ -822,8 +823,8 @@ metadata:
       11:
         url_poster: https://theposterdb.com/api/assets/124937
 
-  American Horror Story:
-    year: 2011
+  # American Horror Story
+  tt1844624:
     url_poster: https://theposterdb.com/api/assets/43719
     seasons:
       1:
@@ -851,15 +852,15 @@ metadata:
       12:
         url_poster: https://theposterdb.com/api/assets/413277
 
-  Arcane:
-    year: 2021
+  # Arcane
+  tt11126994:
     url_poster: https://theposterdb.com/api/assets/188019
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/188020
 
-  Band of Brothers:
-    year: 2001
+  # Band of Brothers
+  tt0185906:
     url_poster: https://theposterdb.com/api/assets/4527
     seasons:
       0:
@@ -867,8 +868,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/4529
 
-  Barry:
-    year: 2018
+  # Barry
+  tt5348176:
     url_poster: https://theposterdb.com/api/assets/225987
     seasons:
       1:
@@ -880,8 +881,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/331444
 
-  Ben 10:
-    year: 2005
+  # Ben 10
+  tt0760437:
     url_poster: https://theposterdb.com/api/assets/136667
     seasons:
       0:
@@ -895,8 +896,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/136672
 
-  Billions:
-    year: 2016
+  # Billions
+  tt4270492:
     url_poster: https://theposterdb.com/api/assets/173624
     seasons:
       1:
@@ -914,8 +915,8 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/391658
 
-  The Blacklist:
-    year: 2013
+  # The Blacklist
+  tt2741602:
     url_poster: https://theposterdb.com/api/assets/269737
     seasons:
       1:
