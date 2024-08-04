@@ -4,9 +4,9 @@
 
 metadata:
 
-  #The World of Ice and Fire https://theposterdb.com/set/152511
-  Game of Thrones:
-    year: 2011
+  # The World of Ice and Fire https://theposterdb.com/set/152511
+  # Game of Thrones
+  tt0944947:
     url_poster: https://theposterdb.com/api/assets/225917
     seasons:
       0:
@@ -28,8 +28,8 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/225926
 
-  House of the Dragon:
-    year: 2022
+  # House of the Dragon
+  tt11198330:
     url_poster: https://theposterdb.com/api/assets/248668
     seasons:
       0:
@@ -39,9 +39,9 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/495066
 
-  #Middle Earth https://theposterdb.com/set/153678
-  "The Lord of the Rings: The Rings of Power":
-    year: 2022
+  # Middle Earth https://theposterdb.com/set/153678
+  # The Lord of the Rings: The Rings of Power
+  tt7631058:
     url_poster: https://theposterdb.com/api/assets/257535
     seasons:
       0:
@@ -49,9 +49,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/257537
 
-  #Marvel Cinematic Universe https://theposterdb.com/set/99475
-  Marvel's Agent Carter:
-    year: 2015
+  # Marvel Cinematic Universe https://theposterdb.com/set/99475
+  # Marvel's Agent Carter
+  tt3475734:
     url_poster: https://theposterdb.com/api/assets/145236
     seasons:
       1:
@@ -59,8 +59,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/145238
 
-  Marvel's Daredevil:
-    year: 2015
+  # Marvel's Daredevil
+  tt3322312:
     url_poster: https://theposterdb.com/api/assets/146524
     seasons:
       1:
@@ -70,8 +70,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146527
 
-  Marvel's Jessica Jones:
-    year: 2015
+  # Marvel's Jessica Jones
+  tt2357547:
     url_poster: https://theposterdb.com/api/assets/146669
     seasons:
       1:
@@ -81,8 +81,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146672
 
-  Marvel's Luke Cage:
-    year: 2016
+  # Marvel's Luke Cage
+  tt3322314:
     url_poster: https://theposterdb.com/api/assets/146779
     seasons:
       1:
@@ -90,8 +90,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/146781
 
-  Marvel's Iron Fist:
-    year: 2017
+  # Marvel's Iron Fist
+  tt3322310:
     url_poster: https://theposterdb.com/api/assets/146795
     seasons:
       1:
@@ -99,15 +99,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/146797
 
-  Marvel's The Defenders:
-    year: 2017
+  # Marvel's The Defenders
+  tt4230076:
     url_poster: https://theposterdb.com/api/assets/149157
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/149158
 
-  Marvel's The Punisher:
-    year: 2017
+  # Marvel's The Punisher
+  tt5675620:
     url_poster: https://theposterdb.com/api/assets/146924
     seasons:
       1:
@@ -115,15 +115,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/146926
 
-  Marvel's Inhumans:
-    year: 2017
+  # Marvel's Inhumans
+  tt4154858:
     url_poster: https://theposterdb.com/api/assets/146518
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146519
 
-  Marvel's Runaways:
-    year: 2017
+  # Marvel's Runaways
+  tt1236246:
     url_poster: https://theposterdb.com/api/assets/144039
     seasons:
       1:
@@ -133,8 +133,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/144042
 
-  Marvel's Cloak & Dagger:
-    year: 2018
+  # Marvel's Cloak & Dagger
+  tt5614844:
     url_poster: https://theposterdb.com/api/assets/144047
     seasons:
       1:
@@ -142,22 +142,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/144049
 
-  WandaVision:
-    year: 2021
+  # WandaVision
+  tt9140560:
     url_poster: https://theposterdb.com/api/assets/145244
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145245
 
-  The Falcon and The Winter Soldier:
-    year: 2021
+  # The Falcon and The Winter Soldier
+  tt9208876:
     url_poster: https://theposterdb.com/api/assets/144090
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144091
 
-  Loki:
-    year: 2021
+  # Loki
+  tt9140554:
     url_poster: https://theposterdb.com/api/assets/152226
     seasons:
       1:
@@ -165,22 +165,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/421311
 
-  Ms. Marvel:
-    year: 2022
+  # Ms. Marvel
+  tt10857160:
     url_poster: https://theposterdb.com/api/assets/243986
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/243987
 
-  "She-Hulk: Attorney at Law":
-    year: 2022
+  # She-Hulk: Attorney at Law
+  tt10857164:
     url_poster: https://theposterdb.com/api/assets/261516
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/261517
 
-  I Am Groot:
-    year: 2022
+  # I Am Groot
+  tt13623136:
     url_poster: https://theposterdb.com/api/assets/263970
     seasons:
       1:
@@ -188,30 +188,30 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/417741
 
-  Hawkeye (2021):
-    year: 2021
+  # Hawkeye (2021)
+  tt10160804:
     url_poster: https://theposterdb.com/api/assets/191855
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/191856
 
-  Secret Invasion:
-    year: 2023
+  # Secret Invasion
+  tt13157618:
     url_poster: https://theposterdb.com/api/assets/379998
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/379999
 
-  Helstrom:
-    year: 2020
+  # Helstrom
+  tt10266874:
     url_poster: https://theposterdb.com/api/assets/146514
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
 
-  #Arrowverse https://theposterdb.com/poster/133540
-  Arrow:
-    year: 2012
+  # Arrowverse https://theposterdb.com/poster/133540
+  # Arrow
+  tt2193021:
     url_poster: https://theposterdb.com/api/assets/133540
     seasons:
       0:
@@ -233,8 +233,8 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/133549
 
-  Batwoman:
-    year: 2019
+  # Batwoman
+  tt8712204:
     url_poster: https://theposterdb.com/api/assets/132845
     seasons:
       1:
@@ -242,8 +242,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/132847
 
-  Black Lightning:
-    year: 2018
+  # Black Lightning
+  tt6045840:
     url_poster: https://theposterdb.com/api/assets/134698
     seasons:
       1:
@@ -255,8 +255,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/134702
 
-  "DC's Legends of Tomorrow":
-    year: 2016
+  # DC's Legends of Tomorrow
+  tt4532368:
     url_poster: https://theposterdb.com/api/assets/134384
     seasons:
       0:
@@ -276,8 +276,8 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/182349
 
-  The Flash (2014):
-    year: 2014
+  # The Flash (2014)
+  tt3107288:
     url_poster: https://theposterdb.com/api/assets/133667
     seasons:
       0:
@@ -301,8 +301,8 @@ metadata:
       9:
         url_poster: https://theposterdb.com/api/assets/321255
 
-  Supergirl:
-    year: 2015
+  # Supergirl
+  tt4016454:
     url_poster: https://theposterdb.com/api/assets/134125
     seasons:
       0:
@@ -320,9 +320,9 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/141701
 
-  #Star Wars https://theposterdb.com/set/78057
-  The Mandalorian:
-    year: 2019
+  # Star Wars https://theposterdb.com/set/78057
+  # The Mandalorian
+  tt8111088:
     url_poster: https://theposterdb.com/api/assets/124658
     seasons:
       1:
@@ -332,44 +332,44 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/101158
 
-  The Book of Boba Fett:
-    year: 2021
+  # The Book of Boba Fett
+  tt13668894:
     url_poster: https://theposterdb.com/api/assets/124664
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/124664
 
-  Obi-Wan Kenobi:
-    year: 2022
+  # Obi-Wan Kenobi
+  tt8466564:
     url_poster: https://theposterdb.com/api/assets/235862
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/235862
 
-  Andor:
-    year: 2022
+  # Andor
+  tt9253284:
     url_poster: https://theposterdb.com/api/assets/266674
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/266674
 
-  Ahsoka:
-    year: 2023
+  # Ahsoka
+  tt13622776:
     url_poster: https://theposterdb.com/api/assets/385728
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/385729
 
-  The Acolyte:
-    year: 2024
+  # The Acolyte
+  tt13622788:
     url_poster: https://theposterdb.com/api/assets/475798
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/475799
 
-  #Narocs https://theposterdb.com/set/120756
-  Narcos:
-    year: 2015
+  # Narocs https://theposterdb.com/set/120756
+  # Narcos
+  tt2707408:
     url_poster: https://theposterdb.com/api/assets/200351
     seasons:
       1:
@@ -379,8 +379,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/200354
 
-  "Narcos: Mexico":
-    year: 2018
+  # Narcos: Mexico
+  tt8714904:
     url_poster: https://theposterdb.com/api/assets/200355
     seasons:
       1:
@@ -390,9 +390,9 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/200358
 
-  #Witcher https://theposterdb.com/set/116515
-  The Witcher:
-    year: 2019
+  # Witcher https://theposterdb.com/set/116515
+  # The Witcher
+  tt5180504:
     url_poster: https://theposterdb.com/api/assets/197572
     seasons:
       0:
@@ -404,16 +404,16 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/354837
 
-  "The Witcher: Blood Origin":
-    year: 2022
+  # The Witcher: Blood Origin
+  tt12785720:
     url_poster: https://theposterdb.com/api/assets/293711
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/293710
 
-  #Vikings https://theposterdb.com/set/129029
-  Vikings:
-    year: 2013
+  # Vikings https://theposterdb.com/set/129029
+  # Vikings
+  tt2306299:
     url_poster: https://theposterdb.com/api/assets/213893
     seasons:
       0:
@@ -431,8 +431,8 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/213900
 
-  "Vikings: Valhalla":
-    year: 2022
+  # Vikings: Valhalla
+  tt11311302:
     url_poster: https://theposterdb.com/api/assets/213901
     seasons:
       1:
@@ -442,9 +442,9 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/500003
 
-  #The boys https://theposterdb.com/set/227521
-  The Boys:
-    year: 2019
+  # The boys https://theposterdb.com/set/227521
+  # The Boys
+  tt1190634:
     url_poster: https://theposterdb.com/api/assets/408212
     seasons:
       0:
@@ -458,16 +458,16 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/495081
 
-  Gen V:
-    year: 2023
+  # Gen V
+  tt13159924:
     url_poster: https://theposterdb.com/api/assets/408210
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/408211
 
-  #Avatar https://theposterdb.com/set/250744
-  "Avatar: The Last Airbender":
-    year: 2005
+  # Avatar https://theposterdb.com/set/250744
+  # Avatar: The Last Airbender
+  tt0417299:
     url_poster: https://theposterdb.com/api/assets/454022
     seasons:
       0:
@@ -479,15 +479,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/454026
 
-  "Avatar: The Last Airbender (2024)":
-    year: 2024
+  # Avatar: The Last Airbender (2024)
+  tt9737146:
     url_poster: https://theposterdb.com/api/assets/454013
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/454014
 
-  The Legend of Korra:
-    year: 2012
+  # The Legend of Korra
+  tt1695360:
     url_poster: https://theposterdb.com/api/assets/454015
     seasons:
       0:
@@ -501,9 +501,9 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/454021
 
-  #The Big bang Theory
-  The Big Bang Theory:
-    year: 2007
+  # The Big bang Theory
+  # The Big Bang Theory
+  tt0898266:
     url_poster: https://theposterdb.com/api/assets/276691
     seasons:
       0:
@@ -533,8 +533,8 @@ metadata:
       12:
         url_poster: https://theposterdb.com/api/assets/276704
 
-  Young Sheldon:
-    year: 2017
+  # Young Sheldon
+  tt6226232:
     url_poster: https://theposterdb.com/api/assets/236795
     seasons:
       1:
@@ -552,9 +552,9 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/464576
 
-  #CastleVania https://theposterdb.com/set/230686
-  Castlevania:
-    year: 2017
+  # CastleVania https://theposterdb.com/set/230686
+  # Castlevania
+  tt6517102:
     url_poster: https://theposterdb.com/api/assets/415570
     seasons:
       1:
@@ -566,16 +566,16 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/415574
 
-  "Castlevania: Nocturne":
-    year: 2023
+  # Castlevania: Nocturne
+  tt14862142:
     url_poster: https://theposterdb.com/api/assets/415575
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/415576
 
-  #Yellowstone https://theposterdb.com/set/170697
-  Yellowstone (2018):
-    year: 2018
+  # Yellowstone https://theposterdb.com/set/170697
+  # Yellowstone (2018)
+  tt4236770:
     url_poster: https://theposterdb.com/api/assets/156053
     seasons:
       1:
@@ -589,21 +589,21 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/284095
 
-  "1883":
-    year: 2021
+  # 1883
+  tt13991232:
     url_poster: https://theposterdb.com/api/assets/287902
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/287904
 
-  "1923":
-    year: 2022
+  # 1923
+  tt14671664:
     url_poster: https://theposterdb.com/api/assets/287905
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/293983
 
-  #Random Tv Shows
+  # Random Tv Shows
   The Crown:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/237354
