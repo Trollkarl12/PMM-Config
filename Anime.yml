@@ -7606,6 +7606,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/480621
 
+  SSSS.Gridman:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/332088
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/332089
+      1:
+        url_poster: https://theposterdb.com/api/assets/332090
+
+  SSSS.Dynazenon:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/332091
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/332092
+
   # Not yet released
 
   Blue Box:
