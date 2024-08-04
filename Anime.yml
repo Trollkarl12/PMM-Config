@@ -7622,6 +7622,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/332092
 
+  "Hanasaku Iroha: Blossoms for Tomorrow":
+    year: 2011
+    url_poster: https://theposterdb.com/api/assets/509929
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/509930
+      1:
+        url_poster: https://theposterdb.com/api/assets/509931
+
   # Not yet released
 
   Blue Box:
