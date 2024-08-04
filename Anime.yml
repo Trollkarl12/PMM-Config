@@ -6652,12 +6652,12 @@ metadata:
 
   ODDTAXI:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/270992
+    url_poster: https://theposterdb.com/api/assets/429555
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/429553
+        url_poster: https://theposterdb.com/api/assets/429556
       1:
-        url_poster: https://theposterdb.com/api/assets/270993
+        url_poster: https://theposterdb.com/api/assets/429557
 
   Kaiji:
     year: 2007
