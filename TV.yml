@@ -603,8 +603,96 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/293983
 
-  # Random Tv Shows
+  # Planet Collection https://theposterdb.com/set/142577
+  # The Blue Planet
+  tt0296310:
+    url_poster: https://theposterdb.com/api/assets/237273
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237274
 
+  # Blue Planet II
+  tt6769208:
+    url_poster: https://theposterdb.com/api/assets/237259
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237260
+
+  # Planet Earth
+  tt0795176:
+    url_poster: https://theposterdb.com/api/assets/237265
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237266
+
+  # Planet Earth II
+  tt5491994:
+    url_poster: https://theposterdb.com/api/assets/237267
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237268
+
+  # Planet Earth III
+  tt9805674:
+    url_poster: https://theposterdb.com/api/assets/454977
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/454978
+
+  # Our Planet (2019)
+  tt9253866:
+    url_poster: https://theposterdb.com/api/assets/237263
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237264
+      2:
+        url_poster: https://theposterdb.com/api/assets/372777
+
+  # A Perfect Planet
+  tt10219322:
+    url_poster: https://theposterdb.com/api/assets/237257
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237258
+
+  # Frozen Planet
+  tt2092588:
+    url_poster: https://theposterdb.com/api/assets/237261
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237262
+
+  # Frozen Planet II
+  tt9805678:
+    url_poster: https://theposterdb.com/api/assets/264841
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/264842
+
+  # Prehistoric Planet
+  tt10324164:
+    url_poster: https://theposterdb.com/api/assets/237269
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237270
+      2:
+        url_poster: https://theposterdb.com/api/assets/364721
+
+  # Seven Worlds, One Planet
+  tt9805708:
+    url_poster: https://theposterdb.com/api/assets/237271
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237272
+
+  # The Green Planet
+  tt0115650:
+    url_poster: https://theposterdb.com/api/assets/237275
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/237276
+
+  # Random Tv Shows
   # The Crown
   tt4786824:
     url_poster: https://theposterdb.com/api/assets/237354
