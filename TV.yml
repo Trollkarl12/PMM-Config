@@ -1887,11 +1887,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/182130
 
   # Interview with the Vampire
-  tt13451320:
-    url_poster: https://theposterdb.com/api/assets/271668
+  tt3960394:
+    url_poster: https://theposterdb.com/api/assets/304789
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/271669
+        url_poster: https://theposterdb.com/api/assets/304790
+      2:
+        url_poster: https://theposterdb.com/api/assets/477846
 
   # Fallout
   tt11963376:
