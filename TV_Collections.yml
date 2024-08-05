@@ -47,3 +47,5 @@ collections:
     template: {name: Collection, show: "257655, 361315, 332525, 295760, 279121, 295759, 361868, 375655, 273690, 77746, 72218", poster: https://theposterdb.com/api/assets/133022, background: }
   Yellowstone:
     template: {name: Collection, show: "341164, 396390, 416491", poster: https://theposterdb.com/api/assets/287901, background: }
+  Planet:
+    template: {name: Collection, show: "74372, 330942, 79257, 318408, 413197, 355229, 359365, 251418, 417395, 418505, 359251, 359250", poster: https://theposterdb.com/api/assets/237256, background: }
