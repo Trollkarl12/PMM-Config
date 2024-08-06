@@ -209,6 +209,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
 
+  # What If…?
+  tt10168312:
+    url_poster: https://theposterdb.com/api/assets/169286
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/169287
+      2:
+        url_poster: https://theposterdb.com/api/assets/452737
+
   # Arrowverse https://theposterdb.com/poster/133540
   # Arrow
   tt2193021:
