@@ -1436,6 +1436,50 @@ metadata:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/36969
 
+  # The Land Before Time https://theposterdb.com/set/239611
+  # The Land Before Time
+  tt0095489:
+    url_poster: https://theposterdb.com/api/assets/433297
+  # The Land Before Time II: The Great Valley Adventure
+  tt0110300:
+    url_poster: https://theposterdb.com/api/assets/433298
+  # The Land Before Time III: The Time of the Great Giving
+  tt0113596:
+    url_poster: https://theposterdb.com/api/assets/433299
+  # The Land Before Time IV: Journey Through the Mists
+  tt0116817:
+    url_poster: https://theposterdb.com/api/assets/433300
+  # The Land Before Time V: The Mysterious Island
+  tt0123950:
+    url_poster: https://theposterdb.com/api/assets/433301
+  # The Land Before Time VI: The Secret of Saurus Rock
+  tt0167247:
+    url_poster: https://theposterdb.com/api/assets/433302
+  # The Land Before Time VII: The Stone of Cold Fire
+  tt0267657:
+    url_poster: https://theposterdb.com/api/assets/433303
+  # The Land Before Time VIII: The Big Freeze
+  tt0301526:
+    url_poster: https://theposterdb.com/api/assets/433304
+  # The Land Before Time IX: Journey to Big Water
+  tt0345543:
+    url_poster: https://theposterdb.com/api/assets/433305
+  # The Land Before Time X: The Great Longneck Migration
+  tt0378230:
+    url_poster: https://theposterdb.com/api/assets/433306
+  # The Land Before Time XI: Invasion of the Tinysauruses
+  tt0424228:
+    url_poster: https://theposterdb.com/api/assets/433307
+  # The Land Before Time XII: The Great Day of the Flyers
+  tt0933064:
+    url_poster: https://theposterdb.com/api/assets/433308
+  # The Land Before Time XIII: The Wisdom of Friends
+  tt1139111:
+    url_poster: https://theposterdb.com/api/assets/433309
+  # The Land Before Time XIV: Journey of the Brave
+  tt4431254:
+    url_poster: https://theposterdb.com/api/assets/433310
+
   # Look Who's Talking https://theposterdb.com/set/83584
   Look Who's Talking:
     year: 1989
@@ -2101,6 +2145,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/181605
 
   # Random movies
+  "9":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/47291
   12 Angry Men:
     year: 1957
     url_poster: https://theposterdb.com/api/assets/34334
@@ -2638,6 +2685,9 @@ metadata:
   The Irishman:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/76220
+  The Iron Giant:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/111336
   It:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/164502
