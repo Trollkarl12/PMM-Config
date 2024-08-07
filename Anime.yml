@@ -3308,14 +3308,14 @@ metadata:
 
   Miss Kobayashi's Dragon Maid:
     year: 2017
-    url_poster: https://theposterdb.com/api/assets/161942
+    url_poster: https://theposterdb.com/api/assets/514106
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/161943
+        url_poster: https://theposterdb.com/api/assets/514107
       1:
-        url_poster: https://theposterdb.com/api/assets/161944
+        url_poster: https://theposterdb.com/api/assets/514108
       2:
-        url_poster: https://theposterdb.com/api/assets/161945
+        url_poster: https://theposterdb.com/api/assets/514109
 
   Mob Psycho 100:
     year: 2016
@@ -6360,12 +6360,14 @@ metadata:
 
   My Wife is the Student Council President:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/284535
+    url_poster: https://theposterdb.com/api/assets/514129
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/514130
       1:
-        url_poster: https://theposterdb.com/api/assets/284536
+        url_poster: https://theposterdb.com/api/assets/514131
       2:
-        url_poster: https://theposterdb.com/api/assets/284537
+        url_poster: https://theposterdb.com/api/assets/514132
 
   Tales of Wedding Rings:
     year: 2024
