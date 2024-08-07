@@ -496,7 +496,163 @@ metadata:
   "Dr. Dolittle: Million Dollar Mutts":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/329312
-    
+  
+  # DreamWorks Animations https://theposterdb.com/set/223893
+  # Antz
+  tt0120587:
+    url_poster: https://theposterdb.com/api/assets/399967
+  # The Prince of Egypt
+  tt0120794:
+    url_poster: https://theposterdb.com/api/assets/399968
+  # Chicken Run
+  tt0120630:
+    url_poster: https://theposterdb.com/api/assets/399970
+  # The Road to El Dorado
+  tt0138749:
+    url_poster: https://theposterdb.com/api/assets/399969
+  # Joseph: King of Dreams
+  tt0264734:
+    url_poster: https://theposterdb.com/api/assets/400887
+  # Shrek
+  tt0126029:
+    url_poster: https://theposterdb.com/api/assets/399971
+  # Spirit: Stallion of the Cimarron
+  tt0166813:
+    url_poster: https://theposterdb.com/api/assets/399972
+  # Sinbad: Legend of the Seven Seas
+  tt0165982:
+    url_poster: https://theposterdb.com/api/assets/399973
+  # Shrek 2
+  tt0298148:
+    url_poster: https://theposterdb.com/api/assets/399974
+  # Shark Tale
+  tt0307453:
+    url_poster: https://theposterdb.com/api/assets/399975
+  # Madagascar
+  tt0351283:
+    url_poster: https://theposterdb.com/api/assets/399976
+  # Wallace & Gromit: The Curse of the Were-Rabbit
+  tt0312004:
+    url_poster: https://theposterdb.com/api/assets/399977
+  # Over the Hedge
+  tt0327084:
+    url_poster: https://theposterdb.com/api/assets/399978
+  # Flushed Away
+  tt0424095:
+    url_poster: https://theposterdb.com/api/assets/399979
+  # Shrek the Third
+  tt0413267:
+    url_poster: https://theposterdb.com/api/assets/399980
+  # Bee Movie
+  tt0389790:
+    url_poster: https://theposterdb.com/api/assets/399981
+  # Kung Fu Panda
+  tt0441773:
+    url_poster: https://theposterdb.com/api/assets/399982
+  # Madagascar: Escape 2 Africa
+  tt0479952:
+    url_poster: https://theposterdb.com/api/assets/399983
+  # How to Train Your Dragon
+  tt0892769:
+    url_poster: https://theposterdb.com/api/assets/399985
+  # Monsters vs. Aliens
+  tt0892782:
+    url_poster: https://theposterdb.com/api/assets/399984
+  # Shrek Forever After
+  tt0892791:
+    url_poster: https://theposterdb.com/api/assets/399986
+  # Megamind
+  tt1001526:
+    url_poster: https://theposterdb.com/api/assets/400010
+  # Kung Fu Panda 2
+  tt1302011:
+    url_poster: https://theposterdb.com/api/assets/399988
+  # Puss in Boots
+  tt0448694:
+    url_poster: https://theposterdb.com/api/assets/399989
+  # Madagascar 3: Europe's Most Wanted
+  tt1277953:
+    url_poster: https://theposterdb.com/api/assets/399990
+  # Rise of the Guardians
+  tt1446192:
+    url_poster: https://theposterdb.com/api/assets/399991
+  # The Croods
+  tt0481499:
+    url_poster: https://theposterdb.com/api/assets/399992
+  # Turbo
+  tt1860353:
+    url_poster: https://theposterdb.com/api/assets/399993
+  # Mr. Peabody & Sherman
+  tt0864835:
+    url_poster: https://theposterdb.com/api/assets/400372
+  # How to Train Your Dragon 2
+  tt1646971:
+    url_poster: https://theposterdb.com/api/assets/399994
+  # Penguins of Madagascar
+  tt1911658:
+    url_poster: https://theposterdb.com/api/assets/399995
+  # Home
+  tt2224026:
+    url_poster: https://theposterdb.com/api/assets/399996
+  # Kung Fu Panda 3
+  tt2267968:
+    url_poster: https://theposterdb.com/api/assets/399997
+  # Trolls
+  tt1679335:
+    url_poster: https://theposterdb.com/api/assets/399998
+  # The Boss Baby
+  tt3874544:
+    url_poster: https://theposterdb.com/api/assets/399999
+  # Captain Underpants: The First Epic Movie
+  tt2091256:
+    url_poster: https://theposterdb.com/api/assets/400000
+  # How to Train Your Dragon: The Hidden World
+  tt2386490:
+    url_poster: https://theposterdb.com/api/assets/400001
+  # Abominable
+  tt6324278:
+    url_poster: https://theposterdb.com/api/assets/400002
+  # Trolls World Tour
+  tt6587640:
+    url_poster: https://theposterdb.com/api/assets/400003
+  # The Croods: A New Age
+  tt2850386:
+    url_poster: https://theposterdb.com/api/assets/400004
+  # Spirit Untamed
+  tt11084896:
+    url_poster: https://theposterdb.com/api/assets/400005
+  # The Boss Baby 2: Family Business
+  tt6932874:
+    url_poster: https://theposterdb.com/api/assets/400006
+  # Trollhunters: Rise of the Titans
+  tt12851396:
+    url_poster: https://theposterdb.com/api/assets/400007
+  # The Bad Guys
+  tt8115900:
+    url_poster: https://theposterdb.com/api/assets/400008
+  # Puss in Boots: The Last Wish
+  tt3915174:
+    url_poster: https://theposterdb.com/api/assets/400009
+  # Ruby Gillman: Teenage Kraken
+  tt27155038:
+    url_poster: https://theposterdb.com/api/assets/449972
+  # Trolls Band Together
+  tt14362112:
+    url_poster: https://theposterdb.com/api/assets/449973
+  # Orion and the Dark
+  tt28066777:
+    url_poster: https://theposterdb.com/api/assets/480570
+  # Kung Fu Panda 4
+  tt21692408:
+    url_poster: https://theposterdb.com/api/assets/480569
+  # Megamind vs. The Doom Syndicate
+  tt21692408:
+    url_poster: https://theposterdb.com/api/assets/454027
+  # The Wild Robot
+  tt29623480:
+    url_poster: https://theposterdb.com/api/assets/483924
+
+
   # Election https://theposterdb.com/set/255619
   Election:
     year: 2005
@@ -1215,20 +1371,6 @@ metadata:
   "Kill Bill: Vol. 2":
     year: 2004
     url_poster: https://theposterdb.com/api/assets/63402
-
-  # Kung Fu Panda https://theposterdb.com/set/253828
-  Kung Fu Panda:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/112271
-  Kung Fu Panda 2:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/112272
-  Kung Fu Panda 3:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/112273
-  Kung Fu Panda 4:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/460803
 
   # Mad Max https://theposterdb.com/set/256266
   Mad Max:
@@ -2835,12 +2977,6 @@ metadata:
   "Master and Commander: The Far Side of the World":
     year: 2003
     url_poster: https://theposterdb.com/api/assets/117156
-  Megamind:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/459746
-  Megamind vs. The Doom Syndicate:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/459745
   Memento:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/52628
@@ -2991,12 +3127,6 @@ metadata:
   Pulp Fiction:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/31972
-  Puss in Boots:
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/307427
-  "Puss in Boots: The Last Wish":
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/307428
   Raging Bull:
     year: 1980
     url_poster: https://theposterdb.com/api/assets/54259
