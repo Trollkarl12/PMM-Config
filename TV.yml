@@ -2090,3 +2090,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/231559
       9:
         url_poster: https://theposterdb.com/api/assets/231560
+
+  # Knuckles
+  tt18291136:
+    url_poster: https://theposterdb.com/api/assets/479895
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/479896
