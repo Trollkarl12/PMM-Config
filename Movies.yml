@@ -646,7 +646,7 @@ metadata:
   tt21692408:
     url_poster: https://theposterdb.com/api/assets/480569
   # Megamind vs. The Doom Syndicate
-  tt21692408:
+  tt31122323:
     url_poster: https://theposterdb.com/api/assets/454027
   # The Wild Robot
   tt29623480:
@@ -3196,9 +3196,6 @@ metadata:
   Se7en:
     year: 1995
     url_poster: https://theposterdb.com/api/assets/108334
-  Shark Tale:
-    year: 2004
-    url_poster: https://theposterdb.com/api/assets/20652
   The Shawshank Redemption:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/51857
