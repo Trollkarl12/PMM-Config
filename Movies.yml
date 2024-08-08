@@ -2650,6 +2650,9 @@ metadata:
   Fury:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/44443
+  Game Night:
+    year: 2018
+    url_poster: https://theposterdb.com/api/assets/214762
   Gangs of New York:
     year: 2002
     url_poster: https://theposterdb.com/api/assets/54275
@@ -2743,6 +2746,9 @@ metadata:
   The Green Mile:
     year: 1999
     url_poster: https://theposterdb.com/api/assets/40063
+  Green Room:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/100905
   Greyhound:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/97377
