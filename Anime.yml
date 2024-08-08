@@ -7608,7 +7608,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/480621
 
-  SSSS.Gridman:
+  "SSSS.Gridman":
     year: 2018
     url_poster: https://theposterdb.com/api/assets/332088
     seasons:
@@ -7617,7 +7617,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/332090
 
-  SSSS.Dynazenon:
+  "SSSS.Dynazenon":
     year: 2021
     url_poster: https://theposterdb.com/api/assets/332091
     seasons:
@@ -7632,6 +7632,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/509930
       1:
         url_poster: https://theposterdb.com/api/assets/509931
+
+  "Delico's Nursery":
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/514568
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/514569
 
   # Not yet released
 
