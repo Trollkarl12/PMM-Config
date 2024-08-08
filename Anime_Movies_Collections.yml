@@ -33,5 +33,5 @@ collections:
   Makoto Shinkai:
     template: {name: Collection, movie: "372058, 568160, 198375, 38142, 79707, 916224, 12924, 37910", poster: https://theposterdb.com/api/assets/433619}
   Baki:
-    template: {name: Collection, movie: "355081", poster: https://theposterdb.com/api/assets/401297}
+    template: {name: Collection, movie: "1263421", poster: https://theposterdb.com/api/assets/401297}
 
