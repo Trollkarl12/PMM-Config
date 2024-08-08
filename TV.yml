@@ -2097,3 +2097,16 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/479896
+
+  # Halt and Catch Fire
+  tt18291136:
+    url_poster: https://theposterdb.com/api/assets/145494
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/145495
+      2:
+        url_poster: https://theposterdb.com/api/assets/145496
+      3:
+        url_poster: https://theposterdb.com/api/assets/145497
+      4:
+        url_poster: https://theposterdb.com/api/assets/145498
