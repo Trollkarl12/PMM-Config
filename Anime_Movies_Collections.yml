@@ -23,7 +23,7 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls076439519/
     url_poster: https://theposterdb.com/api/assets/325047
-    
+
   Vampire Hunter D:
     template: {name: Collection, movie: "9463, 15999", poster: https://theposterdb.com/api/assets/157589}
   Patlabor:
@@ -32,4 +32,6 @@ collections:
     template: {name: Collection, movie: "9323, 12140, 14092", poster: https://theposterdb.com/api/assets/175259}
   Makoto Shinkai:
     template: {name: Collection, movie: "372058, 568160, 198375, 38142, 79707, 916224, 12924, 37910", poster: https://theposterdb.com/api/assets/433619}
+  Baki:
+    template: {name: Collection, movie: "355081", poster: https://theposterdb.com/api/assets/401297}
 
