@@ -2749,6 +2749,9 @@ metadata:
   The Guns of Navarone:
     year: 1961
     url_poster: https://theposterdb.com/api/assets/427953
+  Hacker:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/118670
   Hacksaw Ridge:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/40137
@@ -3217,6 +3220,9 @@ metadata:
   Snowden:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/80407
+  The Social Network:
+    year: 2010
+    url_poster: https://theposterdb.com/api/assets/64097
   Sorry to Bother You:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/117909
