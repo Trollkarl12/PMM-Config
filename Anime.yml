@@ -5,8 +5,8 @@
 metadata:
 
   # A Certain Universe
-  A Certain Magical Index:
-    year: 2008
+  # A Certain Magical Index
+  tt1372962:
     url_poster: https://theposterdb.com/api/assets/184033
     seasons:
       0:
@@ -18,8 +18,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/184037
 
-  A Certain Scientific Railgun:
-    year: 2009
+  # A Certain Scientific Railgun
+  tt1634003:
     url_poster: https://theposterdb.com/api/assets/184041
     seasons:
       0:
@@ -31,8 +31,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/184045
 
-  A Certain Scientific Accelerator:
-    year: 2019
+  # A Certain Scientific Accelerator
+  tt9738934:
     url_poster: https://theposterdb.com/api/assets/184038
     seasons:
       0:
@@ -41,8 +41,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/184040
 
   # Baki
-  Baki the Grappler:
-    year: 2001
+  # Baki the Grappler
+  tt0324852:
     url_poster: https://theposterdb.com/api/assets/401293
     seasons:
       0:
@@ -52,8 +52,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/401295
 
-  Baki (2018):
-    year: 2018
+  # Baki (2018)
+  tt8788458:
     url_poster: https://theposterdb.com/api/assets/401284
     seasons:
       1:
@@ -61,8 +61,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/401286
 
-  Baki Hanma:
-    year: 2021
+  # Baki Hanma
+  tt13531728:
     url_poster: https://theposterdb.com/api/assets/401274
     seasons:
       1:
@@ -70,16 +70,16 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/401276
 
-  # Berserk       
-  Berserk:
-    year: 1997
+  # Berserk
+  # Berserk (1997)
+  tt0280236:
     url_poster: https://theposterdb.com/api/assets/402714
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/402715
 
-  Berserk (2016):
-    year: 2016
+  # Berserk (2016)
+  tt5436450:
     url_poster: https://theposterdb.com/api/assets/402716
     seasons:
       0:
@@ -89,31 +89,31 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/402719
 
-  "Berserk: The Golden Age Arc – Memorial Edition":
-    year: 2022
+  # Berserk: The Golden Age Arc – Memorial Edition
+  tt11024820:
     url_poster: https://theposterdb.com/api/assets/273468
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/273469
 
   # Blade of the Immortal
-  Blade of the Immortal:
-    year: 2008
+  # Blade of the Immortal (2008)
+  tt1198610:
     url_poster: https://theposterdb.com/api/assets/182154
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182155
 
-  Blade of the Immortal (2019):
-    year: 2019
+  # Blade of the Immortal (2019)
+  tt9736580:
     url_poster: https://theposterdb.com/api/assets/322355
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/322356
 
   # Code Geass
-  "Code Geass: Lelouch of the Rebellion":
-    year: 2006
+  # Code Geass: Lelouch of the Rebellion
+  tt0912696:
     url_poster: https://theposterdb.com/api/assets/130027
     seasons:
       0:
@@ -123,16 +123,16 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/130030
 
-  "Code Geass: Rozé of the Recapture":
-    year: 2024
+  # Code Geass: Rozé of the Recapture
+  tt11527718:
     url_poster: https://theposterdb.com/api/assets/502284
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/502285
 
   # D.Gray-man
-  D.Gray-man:
-    year: 2006
+  # D.Gray-man (2006)
+  tt0803936:
     url_poster: https://theposterdb.com/api/assets/134440
     seasons:
       1:
@@ -140,16 +140,16 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/134442
 
-  D.Gray-man Hallow:
-    year: 2016
+  # D.Gray-man Hallow
+  tt5404360:
     url_poster: https://theposterdb.com/api/assets/134443
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/134444
 
   # Dragon Ball
-  Dragon Ball:
-    year: 1986
+  # Dragon Ball
+  tt0214341:
     url_poster: https://theposterdb.com/api/assets/127756
     seasons:
       0:
@@ -167,8 +167,8 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/127763
         
-  Dragon Ball Z:
-    year: 1989
+  # Dragon Ball Z
+  tt0214346:
     url_poster: https://theposterdb.com/api/assets/127764
     seasons:
       0:
@@ -192,8 +192,8 @@ metadata:
       9:
         url_poster: https://theposterdb.com/api/assets/127774
         
-  Dragon Ball GT:
-    year: 1996
+  # Dragon Ball GT
+  tt0214348:
     url_poster: https://theposterdb.com/api/assets/127784
     seasons:
       0:
@@ -205,8 +205,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/127788
         
-  Dragon Ball Z Kai:
-    year: 2009
+  # Dragon Ball Z Kai
+  tt1628100:
     url_poster: https://theposterdb.com/api/assets/127775
     seasons:
       0:
@@ -216,8 +216,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/127778
         
-  Dragon Ball Super:
-    year: 2015
+  # Dragon Ball Super
+  tt5212266:
     url_poster: https://theposterdb.com/api/assets/127789
     seasons:
       0:
@@ -233,8 +233,8 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/127795
         
-  Super Dragon Ball Heroes:
-    year: 2018
+  # Super Dragon Ball Heroes
+  tt8322006:
     url_poster: https://theposterdb.com/api/assets/127796
     seasons:
       0:
@@ -252,9 +252,9 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/423879
 
-  # Fairy Tail  
-  Fairy Tail:
-    year: 2009
+  # Fairy Tail
+  # Fairy Tail
+  tt1528406:
     url_poster: https://theposterdb.com/api/assets/359648
     seasons:
       0:
@@ -276,23 +276,32 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/359657
 
-  FAIRY TAIL 100 YEARS QUEST:
-    year: 2024
+  # Edens Zero
+  tt13167196:
+    url_poster: https://theposterdb.com/api/assets/344187
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/344188
+      2:
+        url_poster: https://theposterdb.com/api/assets/344189
+
+  # FAIRY TAIL 100 YEARS QUEST
+  tt20978618:
     url_poster: https://theposterdb.com/api/assets/506297
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/506298
-
+   
   # Fate
-  Fate/Apocrypha:
-    year: 2017
+  # Fate/Apocrypha
+  tt7207926:
     url_poster: https://theposterdb.com/api/assets/141171
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/142587
 
-  Fate/Extra Last Encore:
-    year: 2018
+  # Fate/Extra Last Encore
+  tt7504108:
     url_poster: https://theposterdb.com/api/assets/141927
     seasons:
       0:
@@ -302,8 +311,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/141930
 
-  "Fate/Grand Order Absolute Demonic Front: Babylonia":
-    year: 2019
+  # Fate/Grand Order Absolute Demonic Front: Babylonia
+  tt10307592:
     url_poster: https://theposterdb.com/api/assets/141232
     seasons:
       0:
@@ -311,8 +320,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/141239
 
-  Fate/stay night:
-    year: 2006
+  # Fate/stay night
+  tt0829459:
     url_poster: https://theposterdb.com/api/assets/141144
     seasons:
       0:
@@ -320,8 +329,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/142585
 
-  Fate/stay night [Unlimited Blade Works]:
-    year: 2014
+  # Fate/stay night [Unlimited Blade Works]
+  tt3281548:
     url_poster: https://theposterdb.com/api/assets/141039
     seasons:
       0:
@@ -331,8 +340,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/141041
 
-  Fate/Zero:
-    year: 2011
+  # Fate/Zero
+  tt2086238:
     url_poster: https://theposterdb.com/api/assets/141145
     seasons:
       0:
@@ -342,8 +351,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/141150
 
-  Fate/kaleid liner Prisma Illya:
-    year: 2013
+  # Fate/kaleid liner Prisma Illya
+  tt3142352:
     url_poster: https://theposterdb.com/api/assets/141209
     seasons:
       0:
@@ -357,8 +366,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/141219
 
-  Fate/Grand Carnival:
-    year: 2020
+  # Fate/Grand Carnival
+  tt13082328:
     url_poster: https://theposterdb.com/api/assets/249434
     seasons:
       1:
@@ -366,8 +375,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/249436
 
-  Lunar Legend Tsukihime:
-    year: 2003
+  # Lunar Legend Tsukihime
+  tt0428324:
     url_poster: https://theposterdb.com/api/assets/190880
     seasons:
       0:
@@ -375,8 +384,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/190882
 
-  Carnival Phantasm:
-    year: 2011
+  # Carnival Phantasm
+  tt2084512:
     url_poster: https://theposterdb.com/api/assets/142203
     seasons:
       0:
@@ -384,15 +393,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/142204
 
-  Today's Menu for the Emiya Family:
-    year: 2017
+  # Today's Menu for the Emiya Family
+  tt7221876:
     url_poster: https://theposterdb.com/api/assets/142206
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/147778
 
-  "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note":
-    year: 2018
+  # Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note
+  tt8322088:
     url_poster: https://theposterdb.com/api/assets/142212
     seasons:
       0:
@@ -400,9 +409,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/142213
 
-  # Fullmetal Alchemist  
-  Fullmetal Alchemist:
-    year: 2003
+  # Fullmetal Alchemist
+  # Fullmetal Alchemist
+  tt0434609:
     url_poster: https://theposterdb.com/api/assets/169268
     seasons:
       0:
@@ -410,8 +419,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/169270
 
-  "Fullmetal Alchemist: Brotherhood":
-    year: 2009
+  # Fullmetal Alchemist: Brotherhood
+  tt1533380:
     url_poster: https://theposterdb.com/api/assets/169265
     seasons:
       0:
@@ -420,15 +429,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/169267
 
   # Hellsing
-  Hellsing:
-    year: 2001
+  # Hellsing
+  tt0297980:
     url_poster: https://theposterdb.com/api/assets/128326
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/128327
 
-  Hellsing Ultimate:
-    year: 2006
+  # Hellsing Ultimate
+  tt0918313:
     url_poster: https://theposterdb.com/api/assets/72764
     seasons:
       0:
@@ -437,8 +446,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/72766
 
   # Hunter x Hunter
-  Hunter × Hunter:
-    year: 1999
+  # Hunter x Hunter (1999)
+  tt2098230:
     url_poster: https://theposterdb.com/api/assets/335019
     seasons:
       0:
@@ -452,8 +461,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/335024
 
-  Hunter x Hunter:
-    year: 2011
+  # Hunter x Hunter (2011)
+  tt2098230:
     url_poster: https://theposterdb.com/api/assets/335025
     seasons:
       0:
@@ -466,8 +475,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/335029
 
   # Ikki Tousen
-  Ikki Tousen:
-    year: 2003
+  # Ikki Tousen
+  tt0788924:
     url_poster: https://theposterdb.com/api/assets/167803
     seasons:
       0:
@@ -481,16 +490,16 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/167808
 
-  Shin Ikki Tousen:
-    year: 2022
+  # Shin Ikki Tousen
+  tt12261288:
     url_poster: https://theposterdb.com/api/assets/240494
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/240494
 
-  # Mobile Suit Gundam 
-  Mobile Suit Gundam:
-    year: 1979
+  # Mobile Suit Gundam
+  # Mobile Suit Gundam
+  tt0079913:
     url_poster: https://theposterdb.com/api/assets/329452
     seasons:
       0:
@@ -498,8 +507,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/329454
 
-  Mobile Suit Zeta Gundam:
-    year: 1985
+  # Mobile Suit Zeta Gundam
+  tt0088531:
     url_poster: https://theposterdb.com/api/assets/322819
     seasons:
       0:
@@ -507,8 +516,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322821
 
-  Mobile Suit Gundam ZZ:
-    year: 1986
+  # Mobile Suit Gundam ZZ
+  tt0088925:
     url_poster: https://theposterdb.com/api/assets/322822
     seasons:
       0:
@@ -516,8 +525,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322824
 
-  Mobile Suit Gundam Unicorn:
-    year: 2010
+  # Mobile Suit Gundam Unicorn
+  tt1768253:
     url_poster: https://theposterdb.com/api/assets/322849
     seasons:
       0:
@@ -525,18 +534,18 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322851
 
-  Mobile Suit Victory Gundam:
-    year: 1993
+  # Mobile Suit Victory Gundam
+  tt0107651:
     url_poster: https://theposterdb.com/api/assets/323581
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/323582
       1:
         url_poster: https://theposterdb.com/api/assets/323583
-
-  # Naruto      
-  Naruto:
-    year: 2002
+   
+  # Naruto   
+  # Naruto
+  tt0409591:
     url_poster: https://theposterdb.com/api/assets/392472
     seasons:
       0:
@@ -552,8 +561,8 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/323015
 
-  Naruto Shippūden:
-    year: 2007
+  # Naruto Shippūden
+  tt0988824:
     url_poster: https://theposterdb.com/api/assets/323019
     seasons:
       0:
@@ -603,8 +612,8 @@ metadata:
       22:
         url_poster: https://theposterdb.com/api/assets/323042
 
-  "Boruto: Naruto Next Generations":
-    year: 2017
+  # Boruto: Naruto Next Generations
+  tt7315214:
     url_poster: https://theposterdb.com/api/assets/323016
     seasons:
       0:
@@ -613,8 +622,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/323018
 
   # Rurouni Kenshin
-  Rurouni Kenshin:
-    year: 1996
+  # Rurouni Kenshin
+  tt0183376:
     url_poster: https://theposterdb.com/api/assets/31921
     seasons:
       0:
@@ -626,8 +635,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/31925
 
-  Rurouni Kenshin (2023):
-    year: 2023
+  # Rurouni Kenshin (2023)
+  tt14082970:
     url_poster: https://theposterdb.com/api/assets/378226
     seasons:
       1:
@@ -5023,15 +5032,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/160770
       2:
         url_poster: https://theposterdb.com/api/assets/160771
-
-  Edens Zero:
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/344187
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/344188
-      2:
-        url_poster: https://theposterdb.com/api/assets/344189
 
   Jormungand:
     year: 2012
