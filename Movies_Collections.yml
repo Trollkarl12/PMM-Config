@@ -157,4 +157,4 @@ collections:
   Illumination:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls569429708/
-    url_poster: https://theposterdb.com/api/assets/393010
+    url_poster: https://theposterdb.com/api/assets/515460

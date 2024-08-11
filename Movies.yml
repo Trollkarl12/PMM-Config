@@ -982,6 +982,53 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/38163
 
+  # Illumination Entertainment https://theposterdb.com/set/286146
+  # Despicable Me
+  tt1323594:
+    url_poster: https://theposterdb.com/api/assets/515475
+  # Hop
+  tt1411704:
+    url_poster: https://theposterdb.com/api/assets/515474
+  # The Lorax
+  tt1482459:
+    url_poster: https://theposterdb.com/api/assets/515473
+  # Despicable Me 2
+  tt1690953:
+    url_poster: https://theposterdb.com/api/assets/515472
+  # Minions
+  tt2293640:
+    url_poster: https://theposterdb.com/api/assets/515471
+  # The Secret Life of Pets
+  tt2709768:
+    url_poster: https://theposterdb.com/api/assets/515470
+  # Sing
+  tt3470600:
+    url_poster: https://theposterdb.com/api/assets/515469
+  # Despicable Me 3
+  tt3469046:
+    url_poster: https://theposterdb.com/api/assets/515468
+  # The Grinch
+  tt2709692:
+    url_poster: https://theposterdb.com/api/assets/515467
+  # The Secret Life of Pets 2
+  tt5113040:
+    url_poster: https://theposterdb.com/api/assets/515466
+  # Sing 2
+  tt6467266:
+    url_poster: https://theposterdb.com/api/assets/515465
+  # Minions: The Rise of Gru
+  tt5113044:
+    url_poster: https://theposterdb.com/api/assets/515464
+  # The Super Mario Bros. Movie
+  tt6718170:
+    url_poster: https://theposterdb.com/api/assets/515463
+  # Migration
+  tt6495056:
+    url_poster: https://theposterdb.com/api/assets/515462
+  # Despicable Me 4
+  tt7510222:
+    url_poster: https://theposterdb.com/api/assets/515461
+
   # Ingmar Bergman’s Cinema https://theposterdb.com/set/236918
   Crisis:
     year: 1946
@@ -3262,9 +3309,6 @@ metadata:
   "Sunset Blvd.":
     year: 1950
     url_poster: https://theposterdb.com/api/assets/196845
-  The Super Mario Bros. Movie:
-    year: 2023
-    url_poster: https://theposterdb.com/api/assets/360913
   Superbad:
     year: 2007
     url_poster: https://theposterdb.com/api/assets/87264
