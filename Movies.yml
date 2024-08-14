@@ -2175,6 +2175,98 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/124636
 
+  # Sony Pictures Animation https://theposterdb.com/set/147984
+  # Open Season
+  tt0400717:
+    url_poster: https://theposterdb.com/api/assets/246961
+  # Surf's Up
+  tt0423294:
+    url_poster: https://theposterdb.com/api/assets/246962
+  # Open Season 2
+  tt1107365:
+    url_poster: https://theposterdb.com/api/assets/246963
+  # Cloudy with a Chance of Meatballs
+  tt0844471:
+    url_poster: https://theposterdb.com/api/assets/246964
+  # Open Season 3
+  tt1646926:
+    url_poster: https://theposterdb.com/api/assets/246965
+  # The Smurfs
+  tt0472181:
+    url_poster: https://theposterdb.com/api/assets/246966
+  # Arthur Christmas
+  tt1430607:
+    url_poster: https://theposterdb.com/api/assets/246967
+  # The Pirates! In an Adventure with Scientists!
+  tt1430626:
+    url_poster: https://theposterdb.com/api/assets/246968
+  # Hotel Transylvania
+  tt0837562:
+    url_poster: https://theposterdb.com/api/assets/246969
+  # The Smurfs 2
+  tt2017020:
+    url_poster: https://theposterdb.com/api/assets/246970
+  # Cloudy with a Chance of Meatballs 2
+  tt1985966:
+    url_poster: https://theposterdb.com/api/assets/246971
+  # Goosebumps
+  tt1051904:
+    url_poster: https://theposterdb.com/api/assets/246972
+  # Hotel Transylvania 2
+  tt2510894:
+    url_poster: https://theposterdb.com/api/assets/246973
+  # Open Season: Scared Silly
+  tt4938374:
+    url_poster: https://theposterdb.com/api/assets/246974
+  # The Angry Birds Movie
+  tt1985949:
+    url_poster: https://theposterdb.com/api/assets/246975
+  # Surf's Up 2: WaveMania
+  tt5513260:
+    url_poster: https://theposterdb.com/api/assets/246976
+  # Smurfs: The Lost Village
+  tt2398241:
+    url_poster: https://theposterdb.com/api/assets/246977
+  # The Emoji Movie
+  tt4877122:
+    url_poster: https://theposterdb.com/api/assets/246978
+  # Puppy!
+  tt6450752:
+    url_poster: https://theposterdb.com/api/assets/246979
+  # The Star
+  tt4587656:
+    url_poster: https://theposterdb.com/api/assets/246980
+  # Peter Rabbit
+  tt5117670:
+    url_poster: https://theposterdb.com/api/assets/246981
+  # Hotel Transylvania 3: Summer Vacation
+  tt5220122:
+    url_poster: https://theposterdb.com/api/assets/246982
+  # Goosebumps 2: Haunted Halloween
+  tt5664636:
+    url_poster: https://theposterdb.com/api/assets/246983
+  # The Angry Birds Movie 2
+  tt6095472:
+    url_poster: https://theposterdb.com/api/assets/246985
+  # Wish Dragon
+  tt5562070:
+    url_poster: https://theposterdb.com/api/assets/246986
+  # Peter Rabbit 2: The Runaway
+  tt8376234:
+    url_poster: https://theposterdb.com/api/assets/246987
+  # Monster Pets: A Hotel Transylvania Short
+  tt14423802:
+    url_poster: https://theposterdb.com/api/assets/246988
+  # The Mitchells vs. the Machines
+  tt7979580:
+    url_poster: https://theposterdb.com/api/assets/246989
+  # Vivo
+  tt6338498:
+    url_poster: https://theposterdb.com/api/assets/246990
+  # Hotel Transylvania: Transformania
+  tt9848626:
+    url_poster: https://theposterdb.com/api/assets/246991
+
   # The Terminator https://theposterdb.com/set/93020
   The Terminator:
     url_poster: https://theposterdb.com/api/assets/151292
@@ -2616,6 +2708,9 @@ metadata:
   Bloodshot:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/44515
+  Blow:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/33051
   "Bob Marley: One Love":
     year: 2024
     url_poster: https://theposterdb.com/api/assets/462658
@@ -2973,6 +3068,9 @@ metadata:
   Legend:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/45349
+  The Legend of Bagger Vance:
+    year: 2000
+    url_poster: https://theposterdb.com/api/assets/203643
   "Léon: The Professional":
     year: 1994
     url_poster: https://theposterdb.com/api/assets/67431
