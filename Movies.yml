@@ -3215,6 +3215,9 @@ metadata:
   Parenthood:
     year: 1989
     url_poster: https://theposterdb.com/api/assets/332170
+  Passengers:
+    year: 2016
+    url_poster: https://theposterdb.com/api/assets/51273
   Paths of Glory:
     year: 1957
     url_poster: https://theposterdb.com/api/assets/40129
