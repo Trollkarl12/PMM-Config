@@ -7636,18 +7636,47 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/514569
 
+  # D-Frag!
+  tt3296914:
+    url_poster: https://theposterdb.com/api/assets/517008
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/517009
+      1:
+        url_poster: https://theposterdb.com/api/assets/517010
+
+  # Dog Days
+  tt3296914:
+    url_poster: https://theposterdb.com/api/assets/517011
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/517012
+      1:
+        url_poster: https://theposterdb.com/api/assets/517013
+      2:
+        url_poster: https://theposterdb.com/api/assets/517014
+      3:
+        url_poster: https://theposterdb.com/api/assets/517015
+
   # Not yet released
 
-  Blue Box:
-    year: 2024
+  # Blue Box
+  tt32639706:
     url_poster: https://theposterdb.com/api/assets/506827
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/506828
 
-  You Are Ms. Servant:
-    year: 2024
+  # You are Ms. Servant
+  tt30689669:
     url_poster: https://theposterdb.com/api/assets/516066
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/516067
+
+  # The Do-Over Damsel Conquers the Dragon Emperor
+  tt32524882:
+    url_poster: https://theposterdb.com/api/assets/517102
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/517103
