@@ -7658,6 +7658,13 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/517015
 
+  # Rising Impact
+  tt30400535:
+    url_poster: https://theposterdb.com/api/assets/503720
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/503721
+
   # Not yet released
 
   # Blue Box
