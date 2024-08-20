@@ -7660,10 +7660,12 @@ metadata:
 
   # Rising Impact
   tt30400535:
-    url_poster: https://theposterdb.com/api/assets/503720
+    url_poster: https://theposterdb.com/api/assets/515835
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/503721
+        url_poster: https://theposterdb.com/api/assets/515836
+      2:
+        url_poster: https://theposterdb.com/api/assets/515837
 
   # Not yet released
 
