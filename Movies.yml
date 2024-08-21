@@ -158,6 +158,14 @@ metadata:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/107768
 
+  # The Boondock Saints https://theposterdb.com/set/7908
+  The Boondock Saints:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/14745
+  "The Boondock Saints II: All Saints Day":
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/14746
+
   # The Cannonball Run https://theposterdb.com/set/46050
   The Cannonball Run:
     year: 1981
