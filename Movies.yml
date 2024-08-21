@@ -2936,6 +2936,9 @@ metadata:
   Hellraiser:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/267123
+  Hero:
+    year: 2002
+    url_poster: https://theposterdb.com/api/assets/110832
   The Hole:
     year: 1960
     url_poster: https://theposterdb.com/api/assets/382270
