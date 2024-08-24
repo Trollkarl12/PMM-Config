@@ -6899,12 +6899,14 @@ metadata:
 
   WIND BREAKER:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/434095
+    url_poster: https://theposterdb.com/api/assets/432041
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/463704
+        url_poster: https://theposterdb.com/api/assets/477787
       1:
-        url_poster: https://theposterdb.com/api/assets/434096
+        url_poster: https://theposterdb.com/api/assets/432042
+      2:
+        url_poster: https://theposterdb.com/api/assets/518676
 
   Astro Note:
     year: 2024
