@@ -2123,3 +2123,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/497918
       4:
         url_poster: https://theposterdb.com/api/assets/497919
+
+  # Reply 1988
+  tt5182866:
+    url_poster: https://theposterdb.com/api/assets/491061
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/491062
