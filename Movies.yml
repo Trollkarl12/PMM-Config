@@ -3400,6 +3400,9 @@ metadata:
   Saving Private Ryan:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/34772
+  Scarface:
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/302271
   "Schindler's List":
     year: 1993
     url_poster: https://theposterdb.com/api/assets/36107
