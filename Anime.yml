@@ -497,7 +497,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/240494
 
-  # Mobile Suit Gundam
+  # Mobile Suit Gundam https://theposterdb.com/set/189352
   # Mobile Suit Gundam
   tt0159172:
     url_poster: https://theposterdb.com/api/assets/329452
@@ -542,7 +542,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/323582
       1:
         url_poster: https://theposterdb.com/api/assets/323583
-   
+
   # Naruto   
   # Naruto
   tt0409591:
@@ -643,8 +643,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/378227
 
   # Random Anime shows 
-  "Queen's Blade":
-    year: 2009
+  # Queen's Blade
+  tt1407599:
     url_poster: https://theposterdb.com/api/assets/271661
     seasons:
       0:
@@ -654,8 +654,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/271664
 
-  "Heaven's Lost Property":
-    year: 2009
+  # Heaven's Lost Property
+  tt1528567:
     url_poster: https://theposterdb.com/api/assets/266312
     seasons:
       0:
@@ -665,8 +665,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/266315
 
-  Rent-a-Girlfriend:
-    year: 2020
+  # Rent-a-Girlfriend
+  tt11448214:
     url_poster: https://theposterdb.com/api/assets/351924
     seasons:
       0:
@@ -678,15 +678,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/352028
 
-  Blue Orchestra:
-    year: 2023
+  # Blue Orchestra
+  tt26450255:
     url_poster: https://theposterdb.com/api/assets/348893
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/348894
-        
-  Chihayafuru:
-    year: 2011
+
+  # Chihayafuru
+  tt2150751:
     url_poster: https://theposterdb.com/api/assets/92258
     seasons:
       1:
@@ -695,9 +695,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/92260
       3:
         url_poster: https://theposterdb.com/api/assets/92261
-        
-  The Daily Life of the Immortal King:
-    year: 2020
+
+  # The Daily Life of the Immortal King
+  tt11755260:
     url_poster: https://theposterdb.com/api/assets/332306
     seasons:
       0:
@@ -711,24 +711,24 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/445134
 
-  The Kingdoms of Ruin:
-    year: 2023
+  # The Kingdoms of Ruin
+  tt28774702:
     url_poster: https://theposterdb.com/api/assets/418407
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/418408
-        
-  Moriarty the Patriot:
-    year: 2020
+
+  # Moriarty the Patriot
+  tt12831098:
     url_poster: https://theposterdb.com/api/assets/418834
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/418835
       1:
         url_poster: https://theposterdb.com/api/assets/418836
-        
-  SPY x FAMILY:
-    year: 2022
+
+  # SPY x FAMILY
+  tt13706018:
     url_poster: https://theposterdb.com/api/assets/416718
     seasons:
       0:
@@ -738,8 +738,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/416720
 
-  Freezing:
-    year: 2011
+  # Freezing
+  tt1909463:
     url_poster: https://theposterdb.com/api/assets/372286
     seasons:
       1:
@@ -747,8 +747,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/372288
 
-  The Eminence in Shadow:
-    year: 2022
+  # The Eminence in Shadow
+  tt14115938:
     url_poster: https://theposterdb.com/api/assets/271644
     seasons:
       0:
@@ -758,8 +758,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/344423
 
-  Maken-Ki! Battling Venus:
-    year: 2011
+  # Maken-Ki! Battling Venus
+  tt3692198:
     url_poster: https://theposterdb.com/api/assets/174364
     seasons:
       0:
@@ -769,22 +769,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/174366
 
-  Butareba -The Story of a Man Turned Into a Pig-:
-    year: 2023
+  # Butareba -The Story of a Man Turned Into a Pig-
+  tt28766864:
     url_poster: https://theposterdb.com/api/assets/419325
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/419326
-        
-  I Shall Survive Using Potions!:
-    year: 2023
+
+  # I Shall Survive Using Potions!
+  tt29171927:
     url_poster: https://theposterdb.com/api/assets/399133
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/399134
-        
-  Shakugan no Shana:
-    year: 2005
+
+  # Shakugan no Shana
+  tt0972713:
     url_poster: https://theposterdb.com/api/assets/225435
     seasons:
       0:
@@ -795,9 +795,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/225438
       3:
         url_poster: https://theposterdb.com/api/assets/225439
-        
-  Assassination Classroom:
-    year: 2015
+
+  # Assassination Classroom
+  tt3837246:
     url_poster: https://theposterdb.com/api/assets/394444
     seasons:
       0:
@@ -807,8 +807,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/394447
 
-  Monogatari:
-    year: 2009
+  # Monogatari
+  tt1480925:
     url_poster: https://theposterdb.com/api/assets/86518
     seasons:
       0:
@@ -823,9 +823,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/174442
       5:
         url_poster: https://theposterdb.com/api/assets/174443
-  
-  High School D×D:
-    year: 2012
+
+  # High School D×D
+  tt2230051:
     url_poster: https://theposterdb.com/api/assets/333182
     seasons:
       0:
@@ -839,8 +839,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/176075
 
-  To LOVE-Ru:
-    year: 2008
+  # To LOVE-Ru
+  tt1216222:
     url_poster: https://theposterdb.com/api/assets/403821
     seasons:
       0:
@@ -854,8 +854,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/403831
 
-  The Fruit of Grisaia:
-    year: 2014
+  # The Fruit of Grisaia
+  tt3909210:
     url_poster: https://theposterdb.com/api/assets/183530
     seasons:
       0:
@@ -865,22 +865,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/183528
 
-  Back Street Girls -GOKUDOLS-:
-    year: 2018
+  # Back Street Girls -GOKUDOLS-
+  tt8693818:
     url_poster: https://theposterdb.com/api/assets/322306
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/322307
 
-  Campione!:
-    year: 2012
+  # Campione!
+  tt2250160:
     url_poster: https://theposterdb.com/api/assets/278459
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/278460
 
-  CLASSROOM FOR HEROES:
-    year: 2023
+  # CLASSROOM FOR HEROES
+  tt28254942:
     url_poster: https://theposterdb.com/api/assets/432003
     seasons:
       0:
@@ -888,38 +888,38 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/432005
 
-  "Cross Ange: Rondo of Angels and Dragons":
-    year: 2014
+  # Cross Ange: Rondo of Angels and Dragons
+  tt3957232:
     url_poster: https://theposterdb.com/api/assets/348427
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/348428
 
-  Demon King Daimao:
-    year: 2010
+  # Demon King Daimao
+  tt1636694:
     url_poster: https://theposterdb.com/api/assets/419871
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/419872    
       1:
         url_poster: https://theposterdb.com/api/assets/419873
-        
-  Dog & Scissors:
-    year: 2013
+
+  # Dog & Scissors
+  tt2904570:
     url_poster: https://theposterdb.com/api/assets/337266
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/337267
 
-  Gleipnir:
-    year: 2020
+  # Gleipnir
+  tt11988478:
     url_poster: https://theposterdb.com/api/assets/172177
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/172178
 
-  Goblin Slayer:
-    year: 2018
+  # Goblin Slayer
+  tt8690728:
     url_poster: https://theposterdb.com/api/assets/228789
     seasons:
       0:
@@ -929,8 +929,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/228792
 
-  Harem in the Labyrinth of Another World:
-    year: 2022
+  # Harem in the Labyrinth of Another World
+  tt13628870:
     url_poster: https://theposterdb.com/api/assets/257972
     seasons:
       0:
@@ -938,8 +938,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/257973
 
-  High School of the Dead:
-    year: 2010
+  # High School of the Dead
+  tt1685401:
     url_poster: https://theposterdb.com/api/assets/392162
     seasons:
       0:
@@ -947,8 +947,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/392164
 
-  How Not to Summon a Demon Lord:
-    year: 2018
+  # How Not to Summon a Demon Lord
+  tt8438524:
     url_poster: https://theposterdb.com/api/assets/145528
     seasons:
       1:
@@ -956,8 +956,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/145530
 
-  Ranma ½:
-    year: 1989
+  # Ranma ½
+  tt0096686:
     url_poster: https://theposterdb.com/api/assets/203705
     seasons:
       0:
@@ -976,9 +976,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/259681
       7:
         url_poster: https://theposterdb.com/api/assets/259682
-        
-  Natsume's Book of Friends:
-    year: 2008
+
+  # Natsume's Book of Friends
+  tt1352421:
     url_poster: https://theposterdb.com/api/assets/123180
     seasons:
       0:
@@ -995,7 +995,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123188
       6:
         url_poster: https://theposterdb.com/api/assets/123189
-        
+
   86 EIGHTY-SIX:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/401983
@@ -7682,7 +7682,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/181179
 
   # Not yet released
-
   # Blue Box
   tt32639706:
     url_poster: https://theposterdb.com/api/assets/506827
