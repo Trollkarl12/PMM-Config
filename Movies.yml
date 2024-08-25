@@ -3028,9 +3028,12 @@ metadata:
   Joint Security Area:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/313285
-  The Killer:
-    year: 2023
+  # The Killer
+  tt1136617:
     url_poster: https://theposterdb.com/api/assets/425893
+  # The Killer
+  tt1121948:
+    url_poster: https://theposterdb.com/api/assets/518614
   Killers of the Flower Moon:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/425965
