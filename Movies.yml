@@ -3403,6 +3403,9 @@ metadata:
   Se7en:
     year: 1995
     url_poster: https://theposterdb.com/api/assets/108334
+  Shaft:
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/477281
   The Shawshank Redemption:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/51857
