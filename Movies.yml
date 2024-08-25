@@ -4,221 +4,237 @@
 
 metadata:
 
-  # 28 Collection https://theposterdb.com/api/assets/24138
-  28 Days Later:
-    year: 2002
+  # 28 https://theposterdb.com/api/assets/24138
+  # 28 Days Later
+  tt0289043:
     url_poster: https://theposterdb.com/api/assets/24139
-  28 Weeks Later:
-    year: 2007
+  # 28 Weeks Later
+  tt0463854:
     url_poster: https://theposterdb.com/api/assets/24140
 
+  # 300 https://theposterdb.com/set/86368
   # 300
-  "300":
-    year: 2007
+  tt0416449:
     url_poster: https://theposterdb.com/api/assets/138690
-  "300: Rise of an Empire":
-    year: 2014
+  # 300: Rise of an Empire
+  tt1253863:
     url_poster: https://theposterdb.com/api/assets/138691
 
   # Alien https://theposterdb.com/set/24729
-  Alien:
+  # Alien
+  tt0078748:
     url_poster: https://theposterdb.com/api/assets/40346
-  Aliens:
+  # Aliens
+  tt0090605:
     url_poster: https://theposterdb.com/api/assets/40347
-  Alien³:
+  # Alien³
+  tt0103644:
     url_poster: https://theposterdb.com/api/assets/40348
-  Alien Resurrection:
+  # Alien Resurrection
+  tt0118583:
     url_poster: https://theposterdb.com/api/assets/40349
-  Prometheus:
+  # Prometheus
+  tt1446714:
     url_poster: https://theposterdb.com/api/assets/40352
-  "Alien: Covenant":
+  # Alien: Covenant
+  tt2316204:
     url_poster: https://theposterdb.com/api/assets/40353
 
   # Airplane! https://theposterdb.com/set/253220
-  Airplane!:
-    year: 1980
+  # Airplane!
+  tt0080339:
     url_poster: https://theposterdb.com/api/assets/453487
-  "Airplane II: The Sequel":
-    year: 1982
+  # Airplane II: The Sequel
+  tt0083530:
     url_poster: https://theposterdb.com/api/assets/453488
 
   # Arn https://theposterdb.com/set/62537
-  "Arn: Tempelriddaren":
-    year: 2007
+  # Arn: Tempelriddaren
+  tt0837106:
     url_poster: https://theposterdb.com/api/assets/98993
-  "Arn: Riket vid vägens slut":
-    year: 2008
+  # Arn: Riket vid vägens slut
+  tt0950739:
     url_poster: https://theposterdb.com/api/assets/98994
-    
+
   # A Better Tomorrow https://theposterdb.com/set/255182
-  A Better Tomorrow:
-    year: 1986
+  # A Better Tomorrow
+  tt0092263:
     url_poster: https://theposterdb.com/api/assets/463808
-  A Better Tomorrow II:
-    year: 1987
+  # A Better Tomorrow II
+  tt0094357:
     url_poster: https://theposterdb.com/api/assets/463807
-  "A Better Tomorrow III: Love and Death in Saigon":
-    year: 1989
+  # A Better Tomorrow III: Love and Death in Saigon
+  tt0098691:
     url_poster: https://theposterdb.com/api/assets/463806
 
   # American Pie https://theposterdb.com/set/186875
-  American Pie:
-    year: 1999
+  # American Pie
+  tt0163651:
     url_poster: https://theposterdb.com/api/assets/317619
-  American Pie 2:
-    year: 2001
+  # American Pie 2
+  tt0252866:
     url_poster: https://theposterdb.com/api/assets/317620
-  American Wedding:
-    year: 2003
+  # American Wedding
+  tt0328828:
     url_poster: https://theposterdb.com/api/assets/317621
-  American Reunion:
-    year: 2012
+  # American Reunion
+  tt1605630:
     url_poster: https://theposterdb.com/api/assets/317622
 
   # Austin Powers https://theposterdb.com/set/21549
-  "Austin Powers: International Man of Mystery":
+  # Austin Powers: International Man of Mystery
+  tt0118655:
     url_poster: https://theposterdb.com/api/assets/35263
-  "Austin Powers: The Spy Who Shagged Me":
+  # Austin Powers: The Spy Who Shagged Me
+  tt0145660:
     url_poster: https://theposterdb.com/api/assets/35264
-  "Austin Powers in Goldmember":
+  # Austin Powers in Goldmember
+  tt0295178:
     url_poster: https://theposterdb.com/api/assets/35265
 
   # Avatar https://theposterdb.com/set/159549
-  Avatar:
-    year: 2009
+  # Avatar
+  tt0499549:
     url_poster: https://theposterdb.com/api/assets/267821
-  "Avatar: The Way of Water":
-    year: 2022
+  # Avatar: The Way of Water
+  tt1630029:
     url_poster: https://theposterdb.com/api/assets/267822
 
   # Back To The Future https://theposterdb.com/set/55546
-  Back to the Future:
+  # Back to the Future
+  tt0088763:
     url_poster: https://theposterdb.com/api/assets/87589
-  Back to the Future Part II:
+  # Back to the Future Part II
+  tt0096874:
     url_poster: https://theposterdb.com/api/assets/87590
-  Back to the Future Part III:
+  # Back to the Future Part III
+  tt0099088:
     url_poster: https://theposterdb.com/api/assets/87591
 
   # Battle Royale
-  Battle Royale:
-    year: 2000
+  # Battle Royale
+  tt0266308:
     url_poster: https://theposterdb.com/api/assets/72142
-  "Battle Royale II: Requiem":
-    year: 2003
+  # Battle Royale II: Requiem
+  tt0338763:
     url_poster: https://theposterdb.com/api/assets/72143
 
   # Batman
-  Batman:
-    year: 1989
+  # Batman
+  tt0096895:
     url_poster: https://theposterdb.com/api/assets/27395
-  Batman & Robin:
-    year: 1996
+  # Batman & Robin
+  tt0118688:
     url_poster: https://theposterdb.com/api/assets/27398
-  Batman Forever:
-    year: 1995
+  # Batman Forever
+  tt0112462:
     url_poster: https://theposterdb.com/api/assets/27397
-  Batman Returns:
-    year: 1992
+  # Batman Returns
+  tt0103776:
     url_poster: https://theposterdb.com/api/assets/27396
 
   # Beverly Hills Cop https://theposterdb.com/set/278253
-  Beverly Hills Cop:
+  # Beverly Hills Cop
+  tt0086960:
     url_poster: https://theposterdb.com/api/assets/502948
-  Beverly Hills Cop II:
+  # Beverly Hills Cop II
+  tt0092644:
     url_poster: https://theposterdb.com/api/assets/502947
-  Beverly Hills Cop III:
+  # Beverly Hills Cop III
+  tt0109254:
     url_poster: https://theposterdb.com/api/assets/502946
-  "Beverly Hills Cop: Axel F":
+  # Beverly Hills Cop: Axel F
+  tt3083016:
     url_poster: https://theposterdb.com/api/assets/502945
 
   # Blade Runner https://theposterdb.com/set/16911
-  Blade Runner:
-    year: 1982
+  # Blade Runner
+  tt0083658:
     url_poster: https://theposterdb.com/api/assets/28343
-  Blade Runner 2049:
-    year: 2017
+  # Blade Runner 2049
+  tt1856101:
     url_poster: https://theposterdb.com/api/assets/28344
 
   # Blair Witch
-  The Blair Witch Project:
-    year: 1999
+  # The Blair Witch Project
+  tt0185937:
     url_poster: https://theposterdb.com/api/assets/102331
-  "Book of Shadows: Blair Witch 2":
-    year: 2000
+  # Book of Shadows: Blair Witch 2
+  tt0229260:
     url_poster: https://theposterdb.com/api/assets/102332
-  Blair Witch:
-    year: 2016
+  # Blair Witch
+  tt1540011:
     url_poster: https://theposterdb.com/api/assets/102333
 
   # Borat https://theposterdb.com/set/67601
-  Borat:
-    year: 2006
+  # Borat
+  tt0443453:
     url_poster: https://theposterdb.com/api/assets/107767
-  Borat Subsequent Moviefilm:
-    year: 2020
+  # Borat Subsequent Moviefilm
+  tt13143964:
     url_poster: https://theposterdb.com/api/assets/107768
 
   # The Boondock Saints https://theposterdb.com/set/7908
-  The Boondock Saints:
-    year: 1999
+  # The Boondock Saints
+  tt0144117:
     url_poster: https://theposterdb.com/api/assets/14745
-  "The Boondock Saints II: All Saints Day":
-    year: 2009
+  # The Boondock Saints II: All Saints Day
+  tt1300851:
     url_poster: https://theposterdb.com/api/assets/14746
 
   # The Cannonball Run https://theposterdb.com/set/46050
-  The Cannonball Run:
-    year: 1981
+  # The Cannonball Run
+  tt0082136:
     url_poster: https://theposterdb.com/api/assets/72226
-  Cannonball Run II:
-    year: 1984
+  # Cannonball Run II
+  tt0087032:
     url_poster: https://theposterdb.com/api/assets/72227
 
   # Code 8 https://theposterdb.com/set/250002
-  Code 8:
-    year: 2019
+  # Code 8
+  tt6259380:
     url_poster: https://theposterdb.com/api/assets/452872
-  "Code 8: Part II":
-    year: 2024
+  # Code 8: Part II
+  tt14764464:
     url_poster: https://theposterdb.com/api/assets/452870
 
   # The Conjuring https://theposterdb.com/set/13879
-  The Conjuring:
-    year: 2013
+  # The Conjuring
+  tt1457767:
     url_poster: https://theposterdb.com/api/assets/156035
-  The Conjuring 2:
-    year: 2016
+  # The Conjuring 2
+  tt3065204:
     url_poster: https://theposterdb.com/api/assets/23527
-  The Nun:
-    year: 2018
+  # The Nun
+  tt5814060:
     url_poster: https://theposterdb.com/api/assets/23529
-  "The Conjuring: The Devil Made Me Do It":
-    year: 2021
+  # The Conjuring: The Devil Made Me Do It
+  tt7069210:
     url_poster: https://theposterdb.com/api/assets/156035
-  The Nun II:
-    year: 2023
+  # The Nun II
+  tt10160976:
     url_poster: https://theposterdb.com/api/assets/461995
 
   # Dark Knight
-  Batman Begins:
-    year: 2005
+  # Batman Begins
+  tt0372784:
     url_poster: https://theposterdb.com/api/assets/22276
-  The Dark Knight:
-    year: 2008
+  # The Dark Knight
+  tt0468569:
     url_poster: https://theposterdb.com/api/assets/22277
-  The Dark Knight Rises:
-    year: 2012
+  # The Dark Knight Rises
+  tt1345836:
     url_poster: https://theposterdb.com/api/assets/22278
 
   # The Chronicles of Narnia https://theposterdb.com/set/46
-  "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe":
-    year: 2005
+  # The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+  tt0363771:
     url_poster: https://theposterdb.com/api/assets/151
-  "The Chronicles of Narnia: Prince Caspian":
-    year: 2008
+  # The Chronicles of Narnia: Prince Caspian
+  tt0499448:
     url_poster: https://theposterdb.com/api/assets/152
-  "The Chronicles of Narnia: The Voyage of the Dawn Treader":
-    year: 2010
+  # The Chronicles of Narnia: The Voyage of the Dawn Treader
+  tt0980970:
     url_poster: https://theposterdb.com/api/assets/153
 
  # DCEU - https://theposterdb.com/set/25189
