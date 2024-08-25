@@ -973,6 +973,20 @@ metadata:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/83049
 
+  # The Hunger Games https://theposterdb.com/set/18631
+  The Hunger Games:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/31013
+  "The Hunger Games: Catching Fire":
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/31014
+  "The Hunger Games: Mockingjay - Part 1":
+    year: 2014
+    url_poster: https://theposterdb.com/api/assets/31015
+  "The Hunger Games: Mockingjay - Part 2":
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/31016
+
   # Ice Age https://theposterdb.com/set/23445
   Ice Age:
     year: 2002
@@ -1155,20 +1169,6 @@ metadata:
   Saraband:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/428138
-
-  # The Hunger Games https://theposterdb.com/set/18631
-  The Hunger Games:
-    year: 2012
-    url_poster: https://theposterdb.com/api/assets/31013
-  "The Hunger Games: Catching Fire":
-    year: 2013
-    url_poster: https://theposterdb.com/api/assets/31014
-  "The Hunger Games: Mockingjay - Part 1":
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/31015
-  "The Hunger Games: Mockingjay - Part 2":
-    year: 2015
-    url_poster: https://theposterdb.com/api/assets/31016
 
   # Indiana Jones https://theposterdb.com/set/125051
   Raiders of the Lost Ark:
@@ -1365,6 +1365,20 @@ metadata:
   Jason Bourne:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/101183
+
+  # Jaws https://theposterdb.com/set/42139
+  # Jaws
+  tt0073195:
+    url_poster: https://theposterdb.com/api/assets/66354
+  # Jaws 2
+  tt0077766:
+    url_poster: https://theposterdb.com/api/assets/66355
+  # Jaws 3
+  tt0085750:
+    url_poster: https://theposterdb.com/api/assets/66356
+  # Jaws: The Revenge
+  tt0093300:
+    url_poster: https://theposterdb.com/api/assets/66357
 
   # John Wick https://theposterdb.com/set/206818
   John Wick:
@@ -2482,6 +2496,9 @@ metadata:
   Amadeus:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/34689
+  Ambulance:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/230421
   American Beauty:
     year: 1999
     url_poster: https://theposterdb.com/api/assets/25765
@@ -2707,6 +2724,9 @@ metadata:
   Dunkirk:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/21693
+  Eastern Promises:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/182066
   Edge of Tomorrow:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/47298
@@ -2737,6 +2757,9 @@ metadata:
   Escape from Alcatraz:
     year: 1979
     url_poster: https://theposterdb.com/api/assets/55016
+  Escape from New York:
+    year: 1981
+    url_poster: https://theposterdb.com/api/assets/96948
   Eternal Sunshine of the Spotless Mind:
     year: 2004
     url_poster: https://theposterdb.com/api/assets/156128
@@ -2851,6 +2874,9 @@ metadata:
   Ghosted:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/354194
+  The Girl Next Door:
+    year: 2004
+    url_poster: https://theposterdb.com/api/assets/316352
   The Girl with All the Gifts:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/105509
@@ -2920,6 +2946,9 @@ metadata:
   Green Book:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/118904
+  The Green Knight:
+    year: 2021
+    url_poster: https://theposterdb.com/api/assets/167421
   The Green Mile:
     year: 1999
     url_poster: https://theposterdb.com/api/assets/40063
