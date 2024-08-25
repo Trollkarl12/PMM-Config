@@ -3406,6 +3406,9 @@ metadata:
   Shaft:
     year: 1971
     url_poster: https://theposterdb.com/api/assets/477281
+  Shaolin Soccer:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/82135
   The Shawshank Redemption:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/51857
