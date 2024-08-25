@@ -3313,6 +3313,9 @@ metadata:
   Prisoners:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/64296
+  Project X:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/51883
   The Promised Land:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/447675
