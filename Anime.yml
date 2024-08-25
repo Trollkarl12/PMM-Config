@@ -5911,6 +5911,9 @@ metadata:
   Casshern Sins:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/73102
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/518841
 
   Buzzer Beater:
     year: 2005
