@@ -2566,6 +2566,9 @@ metadata:
   Bean:
     year: 1997
     url_poster: https://theposterdb.com/api/assets/27732
+  A Beautiful Mind:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/34291
   The Beekeeper:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/453427
