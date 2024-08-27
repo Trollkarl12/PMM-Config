@@ -2130,3 +2130,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/491062
+
+  # See
+  tt7949218:
+    url_poster: https://theposterdb.com/api/assets/171034
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/171035
+      2:
+        url_poster: https://theposterdb.com/api/assets/171036
+      3:
+        url_poster: https://theposterdb.com/api/assets/253304
