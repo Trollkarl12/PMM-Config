@@ -3901,12 +3901,14 @@ metadata:
 
   Rosario + Vampire:
     year: 2008
-    url_poster: https://theposterdb.com/api/assets/186336
+    url_poster: https://theposterdb.com/api/assets/519125
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/519126
       1:
-        url_poster: https://theposterdb.com/api/assets/186337
+        url_poster: https://theposterdb.com/api/assets/519127
       2:
-        url_poster: https://theposterdb.com/api/assets/186338
+        url_poster: https://theposterdb.com/api/assets/519128
 
   SABIKUI BISCO:
     year: 2022
