@@ -2141,3 +2141,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/171036
       3:
         url_poster: https://theposterdb.com/api/assets/253304
+
+  # The Terror
+  tt2708480:
+    url_poster: https://theposterdb.com/api/assets/138449
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/138450
+      2:
+        url_poster: https://theposterdb.com/api/assets/138451
