@@ -2468,6 +2468,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/181605
 
   # Random movies
+  "8½":
+    year: 1963
+    url_poster: https://theposterdb.com/api/assets/97929
   "9":
     year: 2009
     url_poster: https://theposterdb.com/api/assets/47291
