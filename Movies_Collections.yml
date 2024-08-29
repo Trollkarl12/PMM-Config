@@ -109,8 +109,6 @@ collections:
     template: {name: Collection, collection: 102322, poster: https://theposterdb.com/api/assets/2623}
   The Shining:
     template: {name: Collection, collection: 530064, poster: https://theposterdb.com/api/assets/81451}
-  Shrek:
-    template: {name: Collection, collection: 2150, poster: https://theposterdb.com/api/assets/6997}
   Star Wars:
     template: {name: Collection, collection: 10, poster: https://theposterdb.com/api/assets/5041}
     summary: "The Complete Saga Of Star Wars"
