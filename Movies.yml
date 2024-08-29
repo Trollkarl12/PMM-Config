@@ -237,290 +237,291 @@ metadata:
   tt0980970:
     url_poster: https://theposterdb.com/api/assets/153
 
- # DCEU - https://theposterdb.com/set/25189
-  Man of Steel:
-    year: 2013
+  # DCEU - https://theposterdb.com/set/25189
+  # Man of Steel
+  tt0770828:
     url_poster: https://theposterdb.com/api/assets/40929
-  "Batman v Superman: Dawn of Justice":
-    year: 2016
+  # Batman v Superman: Dawn of Justice
+  tt2975590:
     url_poster: https://theposterdb.com/api/assets/40930
-  Suicide Squad:
-    year: 2016
+  # Suicide Squad
+  tt1386697:
     url_poster: https://theposterdb.com/api/assets/40931
-  Wonder Woman:
-    year: 2017
+  # Wonder Woman
+  tt0451279:
     url_poster: https://theposterdb.com/api/assets/40932
-  Justice League:
-    year: 2017
+  # Justice League
+  tt0974015:
     url_poster: https://theposterdb.com/api/assets/40933
-  Aquaman:
-    year: 2018
+  # Aquaman
+  tt1477834:
     url_poster: https://theposterdb.com/api/assets/40934
-  Shazam!:
-    year: 2019
+  # Shazam!
+  tt0448115:
     url_poster: https://theposterdb.com/api/assets/40935
-  Joker:
+  # Joker
+  tt7286456:
     url_poster: https://theposterdb.com/api/assets/44008
-  Birds of Prey:
-    year: 2020
+  # Birds of Prey
+  tt7713068:
     url_poster: https://theposterdb.com/api/assets/72575
-  Wonder Woman 1984:
-    year: 2020
+  # Wonder Woman 1984
+  tt7126948:
     url_poster: https://theposterdb.com/api/assets/167987
-  Zack Snyder's Justice League:
-    year: 2021
+  # Zack Snyder's Justice League
+  tt12361974:
     url_poster: https://theposterdb.com/api/assets/139179
-  The Suicide Squad:
-    year: 2021
+  # The Suicide Squad
+  tt6334354:
     url_poster: https://theposterdb.com/api/assets/167990
-  The Batman:
-    year: 2022
+  # The Batman
+  tt1877830:
     url_poster: https://theposterdb.com/api/assets/210624
-  Black Adam:
-    year: 2022
+  # Black Adam
+  tt6443346:
     url_poster: https://theposterdb.com/api/assets/348372
-  Shazam! Fury of the Gods:
-    year: 2023
+  # Shazam! Fury of the Gods
+  tt10151854:
     url_poster: https://theposterdb.com/api/assets/348385
-  The Flash:
-    year: 2023
+  # The Flash
+  tt0439572:
     url_poster: https://theposterdb.com/api/assets/427021
-  Blue Beetle:
-    year: 2023
+  # Blue Beetle
+  tt9362930:
     url_poster: https://theposterdb.com/api/assets/427022
-  Aquaman and the Lost Kingdom:
-    year: 2023
+  # Aquaman and the Lost Kingdom
+  tt9663764:
     url_poster: https://theposterdb.com/api/assets/453625
 
   # Disney Animation Studios https://theposterdb.com/set/52224
-  Snow White and the Seven Dwarfs:
-    year: 1938
+  # Snow White and the Seven Dwarfs
+  tt0029583:
     url_poster: https://theposterdb.com/api/assets/81862
-  Pinocchio:
-    year: 1940
+  # Pinocchio
+  tt0032910:
     url_poster: https://theposterdb.com/api/assets/81863
-  Fantasia:
-    year: 1940
+  # Fantasia
+  tt0032455:
     url_poster: https://theposterdb.com/api/assets/81864
-  Dumbo:
-    year: 1941
+  # Dumbo
+  tt0033563:
     url_poster: https://theposterdb.com/api/assets/81865
-  Bambi:
-    year: 1942
+  # Bambi
+  tt0034492:
     url_poster: https://theposterdb.com/api/assets/81866
-  Saludos Amigos:
-    year: 1942
+  # Saludos Amigos
+  tt0036326:
     url_poster: https://theposterdb.com/api/assets/81867
-  The Three Caballeros:
-    year: 1944
+  # The Three Caballeros
+  tt0038166:
     url_poster: https://theposterdb.com/api/assets/81868
-  Make Mine Music:
-    year: 1946
+  # Make Mine Music
+  tt0038718:
     url_poster: https://theposterdb.com/api/assets/81869
-  Fun and Fancy Free:
-    year: 1947
+  # Fun and Fancy Free
+  tt0039404:
     url_poster: https://theposterdb.com/api/assets/81870
-  Melody Time:
-    year: 1948
+  # Melody Time
+  tt0040580:
     url_poster: https://theposterdb.com/api/assets/81871
-  The Adventures of Ichabod and Mr. Toad:
-    year: 1949
+  # The Adventures of Ichabod and Mr. Toad
+  tt0041094:
     url_poster: https://theposterdb.com/api/assets/81872
-  Cinderella:
-    year: 1950
+  # Cinderella
+  tt0042332:
     url_poster: https://theposterdb.com/api/assets/81873
-  Alice in Wonderland:
-    year: 1951
+  # Alice in Wonderland
+  tt0043274:
     url_poster: https://theposterdb.com/api/assets/81874
-  Peter Pan:
-    year: 1953
+  # Peter Pan
+  tt0046183:
     url_poster: https://theposterdb.com/api/assets/81875
-  Lady and the Tramp:
-    year: 1955
+  # Lady and the Tramp
+  tt0048280:
     url_poster: https://theposterdb.com/api/assets/81876
-  Sleeping Beauty:
-    year: 1959
+  # Sleeping Beauty
+  tt0053285:
     url_poster: https://theposterdb.com/api/assets/81877
-  One Hundred and One Dalmatians:
-    year: 1961
+  # One Hundred and One Dalmatians
+  tt0055254:
     url_poster: https://theposterdb.com/api/assets/81878
-  The Sword in the Stone:
-    year: 1963
+  # The Sword in the Stone
+  tt0057546:
     url_poster: https://theposterdb.com/api/assets/81879
-  The Jungle Book:
-    year: 1967
+  # The Jungle Book
+  tt0061852:
     url_poster: https://theposterdb.com/api/assets/81880
-  The Aristocats:
-    year: 1970
+  # The Aristocats
+  tt0065421:
     url_poster: https://theposterdb.com/api/assets/81881
-  Robin Hood:
-    year: 1973
+  # Robin Hood
+  tt0070608:
     url_poster: https://theposterdb.com/api/assets/81882
-  The Many Adventures of Winnie the Pooh:
-    year: 1977
+  # The Many Adventures of Winnie the Pooh
+  tt0076363:
     url_poster: https://theposterdb.com/api/assets/81883
-  The Rescuers:
-    year: 1977
+  # The Rescuers
+  tt0076618:
     url_poster: https://theposterdb.com/api/assets/81884
-  The Fox and the Hound:
-    year: 1981
+  # The Fox and the Hound
+  tt0082406:
     url_poster: https://theposterdb.com/api/assets/81885
-  The Black Cauldron:
-    year: 1985
+  # The Black Cauldron
+  tt0088814:
     url_poster: https://theposterdb.com/api/assets/81886
-  The Great Mouse Detective:
-    year: 1986
+  # The Great Mouse Detective
+  tt0091149:
     url_poster: https://theposterdb.com/api/assets/81887
-  Oliver & Company:
-    year: 1988
+  # Oliver & Company
+  tt0095776:
     url_poster: https://theposterdb.com/api/assets/81888
-  The Little Mermaid:
-    year: 1989
+  # The Little Mermaid
+  tt0097757:
     url_poster: https://theposterdb.com/api/assets/81889
-  The Rescuers Down Under:
-    year: 1990
+  # The Rescuers Down Under
+  tt0100477:
     url_poster: https://theposterdb.com/api/assets/81890
-  Beauty and the Beast:
-    year: 1991
+  # Beauty and the Beast
+  tt0101414:
     url_poster: https://theposterdb.com/api/assets/81891
-  Aladdin:
-    year: 1992
+  # Aladdin
+  tt0103639:
     url_poster: https://theposterdb.com/api/assets/81892
-  The Lion King:
-    year: 1994
+  # The Lion King
+  tt0110357:
     url_poster: https://theposterdb.com/api/assets/81893
-  Pocahontas:
-    year: 1995
+  # Pocahontas
+  tt0114148:
     url_poster: https://theposterdb.com/api/assets/81894
-  The Hunchback of Notre Dame:
-    year: 1996
+  # The Hunchback of Notre Dame
+  tt0116583:
     url_poster: https://theposterdb.com/api/assets/81895
-  Hercules:
-    year: 1997
+  # Hercules
+  tt0119282:
     url_poster: https://theposterdb.com/api/assets/81896
-  Mulan:
-    year: 1998
+  # Mulan
+  tt0120762:
     url_poster: https://theposterdb.com/api/assets/81897
-  Tarzan:
-    year: 1999
+  # Tarzan
+  tt0120855:
     url_poster: https://theposterdb.com/api/assets/81898
-  Fantasia 2000:
-    year: 1999
+  # Fantasia 2000
+  tt0120910:
     url_poster: https://theposterdb.com/api/assets/81899
-  Dinosaur:
-    year: 2000
+  # Dinosaur
+  tt0130623:
     url_poster: https://theposterdb.com/api/assets/81900
-  The Emperor's New Groove:
-    year: 2000
+  # The Emperor's New Groove
+  tt0120917:
     url_poster: https://theposterdb.com/api/assets/161020
-  "Atlantis: The Lost Empire":
-    year: 2001
+  # Atlantis: The Lost Empire
+  tt0230011:
     url_poster: https://theposterdb.com/api/assets/81902
-  Lilo & Stitch:
-    year: 2002
+  # Lilo & Stitch
+  tt0275847:
     url_poster: https://theposterdb.com/api/assets/81903
-  Treasure Planet:
-    year: 2002
+  # Treasure Planet
+  tt0133240:
     url_poster: https://theposterdb.com/api/assets/81904
-  Brother Bear:
-    year: 2003
+  # Brother Bear
+  tt0328880:
     url_poster: https://theposterdb.com/api/assets/81905
-  Home on the Range:
-    year: 2004
+  # Home on the Range
+  tt0299172:
     url_poster: https://theposterdb.com/api/assets/81906
-  Chicken Little:
-    year: 2005
+  # Chicken Little
+  tt0371606:
     url_poster: https://theposterdb.com/api/assets/81907
-  Meet the Robinsons:
-    year: 2007
+  # Meet the Robinsons
+  tt0396555:
     url_poster: https://theposterdb.com/api/assets/81908
-  Bolt:
-    year: 2008
+  # Bolt
+  tt0397892:
     url_poster: https://theposterdb.com/api/assets/81909
-  The Princess and the Frog:
-    year: 2009
+  # The Princess and the Frog
+  tt0780521:
     url_poster: https://theposterdb.com/api/assets/81910
-  Tangled:
-    year: 2010
+  # Tangled
+  tt0398286:
     url_poster: https://theposterdb.com/api/assets/81911
-  Winnie the Pooh:
-    year: 2011
+  # Winnie the Pooh
+  tt1449283:
     url_poster: https://theposterdb.com/api/assets/81912
-  Wreck-It Ralph:
-    year: 2012
+  # Wreck-It Ralph
+  tt1772341:
     url_poster: https://theposterdb.com/api/assets/81913
-  Frozen:
-    year: 2013
+  # Frozen
+  tt2294629:
     url_poster: https://theposterdb.com/api/assets/81914
-  Big Hero 6:
-    year: 2014
+  # Big Hero 6
+  tt2245084:
     url_poster: https://theposterdb.com/api/assets/81915
-  Zootopia:
-    year: 2016
+  # Zootopia
+  tt2948356:
     url_poster: https://theposterdb.com/api/assets/81916
-  Moana:
-    year: 2016
+  # Moana
+  tt3521164:
     url_poster: https://theposterdb.com/api/assets/81917
-  Ralph Breaks the Internet:
-    year: 2018
+  # Ralph Breaks the Internet
+  tt5848272:
     url_poster: https://theposterdb.com/api/assets/81918
-  Frozen II:
-    year: 2019
+  # Frozen II
+  tt4520988:
     url_poster: https://theposterdb.com/api/assets/81919
-  Raya and the Last Dragon:
-    year: 2021
+  # Raya and the Last Dragon
+  tt5109280:
     url_poster: https://theposterdb.com/api/assets/81920
-  Encanto:
-    year: 2021
+  # Encanto
+  tt2953050:
     url_poster: https://theposterdb.com/api/assets/199735
-  Strange World:
-    year: 2022
+  # Strange World
+  tt10298840:
     url_poster: https://theposterdb.com/api/assets/300719
-  Wish:
-    year: 2023
+  # Wish
+  tt11304740:
     url_poster: https://theposterdb.com/api/assets/467888
 
   # Disney Live Action https://theposterdb.com/set/66490
-  The Little Mermaid (Live Action):
-    year: 2023
+  # The Little Mermaid (Live Action)
+  tt5971474:
     url_poster: https://theposterdb.com/api/assets/393719
 
   # Doom
-  Doom:
-    year: 2005
+  # Doom
+  tt0419706:
     url_poster: https://theposterdb.com/api/assets/109000
-  "Doom: Annihilation":
-    year: 2019
+  # Doom: Annihilation
+  tt8328716:
     url_poster: https://theposterdb.com/api/assets/109001
 
   # Dune https://theposterdb.com/set/203877
-  Dune:
-    year: 1984
+  # Dune
+  tt0087182:
     url_poster: https://theposterdb.com/api/assets/357716
-  "Dune: Part One":
-    year: 2021
+  # Dune: Part One
+  tt1160419:
     url_poster: https://theposterdb.com/api/assets/356989
-  "Dune: Part Two":
-    year: 2024
+  # Dune: Part Two
+  tt15239678:
     url_poster: https://theposterdb.com/api/assets/356990
 
   # Dr. Dolittle   https://theposterdb.com/set/191951
-  Doctor Dolittle:
-    year: 1998
+  # Doctor Dolittle
+  tt0118998:
     url_poster: https://theposterdb.com/api/assets/329308
-  Dr. Dolittle 2:
-    year: 2001
+  # Dr. Dolittle 2
+  tt0240462:
     url_poster: https://theposterdb.com/api/assets/329309
-  Dr. Dolittle 3:
-    year: 2006
+  # Dr. Dolittle 3
+  tt0481513:
     url_poster: https://theposterdb.com/api/assets/329310
-  "Dr. Dolittle: Tail to the Chief":
-    year: 2008
+  # Dr. Dolittle: Tail to the Chief
+  tt1024724:
     url_poster: https://theposterdb.com/api/assets/329311
-  "Dr. Dolittle: Million Dollar Mutts":
-    year: 2009
+  # Dr. Dolittle: Million Dollar Mutts
+  tt1080926:
     url_poster: https://theposterdb.com/api/assets/329312
-  
+
   # DreamWorks Animations https://theposterdb.com/set/223893
   # Antz
   tt0120587:
@@ -3328,7 +3329,7 @@ metadata:
   Once Upon a Time... in Hollywood:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/31980
-  "One Flew Over the Cuckoo's Nest":
+  One Flew Over the Cuckoo's Nest:
     year: 1975
     url_poster: https://theposterdb.com/api/assets/467592
   Oppenheimer:
@@ -3601,7 +3602,7 @@ metadata:
   The Thin Red Line:
     year: 1999
     url_poster: https://theposterdb.com/api/assets/93075
-  Thirst (박쥐):
+  Thirst:
     year: 2009
     url_poster: https://theposterdb.com/api/assets/272065
   Threads:
