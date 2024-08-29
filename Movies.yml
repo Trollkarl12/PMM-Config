@@ -2528,12 +2528,15 @@ metadata:
   American Psycho:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/153800
-  The American Society of Magical Negroes:
-    year: 2024
-    url_poster: https://theposterdb.com/api/assets/477767
   American Sniper:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/62093
+  The American Society of Magical Negroes:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/477767
+  Annie Hall:
+    year: 1977
+    url_poster: https://theposterdb.com/api/assets/51770
   Apocalypse Now:
     year: 1979
     url_poster: https://theposterdb.com/api/assets/32549
