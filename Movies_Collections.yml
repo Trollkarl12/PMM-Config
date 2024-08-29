@@ -50,8 +50,6 @@ collections:
     template: {name: Collection, collection: 9888, poster: https://theposterdb.com/api/assets/23878}
   The Hunger Games:
     template: {name: Collection, collection: 131635, poster: https://theposterdb.com/api/assets/31012}
-  Ice Age:
-    template: {name: Collection, collection: 8354, movie: "79218, 717095, 387893", poster: https://theposterdb.com/api/assets/19083}
   Indiana Jones:
     template: {name: Collection, collection: 84, poster: https://theposterdb.com/api/assets/206972}
   Ip Man:
