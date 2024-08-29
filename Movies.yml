@@ -2657,6 +2657,9 @@ metadata:
   Cleopatra:
     year: 1963
     url_poster: https://theposterdb.com/api/assets/246669
+  A Clockwork Orange:
+    year: 1972
+    url_poster: https://theposterdb.com/api/assets/26014
   Cobweb:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/396119
