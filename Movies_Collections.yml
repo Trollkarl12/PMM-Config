@@ -73,8 +73,6 @@ collections:
     template: {name: Collection, collection: 8580, movie: 38575, poster: https://theposterdb.com/api/assets/2563}
   Kill Bill:
     template: {name: Collection, collection: 2883, poster: https://theposterdb.com/api/assets/63400}
-  Kung Fu Panda:
-    template: {name: Collection, collection: 77816, poster: https://theposterdb.com/api/assets/112270}
   Marvel Cinematic Universe:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls031310794/
