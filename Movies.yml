@@ -2563,6 +2563,9 @@ metadata:
   Annie Hall:
     year: 1977
     url_poster: https://theposterdb.com/api/assets/51770
+  The Apartment:
+    year: 1960
+    url_poster: https://theposterdb.com/api/assets/467619
   Apocalypse Now:
     year: 1979
     url_poster: https://theposterdb.com/api/assets/32549
