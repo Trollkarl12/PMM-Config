@@ -990,6 +990,17 @@ metadata:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/83049
 
+  # The Human Condition https://theposterdb.com/set/174912
+  # The Human Condition I: No Greater Love
+  tt0053114:
+    url_poster: https://theposterdb.com/api/assets/295912
+  # The Human Condition II: Road to Eternity
+  tt0053115:
+    url_poster: https://theposterdb.com/api/assets/295913
+  # The Human Condition III: A Soldier's Prayer
+  tt0055233:
+    url_poster: https://theposterdb.com/api/assets/295914
+
   # The Hunger Games https://theposterdb.com/set/18631
   The Hunger Games:
     year: 2012
