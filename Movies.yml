@@ -2517,8 +2517,8 @@ metadata:
     year: 1950
     url_poster: https://theposterdb.com/api/assets/466848
   All Quiet on the Western Front:
-    year: 2022
-    url_poster: https://theposterdb.com/api/assets/270945
+    year: 1930
+    url_poster: https://theposterdb.com/api/assets/466844
   Amadeus:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/34689
@@ -3326,6 +3326,9 @@ metadata:
   "Mr. Bean's Holiday":
     year: 2007
     url_poster: https://theposterdb.com/api/assets/441898
+  Mulholland Drive:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/114434
   Napoleon:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/383586
