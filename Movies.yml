@@ -2516,9 +2516,12 @@ metadata:
   All About Eve:
     year: 1950
     url_poster: https://theposterdb.com/api/assets/466848
-  All Quiet on the Western Front:
-    year: 1930
+  # All Quiet on the Western Front 1930
+  tt0020629:
     url_poster: https://theposterdb.com/api/assets/466844
+  # All Quiet on the Western Front 2022
+  tt1016150:
+    url_poster: https://theposterdb.com/api/assets/270945
   Amadeus:
     year: 1984
     url_poster: https://theposterdb.com/api/assets/34689
