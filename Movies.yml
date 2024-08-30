@@ -3601,6 +3601,9 @@ metadata:
   Rocketman:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/47588
+  Roman Holiday:
+    year: 1953
+    url_poster: https://theposterdb.com/api/assets/276421
   Romeo and Juliet:
     year: 1968
     url_poster: https://theposterdb.com/api/assets/103863
