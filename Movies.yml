@@ -2594,6 +2594,9 @@ metadata:
   Ben-Hur:
     year: 1959
     url_poster: https://theposterdb.com/api/assets/88192
+  The Best Years of Our Lives:
+    year: 1947
+    url_poster: https://theposterdb.com/api/assets/467621
   The Big Short:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/42563
