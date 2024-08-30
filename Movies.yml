@@ -2767,6 +2767,9 @@ metadata:
   The Dictator:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/426718
+  The Dirty Dozen:
+    year: 1967
+    url_poster: https://theposterdb.com/api/assets/100675
   Django Unchained:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/31978
