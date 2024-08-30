@@ -3370,6 +3370,9 @@ metadata:
   Mulholland Drive:
     year: 2001
     url_poster: https://theposterdb.com/api/assets/114434
+  My Fair Lady:
+    year: 1964
+    url_poster: https://theposterdb.com/api/assets/302264
   Napoleon:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/383586
