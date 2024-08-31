@@ -1857,10 +1857,12 @@ metadata:
 
   Demon Lord, Retry!:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/400199
+    url_poster: https://theposterdb.com/api/assets/520343
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/400200
+        url_poster: https://theposterdb.com/api/assets/520344
+      2:
+        url_poster: https://theposterdb.com/api/assets/520345
 
   "Demon Slayer: Kimetsu no Yaiba":
     year: 2019
