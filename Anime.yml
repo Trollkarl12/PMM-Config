@@ -4044,9 +4044,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/407889
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/439984
+        url_poster: https://theposterdb.com/api/assets/439982
       1:
         url_poster: https://theposterdb.com/api/assets/407890
+      2:
+        url_poster: https://theposterdb.com/api/assets/520277
 
   She Professed Herself Pupil of the Wise Man:
     year: 2022
