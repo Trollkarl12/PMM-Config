@@ -1498,6 +1498,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/167245
 
   # Marvel Cinematic Universe https://theposterdb.com/set/99475
+  # Blade
+  tt0120611:
+    url_poster: https://theposterdb.com/api/assets/12047
+  # Blade II
+  tt0187738:
+    url_poster: https://theposterdb.com/api/assets/12048
+  # Blade: Trinity
+  tt0359013:
+    url_poster: https://theposterdb.com/api/assets/12049
   Iron Man:
     url_poster: https://theposterdb.com/api/assets/162896
   The Incredible Hulk:
