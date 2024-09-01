@@ -7694,6 +7694,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/256454
 
+  # Akame ga Kill!
+  tt3742982:
+    url_poster: https://theposterdb.com/api/assets/135911
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/135912
+      1:
+        url_poster: https://theposterdb.com/api/assets/135913
+
   # Divine Gate
   tt5330856:
     url_poster: https://theposterdb.com/api/assets/520518
