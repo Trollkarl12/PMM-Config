@@ -7694,6 +7694,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/256454
 
+  # Divine Gate
+  tt5330856:
+    url_poster: https://theposterdb.com/api/assets/520518
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/520519
+
   # Not yet released
   # Blue Box
   tt32639706:
