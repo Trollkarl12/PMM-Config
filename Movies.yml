@@ -679,216 +679,227 @@ metadata:
 
 
   # Election https://theposterdb.com/set/255619
-  Election:
-    year: 2005
+  # Election
+  tt0434008:
     url_poster: https://theposterdb.com/api/assets/464402
-  Election 2:
-    year: 2006
+  # Election 2
+  tt0491244:
     url_poster: https://theposterdb.com/api/assets/464401
 
   # The Equalizer
-  The Equalizer:
-    year: 2014
+  # The Equalizer
+  tt0455944:
     url_poster: https://theposterdb.com/api/assets/131878
-  The Equalizer 2:
-    year: 2018
+  # The Equalizer 2
+  tt3766354:
     url_poster: https://theposterdb.com/api/assets/131879
-  The Equalizer 3:
-    year: 2023
+  # The Equalizer 3
+  tt17024450:
     url_poster: https://theposterdb.com/api/assets/422215
 
   # The Expendables https://theposterdb.com/set/121410
-  The Expendables:
-    year: 2010
+  # The Expendables
+  tt1320253:
     url_poster: https://theposterdb.com/api/assets/202665
-  The Expendables 2:
-    year: 2012
+  # The Expendables 2
+  tt1764651:
     url_poster: https://theposterdb.com/api/assets/202666
-  The Expendables 3:
-    year: 2014
+  # The Expendables 3
+  tt2333784:
     url_poster: https://theposterdb.com/api/assets/202667
-  Expend4bles:
-    year: 2023
+  # Expend4bles
+  tt3291150:
     url_poster: https://theposterdb.com/api/assets/415569
 
   # Films by Akira Kurosawa
-  Sanshiro Sugata:
-    year: 1943
+  # Sanshiro Sugata
+  tt0036400:
     url_poster: https://theposterdb.com/api/assets/83550
-  The Most Beautiful:
-    year: 1944
+  # The Most Beautiful
+  tt0036947:
     url_poster: https://theposterdb.com/api/assets/83551
-  "The Men Who Tread on the Tiger's Tail":
-    year: 1952
+  # The Men Who Tread on the Tiger's Tail
+  tt0038182:
     url_poster: https://theposterdb.com/api/assets/83561
-  Sanshiro Sugata Part Two:
-    year: 1945
+  # Sanshiro Sugata Part Two
+  tt0038268:
     url_poster: https://theposterdb.com/api/assets/83552
-  Those Who Make Tomorrow:
-    year: 1946
+  # Those Who Make Tomorrow
+  tt0038310:
     url_poster: https://theposterdb.com/api/assets/83550
-  No Regrets for Our Youth:
-    year: 1946
+  # No Regrets for Our Youth
+  tt0039090:
     url_poster: https://theposterdb.com/api/assets/83553
-  One Wonderful Sunday:
-    year: 1947
+  # One Wonderful Sunday
+  tt0039871:
     url_poster: https://theposterdb.com/api/assets/83554
-  Drunken Angel:
-    year: 1948
+  # Drunken Angel
+  tt0040979:
     url_poster: https://theposterdb.com/api/assets/83555
-  The Quiet Duel:
-    year: 1949
+  # The Quiet Duel
+  tt0041870:
     url_poster: https://theposterdb.com/api/assets/83556
-  Stray Dog:
-    year: 1949
+  # Stray Dog
+  tt0041699:
     url_poster: https://theposterdb.com/api/assets/83557
-  Scandal:
-    year: 1950
+  # Scandal
+  tt0042958:
     url_poster: https://theposterdb.com/api/assets/83558
-  Rashomon:
-    year: 1950
+  # Rashomon
+  tt0042876:
     url_poster: https://theposterdb.com/api/assets/83559
-  The Idiot:
-    year: 1951
+  # The Idiot
+  tt0043614:
     url_poster: https://theposterdb.com/api/assets/83560
-  Ikiru:
-    year: 1952
+  # Ikiru
+  tt0044741:
     url_poster: https://theposterdb.com/api/assets/83562
-  Seven Samurai:
-    year: 1954
+  # Seven Samurai
+  tt0047478:
     url_poster: https://theposterdb.com/api/assets/83563
-  I Live in Fear:
-    year: 1955
+  # I Live in Fear
+  tt0048198:
     url_poster: https://theposterdb.com/api/assets/83564
-  Throne of Blood:
-    year: 1957
+  # Throne of Blood
+  tt0050613:
     url_poster: https://theposterdb.com/api/assets/83565
-  The Lower Depths:
-    year: 1957
+  # The Lower Depths
+  tt0050330:
     url_poster: https://theposterdb.com/api/assets/83566
-  The Hidden Fortress:
-    year: 1958
+  # The Hidden Fortress
+  tt0051808:
     url_poster: https://theposterdb.com/api/assets/83567
-  The Bad Sleep Well:
-    year: 1960
+  # The Bad Sleep Well
+  tt0054460:
     url_poster: https://theposterdb.com/api/assets/83568
-  Yojimbo:
-    year: 1961
+  # Yojimbo
+  tt0055630:
     url_poster: https://theposterdb.com/api/assets/83569
-  Sanjuro:
-    year: 1962
+  # Sanjuro
+  tt0056443:
     url_poster: https://theposterdb.com/api/assets/83570
-  High and Low:
-    year: 1963
+  # High and Low
+  tt0057565:
     url_poster: https://theposterdb.com/api/assets/83571
-  Red Beard:
-    year: 1965
+  # Red Beard
+  tt0058888:
     url_poster: https://theposterdb.com/api/assets/83572
-  "Dodes'ka-den":
-    year: 1971
+  # Dodes'ka-den
+  tt0065649:
     url_poster: https://theposterdb.com/api/assets/83573
-  Dersu Uzala:
-    year: 1975
+  # Dersu Uzala
+  tt0071411:
     url_poster: https://theposterdb.com/api/assets/83574
-  Kagemusha:
-    year: 1980
+  # Kagemusha
+  tt0080979:
     url_poster: https://theposterdb.com/api/assets/83575
-  Ran:
-    year: 1985
+  # Ran
+  tt0089881:
     url_poster: https://theposterdb.com/api/assets/83576
-  Dreams:
-    year: 1990
+  # Dreams
+  tt0100998:
     url_poster: https://theposterdb.com/api/assets/83577
-  Rhapsody in August:
-    year: 1991
+  # Rhapsody in August
+  tt0101991:
     url_poster: https://theposterdb.com/api/assets/83578
-  Madadayo:
-    year: 1993
+  # Madadayo
+  tt0107474:
     url_poster: https://theposterdb.com/api/assets/83579
 
   # The Fast and the Furious https://theposterdb.com/set/69598
-  The Fast and the Furious:
+  # The Fast and the Furious
+  tt0232500:
     url_poster: https://theposterdb.com/api/assets/110854
-  2 Fast 2 Furious:
+  # 2 Fast 2 Furious
+  tt0322259:
     url_poster: https://theposterdb.com/api/assets/110856
-  "The Fast and the Furious: Tokyo Drift":
+  # The Fast and the Furious: Tokyo Drift
+  tt0463985:
     url_poster: https://theposterdb.com/api/assets/110857
-  Fast & Furious:
+  # Fast & Furious
+  tt1013752:
     url_poster: https://theposterdb.com/api/assets/110858
-  Fast Five:
+  # Fast Five
+  tt1596343:
     url_poster: https://theposterdb.com/api/assets/110860
-  Fast & Furious 6:
+  # Fast & Furious 6
+  tt1905041:
     url_poster: https://theposterdb.com/api/assets/110861
-  Furious 7:
+  # Furious 7
+  tt2820852:
     url_poster: https://theposterdb.com/api/assets/110862
-  The Fate of the Furious:
+  # The Fate of the Furious
+  tt4630562:
     url_poster: https://theposterdb.com/api/assets/110863
-  "Fast & Furious Presents: Hobbs & Shaw":
+  # Fast & Furious Presents: Hobbs & Shaw
+  tt6806448:
     url_poster: https://theposterdb.com/api/assets/110864
-  "F9: The Fast Saga":
+  # F9: The Fast Saga
+  tt5433138:
     url_poster: https://theposterdb.com/api/assets/156988
-  Fast X:
+  # Fast X
+  tt5433140:
     url_poster: https://theposterdb.com/api/assets/373081
 
   # The Godfather Saga
-  The Godfather:
-    year: 1972
+  # The Godfather
+  tt0068646:
     url_poster: https://theposterdb.com/api/assets/8935
-  The Godfather Part II:
-    year: 1974
+  # The Godfather Part II
+  tt0071562:
     url_poster: https://theposterdb.com/api/assets/8936
-  The Godfather Part III:
-    year: 1990
+  # The Godfather Part III
+  tt0099674:
     url_poster: https://theposterdb.com/api/assets/8937
 
   # Ghostbusters https://theposterdb.com/set/271083
-  Ghostbusters:
-    year: 1984
+  # Ghostbusters
+  tt0087332:
     url_poster: https://theposterdb.com/api/assets/491818
-  Ghostbusters II:
-    year: 1989
+  # Ghostbusters II
+  tt0097428:
     url_poster: https://theposterdb.com/api/assets/491817
-  "Ghostbusters: Afterlife":
-    year: 2021
+  # Ghostbusters: Afterlife
+  tt4513678:
     url_poster: https://theposterdb.com/api/assets/491815
-  "Ghostbusters: Frozen Empire":
-    year: 2024
+  # Ghostbusters: Frozen Empire
+  tt21235248:
     url_poster: https://theposterdb.com/api/assets/491814
 
   # The Grudge
-  The Grudge:
-    year: 2004
+  # The Grudge
+  tt0391198:
     url_poster: https://theposterdb.com/api/assets/100698
-  The Grudge 2:
-    year: 2006
+  # The Grudge 2
+  tt0433386:
     url_poster: https://theposterdb.com/api/assets/100699
-  The Grudge 3:
-    year: 2009
+  # The Grudge 3
+  tt1053859:
     url_poster: https://theposterdb.com/api/assets/100700
-  The Grudge (Reboot):
-    year: 2020
+  # The Grudge (Reboot)
+  tt3612126:
     url_poster: https://theposterdb.com/api/assets/100701
 
   # Hercule Poirot https://theposterdb.com/set/128263
-  Murder on the Orient Express:
-    year: 2017
+  # Murder on the Orient Express
+  tt3402236:
     url_poster: https://theposterdb.com/api/assets/212862
-  Death on the Nile:
-    year: 2022
+  # Death on the Nile
+  tt7657566:
     url_poster: https://theposterdb.com/api/assets/212863
-  A Haunting in Venice:
-    year: 2023
+  # A Haunting in Venice
+  tt22687790:
     url_poster: https://theposterdb.com/api/assets/386561
 
   # The Hangover
-  The Hangover:
-    year: 2009
+  # The Hangover
+  tt1119646:
     url_poster: https://theposterdb.com/api/assets/40150
-  The Hangover Part II:
-    year: 2011
+  # The Hangover Part II
+  tt1411697:
     url_poster: https://theposterdb.com/api/assets/40151
-  The Hangover Part III:
-    year: 2013
+  # The Hangover Part III
+  tt1951261:
     url_poster: https://theposterdb.com/api/assets/40152
 
   # Hannibal Lecter https://theposterdb.com/set/97593
