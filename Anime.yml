@@ -561,6 +561,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/325371
 
+  # Mobile Suit Gundam 0083: Stardust Memory
+  tt0159567:
+    url_poster: https://theposterdb.com/api/assets/322940
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322941
+      1:
+        url_poster: https://theposterdb.com/api/assets/322942
+
   # Naruto   
   # Naruto
   tt0409591:
