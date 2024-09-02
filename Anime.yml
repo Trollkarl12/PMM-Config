@@ -543,6 +543,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/323583
 
+  # Mobile Suit Gundam 0080: War in the Pocket
+  tt0097661:
+    url_poster: https://theposterdb.com/api/assets/325327
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/325328
+
   # Naruto   
   # Naruto
   tt0409591:
