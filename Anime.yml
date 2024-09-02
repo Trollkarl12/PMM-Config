@@ -570,6 +570,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322942
 
+  # Mobile Fighter G Gundam
+  tt0159182:
+    url_poster: https://theposterdb.com/api/assets/323569
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/323570
+      1:
+        url_poster: https://theposterdb.com/api/assets/323571
+
   # Naruto   
   # Naruto
   tt0409591:
