@@ -98,7 +98,7 @@ collections:
   Pacific Rim:
     template: {name: Collection, collection: 363369, poster: https://theposterdb.com/api/assets/3397}
   Pirates of the Caribbean:
-    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/9840}
+    template: {name: Collection, collection: 295, poster: https://theposterdb.com/api/assets/71934}
   Planet of the Apes:
     template: {name: Collection, collection: 173710, poster: https://theposterdb.com/api/assets/138599}
   Resident Evil:

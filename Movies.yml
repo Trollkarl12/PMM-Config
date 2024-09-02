@@ -1890,22 +1890,22 @@ metadata:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/10221
 
-  # Pirates of the Caribbean https://theposterdb.com/set/4494
-  "Pirates of the Caribbean: The Curse of the Black Pearl":
-    year: 2003
-    url_poster: https://theposterdb.com/api/assets/9841
-  "Pirates of the Caribbean: Dead Man's Chest":
-    year: 2006
-    url_poster: https://theposterdb.com/api/assets/9842
-  "Pirates of the Caribbean: At World's End":
-    year: 2007
-    url_poster: https://theposterdb.com/api/assets/9843
-  "Pirates of the Caribbean: On Stranger Tides":
-    year: 2011
-    url_poster: https://theposterdb.com/api/assets/9844
-  "Pirates of the Caribbean: Dead Men Tell No Tales":
-    year: 2017
-    url_poster: https://theposterdb.com/api/assets/9846
+  # Pirates of the Caribbean https://theposterdb.com/set/45902
+  # Pirates of the Caribbean: The Curse of the Black Pearl":
+  tt0325980:
+    url_poster: https://theposterdb.com/api/assets/71935
+  # Pirates of the Caribbean: Dead Man's Chest
+  tt0383574:
+    url_poster: https://theposterdb.com/api/assets/71936
+  # Pirates of the Caribbean: At World's End
+  tt0449088:
+    url_poster: https://theposterdb.com/api/assets/71937
+  # Pirates of the Caribbean: On Stranger Tides
+  tt1298650:
+    url_poster: https://theposterdb.com/api/assets/71938
+  # Pirates of the Caribbean: Dead Men Tell No Tales
+  tt1790809:
+    url_poster: https://theposterdb.com/api/assets/71939
 
   # Pixar Animation Studios https://theposterdb.com/set/38813
   Toy Story:
