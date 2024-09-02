@@ -550,6 +550,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/325328
 
+  # Mobile Suit Gundam: MS IGLOO
+  tt2328145:
+    url_poster: https://theposterdb.com/api/assets/325368
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/325369
+      2:
+        url_poster: https://theposterdb.com/api/assets/325370
+      3:
+        url_poster: https://theposterdb.com/api/assets/325371
+
   # Naruto   
   # Naruto
   tt0409591:
