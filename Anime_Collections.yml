@@ -69,6 +69,6 @@ collections:
   The Seven Deadly Sins:
     template: {name: Collection, show: "284131, 420018", poster: https://theposterdb.com/api/assets/431175, background: }
   Mobile Suit Gundam:
-    template: {name: Collection, show: "76547, 403849, 72352, 71535, 71536, 80785, 80784, 81104", poster: https://theposterdb.com/api/assets/322526, background: }
+    template: {name: Collection, show: "76547, 403849, 72352, 71535, 71536, 80785, 80784, 81104, 319976", poster: https://theposterdb.com/api/assets/322526, background: }
   Ghost in the Shell:
     template: {name: Collection, show: "293491, 73749", poster: https://theposterdb.com/api/assets/175259, background: }
