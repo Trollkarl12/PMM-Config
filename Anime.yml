@@ -588,6 +588,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/322573
 
+  # Mobile Suit Gundam: The Origin - Advent of the Red Comet
+  tt12899130:
+    url_poster: https://theposterdb.com/api/assets/322574
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322533
+      1:
+        url_poster: https://theposterdb.com/api/assets/322575
+
   # Naruto   
   # Naruto
   tt0409591:
