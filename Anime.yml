@@ -579,6 +579,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/323571
 
+  # Mobile Suit Gundam: The 08th MS Team
+  tt0159569:
+    url_poster: https://theposterdb.com/api/assets/322571
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/322572
+      1:
+        url_poster: https://theposterdb.com/api/assets/322573
+
   # Naruto   
   # Naruto
   tt0409591:
