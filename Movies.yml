@@ -903,20 +903,20 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40152
 
   # Hannibal Lecter https://theposterdb.com/set/97593
-  Manhunter:
-    year: 1986
+  # Manhunter
+  tt0091474:
     url_poster: https://theposterdb.com/api/assets/159797
-  The Silence of the Lambs:
-    year: 1991
+  # The Silence of the Lambs
+  tt0102926:
     url_poster: https://theposterdb.com/api/assets/159798
-  Hannibal:
-    year: 2001
+  # Hannibal
+  tt0212985:
     url_poster: https://theposterdb.com/api/assets/159799
-  Red Dragon:
-    year: 2002
+  # Red Dragon
+  tt0289765:
     url_poster: https://theposterdb.com/api/assets/159800
-  Hannibal Rising:
-    year: 2007
+  # Hannibal Rising
+  tt0367959:
     url_poster: https://theposterdb.com/api/assets/159801
 
   # Halloween - https://theposterdb.com/set/115186
@@ -972,11 +972,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/63716
 
   # The Hills Have Eyes (Reboot) https://theposterdb.com/set/100902
-  The Hills Have Eyes:
-    year: 2006
+  # The Hills Have Eyes
+  tt0454841:
     url_poster: https://theposterdb.com/api/assets/164895
-  The Hills Have Eyes 2:
-    year: 2007
+  # The Hills Have Eyes 2
+  tt0800069:
     url_poster: https://theposterdb.com/api/assets/164896
 
   # How to Train Your Dragon
@@ -991,14 +991,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/57150
 
   # High School Musical https://theposterdb.com/set/52924
-  High School Musical:
-    year: 2006
+  # High School Musical
+  tt0475293:
     url_poster: https://theposterdb.com/api/assets/83047
-  High School Musical 2:
-    year: 2007
+  # High School Musical 2
+  tt0810900:
     url_poster: https://theposterdb.com/api/assets/83048
-  High School Musical 3:
-    year: 2008
+  # High School Musical 3: Senior Year
+  tt0962726:
     url_poster: https://theposterdb.com/api/assets/83049
 
   # The Human Condition https://theposterdb.com/set/174912
@@ -1284,94 +1284,94 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/127152
 
   # Iron Sky https://theposterdb.com/set/11355
-  Iron Sky:
-    year: 2012
+  # Iron Sky
+  tt1034314:
     url_poster: https://theposterdb.com/api/assets/19825
-  "Iron Sky: The Coming Race":
-    year: 2019
+  # Iron Sky: The Coming Race
+  tt3038708:
     url_poster: https://theposterdb.com/api/assets/19827
 
   # James Bond https://theposterdb.com/set/78937
-  Dr. No:
-    year: 1962
+  # Dr. No
+  tt0055928:
     url_poster: https://theposterdb.com/api/assets/126241
-  From Russia with Love:
-    year: 1963
+  # From Russia with Love
+  tt0057076:
     url_poster: https://theposterdb.com/api/assets/126242
-  Goldfinger:
-    year: 1964
+  # Goldfinger
+  tt0058150:
     url_poster: https://theposterdb.com/api/assets/126243
-  Thunderball:
-    year: 1965
+  # Thunderball
+  tt0059800:
     url_poster: https://theposterdb.com/api/assets/126244
-  Casino Royale:
-    year: 1967
+  # Casino Royale (1967)
+  tt0061452:
     url_poster: https://theposterdb.com/api/assets/126245
-  You Only Live Twice:
-    year: 1967
+  # You Only Live Twice
+  tt0062512:
     url_poster: https://theposterdb.com/api/assets/126246
-  On Her Majesty's Secret Service:
-    year: 1969
+  # On Her Majesty's Secret Service
+  tt0064757:
     url_poster: https://theposterdb.com/api/assets/126247
-  Diamonds Are Forever:
-    year: 1971
+  # Diamonds Are Forever
+  tt0066995:
     url_poster: https://theposterdb.com/api/assets/126248
-  Live and Let Die:
-    year: 1973
+  # Live and Let Die
+  tt0070328:
     url_poster: https://theposterdb.com/api/assets/126249
-  The Man with the Golden Gun:
-    year: 1974
+  # The Man with the Golden Gun
+  tt0071807:
     url_poster: https://theposterdb.com/api/assets/126250
-  The Spy Who Loved Me:
-    year: 1977
+  # The Spy Who Loved Me
+  tt0076752:
     url_poster: https://theposterdb.com/api/assets/126251
-  Moonraker:
-    year: 1979
+  # Moonraker
+  tt0079574:
     url_poster: https://theposterdb.com/api/assets/126252
-  For Your Eyes Only:
-    year: 1981
+  # For Your Eyes Only
+  tt0082398:
     url_poster: https://theposterdb.com/api/assets/126253
-  Octopussy:
-    year: 1983
+  # Octopussy
+  tt0086034:
     url_poster: https://theposterdb.com/api/assets/126254
-  Never Say Never Again:
-    year: 1983
+  # Never Say Never Again
+  tt0086006:
     url_poster: https://theposterdb.com/api/assets/126255
-  A View to a Kill:
-    year: 1985
+  # A View to a Kill
+  tt0090264:
     url_poster: https://theposterdb.com/api/assets/126256
-  The Living Daylights:
-    year: 1987
+  # The Living Daylights
+  tt0093428:
     url_poster: https://theposterdb.com/api/assets/126257
-  Licence to Kill:
-    year: 1989
+  # Licence to Kill
+  tt0097742:
     url_poster: https://theposterdb.com/api/assets/126258
-  GoldenEye:
-    year: 1995
+  # GoldenEye
+  tt0113189:
     url_poster: https://theposterdb.com/api/assets/126259
-  Tomorrow Never Dies:
-    year: 1997
+  # Tomorrow Never Dies
+  tt0120347:
     url_poster: https://theposterdb.com/api/assets/126260
-  The World Is Not Enough:
-    year: 1999
+  # The World Is Not Enough
+  tt0143145:
     url_poster: https://theposterdb.com/api/assets/126261
-  Die Another Day:
-    year: 2002
+  # Die Another Day
+  tt0246460:
     url_poster: https://theposterdb.com/api/assets/126262
-  Casino Royale:
-    year: 2006
+  # Casino Royale (2006)
+  tt0381061:
     url_poster: https://theposterdb.com/api/assets/126263
-  Quantum of Solace:
-    year: 2008
+  # Quantum of Solace
+  tt0830515:
     url_poster: https://theposterdb.com/api/assets/126264
-  Skyfall:
-    year: 2012
+  # Skyfall
+  tt1074638:
     url_poster: https://theposterdb.com/api/assets/126265
-  Spectre:
-    year: 2015
+  # Spectre
+  tt2379713:
     url_poster: https://theposterdb.com/api/assets/126266
-  No Time to Die:
-    year: 2021
+  # No Time to Die
+  tt2382320:
     url_poster: https://theposterdb.com/api/assets/126267
 
   # Jarhead
