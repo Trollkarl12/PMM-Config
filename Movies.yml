@@ -677,7 +677,6 @@ metadata:
   tt29623480:
     url_poster: https://theposterdb.com/api/assets/483924
 
-
   # Election https://theposterdb.com/set/255619
   # Election
   tt0434008:
@@ -978,17 +977,6 @@ metadata:
   # The Hills Have Eyes 2
   tt0800069:
     url_poster: https://theposterdb.com/api/assets/164896
-
-  # How to Train Your Dragon
-  How to Train Your Dragon:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/57148
-  How to Train Your Dragon 2:
-    year: 2014
-    url_poster: https://theposterdb.com/api/assets/57149
-  "How to Train Your Dragon: The Hidden World":
-    year: 2019
-    url_poster: https://theposterdb.com/api/assets/57150
 
   # High School Musical https://theposterdb.com/set/52924
   # High School Musical
