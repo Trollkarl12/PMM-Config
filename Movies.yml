@@ -919,55 +919,55 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/159801
 
   # Halloween - https://theposterdb.com/set/115186
-  Halloween:
-    year: 1978
+  # Halloween
+  tt0077651:
     url_poster: https://theposterdb.com/api/assets/190033
-  Halloween II:
-    year: 1981
+  # Halloween II
+  tt0082495:
     url_poster: https://theposterdb.com/api/assets/190034
-  "Halloween III: Season of the Witch":
-    year: 1982
+  # Halloween III: Season of the Witch
+  tt0085636:
     url_poster: https://theposterdb.com/api/assets/190035
-  "Halloween 4: The Return of Michael Myers":
-    year: 1988
+  # Halloween 4: The Return of Michael Myers
+  tt0095271:
     url_poster: https://theposterdb.com/api/assets/190036
-  "Halloween 5: The Revenge of Michael Myers":
-    year: 1989
+  # Halloween 5: The Revenge of Michael Myers
+  tt0097474:
     url_poster: https://theposterdb.com/api/assets/190037
-  "Halloween: The Curse of Michael Myers":
-    year: 1995
+  # Halloween: The Curse of Michael Myers
+  tt0113253:
     url_poster: https://theposterdb.com/api/assets/190038
-  "Halloween H20: 20 Years Later":
-    year: 1998
+  # Halloween H20: 20 Years Later
+  tt0120694:
     url_poster: https://theposterdb.com/api/assets/190039
-  "Halloween: Resurrection":
-    year: 2002
+  # Halloween: Resurrection
+  tt0220506:
     url_poster: https://theposterdb.com/api/assets/190040
-  Halloween (2018):
-    year: 2018
+  # Halloween
+  tt1502407:
     url_poster: https://theposterdb.com/api/assets/190041
-  Halloween Kills:
-    year: 2021
+  # Halloween Kills
+  tt10665338:
     url_poster: https://theposterdb.com/api/assets/190042
-  Halloween Ends:
-    year: 2022
+  # Halloween Ends
+  tt10665342:
     url_poster: https://theposterdb.com/api/assets/190043
 
   # Highlander
-  Highlander:
-    year: 1986
+  # Highlander
+  tt0091203:
     url_poster: https://theposterdb.com/api/assets/63712
-  "Highlander II: The Quickening":
-    year: 1991
+  # Highlander II: The Quickening
+  tt0102034:
     url_poster: https://theposterdb.com/api/assets/63713
-  "Highlander: The Final Dimension":
-    year: 1994
+  # Highlander: The Final Dimension
+  tt0110027:
     url_poster: https://theposterdb.com/api/assets/63714
-  "Highlander: Endgame":
-    year: 2000
+  # Highlander: Endgame
+  tt0144964:
     url_poster: https://theposterdb.com/api/assets/63715
-  "Highlander: The Source":
-    year: 2007
+  # Highlander: The Source
+  tt0299981:
     url_poster: https://theposterdb.com/api/assets/63716
 
   # The Hills Have Eyes (Reboot) https://theposterdb.com/set/100902
@@ -1001,34 +1001,34 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/295914
 
   # The Hunger Games https://theposterdb.com/set/18631
-  The Hunger Games:
-    year: 2012
+  # The Hunger Games
+  tt1392170:
     url_poster: https://theposterdb.com/api/assets/31013
-  "The Hunger Games: Catching Fire":
-    year: 2013
+  # The Hunger Games: Catching Fire
+  tt1951264:
     url_poster: https://theposterdb.com/api/assets/31014
-  "The Hunger Games: Mockingjay - Part 1":
-    year: 2014
+  # The Hunger Games: Mockingjay - Part 1
+  tt1951265:
     url_poster: https://theposterdb.com/api/assets/31015
-  "The Hunger Games: Mockingjay - Part 2":
-    year: 2015
+  # The Hunger Games: Mockingjay - Part 2
+  tt1951266:
     url_poster: https://theposterdb.com/api/assets/31016
 
   # Ice Age https://theposterdb.com/set/23445
-  Ice Age:
-    year: 2002
+  # Ice Age
+  tt0268380:
     url_poster: https://theposterdb.com/api/assets/38153
-  "Ice Age: The Meltdown":
-    year: 2006
+  # Ice Age: The Meltdown
+  tt0438097:
     url_poster: https://theposterdb.com/api/assets/38155
-  "Ice Age: Dawn of the Dinosaurs":
-    year: 2009
+  # Ice Age: Dawn of the Dinosaurs
+  tt1080016:
     url_poster: https://theposterdb.com/api/assets/38157
-  "Ice Age: Continental Drift":
-    year: 2012
+  # Ice Age: Continental Drift
+  tt1667889:
     url_poster: https://theposterdb.com/api/assets/38159
-  "Ice Age: Collision Course":
-    year: 2016
+  # Ice Age: Collision Course
+  tt3416828:
     url_poster: https://theposterdb.com/api/assets/38163
 
   # Illumination Entertainment https://theposterdb.com/set/286146
@@ -1079,196 +1079,196 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/515461
 
   # Ingmar Bergman’s Cinema https://theposterdb.com/set/236918
-  Crisis:
-    year: 1946
+  # Crisis
+  tt0038675:
     url_poster: https://theposterdb.com/api/assets/428128
-  A Ship to India:
-    year: 1947
+  # A Ship to India
+  tt0039834:
     url_poster: https://theposterdb.com/api/assets/428122
-  Port of Call:
-    year: 1948
+  # Port of Call
+  tt0040418:
     url_poster: https://theposterdb.com/api/assets/428137
-  Thirst:
-    year: 1949
+  # Thirst
+  tt0041998:
     url_poster: https://theposterdb.com/api/assets/428156
-  To Joy:
-    year: 1950
+  # To Joy
+  tt0043048:
     url_poster: https://theposterdb.com/api/assets/428158
-  Summer Interlude:
-    year: 1951
+  # Summer Interlude
+  tt0044060:
     url_poster: https://theposterdb.com/api/assets/428144
-  Waiting Women:
-    year: 1952
+  # Waiting Women
+  tt0044811:
     url_poster: https://theposterdb.com/api/assets/428159
-  Summer with Monika:
-    year: 1953
+  # Summer with Monika
+  tt0046345:
     url_poster: https://theposterdb.com/api/assets/428145
-  Sawdust and Tinsel:
-    year: 1953
+  # Sawdust and Tinsel
+  tt0045848:
     url_poster: https://theposterdb.com/api/assets/428139
-  A Lesson in Love:
-    year: 1954
+  # A Lesson in Love
+  tt0047167:
     url_poster: https://theposterdb.com/api/assets/428121
-  Kvinnodröm:
-    year: 1955
+  # Kvinnodröm
+  tt0048272:
     url_poster: https://theposterdb.com/api/assets/428129
-  Smiles of a Summer Night:
-    year: 1955
+  # Smiles of a Summer Night
+  tt0048641:
     url_poster: https://theposterdb.com/api/assets/428143
-  The Seventh Seal:
-    year: 1957
+  # The Seventh Seal
+  tt0050976:
     url_poster: https://theposterdb.com/api/assets/428152
-  Wild Strawberries:
-    year: 1957
+  # Wild Strawberries
+  tt0050986:
     url_poster: https://theposterdb.com/api/assets/428160
-  Brink of Life:
-    year: 1958
+  # Brink of Life
+  tt0052017:
     url_poster: https://theposterdb.com/api/assets/428126
-  The Magician:
-    year: 1958
+  # The Magician
+  tt0051365:
     url_poster: https://theposterdb.com/api/assets/428148
-  The Virgin Spring:
-    year: 1960
+  # The Virgin Spring
+  tt0053976:
     url_poster: https://theposterdb.com/api/assets/428155
-  "The Devil's Eye":
-    year: 1960
+  # The Devil's Eye
+  tt0053772:
     url_poster: https://theposterdb.com/api/assets/428146
-  Through a Glass Darkly:
-    year: 1961
+  # Through a Glass Darkly
+  tt0055499:
     url_poster: https://theposterdb.com/api/assets/428157
-  Winter Light:
-    year: 1963
+  # Winter Light
+  tt0057358:
     url_poster: https://theposterdb.com/api/assets/428161
-  The Silence:
-    year: 1963
+  # The Silence
+  tt0057611:
     url_poster: https://theposterdb.com/api/assets/428153
-  All These Women:
-    year: 1964
+  # All These Women
+  tt0058124:
     url_poster: https://theposterdb.com/api/assets/428124
-  Persona:
-    year: 1966
+  # Persona
+  tt0060827:
     url_poster: https://theposterdb.com/api/assets/428136
-  Hour of the Wolf:
-    year: 1968
+  # Hour of the Wolf
+  tt0063759:
     url_poster: https://theposterdb.com/api/assets/428135
-  Shame:
-    year: 1968
+  # Shame
+  tt0063611:
     url_poster: https://theposterdb.com/api/assets/428142
-  The Rite:
-    year: 1969
+  # The Rite
+  tt0064897:
     url_poster: https://theposterdb.com/api/assets/428150
-  The Passion of Anna:
-    year: 1969
+  # The Passion of Anna
+  tt0064793:
     url_poster: https://theposterdb.com/api/assets/428149
-  Fårö Document:
-    year: 1970
+  # Fårö Document
+  tt0064355:
     url_poster: https://theposterdb.com/api/assets/428132
-  The Touch:
-    year: 1971
+  # The Touch
+  tt0066826:
     url_poster: https://theposterdb.com/api/assets/428154
-  Cries and Whispers:
-    year: 1973
+  # Cries and Whispers
+  tt0069467:
     url_poster: https://theposterdb.com/api/assets/428127
-  Scenes from a Marriage:
-    year: 1974
+  # Scenes from a Marriage
+  tt0070644:
     url_poster: https://theposterdb.com/api/assets/428140
-  The Magic Flute:
-    year: 1975
+  # The Magic Flute
+  tt0073822:
     url_poster: https://theposterdb.com/api/assets/428147
-  "The Serpent's Egg":
-    year: 1977
+  # The Serpent's Egg
+  tt0076686:
     url_poster: https://theposterdb.com/api/assets/428151
-  Autumn Sonata:
-    year: 1978
+  # Autumn Sonata
+  tt0077711:
     url_poster: https://theposterdb.com/api/assets/428125
-  Fårö Document 1979:
-    year: 1979
+  # Fårö Document 1979
+  tt0079187:
     url_poster: https://theposterdb.com/api/assets/428133
-  From the Life of the Marionettes:
-    year: 1981
+  # From the Life of the Marionettes
+  tt0080397:
     url_poster: https://theposterdb.com/api/assets/428134
-  Fanny and Alexander:
-    year: 1982
+  # Fanny and Alexander
+  tt0083922:
     url_poster: https://theposterdb.com/api/assets/428130
-  After the Rehearsal:
-    year: 1984
+  # After the Rehearsal
+  tt0087193:
     url_poster: https://theposterdb.com/api/assets/428123
-  Saraband:
-    year: 2004
+  # Saraband
+  tt0299478:
     url_poster: https://theposterdb.com/api/assets/428138
 
   # Indiana Jones https://theposterdb.com/set/125051
-  Raiders of the Lost Ark:
-    year: 1981
+  # Raiders of the Lost Ark
+  tt0082971:
     url_poster: https://theposterdb.com/api/assets/206973
-  Indiana Jones and the Temple of Doom:
-    year: 1984
+  # Indiana Jones and the Temple of Doom
+  tt0087469:
     url_poster: https://theposterdb.com/api/assets/206974
-  Indiana Jones and the Last Crusade:
-    year: 1989
+  # Indiana Jones and the Last Crusade
+  tt0097576:
     url_poster: https://theposterdb.com/api/assets/206975
-  Indiana Jones and the Kingdom of the Crystal Skull:
-    year: 2008
+  # Indiana Jones and the Kingdom of the Crystal Skull
+  tt0367882:
     url_poster: https://theposterdb.com/api/assets/206976
-  Indiana Jones and the Dial of Destiny:
-    year: 2023
+  # Indiana Jones and the Dial of Destiny
+  tt1462764:
     url_poster: https://theposterdb.com/api/assets/347769
 
   # Infernal Affaris https://theposterdb.com/set/206595
-  Infernal Affairs:
-    year: 2002
+  # Infernal Affairs
+  tt0338564:
     url_poster: https://theposterdb.com/api/assets/362406
-  Infernal Affairs II:
-    year: 2003
+  # Infernal Affairs II
+  tt0369060:
     url_poster: https://theposterdb.com/api/assets/362407
-  Infernal Affairs III:
-    year: 2003
+  # Infernal Affairs III
+  tt0374339:
     url_poster: https://theposterdb.com/api/assets/362408
 
   # Insidious https://theposterdb.com/set/228202
-  Insidious:
-    year: 2011
+  # Insidious
+  tt1591095:
     url_poster: https://theposterdb.com/api/assets/410122
-  "Insidious: Chapter 2":
-    year: 2013
+  # Insidious: Chapter 2
+  tt2226417:
     url_poster: https://theposterdb.com/api/assets/410123
-  "Insidious: Chapter 3":
-    year: 2015
+  # Insidious: Chapter 3
+  tt3195644:
     url_poster: https://theposterdb.com/api/assets/410124
-  "Insidious: The Last Key":
-    year: 2018
+  # Insidious: The Last Key
+  tt5726086:
     url_poster: https://theposterdb.com/api/assets/410125
-  "Insidious: The Red Door":
-    year: 2023
+  # Insidious: The Red Door
+  tt13405778:
     url_poster: https://theposterdb.com/api/assets/410126
 
   # IP Man
-  Ip Man:
-    year: 2008
+  # Ip Man
+  tt1220719:
     url_poster: https://theposterdb.com/api/assets/52648
-  Ip Man 2:
-    year: 2010
+  # Ip Man 2
+  tt1386932:
     url_poster: https://theposterdb.com/api/assets/52649
-  Ip Man 3:
-    year: 2015
+  # Ip Man 3
+  tt2888046:
     url_poster: https://theposterdb.com/api/assets/52650
-  "Ip Man 4: The Finale":
-    year: 2019
+  # Ip Man 4: The Finale
+  tt2076298:
     url_poster: https://theposterdb.com/api/assets/52651
-  "The Legend Is Born: Ip Man":
-    year: 2010
+  # The Legend Is Born: Ip Man
+  tt1641638:
     url_poster: https://theposterdb.com/api/assets/66525
-  The Grandmaster:
-    year: 2013
+  # The Grandmaster
+  tt1462900:
     url_poster: https://theposterdb.com/api/assets/66526
-  "Ip Man: The Final Fight":
-    year: 2013
+  # Ip Man: The Final Fight
+  tt2495118:
     url_poster: https://theposterdb.com/api/assets/66527
-  "Master Z: Ip Man Legacy":
-    year: 2018
+  # Master Z: Ip Man Legacy
+  tt7262882:
     url_poster: https://theposterdb.com/api/assets/66528
-  "Ip Man: Kung Fu Master":
-    year: 2019
+  # Ip Man: Kung Fu Master
+  tt12567246:
     url_poster: https://theposterdb.com/api/assets/127152
 
   # Iron Sky https://theposterdb.com/set/11355
@@ -1422,22 +1422,22 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/362876
     
   # Jump Street https://theposterdb.com/set/12936
-  21 Jump Street:
-    year: 2012
+  # 21 Jump Street
+  tt1232829:
     url_poster: https://theposterdb.com/api/assets/22122
-  22 Jump Street:
-    year: 2014
+  # 22 Jump Street
+  tt2294449:
     url_poster: https://theposterdb.com/api/assets/22123
 
   # Jumanji https://theposterdb.com/set/3628
-  Jumanji:
-    year: 1995
+  # Jumanji
+  tt0113497:
     url_poster: https://theposterdb.com/api/assets/8781
-  "Jumanji: Welcome to the Jungle":
-    year: 2017
+  # Jumanji: Welcome to the Jungle
+  tt2283362:
     url_poster: https://theposterdb.com/api/assets/8782
-  "Jumanji: The Next Level":
-    year: 2019
+  # Jumanji: The Next Level
+  tt7975244:
     url_poster: https://theposterdb.com/api/assets/8783
 
   # Jurassic Park https://theposterdb.com/set/97241
@@ -1461,11 +1461,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158975
 
   # Kill Bill https://theposterdb.com/set/40481
-  "Kill Bill: Vol. 1":
-    year: 2003
+  # Kill Bill: Vol. 1
+  tt0266697:
     url_poster: https://theposterdb.com/api/assets/63401
-  "Kill Bill: Vol. 2":
-    year: 2004
+  # Kill Bill: Vol. 2
+  tt0378194:
     url_poster: https://theposterdb.com/api/assets/63402
 
   # Mad Max https://theposterdb.com/set/256266
