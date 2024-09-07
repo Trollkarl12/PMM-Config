@@ -2152,3 +2152,22 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/138450
       2:
         url_poster: https://theposterdb.com/api/assets/138451
+
+  # Parks and Recreation
+  tt1266020:
+    url_poster: https://theposterdb.com/api/assets/268499
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/268500
+      2:
+        url_poster: https://theposterdb.com/api/assets/268501
+      3:
+        url_poster: https://theposterdb.com/api/assets/268502
+      4:
+        url_poster: https://theposterdb.com/api/assets/268503
+      5:
+        url_poster: https://theposterdb.com/api/assets/268504
+      6:
+        url_poster: https://theposterdb.com/api/assets/268505
+      7:
+        url_poster: https://theposterdb.com/api/assets/268506
