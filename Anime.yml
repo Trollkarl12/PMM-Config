@@ -4150,6 +4150,11 @@ metadata:
   Sirius the Jaeger:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/83278
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/522694
+      1:
+        url_poster: https://theposterdb.com/api/assets/522695
 
   Skeleton Knight in Another World:
     year: 2022
