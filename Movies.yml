@@ -1485,7 +1485,7 @@ metadata:
   tt12037194:
     url_poster: https://theposterdb.com/api/assets/465630
 
-  # The Man With No Name
+  # The Man With No Name https://theposterdb.com/set/102401
   # A Fistful of Dollars
   tt0058461:
     url_poster: https://theposterdb.com/api/assets/167249
@@ -1495,6 +1495,9 @@ metadata:
   # The Good, the Bad and the Ugly
   tt0060196:
     url_poster: https://theposterdb.com/api/assets/167245
+  # Unforgiven
+  tt0105695:
+    url_poster: https://theposterdb.com/api/assets/169641
 
   # Marvel Cinematic Universe https://theposterdb.com/set/99475
   # Blade
