@@ -111,6 +111,20 @@ metadata:
   tt1630029:
     url_poster: https://theposterdb.com/api/assets/267822
 
+  # Bad Boys https://theposterdb.com/set/282989
+  # Bad Boys
+  tt0112442:
+    url_poster: https://theposterdb.com/api/assets/510345
+  # Bad Boys II
+  tt0172156:
+    url_poster: https://theposterdb.com/api/assets/510343
+  # Bad Boys for Life
+  tt1502397:
+    url_poster: https://theposterdb.com/api/assets/510344
+  # Bad Boys: Ride or Die
+  tt4919268:
+    url_poster: https://theposterdb.com/api/assets/510342
+
   # Back To The Future https://theposterdb.com/set/55546
   # Back to the Future
   tt0088763:
