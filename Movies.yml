@@ -3444,6 +3444,9 @@ metadata:
   "Mishima: A Life in Four Chapters":
     year: 1984
     url_poster: https://theposterdb.com/api/assets/110843
+  Moon:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/6459
   Moonlight:
     year: 2015
     url_poster: https://theposterdb.com/api/assets/57739
