@@ -3681,6 +3681,12 @@ metadata:
   Prisoners:
     year: 2013
     url_poster: https://theposterdb.com/api/assets/64296
+  Project A:
+    year: 1983
+    url_poster: https://theposterdb.com/api/assets/191854
+  "Project A: Part II":
+    year: 1987
+    url_poster: https://theposterdb.com/api/assets/193827
   Project X:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/51883
