@@ -2589,6 +2589,14 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/181605
 
+  # Zombieland https://theposterdb.com/set/22318
+  Zombieland:
+    year: 2013
+    url_poster: https://theposterdb.com/api/assets/36533
+  "Zombieland: Double Tap":
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/36534
+
   # Random movies
   "8½":
     year: 1963
