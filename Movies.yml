@@ -240,17 +240,6 @@ metadata:
   tt10160976:
     url_poster: https://theposterdb.com/api/assets/461995
 
-  # Dark Knight
-  # Batman Begins
-  tt0372784:
-    url_poster: https://theposterdb.com/api/assets/22276
-  # The Dark Knight
-  tt0468569:
-    url_poster: https://theposterdb.com/api/assets/22277
-  # The Dark Knight Rises
-  tt1345836:
-    url_poster: https://theposterdb.com/api/assets/22278
-
   # The Chronicles of Narnia https://theposterdb.com/set/46
   # The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
   tt0363771:
@@ -261,6 +250,17 @@ metadata:
   # The Chronicles of Narnia: The Voyage of the Dawn Treader
   tt0980970:
     url_poster: https://theposterdb.com/api/assets/153
+
+  # Dark Knight
+  # Batman Begins
+  tt0372784:
+    url_poster: https://theposterdb.com/api/assets/22276
+  # The Dark Knight
+  tt0468569:
+    url_poster: https://theposterdb.com/api/assets/22277
+  # The Dark Knight Rises
+  tt1345836:
+    url_poster: https://theposterdb.com/api/assets/22278
 
   # DCEU - https://theposterdb.com/set/25189
   # Man of Steel
@@ -317,6 +317,23 @@ metadata:
   # Aquaman and the Lost Kingdom
   tt9663764:
     url_poster: https://theposterdb.com/api/assets/453625
+
+  # Die Hard https://theposterdb.com/set/173
+  # Die Hard 
+  tt0095016:
+    url_poster: https://theposterdb.com/api/assets/720
+  # Die Hard 2
+  tt0099423:
+    url_poster: https://theposterdb.com/api/assets/721
+  # Die Hard: With a Vengeance
+  tt0112864:
+    url_poster: https://theposterdb.com/api/assets/722
+  # Live Free or Die Hard
+  tt0337978:
+    url_poster: https://theposterdb.com/api/assets/723
+  # A Good Day to Die Hard
+  tt1606378:
+    url_poster: https://theposterdb.com/api/assets/724
 
   # Disney Animation Studios https://theposterdb.com/set/52224
   # Snow White and the Seven Dwarfs
