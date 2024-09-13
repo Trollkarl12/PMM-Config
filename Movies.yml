@@ -2205,6 +2205,17 @@ metadata:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/7680
 
+  # Rush Hour https://theposterdb.com/set/52680
+  Rush Hour:
+    year: 1998
+    url_poster: https://theposterdb.com/api/assets/82709
+  Rush Hour 2:
+    year: 2001
+    url_poster: https://theposterdb.com/api/assets/82710
+  Rush Hour 3:
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/82711
+
   # Samurai https://theposterdb.com/set/67529
   "Samurai I: Musashi Miyamoto":
     year: 1954
