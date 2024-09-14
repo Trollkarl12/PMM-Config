@@ -2591,7 +2591,7 @@ metadata:
 
   # Zombieland https://theposterdb.com/set/22318
   Zombieland:
-    year: 2013
+    year: 2009
     url_poster: https://theposterdb.com/api/assets/36533
   "Zombieland: Double Tap":
     year: 2019
@@ -2697,6 +2697,9 @@ metadata:
   Apocalypse Now:
     year: 1979
     url_poster: https://theposterdb.com/api/assets/32549
+  Argo:
+    year: 2012
+    url_poster: https://theposterdb.com/api/assets/466838
   Argylle:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/442559
