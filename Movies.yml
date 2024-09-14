@@ -2145,6 +2145,14 @@ metadata:
     year: 2019
     url_poster: https://theposterdb.com/api/assets/2620
 
+  # Red Cliff https://theposterdb.com/set/59114
+  Red Cliff:
+    year: 2008
+    url_poster: https://theposterdb.com/api/assets/93009
+  Red Cliff II:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/93010
+
   # Resident Evil https://theposterdb.com/set/5593
   Resident Evil:
     year: 2002
@@ -3773,9 +3781,6 @@ metadata:
   "Rebel Moon - Part One: A Child of Fire":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/446039
-  Red Cliff:
-    year: 2008
-    url_poster: https://theposterdb.com/api/assets/93009
   Red Notice:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/189422
