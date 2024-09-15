@@ -152,3 +152,5 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls569426883/
     url_poster: https://theposterdb.com/api/assets/247045
+  Police Academy:
+    template: {name: Collection, collection: 9338, poster: https://theposterdb.com/api/assets/217968}
