@@ -2209,3 +2209,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/406555
       13:
         url_poster: https://theposterdb.com/api/assets/406556
+
+  # Those About to Die
+  tt10569934:
+    url_poster: https://theposterdb.com/api/assets/503423
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/503424
