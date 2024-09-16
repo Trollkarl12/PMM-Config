@@ -1305,20 +1305,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/464535
 
-  # The Grand Tour https://theposterdb.com/set/163363
+  # The Grand Tour 
   tt5712554:
-    url_poster: https://theposterdb.com/api/assets/274513
+    url_poster: https://theposterdb.com/api/assets/524963
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/274514
+        url_poster: https://theposterdb.com/api/assets/524964
       2:
-        url_poster: https://theposterdb.com/api/assets/274515
+        url_poster: https://theposterdb.com/api/assets/524965
       3:
-        url_poster: https://theposterdb.com/api/assets/274516
+        url_poster: https://theposterdb.com/api/assets/524966
       4:
-        url_poster: https://theposterdb.com/api/assets/274517
+        url_poster: https://theposterdb.com/api/assets/524967
       5:
-        url_poster: https://theposterdb.com/api/assets/274518
+        url_poster: https://theposterdb.com/api/assets/524968
+      6:
+        url_poster: https://theposterdb.com/api/assets/524969
 
   # Halo
   tt2934286:
