@@ -2644,6 +2644,83 @@ metadata:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/181605
 
+  # Zatoichi: The Blind Swordsman https://theposterdb.com/set/42906
+  # The Tale of Zatoichi
+  tt0056714:
+    url_poster: https://theposterdb.com/api/assets/67621
+  # The Tale of Zatoichi Continues
+  tt0200309:
+    url_poster: https://theposterdb.com/api/assets/67622
+  # New Tale of Zatoichi
+  tt0057503:
+    url_poster: https://theposterdb.com/api/assets/67623
+  # Zatoichi the Fugitive
+  tt0057715:
+    url_poster: https://theposterdb.com/api/assets/67624
+  # Zatoichi on the Road
+  tt0057714:
+    url_poster: https://theposterdb.com/api/assets/67625
+  # Zatoichi and the Chest of Gold
+  tt0130377:
+    url_poster: https://theposterdb.com/api/assets/67626
+  # Zatoichi's Flashing Sword
+  tt0191664:
+    url_poster: https://theposterdb.com/api/assets/67627
+  # Fight, Zatoichi, Fight
+  tt0123334:
+    url_poster: https://theposterdb.com/api/assets/67628
+  # Adventures of Zatoichi
+  tt0164984:
+    url_poster: https://theposterdb.com/api/assets/67629
+  # Zatoichi's Revenge
+  tt0123335:
+    url_poster: https://theposterdb.com/api/assets/67630
+  # Zatoichi and the Doomed Man
+  tt0202154:
+    url_poster: https://theposterdb.com/api/assets/67631
+  # Zatoichi and the Chess Expert
+  tt0059942:
+    url_poster: https://theposterdb.com/api/assets/67632
+  # Zatoichi's Vengeance
+  tt0143012:
+    url_poster: https://theposterdb.com/api/assets/67633
+  # Zatoichi's Pilgrimage
+  tt0199905:
+    url_poster: https://theposterdb.com/api/assets/67634
+  # Zatoichi's Cane Sword
+  tt0186725:
+    url_poster: https://theposterdb.com/api/assets/67635
+  # Zatoichi the Outlaw
+  tt0062518:
+    url_poster: https://theposterdb.com/api/assets/67636
+  # Zatoichi Challenged
+  tt0063834:
+    url_poster: https://theposterdb.com/api/assets/67637
+  # Zatoichi and the Fugitives
+  tt0063835:
+    url_poster: https://theposterdb.com/api/assets/67638
+  # Samaritan Zatoichi
+  tt0164983:
+    url_poster: https://theposterdb.com/api/assets/67639
+  # Zatoichi Meets Yojimbo
+  tt0066603:
+    url_poster: https://theposterdb.com/api/assets/67640
+  # Zatoichi Goes to the Fire Festival
+  tt0164982:
+    url_poster: https://theposterdb.com/api/assets/67641
+  # Zatoichi Meets the One-Armed Swordsman
+  tt0066602:
+    url_poster: https://theposterdb.com/api/assets/67642
+  # Zatoichi at Large
+  tt0202153:
+    url_poster: https://theposterdb.com/api/assets/67643
+  # Zatoichi in Desperation
+  tt0201922:
+    url_poster: https://theposterdb.com/api/assets/67644
+  # Zatoichi's Conspiracy
+  tt0072439:
+    url_poster: https://theposterdb.com/api/assets/67645
+
   # Zombieland https://theposterdb.com/set/22318
   Zombieland:
     year: 2009

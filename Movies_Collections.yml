@@ -154,3 +154,5 @@ collections:
     url_poster: https://theposterdb.com/api/assets/247045
   Police Academy:
     template: {name: Collection, collection: 9338, poster: https://theposterdb.com/api/assets/217968}
+  "Zatoichi: The Blind Swordsman":
+    template: {name: Collection, collection: 96887, poster: https://theposterdb.com/api/assets/67352}
