@@ -259,6 +259,14 @@ metadata:
   tt0980970:
     url_poster: https://theposterdb.com/api/assets/153
 
+  # Crouching Tiger, Hidden Dragon https://theposterdb.com/set/112908
+  # Crouching Tiger, Hidden Dragon
+  tt0190332:
+    url_poster: https://theposterdb.com/api/assets/186220
+  # Crouching Tiger, Hidden Dragon: Sword of Destiny
+  tt2652118:
+    url_poster: https://theposterdb.com/api/assets/186221
+
   # Dark Knight
   # Batman Begins
   tt0372784:
@@ -2927,9 +2935,6 @@ metadata:
   The Creator:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/413414
-  Crouching Tiger, Hidden Dragon:
-    year: 2000
-    url_poster: https://theposterdb.com/api/assets/82004
   The Curious Case of Benjamin Button:
     year: 2008
     url_poster: https://theposterdb.com/api/assets/500785
