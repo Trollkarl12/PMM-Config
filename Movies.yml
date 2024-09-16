@@ -2511,6 +2511,14 @@ metadata:
   tt2763304:
     url_poster: https://theposterdb.com/api/assets/157704
 
+  # Train to Busan https://theposterdb.com/set/61023
+  # Train to Busan
+  tt5700672:
+    url_poster: https://theposterdb.com/api/assets/96439
+  # Peninsula
+  tt8850222:
+    url_poster: https://theposterdb.com/api/assets/96440
+
   # Transformers https://theposterdb.com/set/97513
   Transformers:
     year: 2007
@@ -4041,9 +4049,6 @@ metadata:
   Tora! Tora! Tora!:
     year: 1970
     url_poster: https://theposterdb.com/api/assets/18758
-  Train to Busan:
-    year: 2016
-    url_poster: https://theposterdb.com/api/assets/96439
   Trap:
     year: 2024
     url_poster: https://theposterdb.com/api/assets/504958
