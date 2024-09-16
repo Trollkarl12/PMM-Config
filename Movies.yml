@@ -2932,6 +2932,15 @@ metadata:
   Constantine:
     year: 2005
     url_poster: https://theposterdb.com/api/assets/65739
+  The Conversation:
+    year: 1974
+    url_poster: https://theposterdb.com/api/assets/499080
+  Coraline:
+    year: 2009
+    url_poster: https://theposterdb.com/api/assets/12034
+  Corpse Bride:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/15408
   The Creator:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/413414
@@ -3049,6 +3058,9 @@ metadata:
   Empire of the Sun:
     year: 1987
     url_poster: https://theposterdb.com/api/assets/53824
+  Enter the Dragon:
+    year: 1973
+    url_poster: https://theposterdb.com/api/assets/30556
   Eraserhead:
     year: 1978
     url_poster: https://theposterdb.com/api/assets/435886
@@ -3568,6 +3580,9 @@ metadata:
   A Man Escaped:
     year: 1956
     url_poster: https://theposterdb.com/api/assets/92042
+  The Man from U.N.C.L.E.:
+    year: 2015
+    url_poster: https://theposterdb.com/api/assets/55042
   The Man in the Iron Mask:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/369700
@@ -3592,6 +3607,9 @@ metadata:
   Memento:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/52628
+  Memoirs of a Geisha:
+    year: 2005
+    url_poster: https://theposterdb.com/api/assets/191510
   Memories of Murder:
     year: 2003
     url_poster: https://theposterdb.com/api/assets/220031
@@ -3808,6 +3826,9 @@ metadata:
   Pulp Fiction:
     year: 1994
     url_poster: https://theposterdb.com/api/assets/31972
+  Purple Rain:
+    year: 1984
+    url_poster: https://theposterdb.com/api/assets/448995
   Raging Bull:
     year: 1980
     url_poster: https://theposterdb.com/api/assets/54259
@@ -3823,6 +3844,9 @@ metadata:
   "Rebel Moon - Part One: A Child of Fire":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/446039
+  Rebel Without a Cause:
+    year: 1955
+    url_poster: https://theposterdb.com/api/assets/308364
   Red Notice:
     year: 2021
     url_poster: https://theposterdb.com/api/assets/189422
@@ -3943,6 +3967,9 @@ metadata:
   Solaris:
     year: 1972
     url_poster: https://theposterdb.com/api/assets/64496
+  Some Like It Hot:
+    year: 1959
+    url_poster: https://theposterdb.com/api/assets/456780
   Sorry to Bother You:
     year: 2018
     url_poster: https://theposterdb.com/api/assets/117909
@@ -4111,6 +4138,9 @@ metadata:
   The Virgin Suicides:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/492827
+  The Wages of Fear:
+    year: 1953
+    url_poster: https://theposterdb.com/api/assets/476726
   The Wailing:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/454394
@@ -4150,6 +4180,9 @@ metadata:
   "White Men Can't Jump":
     year: 2023
     url_poster: https://theposterdb.com/api/assets/364513
+  Willy Wonka & the Chocolate Factory:
+    year: 1971
+    url_poster: https://theposterdb.com/api/assets/163439
   Wings of Desire:
     year: 1983
     url_poster: https://theposterdb.com/api/assets/19598
