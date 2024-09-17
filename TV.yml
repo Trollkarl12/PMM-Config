@@ -2056,10 +2056,12 @@ metadata:
 
   # Tulsa King
   tt16358384:
-    url_poster: https://theposterdb.com/api/assets/304240
+    url_poster: https://theposterdb.com/api/assets/284193
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/304241
+        url_poster: https://theposterdb.com/api/assets/284194
+      2:
+        url_poster: https://theposterdb.com/api/assets/517235
 
   # PEN15
   tt8324422:
