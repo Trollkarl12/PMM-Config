@@ -2747,6 +2747,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36534
 
   # Random movies
+  "3:10 to Yuma":
+    year: 2007
+    url_poster: https://theposterdb.com/api/assets/169056
   "8½":
     year: 1963
     url_poster: https://theposterdb.com/api/assets/97929
