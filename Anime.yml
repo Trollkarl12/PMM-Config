@@ -7783,6 +7783,8 @@ metadata:
   tt32639706:
     url_poster: https://theposterdb.com/api/assets/506827
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/525461
       1:
         url_poster: https://theposterdb.com/api/assets/506828
 
@@ -7799,3 +7801,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/517103
+
+  # Loner Life in Another World 
+  tt32512773:
+    url_poster: https://theposterdb.com/api/assets/525463
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/525464
