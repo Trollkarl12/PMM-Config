@@ -1111,6 +1111,13 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/387289
 
+  # Dexter: New Blood
+  tt14164730:
+    url_poster: https://theposterdb.com/api/assets/387292
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/387293
+
   # A Discovery of Witches
   tt2177461:
     url_poster: https://theposterdb.com/api/assets/131461
