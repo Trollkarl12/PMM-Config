@@ -47,7 +47,7 @@ collections:
   Highlander:
     template: {name: Collection, collection: 8050, poster: https://theposterdb.com/api/assets/189434}
   Home Alone:
-    template: {name: Collection, collection: 9888, poster: https://theposterdb.com/api/assets/23878}
+    template: {name: Collection, collection: 9888, poster: https://theposterdb.com/api/assets/50687}
   The Hunger Games:
     template: {name: Collection, collection: 131635, poster: https://theposterdb.com/api/assets/31012}
   Indiana Jones:
