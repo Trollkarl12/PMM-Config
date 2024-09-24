@@ -2017,89 +2017,89 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/71939
 
   # Pixar Animation Studios https://theposterdb.com/set/38813
-  Toy Story:
-    year: 1995
+  # Toy Story
+  tt0114709:
     url_poster: https://theposterdb.com/api/assets/60686
-  "A Bug's Life":
-    year: 1998
+  # A Bug's Life
+  tt0120623:
     url_poster: https://theposterdb.com/api/assets/60687
-  Toy Story 2:
-    year: 1999
+  # Toy Story 2
+  tt0120363:
     url_poster: https://theposterdb.com/api/assets/60688
-  Monsters, Inc.:
-    year: 2001
+  # Monsters, Inc.
+  tt0198781:
     url_poster: https://theposterdb.com/api/assets/60689
-  Finding Nemo:
-    year: 2003
+  # Finding Nemo
+  tt0266543:
     url_poster: https://theposterdb.com/api/assets/60690
-  The Incredibles:
-    year: 2004
+  # The Incredibles
+  tt0317705:
     url_poster: https://theposterdb.com/api/assets/60691
-  Cars:
-    year: 2006
+  # Cars
+  tt0317219:
     url_poster: https://theposterdb.com/api/assets/60692
-  Ratatouille:
-    year: 2007
+  # Ratatouille
+  tt0382932:
     url_poster: https://theposterdb.com/api/assets/60693
-  "WALL·E":
-    year: 2008
+  # WALL·E
+  tt0910970:
     url_poster: https://theposterdb.com/api/assets/60694
-  Up:
-    year: 2009
+  # Up
+  tt1049413:
     url_poster: https://theposterdb.com/api/assets/60695
-  Toy Story 3:
-    year: 2010
+  # Toy Story 3
+  tt0435761:
     url_poster: https://theposterdb.com/api/assets/60696
-  Cars 2:
-    year: 2011
+  # Cars 2
+  tt1216475:
     url_poster: https://theposterdb.com/api/assets/60697
-  Brave:
-    year: 2012
+  # Brave
+  tt1217209:
     url_poster: https://theposterdb.com/api/assets/60698
-  Monsters University:
-    year: 2013
+  # Monsters University
+  tt1453405:
     url_poster: https://theposterdb.com/api/assets/60699
-  Inside Out:
-    year: 2015
+  # Inside Out
+  tt2096673:
     url_poster: https://theposterdb.com/api/assets/60700
-  The Good Dinosaur:
-    year: 2015
+  # The Good Dinosaur
+  tt1979388:
     url_poster: https://theposterdb.com/api/assets/60701
-  Finding Dory:
-    year: 2016
+  # Finding Dory
+  tt2277860:
     url_poster: https://theposterdb.com/api/assets/60702
-  Cars 3:
-    year: 2017
+  # Cars 3
+  tt3606752:
     url_poster: https://theposterdb.com/api/assets/60703
-  Coco:
-    year: 2017
+  # Coco
+  tt2380307:
     url_poster: https://theposterdb.com/api/assets/60704
-  Incredibles 2:
-    year: 2018
+  # Incredibles 2
+  tt3606756:
     url_poster: https://theposterdb.com/api/assets/60705
-  Toy Story 4:
-    year: 2019
+  # Toy Story 4
+  tt1979376:
     url_poster: https://theposterdb.com/api/assets/60706
-  Onward:
-    year: 2020
+  # Onward
+  tt7146812:
     url_poster: https://theposterdb.com/api/assets/60707
-  Soul:
-    year: 2020
+  # Soul
+  tt2948372:
     url_poster: https://theposterdb.com/api/assets/218900
-  Luca:
-    year: 2021
+  # Luca
+  tt12801262:
     url_poster: https://theposterdb.com/api/assets/218894
-  Turning Red:
-    year: 2022
+  # Turning Red
+  tt8097030:
     url_poster: https://theposterdb.com/api/assets/218895
-  Lightyear:
-    year: 2022
+  # Lightyear
+  tt10298810:
     url_poster: https://theposterdb.com/api/assets/218896
-  Elemental:
-    year: 2023
+  # Elemental
+  tt15789038:
     url_poster: https://theposterdb.com/api/assets/397811
-  Inside Out 2:
-    year: 2024
+  # Inside Out 2
+  tt22022452:
     url_poster: https://theposterdb.com/api/assets/494002
 
   # Planet of the Apes https://theposterdb.com/set/86302
@@ -2163,129 +2163,129 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/284140
 
   # The Purge
-  The Purge:
-    year: 2013
+  # The Purge
+  tt2184339:
     url_poster: https://theposterdb.com/api/assets/5945
-  "The Purge: Anarchy":
-    year: 2014
+  # The Purge: Anarchy
+  tt2975578:
     url_poster: https://theposterdb.com/api/assets/5946
-  "The Purge: Election Year":
-    year: 2016
+  # The Purge: Election Year
+  tt4094724:
     url_poster: https://theposterdb.com/api/assets/5947
-  The First Purge:
-    year: 2018
+  # The First Purge
+  tt6133466:
     url_poster: https://theposterdb.com/api/assets/5948
 
   # A Quiet Place https://theposterdb.com/set/23690
-  A Quiet Place:
-    year: 2018
+  # A Quiet Place
+  tt6644200:
     url_poster: https://theposterdb.com/api/assets/38788
-  A Quiet Place Part II:
-    year: 2021
+  # A Quiet Place Part II
+  tt8332922:
     url_poster: https://theposterdb.com/api/assets/38789
 
   # Rambo
-  First Blood:
-    year: 1982
+  # First Blood
+  tt0083944:
     url_poster: https://theposterdb.com/api/assets/2613
-  "Rambo: First Blood Part II":
-    year: 1985
+  # Rambo: First Blood Part II
+  tt0089880:
     url_poster: https://theposterdb.com/api/assets/2615
-  Rambo III:
-    year: 1988
+  # Rambo III
+  tt0095956:
     url_poster: https://theposterdb.com/api/assets/2617
-  Rambo:
-    year: 2008
+  # Rambo
+  tt0462499:
     url_poster: https://theposterdb.com/api/assets/2619
-  "Rambo: Last Blood":
-    year: 2019
+  # Rambo: Last Blood
+  tt1206885:
     url_poster: https://theposterdb.com/api/assets/2620
 
   # Red Cliff https://theposterdb.com/set/59114
-  Red Cliff:
-    year: 2008
+  # Red Cliff
+  tt0425637:
     url_poster: https://theposterdb.com/api/assets/93009
-  Red Cliff II:
-    year: 2009
+  # Red Cliff II
+  tt1326972:
     url_poster: https://theposterdb.com/api/assets/93010
 
   # Resident Evil https://theposterdb.com/set/5593
-  Resident Evil:
-    year: 2002
+  # Resident Evil
+  tt0120804:
     url_poster: https://theposterdb.com/api/assets/11304
-  "Resident Evil: Apocalypse":
-    year: 2004
+  # Resident Evil: Apocalypse
+  tt0318627:
     url_poster: https://theposterdb.com/api/assets/11305
-  "Resident Evil: Extinction":
-    year: 2007
+  # Resident Evil: Extinction
+  tt0432021:
     url_poster: https://theposterdb.com/api/assets/11306
-  "Resident Evil: Afterlife":
-    year: 2010
+  # Resident Evil: Afterlife
+  tt1220634:
     url_poster: https://theposterdb.com/api/assets/11307
-  "Resident Evil: Retribution":
-    year: 2012
+  # Resident Evil: Retribution
+  tt1855325:
     url_poster: https://theposterdb.com/api/assets/11308
-  "Resident Evil: The Final Chapter":
-    year: 2016
+  # Resident Evil: The Final Chapter
+  tt2592614:
     url_poster: https://theposterdb.com/api/assets/11309
-  "Resident Evil: Welcome to Raccoon City":
-    year: 2021
+  # Resident Evil: Welcome to Raccoon City
+  tt6920084:
     url_poster: https://theposterdb.com/api/assets/251418
 
   # Rocky https://theposterdb.com/set/34803
-  Rocky:
-    year: 1976
+  # Rocky
+  tt0075148:
     url_poster: https://theposterdb.com/api/assets/54536
-  Rocky II:
-    year: 1979
+  # Rocky II
+  tt0079817:
     url_poster: https://theposterdb.com/api/assets/54537
-  Rocky III:
-    year: 1982
+  # Rocky III
+  tt0084602:
     url_poster: https://theposterdb.com/api/assets/54538
-  Rocky IV:
-    year: 1985
+  # Rocky IV
+  tt0089927:
     url_poster: https://theposterdb.com/api/assets/54539
-  Rocky V:
-    year: 1990
+  # Rocky V
+  tt0100507:
     url_poster: https://theposterdb.com/api/assets/54540
-  Rocky Balboa:
-    year: 2006
+  # Rocky Balboa
+  tt0479143:
     url_poster: https://theposterdb.com/api/assets/54541
 
   # Robert Langdon https://theposterdb.com/set/230
-  The Da Vinci Code:
-    year: 2006
+  # The Da Vinci Code
+  tt0382625:
     url_poster: https://theposterdb.com/api/assets/842
-  Angels & Demons:
-    year: 2009
+  # Angels & Demons
+  tt0808151:
     url_poster: https://theposterdb.com/api/assets/843
-  Inferno:
-    year: 2016
+  # Inferno
+  tt3062096:
     url_poster: https://theposterdb.com/api/assets/844
 
   # Ringu https://theposterdb.com/set/3153
-  Ringu:
-    year: 1998
+  # Ringu
+  tt0178868:
     url_poster: https://theposterdb.com/api/assets/7677
-  Spiral:
-    year: 1998
+  # Spiral
+  tt0134928:
     url_poster: https://theposterdb.com/api/assets/7678
-  Ringu 2:
-    year: 1999
+  # Ringu 2
+  tt0218553:
     url_poster: https://theposterdb.com/api/assets/7679
-  Ringu 0:
-    year: 2000
+  # Ringu 0
+  tt0235712:
     url_poster: https://theposterdb.com/api/assets/7680
 
   # Rush Hour https://theposterdb.com/set/52680
-  Rush Hour:
-    year: 1998
+  # Rush Hour
+  tt0120812:
     url_poster: https://theposterdb.com/api/assets/82709
-  Rush Hour 2:
-    year: 2001
+  # Rush Hour 2
+  tt0266915:
     url_poster: https://theposterdb.com/api/assets/82710
-  Rush Hour 3:
-    year: 2007
+  # Rush Hour 3
+  tt0293564:
     url_poster: https://theposterdb.com/api/assets/82711
 
   # Samurai https://theposterdb.com/set/67529
