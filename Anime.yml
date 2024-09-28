@@ -6765,12 +6765,12 @@ metadata:
 
   Nana:
     year: 2006
-    url_poster: https://theposterdb.com/api/assets/217642
+    url_poster: https://theposterdb.com/api/assets/528348
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/217643
+        url_poster: https://theposterdb.com/api/assets/528349
       1:
-        url_poster: https://theposterdb.com/api/assets/217644
+        url_poster: https://theposterdb.com/api/assets/528350
 
   Slam Dunk:
     year: 1993
@@ -6925,6 +6925,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/477190
       1:
         url_poster: https://theposterdb.com/api/assets/474030
+      2:
+        url_poster: https://theposterdb.com/api/assets/528034
 
   The Banished Former Hero Lives as He Pleases:
     year: 2024
