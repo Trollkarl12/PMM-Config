@@ -7780,6 +7780,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/521542
 
+  # Loner Life in Another World 
+  tt32512773:
+    url_poster: https://theposterdb.com/api/assets/525463
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/525464
+
+  # Let This Grieving Soul Retire!
+  tt32508529:
+    url_poster: https://theposterdb.com/api/assets/528628
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/528629
+      1:
+        url_poster: https://theposterdb.com/api/assets/528630
+
   # Not yet released
   # Blue Box
   tt32639706:
@@ -7803,13 +7819,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/517103
-
-  # Loner Life in Another World 
-  tt32512773:
-    url_poster: https://theposterdb.com/api/assets/525463
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/525464
 
   # Nina the Starry Bride
   tt32178571:
