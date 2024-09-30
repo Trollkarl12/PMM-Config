@@ -768,6 +768,17 @@ metadata:
   tt3291150:
     url_poster: https://theposterdb.com/api/assets/415569
 
+  # Has Fallen https://theposterdb.com/set/17934
+  # Olympus Has Fallen
+  tt2302755:
+    url_poster: https://theposterdb.com/api/assets/29973
+  # London Has Fallen
+  tt3300542:
+    url_poster: https://theposterdb.com/api/assets/29974
+  # Angel Has Fallen
+  tt6189022:
+    url_poster: https://theposterdb.com/api/assets/29975
+
   # Films by Akira Kurosawa
   # Sanshiro Sugata
   tt0036400:
