@@ -695,6 +695,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/378227
+      2:
+        url_poster: https://theposterdb.com/api/assets/529067
 
   # Random Anime shows 
   # Queen's Blade
@@ -2409,9 +2411,13 @@ metadata:
     year: 2017
     url_poster: https://theposterdb.com/api/assets/485181
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/529096
       1:
         url_poster: https://theposterdb.com/api/assets/485182
- 
+      2:
+        url_poster: https://theposterdb.com/api/assets/529097
+
   The Great Cleric:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/379803
@@ -5447,6 +5453,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/432007
+      2:
+        url_poster: https://theposterdb.com/api/assets/529066
 
   Rage of Bahamut:
     year: 2014
@@ -7804,6 +7812,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/528838
       1:
         url_poster: https://theposterdb.com/api/assets/528839
+
+  # The Most Notorious "Talker" Runs the World's Greatest Clan
+  tt32501772:
+    url_poster: https://theposterdb.com/api/assets/529076
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/529077
 
   # Not yet released
   # Blue Box
