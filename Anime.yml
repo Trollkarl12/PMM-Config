@@ -7831,6 +7831,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/529347
 
+  # Acro Trip
+  tt32986702:
+    url_poster: https://theposterdb.com/api/assets/530064
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/530065
+      1:
+        url_poster: https://theposterdb.com/api/assets/530066
+
   # Not yet released
   # Blue Box
   tt32639706:
