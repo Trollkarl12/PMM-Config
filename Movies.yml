@@ -2545,6 +2545,17 @@ metadata:
   "Terminator: Dark Fate":
     url_poster: https://theposterdb.com/api/assets/151297
 
+  # Terrifier https://theposterdb.com/set/289872
+  # Terrifier
+  tt4281724:
+    url_poster: https://theposterdb.com/api/assets/521649
+  # Terrifier 2
+  tt10403420:
+    url_poster: https://theposterdb.com/api/assets/521648
+  # Terrifier 3
+  tt27911000:
+    url_poster: https://theposterdb.com/api/assets/521647
+
   # Tomb Raider
   # Lara Croft: Tomb Raider
   tt0146316:
