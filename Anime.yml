@@ -3844,14 +3844,16 @@ metadata:
 
   Re:ZERO -Starting Life in Another World-:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/122326
+    url_poster: https://theposterdb.com/api/assets/415214
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/122327
+        url_poster: https://theposterdb.com/api/assets/415215
       1:
-        url_poster: https://theposterdb.com/api/assets/122328
+        url_poster: https://theposterdb.com/api/assets/415216
       2:
-        url_poster: https://theposterdb.com/api/assets/122329
+        url_poster: https://theposterdb.com/api/assets/415217
+      3:
+        url_poster: https://theposterdb.com/api/assets/472336
 
   Reborn as a Vending Machine, I Now Wander the Dungeon:
     year: 2023
