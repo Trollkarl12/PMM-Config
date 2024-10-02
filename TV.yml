@@ -2236,3 +2236,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/526095
+
+  # All of Us Are Dead
+  tt14169960:
+    url_poster: https://theposterdb.com/api/assets/208599
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/208600
