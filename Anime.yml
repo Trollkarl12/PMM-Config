@@ -2815,18 +2815,20 @@ metadata:
 
   Is It Wrong to Try to Pick Up Girls in a Dungeon?:
     year: 2015
-    url_poster: https://theposterdb.com/api/assets/304930
+    url_poster: https://theposterdb.com/api/assets/450233
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/252884
+        url_poster: https://theposterdb.com/api/assets/450234
       1:
-        url_poster: https://theposterdb.com/api/assets/252885
+        url_poster: https://theposterdb.com/api/assets/450235
       2:
-        url_poster: https://theposterdb.com/api/assets/252886
+        url_poster: https://theposterdb.com/api/assets/450236
       3:
-        url_poster: https://theposterdb.com/api/assets/252887
+        url_poster: https://theposterdb.com/api/assets/450237
       4:
-        url_poster: https://theposterdb.com/api/assets/252888
+        url_poster: https://theposterdb.com/api/assets/450238
+      5:
+        url_poster: https://theposterdb.com/api/assets/450239
 
   "Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria":
     year: 2017
