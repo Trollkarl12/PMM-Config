@@ -2243,3 +2243,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/208600
+
+  # Mr Inbetween
+  tt7472896:
+    url_poster: https://theposterdb.com/api/assets/230287
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/230288
+      2:
+        url_poster: https://theposterdb.com/api/assets/230289
+      3:
+        url_poster: https://theposterdb.com/api/assets/230290
