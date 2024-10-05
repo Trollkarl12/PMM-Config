@@ -7874,6 +7874,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/521490
 
+  # The Piano Forest
+  tt8043492:
+    url_poster: https://theposterdb.com/api/assets/531021
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/531022
+      1:
+        url_poster: https://theposterdb.com/api/assets/531023
+      2:
+        url_poster: https://theposterdb.com/api/assets/531024
+
   # Not yet released
   # Blue Box
   tt32639706:
