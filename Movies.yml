@@ -2190,13 +2190,16 @@ metadata:
   tt6133466:
     url_poster: https://theposterdb.com/api/assets/5948
 
-  # A Quiet Place https://theposterdb.com/set/23690
+  # A Quiet Place https://theposterdb.com/set/283512
   # A Quiet Place
   tt6644200:
-    url_poster: https://theposterdb.com/api/assets/38788
+    url_poster: https://theposterdb.com/api/assets/511154
   # A Quiet Place Part II
   tt8332922:
-    url_poster: https://theposterdb.com/api/assets/38789
+    url_poster: https://theposterdb.com/api/assets/511155
+  # A Quiet Place: Day One
+  tt13433802:
+    url_poster: https://theposterdb.com/api/assets/511156
 
   # Rambo
   # First Blood
