@@ -675,6 +675,35 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/323018
 
+  # Ranma
+  # Ranma ½
+  tt0096686:
+    url_poster: https://theposterdb.com/api/assets/203705
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/98605
+      1:
+        url_poster: https://theposterdb.com/api/assets/98606
+      2:
+        url_poster: https://theposterdb.com/api/assets/259677
+      3:
+        url_poster: https://theposterdb.com/api/assets/259678
+      4:
+        url_poster: https://theposterdb.com/api/assets/259679
+      5:
+        url_poster: https://theposterdb.com/api/assets/259680
+      6:
+        url_poster: https://theposterdb.com/api/assets/259681
+      7:
+        url_poster: https://theposterdb.com/api/assets/259682
+
+  # Ranma1/2 (2024)
+  tt32766897:
+    url_poster: https://theposterdb.com/api/assets/531294
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/531295
+
   # Rurouni Kenshin
   # Rurouni Kenshin
   tt0182629:
@@ -1011,27 +1040,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/145529
       2:
         url_poster: https://theposterdb.com/api/assets/145530
-
-  # Ranma ½
-  tt0096686:
-    url_poster: https://theposterdb.com/api/assets/203705
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/98605
-      1:
-        url_poster: https://theposterdb.com/api/assets/98606
-      2:
-        url_poster: https://theposterdb.com/api/assets/259677
-      3:
-        url_poster: https://theposterdb.com/api/assets/259678
-      4:
-        url_poster: https://theposterdb.com/api/assets/259679
-      5:
-        url_poster: https://theposterdb.com/api/assets/259680
-      6:
-        url_poster: https://theposterdb.com/api/assets/259681
-      7:
-        url_poster: https://theposterdb.com/api/assets/259682
 
   # Natsume's Book of Friends
   tt1352421:
@@ -7414,6 +7422,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/499739
       1:
         url_poster: https://theposterdb.com/api/assets/499740
+      2:
+        url_poster: https://theposterdb.com/api/assets/500382
 
   Hamatora:
     year: 2014
@@ -7905,13 +7915,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/531411
-
-  # Ranma1/2 (2024)
-  tt32766897:
-    url_poster: https://theposterdb.com/api/assets/531294
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/531295
 
   # Not yet released
   # Blue Box
