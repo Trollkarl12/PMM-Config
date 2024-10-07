@@ -7915,8 +7915,31 @@ metadata:
   tt32510166:
     url_poster: https://theposterdb.com/api/assets/531410
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/531733
       1:
         url_poster: https://theposterdb.com/api/assets/531411
+
+  # Yakuza Fiancé: Raise wa Tanin ga Ii
+  tt32792739:
+    url_poster: https://theposterdb.com/api/assets/531731
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/531732
+
+  # TsumaSho: If My Wife Becomes an Elementary School Student.
+  tt32832434:
+    url_poster: https://theposterdb.com/api/assets/531749
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/531750
+
+  # Nina the Starry Bride
+  tt32178571:
+    url_poster: https://theposterdb.com/api/assets/526078
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/526079
 
   # Not yet released
   # Blue Box
@@ -7934,10 +7957,3 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/517103
-
-  # Nina the Starry Bride
-  tt32178571:
-    url_poster: https://theposterdb.com/api/assets/526078
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/526079
