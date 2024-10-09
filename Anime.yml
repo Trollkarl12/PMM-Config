@@ -7950,6 +7950,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/531924
 
+  # The Do-Over Damsel Conquers the Dragon Emperor
+  tt32524882:
+    url_poster: https://theposterdb.com/api/assets/517102
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/517103
+
   # Not yet released
   # Blue Box
   tt32639706:
@@ -7959,10 +7966,3 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/525461
       1:
         url_poster: https://theposterdb.com/api/assets/506828
-
-  # The Do-Over Damsel Conquers the Dragon Emperor
-  tt32524882:
-    url_poster: https://theposterdb.com/api/assets/517102
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/517103
