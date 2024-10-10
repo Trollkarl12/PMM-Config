@@ -2254,3 +2254,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/230289
       3:
         url_poster: https://theposterdb.com/api/assets/230290
+
+  # The Penthouse: War in Life
+  tt13067118:
+    url_poster: https://theposterdb.com/api/assets/221771
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/221772
+      1:
+        url_poster: https://theposterdb.com/api/assets/221773
+      2:
+        url_poster: https://theposterdb.com/api/assets/221774
+      3:
+        url_poster: https://theposterdb.com/api/assets/221775
