@@ -5186,7 +5186,12 @@ metadata:
 
   Penguindrum:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/240975
+    url_poster: https://theposterdb.com/api/assets/532640
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/532641
+      1:
+        url_poster: https://theposterdb.com/api/assets/532642
 
   Majestic Prince:
     year: 2013
