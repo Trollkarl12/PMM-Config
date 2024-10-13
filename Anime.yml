@@ -7971,6 +7971,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/533098
 
+  # Sky Wizards Academy
+  tt5159084:
+    url_poster: https://theposterdb.com/api/assets/533432
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/533433
+      1:
+        url_poster: https://theposterdb.com/api/assets/533434
+
   # Not yet released
   # Blue Box
   tt32639706:
