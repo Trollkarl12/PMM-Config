@@ -2973,6 +2973,9 @@ metadata:
   The Best Years of Our Lives:
     year: 1947
     url_poster: https://theposterdb.com/api/assets/467621
+  Bicentennial Man:
+    year: 1999
+    url_poster: https://theposterdb.com/api/assets/96890
   The Big Lebowski:
     year: 1998
     url_poster: https://theposterdb.com/api/assets/50649
@@ -3531,6 +3534,9 @@ metadata:
   The Imitation Game:
     year: 2014
     url_poster: https://theposterdb.com/api/assets/81190
+  Immaculate:
+    year: 2024
+    url_poster: https://theposterdb.com/api/assets/483232
   In the Mood for Love:
     year: 2000
     url_poster: https://theposterdb.com/api/assets/98665
@@ -4164,6 +4170,9 @@ metadata:
   Sisu:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/362414
+  Smile:
+    year: 2022
+    url_poster: https://theposterdb.com/api/assets/460895
   Snowden:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/80407
