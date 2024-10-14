@@ -2280,3 +2280,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/433774
       4:
         url_poster: https://theposterdb.com/api/assets/516799
+
+  # Shadow and Bone
+  tt2403776:
+    url_poster: https://theposterdb.com/api/assets/264618
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/264619
+      2:
+        url_poster: https://theposterdb.com/api/assets/321306
