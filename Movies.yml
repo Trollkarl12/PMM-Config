@@ -31,25 +31,28 @@ metadata:
   tt22813112:
     url_poster: https://theposterdb.com/api/assets/497892
 
-  # Alien https://theposterdb.com/set/24729
+  # Alien https://theposterdb.com/set/291827
   # Alien
   tt0078748:
-    url_poster: https://theposterdb.com/api/assets/40346
+    url_poster: https://theposterdb.com/api/assets/525295
   # Aliens
   tt0090605:
-    url_poster: https://theposterdb.com/api/assets/40347
+    url_poster: https://theposterdb.com/api/assets/525294
   # Alien³
   tt0103644:
-    url_poster: https://theposterdb.com/api/assets/40348
+    url_poster: https://theposterdb.com/api/assets/525293
   # Alien Resurrection
   tt0118583:
-    url_poster: https://theposterdb.com/api/assets/40349
+    url_poster: https://theposterdb.com/api/assets/525292
   # Prometheus
   tt1446714:
-    url_poster: https://theposterdb.com/api/assets/40352
+    url_poster: https://theposterdb.com/api/assets/525289
   # Alien: Covenant
   tt2316204:
-    url_poster: https://theposterdb.com/api/assets/40353
+    url_poster: https://theposterdb.com/api/assets/525288
+  # Alien: Romulus
+  tt18412256:
+    url_poster: https://theposterdb.com/api/assets/525287
 
   # Airplane! https://theposterdb.com/set/253220
   # Airplane!

@@ -23,7 +23,7 @@ collections:
 #####################################
 
   Alien:
-    template: {name: Collection, collection: "8091, 135416", poster: https://theposterdb.com/api/assets/40345}
+    template: {name: Collection, collection: "8091, 135416", poster: https://theposterdb.com/api/assets/525286}
   American Pie:
     template: {name: Collection, collection: 2806, poster: https://theposterdb.com/api/assets/317618}
   Austin Powers:
