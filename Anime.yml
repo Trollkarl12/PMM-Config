@@ -7989,6 +7989,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/533440
 
+  # A-Channel
+  tt2670718:
+    url_poster: https://theposterdb.com/api/assets/533758
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/533759
+      1:
+        url_poster: https://theposterdb.com/api/assets/533760
+
   # Not yet released
   # Blue Box
   tt32639706:
