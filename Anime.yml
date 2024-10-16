@@ -8021,6 +8021,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/534106
 
+  # Phantom: Requiem for the Phantom
+  tt1347975:
+    url_poster: https://theposterdb.com/api/assets/534448
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/534449
+      1:
+        url_poster: https://theposterdb.com/api/assets/534450
+
+  # Dragon Crisis!
+  tt1868402:
+    url_poster: https://theposterdb.com/api/assets/534542
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/534543
+
   # Not yet released
   # Blue Box
   tt32639706:
