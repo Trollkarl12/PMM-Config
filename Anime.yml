@@ -4504,12 +4504,12 @@ metadata:
 
   Wonder Egg Priority:
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/123278
+    url_poster: https://theposterdb.com/api/assets/534752
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/186368
+        url_poster: https://theposterdb.com/api/assets/534753
       1:
-        url_poster: https://theposterdb.com/api/assets/149490
+        url_poster: https://theposterdb.com/api/assets/534754
 
   Witchblade:
     year: 2006
@@ -5077,7 +5077,12 @@ metadata:
 
   Manyu Scroll:
     year: 2011
-    url_poster: https://theposterdb.com/api/assets/240961
+    url_poster: https://theposterdb.com/api/assets/534785
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/534786
+      1:
+        url_poster: https://theposterdb.com/api/assets/534787
 
   Mekakucity Actors:
     year: 2014
@@ -8047,6 +8052,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/254468
       2:
         url_poster: https://theposterdb.com/api/assets/517307
+
+  # Izetta: The Last Witch
+  tt6104656:
+    url_poster: https://theposterdb.com/api/assets/534782
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/534783
 
   # Not yet released
   # Blue Box
