@@ -2606,10 +2606,10 @@ metadata:
  
   Hundred:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/392176
+    url_poster: https://theposterdb.com/api/assets/535399
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/392177
+        url_poster: https://theposterdb.com/api/assets/535400
 
   "Hyperdimension Neptunia: The Animation":
     year: 2013
@@ -5367,14 +5367,14 @@ metadata:
 
   The Melancholy of Haruhi Suzumiya:
     year: 2006
-    url_poster: https://theposterdb.com/api/assets/233839
+    url_poster: https://theposterdb.com/api/assets/535431
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/233840
+        url_poster: https://theposterdb.com/api/assets/535432
       1:
-        url_poster: https://theposterdb.com/api/assets/233841
+        url_poster: https://theposterdb.com/api/assets/535433
       2:
-        url_poster: https://theposterdb.com/api/assets/233842
+        url_poster: https://theposterdb.com/api/assets/535434
 
   Hyouka:
     year: 2012
