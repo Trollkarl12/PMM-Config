@@ -5650,7 +5650,12 @@ metadata:
 
   "Kenichi: The Mightiest Disciple":
     year: 2006
-    url_poster: https://theposterdb.com/api/assets/250274
+    url_poster: https://theposterdb.com/api/assets/506386
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/506387
+      1:
+        url_poster: https://theposterdb.com/api/assets/506388
 
   Raven of the Inner Palace:
     year: 2022
