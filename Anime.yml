@@ -8093,6 +8093,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/537566
 
+  # Place to Place
+  tt2309934:
+    url_poster: https://theposterdb.com/api/assets/537762
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/537763
+      1:
+        url_poster: https://theposterdb.com/api/assets/537764
+
   # Not yet released
   # Blue Box
   tt32639706:
