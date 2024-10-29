@@ -8109,6 +8109,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/534318
 
+  # Usagi Drop
+  tt2061551:
+    url_poster: https://theposterdb.com/api/assets/538544
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/538545
+      1:
+        url_poster: https://theposterdb.com/api/assets/538546
+
   # Not yet released
   # Blue Box
   tt32639706:
