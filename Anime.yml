@@ -2950,10 +2950,12 @@ metadata:
 
   Keijo!!!!!!!!:
     year: 2016
-    url_poster: https://theposterdb.com/api/assets/392323
+    url_poster: https://theposterdb.com/api/assets/539328
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/539329
       1:
-        url_poster: https://theposterdb.com/api/assets/392324
+        url_poster: https://theposterdb.com/api/assets/539330
 
   Kemeko Deluxe!:
     year: 2008
@@ -6429,12 +6431,12 @@ metadata:
 
   My-Hime:
     year: 2004
-    url_poster: https://theposterdb.com/api/assets/225412
+    url_poster: https://theposterdb.com/api/assets/539355
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/225413
+        url_poster: https://theposterdb.com/api/assets/539356
       1:
-        url_poster: https://theposterdb.com/api/assets/225414
+        url_poster: https://theposterdb.com/api/assets/539357
 
   "Akiba's Trip The Animation":
     year: 2017
