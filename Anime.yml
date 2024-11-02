@@ -8120,6 +8120,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/538546
 
+  # Boogiepop Phantom
+  tt0324700:
+    url_poster: https://theposterdb.com/api/assets/540004
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/540005
+
   # Not yet released
   # Blue Box
   tt32639706:
