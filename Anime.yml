@@ -8127,6 +8127,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/540005
 
+  # Baka and Test: Summon the Beasts
+  tt1655610:
+    url_poster: https://theposterdb.com/api/assets/540539
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/540540
+      1:
+        url_poster: https://theposterdb.com/api/assets/540541
+      2:
+        url_poster: https://theposterdb.com/api/assets/540542
+
   # Not yet released
   # Blue Box
   tt32639706:
