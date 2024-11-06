@@ -1252,7 +1252,10 @@ metadata:
 
   # Are You Lost?
   tt10427920:
-    url_poster: https://theposterdb.com/api/assets/51654
+    url_poster: https://theposterdb.com/api/assets/541436
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/541437
 
   # Baccano!
   tt1334722:
