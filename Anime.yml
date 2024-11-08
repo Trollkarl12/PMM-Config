@@ -2602,10 +2602,12 @@ metadata:
  
   How Heavy Are the Dumbbells You Lift?:
     year: 2019
-    url_poster: https://theposterdb.com/api/assets/392171
+    url_poster: https://theposterdb.com/api/assets/541779
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/541780
       1:
-        url_poster: https://theposterdb.com/api/assets/392172
+        url_poster: https://theposterdb.com/api/assets/541781
  
   Hundred:
     year: 2016
