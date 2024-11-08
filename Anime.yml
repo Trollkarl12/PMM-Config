@@ -6411,6 +6411,8 @@ metadata:
     year: 2020
     url_poster: https://theposterdb.com/api/assets/275706
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/541835
       1:
         url_poster: https://theposterdb.com/api/assets/275707
 
