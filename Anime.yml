@@ -8182,6 +8182,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/541460
 
+  # Kanon
+  tt0928093:
+    url_poster: https://theposterdb.com/api/assets/541830
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/541831
+
   # Not yet released
   # Blue Box
   tt32639706:
