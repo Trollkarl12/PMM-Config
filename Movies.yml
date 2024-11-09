@@ -2331,83 +2331,83 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82711
 
   # Samurai https://theposterdb.com/set/67529
-  "Samurai I: Musashi Miyamoto":
-    year: 1954
+  # Samurai I: Musashi Miyamoto
+  tt0047444:
     url_poster: https://theposterdb.com/api/assets/107617
-  "Samurai II: Duel at Ichijoji Temple":
-    year: 1955
+  # Samurai II: Duel at Ichijoji Temple
+  tt0048579:
     url_poster: https://theposterdb.com/api/assets/107618
-  "Samurai III: Duel at Ganryu Island":
-    year: 1956
+  # Samurai III: Duel at Ganryu Island
+  tt0049710:
     url_poster: https://theposterdb.com/api/assets/107619
 
   # Saw
-  Saw:
-    year: 2004
+  # Saw
+  tt0387564:
     url_poster: https://theposterdb.com/api/assets/155364
-  Saw II:
-    year: 2005
+  # Saw II
+  tt0432348:
     url_poster: https://theposterdb.com/api/assets/155365
-  Saw III:
-    year: 2006
+  # Saw III
+  tt0489270:
     url_poster: https://theposterdb.com/api/assets/155366
-  Saw IV:
-    year: 2007
+  # Saw IV
+  tt0890870:
     url_poster: https://theposterdb.com/api/assets/155367
-  Saw V:
-    year: 2008
+  # Saw V
+  tt1132626:
     url_poster: https://theposterdb.com/api/assets/155368
-  Saw VI:
-    year: 2009
+  # Saw VI
+  tt1233227:
     url_poster: https://theposterdb.com/api/assets/155369
-  Saw 3D:
-    year: 2010
+  # Saw 3D
+  tt1477076:
     url_poster: https://theposterdb.com/api/assets/155370
-  Jigsaw:
-    year: 2017
+  # Jigsaw
+  tt3348730:
     url_poster: https://theposterdb.com/api/assets/155371
-  "Spiral: From the Book of Saw":
-    year: 2021
+  # Spiral: From the Book of Saw
+  tt10342730:
     url_poster: https://theposterdb.com/api/assets/155372
-  "Saw X":
-    year: 2023
+  # Saw X
+  tt21807222:
     url_poster: https://theposterdb.com/api/assets/389780
 
   # Scary Movie
-  Scary Movie:
-    year: 2000
+  # Scary Movie
+  tt0175142:
     url_poster: https://theposterdb.com/api/assets/994
-  Scary Movie 2:
-    year: 2001
+  # Scary Movie 2
+  tt0257106:
     url_poster: https://theposterdb.com/api/assets/995
-  Scary Movie 3:
-    year: 2003
+  # Scary Movie 3
+  tt0306047:
     url_poster: https://theposterdb.com/api/assets/996
-  Scary Movie 4:
-    year: 2006
+  # Scary Movie 4
+  tt0362120:
     url_poster: https://theposterdb.com/api/assets/997
-  Scary Movie V:
-    year: 2013
+  # Scary Movie V
+  tt0795461:
     url_poster: https://theposterdb.com/api/assets/998
 
   # Scream https://theposterdb.com/set/224
-  Scream:
-    year: 1996
+  # Scream
+  tt0117571:
     url_poster: https://theposterdb.com/api/assets/805
-  Scream 2:
-    year: 1997
+  # Scream 2
+  tt0120082:
     url_poster: https://theposterdb.com/api/assets/806
-  Scream 3:
-    year: 2000
+  # Scream 3
+  tt0134084:
     url_poster: https://theposterdb.com/api/assets/807
-  Scream 4:
-    year: 2011
+  # Scream 4
+  tt1262416:
     url_poster: https://theposterdb.com/api/assets/808
-  Scream (2022):
-    year: 2022
+  # Scream (2022)
+  tt11245972:
     url_poster: https://theposterdb.com/api/assets/212929
-  Scream VI:
-    year: 2023
+  # Scream VI
+  tt17663992:
     url_poster: https://theposterdb.com/api/assets/355473
 
   # The Shining
@@ -2419,38 +2419,38 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/32303
 
   # Star Wars https://theposterdb.com/set/78057
-  "Star Wars: Episode IV - A New Hope":
-    year: 1977
+  # Star Wars: Episode IV - A New Hope
+  tt0076759:
     url_poster: https://theposterdb.com/api/assets/124622
-  "Star Wars: Episode V - The Empire Strikes Back":
-    year: 1980
+  # Star Wars: Episode V - The Empire Strikes Back
+  tt0080684:
     url_poster: https://theposterdb.com/api/assets/124624
-  "Star Wars: Episode VI - Return of the Jedi":
-    year: 1983
+  # Star Wars: Episode VI - Return of the Jedi
+  tt0086190:
     url_poster: https://theposterdb.com/api/assets/124625
-  "Star Wars: Episode I - The Phantom Menace":
-    year: 1999
+  # Star Wars: Episode I - The Phantom Menace
+  tt0120915:
     url_poster: https://theposterdb.com/api/assets/124628
-  "Star Wars: Episode II - Attack of the Clones":
-    year: 2002
+  # Star Wars: Episode II - Attack of the Clones
+  tt0121765:
     url_poster: https://theposterdb.com/api/assets/124629
-  "Star Wars: Episode III - Revenge of the Sith":
-    year: 2005
+  # Star Wars: Episode III - Revenge of the Sith
+  tt0121766:
     url_poster: https://theposterdb.com/api/assets/124630
-  "Star Wars: Episode VII - The Force Awakens":
-    year: 2015
+  # Star Wars: Episode VII - The Force Awakens
+  tt2488496:
     url_poster: https://theposterdb.com/api/assets/124632
-  "Rogue One: A Star Wars Story":
-    year: 2016
+  # Rogue One: A Star Wars Story
+  tt3748528:
     url_poster: https://theposterdb.com/api/assets/124633
-  "Star Wars: Episode VIII - The Last Jedi":
-    year: 2017
+  # Star Wars: Episode VIII - The Last Jedi
+  tt2527336:
     url_poster: https://theposterdb.com/api/assets/124634
-  "Solo: A Star Wars Story":
-    year: 2018
+  # Solo: A Star Wars Story
+  tt3778644:
     url_poster: https://theposterdb.com/api/assets/124635
-  "Star Wars: Episode IX - The Rise of Skywalker":
-    year: 2019
+  # Star Wars: Episode IX - The Rise of Skywalker
+  tt2527338:
     url_poster: https://theposterdb.com/api/assets/124636
 
   # Sony Pictures Animation https://theposterdb.com/set/147984
@@ -2546,17 +2546,23 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/246991
 
   # The Terminator https://theposterdb.com/set/93020
-  The Terminator:
+  # The Terminator
+  tt0088247:
     url_poster: https://theposterdb.com/api/assets/151292
-  "Terminator 2: Judgment Day":
+  # Terminator 2: Judgment Day
+  tt0103064:
     url_poster: https://theposterdb.com/api/assets/151293
-  "Terminator 3: Rise of the Machines":
+  # Terminator 3: Rise of the Machines
+  tt0181852:
     url_poster: https://theposterdb.com/api/assets/151294
-  Terminator Salvation:
+  # Terminator Salvation
+  tt0438488:
     url_poster: https://theposterdb.com/api/assets/151295
-  Terminator Genisys:
+  # Terminator Genisys
+  tt1340138:
     url_poster: https://theposterdb.com/api/assets/151296
-  "Terminator: Dark Fate":
+  # Terminator: Dark Fate
+  tt6450804:
     url_poster: https://theposterdb.com/api/assets/151297
 
   # Terrifier https://theposterdb.com/set/289872
@@ -2606,26 +2612,26 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/96440
 
   # Transformers https://theposterdb.com/set/97513
-  Transformers:
-    year: 2007
+  # Transformers
+  tt0418279:
     url_poster: https://theposterdb.com/api/assets/159631
-  "Transformers: Dark of the Moon":
-    year: 2011
+  # Transformers: Dark of the Moon
+  tt1399103:
     url_poster: https://theposterdb.com/api/assets/159633
-  "Transformers: Revenge of the Fallen":
-    year: 2009
+  # Transformers: Revenge of the Fallen
+  tt1055369:
     url_poster: https://theposterdb.com/api/assets/159632
-  "Transformers: The Last Knight":
-    year: 2017
+  # Transformers: The Last Knight
+  tt3371366:
     url_poster: https://theposterdb.com/api/assets/159635
-  "Transformers: Age of Extinction":
-    year: 2014
+  # Transformers: Age of Extinction
+  tt2109248:
     url_poster: https://theposterdb.com/api/assets/159634
-  Bumblebee:
-    year: 2018
+  # Bumblebee
+  tt4701182:
     url_poster: https://theposterdb.com/api/assets/159636
-  "Transformers: Rise of the Beasts":
-    year: 2023
+  # Transformers: Rise of the Beasts
+  tt5090568:
     url_poster: https://theposterdb.com/api/assets/420713
 
   # Teenage Mutant Ninja Turtles https://theposterdb.com/set/39014
@@ -2637,89 +2643,89 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/60983
 
   # Three Colors https://theposterdb.com/poster/80626 https://theposterdb.com/poster/80625 https://theposterdb.com/poster/80624
-  "Three Colors: Blue":
-    year: 1993
+  # Three Colors: Blue
+  tt0108394:
     url_poster: https://theposterdb.com/api/assets/80626
-  "Three Colors: Red":
-    year: 1994
+  # Three Colors: Red
+  tt0111495:
     url_poster: https://theposterdb.com/api/assets/80625
-  "Three Colors: White":
-    year: 1994
+  # Three Colors: White
+  tt0111507:
     url_poster: https://theposterdb.com/api/assets/80624
 
   # Underworld https://theposterdb.com/set/116
-  Underworld:
-    year: 2003
+  # Underworld
+  tt0320691:
     url_poster: https://theposterdb.com/api/assets/574
-  "Underworld: Evolution":
-    year: 2006
+  # Underworld: Evolution
+  tt0401855:
     url_poster: https://theposterdb.com/api/assets/576
-  "Underworld: Rise of the Lycans":
-    year: 2009
+  # Underworld: Rise of the Lycans
+  tt0834001:
     url_poster: https://theposterdb.com/api/assets/580
-  "Underworld: Awakening":
-    year: 2012
+  # Underworld: Awakening
+  tt1496025:
     url_poster: https://theposterdb.com/api/assets/582
-  "Underworld: Blood Wars":
-    year: 2016
+  # Underworld: Blood Wars
+  tt3717252:
     url_poster: https://theposterdb.com/api/assets/583
 
   # Wizarding World https://theposterdb.com/set/131416
-  Harry Potter and the Sorcerer's Stone:
-    year: 2001
+  # Harry Potter and the Sorcerer's Stone
+  tt0241527:
     url_poster: https://theposterdb.com/api/assets/218029
-  Harry Potter and the Chamber of Secrets:
-    year: 2002
+  # Harry Potter and the Chamber of Secrets
+  tt0295297:
     url_poster: https://theposterdb.com/api/assets/218030
-  Harry Potter and the Prisoner of Azkaban:
-    year: 2004
+  # Harry Potter and the Prisoner of Azkaban
+  tt0304141:
     url_poster: https://theposterdb.com/api/assets/218031
-  Harry Potter and the Goblet of Fire:
-    year: 2005
+  # Harry Potter and the Goblet of Fire
+  tt0330373:
     url_poster: https://theposterdb.com/api/assets/218032
-  Harry Potter and the Order of the Phoenix:
-    year: 2007
+  # Harry Potter and the Order of the Phoenix
+  tt0373889:
     url_poster: https://theposterdb.com/api/assets/218033
-  Harry Potter and the Half-Blood Prince:
-    year: 2009
+  # Harry Potter and the Half-Blood Prince
+  tt0417741:
     url_poster: https://theposterdb.com/api/assets/218034
-  "Harry Potter and the Deathly Hallows: Part 1":
-    year: 2010
+  # Harry Potter and the Deathly Hallows: Part 1
+  tt0926084:
     url_poster: https://theposterdb.com/api/assets/218035
-  "Harry Potter and the Deathly Hallows: Part 2":
-    year: 2011
+  # Harry Potter and the Deathly Hallows: Part 2
+  tt1201607:
     url_poster: https://theposterdb.com/api/assets/218036
-  Fantastic Beasts and Where to Find Them:
-    year: 2016
+  # Fantastic Beasts and Where to Find Them
+  tt3183660:
     url_poster: https://theposterdb.com/api/assets/217953
-  "Fantastic Beasts: The Crimes of Grindelwald":
-    year: 2018
+  # Fantastic Beasts: The Crimes of Grindelwald
+  tt4123430:
     url_poster: https://theposterdb.com/api/assets/217954
-  "Fantastic Beasts: The Secrets of Dumbledore":
-    year: 2022
+  # Fantastic Beasts: The Secrets of Dumbledore
+  tt4123432:
     url_poster: https://theposterdb.com/api/assets/217955
 
   # Wrong Turn https://theposterdb.com/set/110536
-  Wrong Turn:
-    year: 2003
+  # Wrong Turn
+  tt0295700:
     url_poster: https://theposterdb.com/api/assets/181599
-  "Wrong Turn 2: Dead End":
-    year: 2007
+  # Wrong Turn 2: Dead End
+  tt0804555:
     url_poster: https://theposterdb.com/api/assets/181600
-  "Wrong Turn 3: Left for Dead":
-    year: 2009
+  # Wrong Turn 3: Left for Dead
+  tt1261978:
     url_poster: https://theposterdb.com/api/assets/181601
-  "Wrong Turn 4: Bloody Beginnings":
-    year: 2011
+  # Wrong Turn 4: Bloody Beginnings
+  tt1865567:
     url_poster: https://theposterdb.com/api/assets/181602
-  "Wrong Turn 5: Bloodlines":
-    year: 2012
+  # Wrong Turn 5: Bloodlines
+  tt2375779:
     url_poster: https://theposterdb.com/api/assets/181603
-  "Wrong Turn 6: Last Resort":
-    year: 2014
+  # Wrong Turn 6: Last Resort
+  tt3612032:
     url_poster: https://theposterdb.com/api/assets/181604
-  Wrong Turn (2021):
-    year: 2021
+  # Wrong Turn (2021)
+  tt9110170:
     url_poster: https://theposterdb.com/api/assets/181605
 
   # Zatoichi: The Blind Swordsman https://theposterdb.com/set/42906
@@ -2800,11 +2806,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/67645
 
   # Zombieland https://theposterdb.com/set/22318
-  Zombieland:
-    year: 2009
+  # Zombieland
+  tt1156398:
     url_poster: https://theposterdb.com/api/assets/36533
-  "Zombieland: Double Tap":
-    year: 2019
+  # Zombieland: Double Tap
+  tt1560220:
     url_poster: https://theposterdb.com/api/assets/36534
 
   # Random movies
