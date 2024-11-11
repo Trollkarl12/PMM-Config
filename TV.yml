@@ -953,10 +953,12 @@ metadata:
 
   # Arcane
   tt11126994:
-    url_poster: https://theposterdb.com/api/assets/188019
+    url_poster: https://theposterdb.com/api/assets/542422
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/188020
+        url_poster: https://theposterdb.com/api/assets/542423
+      2:
+        url_poster: https://theposterdb.com/api/assets/542424
 
   # Band of Brothers
   tt0185906:
