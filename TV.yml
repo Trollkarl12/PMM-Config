@@ -2338,3 +2338,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/214772
       20:
         url_poster: https://theposterdb.com/api/assets/343449
+
+  # The Queen's Gambit
+  tt10048342:
+    url_poster: https://theposterdb.com/api/assets/268125
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/268126
