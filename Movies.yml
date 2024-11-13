@@ -2817,68 +2817,68 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36534
 
   # Random movies
-  "3:10 to Yuma":
-    year: 2007
+  # 3:10 to Yuma
+  tt0381849:
     url_poster: https://theposterdb.com/api/assets/169056
-  "8½":
-    year: 1963
+  # 8½
+  tt0056801:
     url_poster: https://theposterdb.com/api/assets/97929
-  "9":
-    year: 2009
+  # 9
+  tt0472033:
     url_poster: https://theposterdb.com/api/assets/47291
-  12 Angry Men:
-    year: 1957
+  # 12 Angry Men
+  tt0050083:
     url_poster: https://theposterdb.com/api/assets/34334
-  13 Hours:
-    year: 2016
+  # 13 Hours
+  tt4172430:
     url_poster: https://theposterdb.com/api/assets/254760
-  "31":
-    year: 2016
+  # 31
+  tt3835080:
     url_poster: https://theposterdb.com/api/assets/20081
-  The 36th Chamber of Shaolin:
-    year: 1978
+  # The 36th Chamber of Shaolin
+  tt0078243:
     url_poster: https://theposterdb.com/api/assets/430517
-  "1917":
-    year: 2020
+  # 1917
+  tt8579674:
     url_poster: https://theposterdb.com/api/assets/48473
-  "2001: A Space Odyssey":
-    year: 1968
+  # 2001: A Space Odyssey
+  tt0062622:
     url_poster: https://theposterdb.com/api/assets/6457
-  "2046":
-    year: 2004
+  # 2046
+  tt0212712:
     url_poster: https://theposterdb.com/api/assets/98666
-  "Abraham Lincoln: Vampire Hunter":
-    year: 2012
+  # Abraham Lincoln: Vampire Hunter
+  tt1611224:
     url_poster: https://theposterdb.com/api/assets/34627
-  Absolutely Anything:
-    year: 2015
+  # Absolutely Anything
+  tt1727770:
     url_poster: https://theposterdb.com/api/assets/174094
-  The Abyss:
-    year: 1989
+  # The Abyss
+  tt0096754:
     url_poster: https://theposterdb.com/api/assets/47327
-  The Adam Project:
-    year: 2022
+  # The Adam Project
+  tt2463208:
     url_poster: https://theposterdb.com/api/assets/218916
-  The African Queen:
-    year: 1952
+  # The African Queen
+  tt0043265:
     url_poster: https://theposterdb.com/api/assets/64510
-  The Age of Adaline:
-    year: 2015
+  # The Age of Adaline
+  tt1655441:
     url_poster: https://theposterdb.com/api/assets/84815
-  Air Force One:
-    year: 1997
+  # Air Force One
+  tt0118571:
     url_poster: https://theposterdb.com/api/assets/47373
-  The Alamo:
-    year: 1960
+  # The Alamo
+  tt0053580:
     url_poster: https://theposterdb.com/api/assets/471302
-  Alexander:
-    year: 2004
+  # Alexander
+  tt0346491:
     url_poster: https://theposterdb.com/api/assets/266002
-  Ali G Indahouse:
-    year: 2002
+  # Ali G Indahouse
+  tt0284837:
     url_poster: https://theposterdb.com/api/assets/22660
-  All About Eve:
-    year: 1950
+  # All About Eve
+  tt0042192:
     url_poster: https://theposterdb.com/api/assets/466848
   # All Quiet on the Western Front 1930
   tt0020629:
@@ -2886,65 +2886,65 @@ metadata:
   # All Quiet on the Western Front 2022
   tt1016150:
     url_poster: https://theposterdb.com/api/assets/270945
-  Amadeus:
-    year: 1984
+  # Amadeus
+  tt0086879:
     url_poster: https://theposterdb.com/api/assets/34689
-  Ambulance:
-    year: 2022
+  # Ambulance
+  tt4998632:
     url_poster: https://theposterdb.com/api/assets/230421
-  American Beauty:
-    year: 1999
+  # American Beauty
+  tt0169547:
     url_poster: https://theposterdb.com/api/assets/25765
-  American Gangster:
-    year: 2007
+  # American Gangster
+  tt0765429:
     url_poster: https://theposterdb.com/api/assets/39057
-  American History X:
-    year: 1998
+  # American History X
+  tt0120586:
     url_poster: https://theposterdb.com/api/assets/79193
-  American Psycho:
-    year: 2000
+  # American Psycho
+  tt0144084:
     url_poster: https://theposterdb.com/api/assets/153800
-  American Sniper:
-    year: 2014
+  # American Sniper
+  tt2179136:
     url_poster: https://theposterdb.com/api/assets/62093
-  The American Society of Magical Negroes:
-    year: 2024
+  # The American Society of Magical Negroes
+  tt30007864:
     url_poster: https://theposterdb.com/api/assets/477767
-  Anatomy of a Murder:
-    year: 1959
+  # Anatomy of a Murder
+  tt0052561:
     url_poster: https://theposterdb.com/api/assets/325768
-  Andrei Rublev:
-    year: 1966
+  # Andrei Rublev
+  tt0060107:
     url_poster: https://theposterdb.com/api/assets/476754
-  Annie Hall:
-    year: 1977
+  # Annie Hall
+  tt0075686:
     url_poster: https://theposterdb.com/api/assets/51770
-  The Apartment:
-    year: 1960
+  # The Apartment
+  tt0053604:
     url_poster: https://theposterdb.com/api/assets/467619
-  Apocalypse Now:
-    year: 1979
+  # Apocalypse Now
+  tt0078788:
     url_poster: https://theposterdb.com/api/assets/32549
-  Argo:
-    year: 2012
+  # Argo
+  tt1024648:
     url_poster: https://theposterdb.com/api/assets/466838
-  Argylle:
-    year: 2024
+  # Argylle
+  tt15009428:
     url_poster: https://theposterdb.com/api/assets/442559
-  Army of Darkness:
-    year: 1992
+  # Army of Darkness
+  tt0106308:
     url_poster: https://theposterdb.com/api/assets/7316
-  Army of Shadows:
-    year: 1969
+  # Army of Shadows
+  tt0064040:
     url_poster: https://theposterdb.com/api/assets/115184
-  Asteroid City:
-    year: 2023
+  # Asteroid City
+  tt14230388:
     url_poster: https://theposterdb.com/api/assets/406909
-  Atlas:
-    year: 2024
+  # Atlas
+  tt14856980:
     url_poster: https://theposterdb.com/api/assets/497164
-  The Aviator:
-    year: 2004
+  # The Aviator
+  tt0338751:
     url_poster: https://theposterdb.com/api/assets/47932
   Baby Driver:
     year: 2017
