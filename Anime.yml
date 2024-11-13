@@ -5291,7 +5291,10 @@ metadata:
 
   "Drug Store in Another World: The Slow Life of a Cheat Pharmacist":
     year: 2021
-    url_poster: https://theposterdb.com/api/assets/300601
+    url_poster: https://theposterdb.com/api/assets/543192
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/543193
 
   Gangsta.:
     year: 2015
