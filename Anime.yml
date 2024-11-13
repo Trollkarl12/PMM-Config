@@ -497,6 +497,44 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/240494
 
+  # Legend of the Galactic Heroes https://theposterdb.com/set/183751
+  # Legend of the Galactic Heroes
+  tt0096633:
+    url_poster: https://theposterdb.com/api/assets/312932
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/312933
+      1:
+        url_poster: https://theposterdb.com/api/assets/312934
+      2:
+        url_poster: https://theposterdb.com/api/assets/312935
+      3:
+        url_poster: https://theposterdb.com/api/assets/312936
+      4:
+        url_poster: https://theposterdb.com/api/assets/312937
+
+  # Legend of the Galactic Heroes Gaiden
+  tt6206772:
+    url_poster: https://theposterdb.com/api/assets/315336
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/315337
+      2:
+        url_poster: https://theposterdb.com/api/assets/315338
+
+  # Legend of the Galactic Heroes: Die Neue These
+  tt7407236:
+    url_poster: https://theposterdb.com/api/assets/315339
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/315340
+      2:
+        url_poster: https://theposterdb.com/api/assets/315341
+      3:
+        url_poster: https://theposterdb.com/api/assets/315342
+      4:
+        url_poster: https://theposterdb.com/api/assets/315343
+
   # Mobile Suit Gundam https://theposterdb.com/set/189352
   # Mobile Suit Gundam
   tt0159172:
@@ -3147,43 +3185,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145331
-
-  Legend of the Galactic Heroes:
-    year: 1988
-    url_poster: https://theposterdb.com/api/assets/312932
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/312933
-      1:
-        url_poster: https://theposterdb.com/api/assets/312934
-      2:
-        url_poster: https://theposterdb.com/api/assets/312935
-      3:
-        url_poster: https://theposterdb.com/api/assets/312936
-      4:
-        url_poster: https://theposterdb.com/api/assets/312937
-
-  Legend of the Galactic Heroes Gaiden:
-    year: 1998
-    url_poster: https://theposterdb.com/api/assets/315336
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/315337
-      2:
-        url_poster: https://theposterdb.com/api/assets/315338
-
-  "The Legend of the Galactic Heroes: Die Neue These":
-    year: 2018
-    url_poster: https://theposterdb.com/api/assets/315339
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/315340
-      2:
-        url_poster: https://theposterdb.com/api/assets/315341
-      3:
-        url_poster: https://theposterdb.com/api/assets/315342
-      4:
-        url_poster: https://theposterdb.com/api/assets/315343
 
   The Legendary Hero Is Dead!:
     year: 2023
