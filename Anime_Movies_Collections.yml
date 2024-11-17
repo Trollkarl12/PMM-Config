@@ -35,4 +35,4 @@ collections:
   Baki:
     template: {name: Collection, movie: "1263421", poster: https://theposterdb.com/api/assets/401297}
   Legend of the Galactic Heroes:
-    template: {name: Collection, movie: "42609, 41543, 97519", poster: https://theposterdb.com/api/assets/315344}
+    template: {name: Collection, movie: "154738, 154501, 154727", poster: https://theposterdb.com/api/assets/315344}
