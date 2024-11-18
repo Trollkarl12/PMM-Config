@@ -8210,7 +8210,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/541881
 
-  # Not yet released
   # Blue Box
   tt32639706:
     url_poster: https://theposterdb.com/api/assets/506827
@@ -8219,3 +8218,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/525461
       1:
         url_poster: https://theposterdb.com/api/assets/506828
+
+  # Kanokon
+  tt1216124:
+    url_poster: https://theposterdb.com/api/assets/544300
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/544301
+      1:
+        url_poster: https://theposterdb.com/api/assets/544302
