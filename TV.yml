@@ -2345,3 +2345,11 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/268126
+
+
+  # Dune: Prophecy
+  tt10466872:
+    url_poster: https://theposterdb.com/api/assets/544110
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/544111
