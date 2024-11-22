@@ -773,26 +773,26 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/543200
 
   # Ranma
-  # Ranma ½
+  # Ranma ½ https://theposterdb.com/set/302450
   tt0096686:
-    url_poster: https://theposterdb.com/api/assets/203705
+    url_poster: https://theposterdb.com/api/assets/545323
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/98605
+        url_poster: https://theposterdb.com/api/assets/545324
       1:
-        url_poster: https://theposterdb.com/api/assets/98606
+        url_poster: https://theposterdb.com/api/assets/545325
       2:
-        url_poster: https://theposterdb.com/api/assets/259677
+        url_poster: https://theposterdb.com/api/assets/545326
       3:
-        url_poster: https://theposterdb.com/api/assets/259678
+        url_poster: https://theposterdb.com/api/assets/545327
       4:
-        url_poster: https://theposterdb.com/api/assets/259679
+        url_poster: https://theposterdb.com/api/assets/545328
       5:
-        url_poster: https://theposterdb.com/api/assets/259680
+        url_poster: https://theposterdb.com/api/assets/545329
       6:
-        url_poster: https://theposterdb.com/api/assets/259681
+        url_poster: https://theposterdb.com/api/assets/545330
       7:
-        url_poster: https://theposterdb.com/api/assets/259682
+        url_poster: https://theposterdb.com/api/assets/545331
 
   # Ranma1/2 (2024)
   tt32766897:
