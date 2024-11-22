@@ -1580,12 +1580,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/464602
 
-  # Silo
+  # Silo https://theposterdb.com/set/203136
   tt14688458:
-    url_poster: https://theposterdb.com/api/assets/362440
+    url_poster: https://theposterdb.com/api/assets/355045
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/362441
+        url_poster: https://theposterdb.com/api/assets/355046
+      2:
+        url_poster: https://theposterdb.com/api/assets/535567
 
   # Snowfall
   tt6439752:
@@ -2347,7 +2349,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/268126
 
 
-  # Dune: Prophecy
+  # Dune: Prophecy https://theposterdb.com/set/301851
   tt10466872:
     url_poster: https://theposterdb.com/api/assets/544110
     seasons:
