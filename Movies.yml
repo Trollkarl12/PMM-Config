@@ -246,12 +246,24 @@ metadata:
   # The Conjuring
   tt1457767:
     url_poster: https://theposterdb.com/api/assets/156035
+  # Annabelle
+  tt3322940:
+    url_poster: https://theposterdb.com/api/assets/23526
   # The Conjuring 2
   tt3065204:
     url_poster: https://theposterdb.com/api/assets/23527
+  # Annabelle: Creation
+  tt5140878:
+    url_poster: https://theposterdb.com/api/assets/23528
   # The Nun
   tt5814060:
     url_poster: https://theposterdb.com/api/assets/23529
+  # The Curse of La Llorona
+  tt4913966:
+    url_poster: https://theposterdb.com/api/assets/23530
+  # Annabelle Comes Home
+  tt8350360:
+    url_poster: https://theposterdb.com/api/assets/23531
   # The Conjuring: The Devil Made Me Do It
   tt7069210:
     url_poster: https://theposterdb.com/api/assets/156035

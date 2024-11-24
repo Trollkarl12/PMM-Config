@@ -156,3 +156,7 @@ collections:
     template: {name: Collection, collection: 9338, poster: https://theposterdb.com/api/assets/217968}
   "Zatoichi: The Blind Swordsman":
     template: {name: Collection, collection: 96887, poster: https://theposterdb.com/api/assets/67352}
+  The Conjuring Universe:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls068768438/
+    url_poster: https://theposterdb.com/api/assets/23524
