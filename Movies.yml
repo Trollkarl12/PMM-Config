@@ -2433,40 +2433,13 @@ metadata:
   tt5606664:
     url_poster: https://theposterdb.com/api/assets/32303
 
-  # Star Wars https://theposterdb.com/set/78057
-  # Star Wars: Episode IV - A New Hope
-  tt0076759:
-    url_poster: https://theposterdb.com/api/assets/124622
-  # Star Wars: Episode V - The Empire Strikes Back
-  tt0080684:
-    url_poster: https://theposterdb.com/api/assets/124624
-  # Star Wars: Episode VI - Return of the Jedi
-  tt0086190:
-    url_poster: https://theposterdb.com/api/assets/124625
-  # Star Wars: Episode I - The Phantom Menace
-  tt0120915:
-    url_poster: https://theposterdb.com/api/assets/124628
-  # Star Wars: Episode II - Attack of the Clones
-  tt0121765:
-    url_poster: https://theposterdb.com/api/assets/124629
-  # Star Wars: Episode III - Revenge of the Sith
-  tt0121766:
-    url_poster: https://theposterdb.com/api/assets/124630
-  # Star Wars: Episode VII - The Force Awakens
-  tt2488496:
-    url_poster: https://theposterdb.com/api/assets/124632
-  # Rogue One: A Star Wars Story
-  tt3748528:
-    url_poster: https://theposterdb.com/api/assets/124633
-  # Star Wars: Episode VIII - The Last Jedi
-  tt2527336:
-    url_poster: https://theposterdb.com/api/assets/124634
-  # Solo: A Star Wars Story
-  tt3778644:
-    url_poster: https://theposterdb.com/api/assets/124635
-  # Star Wars: Episode IX - The Rise of Skywalker
-  tt2527338:
-    url_poster: https://theposterdb.com/api/assets/124636
+  # Smile https://theposterdb.com/set/253874
+  # Smile
+  tt15474916:
+    url_poster: https://theposterdb.com/api/assets/530517
+  # Smile 2
+  tt29268110:
+    url_poster: https://theposterdb.com/api/assets/530516
 
   # Sony Pictures Animation https://theposterdb.com/set/147984
   # Open Season
@@ -2559,6 +2532,41 @@ metadata:
   # Hotel Transylvania: Transformania
   tt9848626:
     url_poster: https://theposterdb.com/api/assets/246991
+
+  # Star Wars https://theposterdb.com/set/78057
+  # Star Wars: Episode IV - A New Hope
+  tt0076759:
+    url_poster: https://theposterdb.com/api/assets/124622
+  # Star Wars: Episode V - The Empire Strikes Back
+  tt0080684:
+    url_poster: https://theposterdb.com/api/assets/124624
+  # Star Wars: Episode VI - Return of the Jedi
+  tt0086190:
+    url_poster: https://theposterdb.com/api/assets/124625
+  # Star Wars: Episode I - The Phantom Menace
+  tt0120915:
+    url_poster: https://theposterdb.com/api/assets/124628
+  # Star Wars: Episode II - Attack of the Clones
+  tt0121765:
+    url_poster: https://theposterdb.com/api/assets/124629
+  # Star Wars: Episode III - Revenge of the Sith
+  tt0121766:
+    url_poster: https://theposterdb.com/api/assets/124630
+  # Star Wars: Episode VII - The Force Awakens
+  tt2488496:
+    url_poster: https://theposterdb.com/api/assets/124632
+  # Rogue One: A Star Wars Story
+  tt3748528:
+    url_poster: https://theposterdb.com/api/assets/124633
+  # Star Wars: Episode VIII - The Last Jedi
+  tt2527336:
+    url_poster: https://theposterdb.com/api/assets/124634
+  # Solo: A Star Wars Story
+  tt3778644:
+    url_poster: https://theposterdb.com/api/assets/124635
+  # Star Wars: Episode IX - The Rise of Skywalker
+  tt2527338:
+    url_poster: https://theposterdb.com/api/assets/124636
 
   # The Terminator https://theposterdb.com/set/93020
   # The Terminator
@@ -4218,9 +4226,6 @@ metadata:
   # Sisu
   tt14846026:
     url_poster: https://theposterdb.com/api/assets/362414
-  # Smile
-  tt15474916:
-    url_poster: https://theposterdb.com/api/assets/460895
   # Snowden
   tt3774114:
     url_poster: https://theposterdb.com/api/assets/80407
