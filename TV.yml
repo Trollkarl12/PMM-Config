@@ -2294,7 +2294,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/321306
 
-  # American Dad!
+  # American Dad! https://theposterdb.com/set/73869
   tt0397306:
     url_poster: https://theposterdb.com/api/assets/274094
     seasons:
@@ -2340,6 +2340,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/214772
       20:
         url_poster: https://theposterdb.com/api/assets/343449
+      21:
+        url_poster: https://theposterdb.com/api/assets/541358
 
   # The Queen's Gambit
   tt10048342:
