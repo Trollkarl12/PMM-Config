@@ -8252,3 +8252,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/546278
       1:
         url_poster: https://theposterdb.com/api/assets/546279
+
+  # Tamako Market
+  tt2560604:
+    url_poster: https://theposterdb.com/api/assets/546635
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/546636
+      1:
+        url_poster: https://theposterdb.com/api/assets/546637
