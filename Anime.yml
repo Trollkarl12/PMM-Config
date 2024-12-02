@@ -1599,8 +1599,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/226945
 
-  Bungo Stray Dogs:
-    year: 2016
+  # Bungo Stray Dogs
+  tt5679720:
     url_poster: https://theposterdb.com/api/assets/330531
     seasons:
       0:
@@ -1612,8 +1612,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/330535
 
-  By the Grace of the Gods:
-    year: 2020
+  # By the Grace of the Gods
+  tt12642654:
     url_poster: https://theposterdb.com/api/assets/307036
     seasons:
       0:
@@ -1623,8 +1623,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/307039
 
-  The Café Terrace and Its Goddesses:
-    year: 2023
+  # The Café Terrace and Its Goddesses
+  tt22087138:
     url_poster: https://theposterdb.com/api/assets/344790
     seasons:
       1:
@@ -1632,15 +1632,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/450305
 
-  Campfire Cooking in Another World with My Absurd Skill:
-    year: 2023
+  # Campfire Cooking in Another World with My Absurd Skill
+  tt24229160:
     url_poster: https://theposterdb.com/api/assets/341073
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/341074
 
-  Akikan!:
-    year: 2009
+  # Akikan!
+  tt1427163:
     url_poster: https://theposterdb.com/api/assets/358145
     seasons:
       0:
@@ -1648,16 +1648,16 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/358146
 
-  Active Raid:
-    year: 2016
+  # Active Raid
+  tt5329084:
     url_poster: https://theposterdb.com/api/assets/82816
 
-  Akashic Records of Bastard Magic Instructor:
-    year: 2017
+  # Akashic Records of Bastard Magic Instructor
+  tt6850746:
     url_poster: https://theposterdb.com/api/assets/92834
 
-  ASSASSINS PRIDE:
-    year: 2019
+  # ASSASSINS PRIDE
+  tt10973152:
     url_poster: https://theposterdb.com/api/assets/248348
     seasons:
       0:
@@ -1665,8 +1665,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/248350
 
-  Azur Lane:
-    year: 2019
+  # Azur Lane
+  tt10980934:
     url_poster: https://theposterdb.com/api/assets/437603
     seasons:
       0:
@@ -1674,15 +1674,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/437605
 
-  Blast of Tempest:
-    year: 2012
+  # Blast of Tempest
+  tt2294048:
     url_poster: https://theposterdb.com/api/assets/331681
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/331682
 
-  Blood+:
-    year: 2005
+  # Blood+
+  tt0482855:
     url_poster: https://theposterdb.com/api/assets/214083
     seasons:
       1:
@@ -1694,8 +1694,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/214087
 
-  Detective Conan:
-    year: 1996
+  # Detective Conan
+  tt0131179:
     url_poster: https://theposterdb.com/api/assets/141079
     seasons:
       0:
@@ -1765,8 +1765,8 @@ metadata:
       32:
         url_poster: https://theposterdb.com/api/assets/457131
 
-  "Cautious Hero: The Hero Is Overpowered but Overly Cautious":
-    year: 2019
+  # Cautious Hero: The Hero Is Overpowered but Overly Cautious
+  tt10974198:
     url_poster: https://theposterdb.com/api/assets/296383
     seasons:
       0:
@@ -1774,8 +1774,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/296385
 
-  "Chain Chronicle: The Light of Haecceitas":
-    year: 2017
+  # Chain Chronicle: The Light of Haecceitas
+  tt6302332:
     url_poster: https://theposterdb.com/api/assets/92262
     seasons:
       0:
@@ -1783,8 +1783,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/506412
 
-  Chainsaw Man:
-    year: 2022
+  # Chainsaw Man
+  tt13616990:
     url_poster: https://theposterdb.com/api/assets/344239
     seasons:
       0:
@@ -1792,8 +1792,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/344240
 
-  Charlotte:
-    year: 2015
+  # Charlotte
+  tt4574736:
     url_poster: https://theposterdb.com/api/assets/328856
     seasons:
       0:
@@ -1801,22 +1801,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/328858
 
-  Chillin' in My 30s After Getting Fired From the Demon King's Army:
-    year: 2023
+  # Chillin' in My 30s After Getting Fired From the Demon King's Army
+  tt21342052:
     url_poster: https://theposterdb.com/api/assets/319352
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/319353
 
-  Chivalry of a Failed Knight:
-    year: 2015
+  # Chivalry of a Failed Knight
+  tt5100366:
     url_poster: https://theposterdb.com/api/assets/348396
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/348397
 
-  Clannad:
-    year: 2007
+  # Clannad
+  tt1118804:
     url_poster: https://theposterdb.com/api/assets/331612
     seasons:
       0:
@@ -1826,8 +1826,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/331615
 
-  Classroom of the Elite:
-    year: 2017
+  # Classroom of the Elite
+  tt7263328:
     url_poster: https://theposterdb.com/api/assets/331704
     seasons:
       1:
@@ -1837,15 +1837,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/401875
 
-  Combatants Will Be Dispatched!:
-    year: 2021
+  # Combatants Will Be Dispatched!
+  tt13758670:
     url_poster: https://theposterdb.com/api/assets/143307
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/143308
 
-  Cowboy Bebop:
-    year: 1998
+  # Cowboy Bebop
+  tt0213338:
     url_poster: https://theposterdb.com/api/assets/176599
     seasons:
       0:
@@ -1853,15 +1853,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/176601
 
-  "Cyberpunk: Edgerunners":
-    year: 2022
+  # Cyberpunk: Edgerunners
+  tt12590266:
     url_poster: https://theposterdb.com/api/assets/245118
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/245119
 
-  Dagashi Kashi:
-    year: 2016
+  # Dagashi Kashi
+  tt5346952:
     url_poster: https://theposterdb.com/api/assets/332193
     seasons:
       1:
@@ -1869,8 +1869,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/332195
 
-  "Danganronpa 3: The End of Hope's Peak High School":
-    year: 2016
+  # Danganronpa 3: The End of Hope's Peak High School
+  tt6016316:
     url_poster: https://theposterdb.com/api/assets/159834
     seasons:
       0:
@@ -1880,8 +1880,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/159837
 
-  "Danganronpa: The Animation":
-    year: 2013
+  # Danganronpa: The Animation
+  tt2902582:
     url_poster: https://theposterdb.com/api/assets/159826
     seasons:
       0:
@@ -1891,8 +1891,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/159829
 
-  The Dangers in My Heart:
-    year: 2023
+  # The Dangers in My Heart
+  tt21423786:
     url_poster: https://theposterdb.com/api/assets/329781
     seasons:
       0:
@@ -1902,22 +1902,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/414463
 
-  Dark Gathering:
-    year: 2023
+  # Dark Gathering
+  tt21844490:
     url_poster: https://theposterdb.com/api/assets/361998
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/361999
 
-  DARLING in the FRANXX:
-    year: 2018
+  # DARLING in the FRANXX
+  tt7865090:
     url_poster: https://theposterdb.com/api/assets/334160
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/334161
 
-  Date A Live:
-    year: 2013
+  # Date A Live
+  tt2575684:
     url_poster: https://theposterdb.com/api/assets/334183
     seasons:
       0:
@@ -1933,29 +1933,29 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/450301
 
-  The Dawn of the Witch:
-    year: 2022
+  # The Dawn of the Witch
+  tt15766292:
     url_poster: https://theposterdb.com/api/assets/334227
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/334228
 
-  The Day I Became a God:
-    year: 2020
+  # The Day I Became a God
+  tt12305588:
     url_poster: https://theposterdb.com/api/assets/423883
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/423884
 
-  Dead Mount Death Play:
-    year: 2023
+  # Dead Mount Death Play
+  tt27489241:
     url_poster: https://theposterdb.com/api/assets/329798
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/329799
 
-  Death Note:
-    year: 2006
+  # Death Note
+  tt0877057:
     url_poster: https://theposterdb.com/api/assets/335133
     seasons:
       0:
@@ -1963,8 +1963,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/335135
 
-  Death Parade:
-    year: 2015
+  # Death Parade
+  tt4279012:
     url_poster: https://theposterdb.com/api/assets/334898
     seasons:
       0:
@@ -1972,8 +1972,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/334901
 
-  Demon Lord, Retry!:
-    year: 2019
+  # Demon Lord, Retry!
+  tt10443362:
     url_poster: https://theposterdb.com/api/assets/520343
     seasons:
       1:
@@ -1981,8 +1981,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/520345
 
-  "Demon Slayer: Kimetsu no Yaiba":
-    year: 2019
+  # Demon Slayer: Kimetsu no Yaiba
+  tt9335498:
     url_poster: https://theposterdb.com/api/assets/194929
     seasons:
       0:
@@ -1998,8 +1998,8 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/481762
 
-  The Demon Sword Master of Excalibur Academy:
-    year: 2023
+  # The Demon Sword Master of Excalibur Academy
+  tt15739134:
     url_poster: https://theposterdb.com/api/assets/414249
     seasons:
       1:
