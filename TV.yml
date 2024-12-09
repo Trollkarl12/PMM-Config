@@ -220,6 +220,13 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/452737
 
+  # Moon Knight
+  tt10234724:
+    url_poster: https://theposterdb.com/api/assets/224409
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/224410
+
   # Arrowverse https://theposterdb.com/poster/133540
   # Arrow
   tt2193021:
