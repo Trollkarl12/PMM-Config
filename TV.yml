@@ -2350,10 +2350,16 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/268126
 
-
   # Dune: Prophecy https://theposterdb.com/set/301851
   tt10466872:
     url_poster: https://theposterdb.com/api/assets/544110
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/544111
+
+  # English Teacher
+  tt20782190:
+    url_poster: https://theposterdb.com/api/assets/526945
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/526946
