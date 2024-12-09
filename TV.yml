@@ -2370,3 +2370,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/526946
+
+  # Shrinking
+  tt15677150:
+    url_poster: https://theposterdb.com/api/assets/310732
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/310733
+      2:
+        url_poster: https://theposterdb.com/api/assets/538192
