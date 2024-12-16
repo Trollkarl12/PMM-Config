@@ -6762,10 +6762,14 @@ metadata:
 
   Sengoku Youko:
     year: 2024
-    url_poster: https://theposterdb.com/api/assets/457894
+    url_poster: https://theposterdb.com/api/assets/552815
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/552816
       1:
-        url_poster: https://theposterdb.com/api/assets/457895
+        url_poster: https://theposterdb.com/api/assets/552817
+      2:
+        url_poster: https://theposterdb.com/api/assets/552818
 
   BOCCHI THE ROCK!:
     year: 2022
