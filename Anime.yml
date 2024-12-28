@@ -7094,6 +7094,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/467911
+      2:
+        url_poster: https://theposterdb.com/api/assets/553856
 
   Grandpa and Grandma Turn Young Again:
     year: 2024
@@ -7930,6 +7932,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/503497
       1:
         url_poster: https://theposterdb.com/api/assets/470039
+      2:
+        url_poster: https://theposterdb.com/api/assets/554670
 
   # TRILLION GAME
   tt33609048:
@@ -8293,3 +8297,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/551038
+
+  # Beheneko: The Elf-Girl's Cat Is Secretly an S-Ranked Monster!
+  tt32856718:
+    url_poster: https://theposterdb.com/api/assets/554201
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/554202
