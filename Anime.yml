@@ -3431,8 +3431,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/273470
 
-  Monster:
-    year: 2004
+  # Monster
+  tt0434706:
     url_poster: https://theposterdb.com/api/assets/127637
     seasons:
       0:
@@ -3440,26 +3440,29 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/127639
 
-  More Than a Married Couple, But Not Lovers:
-    year: 2022
+  # More Than a Married Couple, But Not Lovers
+  tt16231800:
     url_poster: https://theposterdb.com/api/assets/274104
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/274105
 
-  "The Most Heretical Last Boss Queen: From Villainess to Savior":
-    year: 2023
+  # The Most Heretical Last Boss Queen: From Villainess to Savior
+  tt23132598:
     url_poster: https://theposterdb.com/api/assets/362084
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/362085
 
-  "Mother of the Goddess' Dormitory":
-    year: 2021
-    url_poster: https://theposterdb.com/api/assets/352133
+  # Mother of the Goddess' Dormitory
+  tt12378990:
+    url_poster: https://theposterdb.com/api/assets/480127
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/480128
 
-  Mushi-Shi:
-    year: 2005
+  # Mushi-Shi
+  tt0807832:
     url_poster: https://theposterdb.com/api/assets/388976
     seasons:
       0:
@@ -3469,8 +3472,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/388979
 
-  "Mushoku Tensei: Jobless Reincarnation":
-    year: 2021
+  # Mushoku Tensei: Jobless Reincarnation
+  tt13293588:
     url_poster: https://theposterdb.com/api/assets/223769
     seasons:
       0:
@@ -3480,22 +3483,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/383523
 
-  My Daughter Left the Nest and Returned an S-Rank Adventurer:
-    year: 2023
+  # My Daughter Left the Nest and Returned an S-Rank Adventurer
+  tt28102247:
     url_poster: https://theposterdb.com/api/assets/415058
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/415059
 
-  My Dress-Up Darling:
-    year: 2022
+  # My Dress-Up Darling
+  tt15765670:
     url_poster: https://theposterdb.com/api/assets/275435
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/275436
 
-  My Hero Academia:
-    year: 2016
+  # My Hero Academia
+  tt5626028:
     url_poster: https://theposterdb.com/api/assets/234252
     seasons:
       0:
@@ -3515,22 +3518,22 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/445992
 
-  My Home Hero:
-    year: 2023
+  # My Home Hero
+  tt22410622:
     url_poster: https://theposterdb.com/api/assets/333290
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/333291
 
-  "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!":
-    year: 2022
+  # My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!
+  tt15441076:
     url_poster: https://theposterdb.com/api/assets/273489
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/273490
 
-  My Little Monster:
-    year: 2012
+  # My Little Monster
+  tt2309302:
     url_poster: https://theposterdb.com/api/assets/392451
     seasons:
       0:
@@ -3538,15 +3541,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/392453
 
-  My Love Story with Yamada-kun at Lv999:
-    year: 2023
+  # My Love Story with Yamada-kun at Lv999
+  tt22297712:
     url_poster: https://theposterdb.com/api/assets/347197
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/347198
 
-  "My Next Life as a Villainess: All Routes Lead to Doom!":
-    year: 2020
+  # My Next Life as a Villainess: All Routes Lead to Doom!
+  tt11821792:
     url_poster: https://theposterdb.com/api/assets/245426
     seasons:
       0:
@@ -3556,29 +3559,29 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/245429
 
-  My One-Hit Kill Sister:
-    year: 2023
+  # My One-Hit Kill Sister
+  tt27462671:
     url_poster: https://theposterdb.com/api/assets/347040
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/347041
 
-  My Roommate is a Cat:
-    year: 2019
+  # My Roommate is a Cat
+  tt9522316:
     url_poster: https://theposterdb.com/api/assets/193602
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/193603
 
-  My Senpai Is Annoying:
-    year: 2021
+  # My Senpai Is Annoying
+  tt15192340:
     url_poster: https://theposterdb.com/api/assets/465985
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/465986
 
-  My Teen Romantic Comedy SNAFU:
-    year: 2013
+  # My Teen Romantic Comedy SNAFU
+  tt2703720:
     url_poster: https://theposterdb.com/api/assets/392462
     seasons:
       0:
@@ -3590,15 +3593,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/392466
 
-  My Unique Skill Makes Me OP Even at Level 1:
-    year: 2023
+  # My Unique Skill Makes Me OP Even at Level 1
+  tt27990591:
     url_poster: https://theposterdb.com/api/assets/405017
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/405018
 
-  Myriad Colors Phantom World:
-    year: 2016
+  # Myriad Colors Phantom World
+  tt5321046:
     url_poster: https://theposterdb.com/api/assets/180513
     seasons:
       0:
@@ -3606,8 +3609,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/180515
 
-  Neon Genesis Evangelion:
-    year: 1995
+  # Neon Genesis Evangelion
+  tt0112159:
     url_poster: https://theposterdb.com/api/assets/37307
     seasons:
       0:
@@ -3615,8 +3618,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/108411
 
-  "NieR:Automata Ver1.1a":
-    year: 2023
+  # NieR:Automata Ver1.1a
+  tt18311412:
     url_poster: https://theposterdb.com/api/assets/276449
     seasons:
       0:
@@ -3624,15 +3627,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/276450
 
-  "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World":
-    year: 2023
+  # Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World
+  tt15237164:
     url_poster: https://theposterdb.com/api/assets/306220
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/306221
 
-  Nisekoi:
-    year: 2014
+  # Nisekoi
+  tt3115338:
     url_poster: https://theposterdb.com/api/assets/234279
     seasons:
       0:
@@ -3642,8 +3645,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/234281
 
-  No Game No Life:
-    year: 2014
+  # No Game No Life
+  tt3431758:
     url_poster: https://theposterdb.com/api/assets/242063
     seasons:
       0:
@@ -3651,15 +3654,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/242065
 
-  No Guns Life:
-    year: 2019
+  # No Guns Life
+  tt10981954:
     url_poster: https://theposterdb.com/api/assets/186316
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/186317
 
-  Noblesse:
-    year: 2020
+  # Noblesse
+  tt12885610:
     url_poster: https://theposterdb.com/api/assets/106464
     seasons:
       0:
@@ -3667,8 +3670,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/498327
 
-  Noragami:
-    year: 2014
+  # Noragami
+  tt3225270:
     url_poster: https://theposterdb.com/api/assets/69686
     seasons:
       0:
@@ -3678,8 +3681,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/69689
 
-  One-Punch Man:
-    year: 2015
+  # One-Punch Man
+  tt4508902:
     url_poster: https://theposterdb.com/api/assets/312223
     seasons:
       0:
@@ -3689,16 +3692,16 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/312226
 
-  "ONIMAI: I'm Now Your Sister!":
-    year: 2023
+  # ONIMAI: I'm Now Your Sister!
+  tt21929424:
     url_poster: https://theposterdb.com/api/assets/303078
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/303079
 
-  Oreimo:
-    year: 2010
-    url_poster: https://theposterdb.com/api/assets/533699 
+  # Oreimo
+  tt1751305:
+    url_poster: https://theposterdb.com/api/assets/533699
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/533700
@@ -3707,8 +3710,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/533702
 
-  Oshi No Ko:
-    year: 2023
+  # Oshi No Ko
+  tt21030032:
     url_poster: https://theposterdb.com/api/assets/341189
     seasons:
       0:
@@ -3720,29 +3723,29 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/531635
 
-  Otaku Elf:
-    year: 2023
+  # Otaku Elf
+  tt26895902:
     url_poster: https://theposterdb.com/api/assets/330476
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/330477
 
-  Otherside Picnic:
-    year: 2021
+  # Otherside Picnic
+  tt13067534:
     url_poster: https://theposterdb.com/api/assets/275684
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/275685
 
-  Outbreak Company:
-    year: 2013
+  # Outbreak Company
+  tt3196310:
     url_poster: https://theposterdb.com/api/assets/254670
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/254671
 
-  Overlord:
-    year: 2015
+  # Overlord
+  tt4869896:
     url_poster: https://theposterdb.com/api/assets/181476
     seasons:
       0:
@@ -3756,22 +3759,22 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/181481
 
-  Parallel World Pharmacy:
-    year: 2022
+  # Parallel World Pharmacy
+  tt18574004:
     url_poster: https://theposterdb.com/api/assets/308465
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/308466
 
-  Parasyte -the maxim-:
-    year: 2014
+  # Parasyte -the maxim-
+  tt3358020:
     url_poster: https://theposterdb.com/api/assets/466401
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/466402
 
-  "Patlabor: The Mobile Police":
-    year: 1989
+  # Patlabor: The Mobile Police
+  tt0159883:
     url_poster: https://theposterdb.com/api/assets/271636
     seasons:
       0:
@@ -3781,36 +3784,36 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/271634
 
-  Plastic Memories:
-    year: 2015
+  # Plastic Memories
+  tt4603222:
     url_poster: https://theposterdb.com/api/assets/199447
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/199448
 
-  Platinum End:
-    year: 2021
+  # Platinum End
+  tt13676300:
     url_poster: https://theposterdb.com/api/assets/198941
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/198942
 
-  "A Playthrough of a Certain Dude's VRMMO Life":
-    year: 2023
+  # A Playthrough of a Certain Dude's VRMMO Life
+  tt28769801:
     url_poster: https://theposterdb.com/api/assets/416950
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/416951
 
-  Plunderer:
-    year: 2020
+  # Plunderer
+  tt11418324:
     url_poster: https://theposterdb.com/api/assets/395174
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/395175
 
-  Princess Connect! Re:Dive:
-    year: 2020
+  # Princess Connect! Re:Dive
+  tt11886236:
     url_poster: https://theposterdb.com/api/assets/211711
     seasons:
       1:
@@ -3818,8 +3821,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/211713
 
-  Prison School:
-    year: 2015
+  # Prison School
+  tt4917066:
     url_poster: https://theposterdb.com/api/assets/250698
     seasons:
       0:
@@ -3827,8 +3830,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/250700
 
-  Psycho-Pass:
-    year: 2012
+  # Psycho-Pass
+  tt2379308:
     url_poster: https://theposterdb.com/api/assets/126626
     seasons:
       0:
@@ -3840,8 +3843,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/126629
 
-  The Quintessential Quintuplets:
-    year: 2019
+  # The Quintessential Quintuplets
+  tt9584920:
     url_poster: https://theposterdb.com/api/assets/358534
     seasons:
       0:
@@ -3849,17 +3852,17 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/358535
       2:
-        url_poster: https://theposterdb.com/api/assets/358536   
+        url_poster: https://theposterdb.com/api/assets/358536
 
-  Ragna Crimson:
-    year: 2023
+  # Ragna Crimson
+  tt28685470:
     url_poster: https://theposterdb.com/api/assets/446001
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/446002
 
-  Rascal Does Not Dream of Bunny Girl Senpai:
-    year: 2018
+  # Rascal Does Not Dream of Bunny Girl Senpai
+  tt8993398:
     url_poster: https://theposterdb.com/api/assets/250466
     seasons:
       0:
@@ -3867,15 +3870,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/250452
 
-  "Re:Creators":
-    year: 2017
+  # Re:Creators
+  tt6755926:
     url_poster: https://theposterdb.com/api/assets/292690
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/292691
 
-  Re:ZERO -Starting Life in Another World-:
-    year: 2016
+  # Re:ZERO -Starting Life in Another World-
+  tt5607616:
     url_poster: https://theposterdb.com/api/assets/415214
     seasons:
       0:
@@ -3887,29 +3890,29 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/472336
 
-  Reborn as a Vending Machine, I Now Wander the Dungeon:
-    year: 2023
+  # Reborn as a Vending Machine, I Now Wander the Dungeon
+  tt28100731:
     url_poster: https://theposterdb.com/api/assets/392488
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/392489
 
-  "Reborn to Master the Blade: From Hero-King to Extraordinary Squire":
-    year: 2023
+  # Reborn to Master the Blade: From Hero-King to Extraordinary Squire
+  tt25971150:
     url_poster: https://theposterdb.com/api/assets/307094
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/307095
 
-  Record of Grancrest War:
-    year: 2018
+  # Record of Grancrest War
+  tt7897050:
     url_poster: https://theposterdb.com/api/assets/234269
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/234270
 
-  Recovery of an MMO Junkie:
-    year: 2017
+  # Recovery of an MMO Junkie
+  tt7662364:
     url_poster: https://theposterdb.com/api/assets/398058
     seasons:
       0:
@@ -3917,36 +3920,36 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/398060
 
-  Redo of Healer:
-    year: 2021
+  # Redo of Healer
+  tt13370404:
     url_poster: https://theposterdb.com/api/assets/275461
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/275462
 
-  Reign of the Seven Spellblades:
-    year: 2023
+  # Reign of the Seven Spellblades
+  tt27845099:
     url_poster: https://theposterdb.com/api/assets/376945
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/376946
 
-  Reincarnated as a Sword:
-    year: 2022
+  # Reincarnated as a Sword
+  tt15483602:
     url_poster: https://theposterdb.com/api/assets/273480
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/273481
 
-  The Reincarnation of the Strongest Exorcist in Another World:
-    year: 2023
+  # The Reincarnation of the Strongest Exorcist in Another World
+  tt25809288:
     url_poster: https://theposterdb.com/api/assets/327803
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/327804
 
-  ReLIFE:
-    year: 2016
+  # ReLIFE
+  tt5857720:
     url_poster: https://theposterdb.com/api/assets/481623
     seasons:
       0:
@@ -3954,22 +3957,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/481625
 
-  "A Returner's Magic Should Be Special":
-    year: 2023
+  # A Returner's Magic Should Be Special
+  tt28313387:
     url_poster: https://theposterdb.com/api/assets/408882
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/408883
 
-  Revenger:
-    year: 2023
+  # Revenger
+  tt25534100:
     url_poster: https://theposterdb.com/api/assets/304238
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/304239
 
-  The Rising of the Shield Hero:
-    year: 2019
+  # The Rising of the Shield Hero
+  tt9529546:
     url_poster: https://theposterdb.com/api/assets/436621
     seasons:
       0:
@@ -3981,15 +3984,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/436625
 
-  Romantic Killer:
-    year: 2022
+  # Romantic Killer
+  tt21991254:
     url_poster: https://theposterdb.com/api/assets/279954
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/279955
 
-  "Ron Kamonohashi's Forbidden Deductions":
-    year: 2023
+  # Ron Kamonohashi's Forbidden Deductions
+  tt29370857:
     url_poster: https://theposterdb.com/api/assets/420842
     seasons:
       1:
