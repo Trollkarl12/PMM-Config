@@ -763,10 +763,12 @@ metadata:
 
   # Squid Game
   tt10919420:
-    url_poster: https://theposterdb.com/api/assets/179025
+    url_poster: https://theposterdb.com/api/assets/178646
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/179026
+        url_poster: https://theposterdb.com/api/assets/178741
+      2:
+        url_poster: https://theposterdb.com/api/assets/555255
 
   # Breaking Bad
   tt0903747:
