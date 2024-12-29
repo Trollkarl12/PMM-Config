@@ -147,7 +147,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/134444
 
-  # Dragon Ball
+  # Dragon Ball https://theposterdb.com/set/79631
   # Dragon Ball
   tt0280249:
     url_poster: https://theposterdb.com/api/assets/127756
@@ -166,7 +166,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127762
       6:
         url_poster: https://theposterdb.com/api/assets/127763
-        
+
   # Dragon Ball Z
   tt0214341:
     url_poster: https://theposterdb.com/api/assets/127764
@@ -191,7 +191,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127773
       9:
         url_poster: https://theposterdb.com/api/assets/127774
-        
+
   # Dragon Ball GT
   tt0139774:
     url_poster: https://theposterdb.com/api/assets/127784
@@ -204,7 +204,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127787
       3:
         url_poster: https://theposterdb.com/api/assets/127788
-        
+
   # Dragon Ball Z Kai
   tt1409055:
     url_poster: https://theposterdb.com/api/assets/127775
@@ -215,7 +215,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127777
       2:
         url_poster: https://theposterdb.com/api/assets/127778
-        
+
   # Dragon Ball Super
   tt4644488:
     url_poster: https://theposterdb.com/api/assets/127789
@@ -232,7 +232,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127794
       5:
         url_poster: https://theposterdb.com/api/assets/127795
-        
+
   # Super Dragon Ball Heroes
   tt8433216:
     url_poster: https://theposterdb.com/api/assets/127796
@@ -251,6 +251,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/216800
       6:
         url_poster: https://theposterdb.com/api/assets/423879
+
+  # Dragon Ball DAIMA
+  tt1409055:
+    url_poster: https://theposterdb.com/api/assets/533193
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/533194
 
   # Fairy Tail
   # Fairy Tail
