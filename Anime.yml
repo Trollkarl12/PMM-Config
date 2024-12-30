@@ -8325,6 +8325,8 @@ metadata:
   tt33021990:
     url_poster: https://theposterdb.com/api/assets/555002
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/556078
       1:
         url_poster: https://theposterdb.com/api/assets/555003
 
