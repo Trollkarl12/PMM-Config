@@ -17,7 +17,7 @@ collections:
 ######################################################
 
   Dragon Ball:
-    template: {name: Collection, show: "76666, 81472, 295068, 79275, 88031", poster: https://theposterdb.com/api/assets/168842, background: }
+    template: {name: Collection, show: "76666, 81472, 295068, 79275, 88031, 347734, 440820", poster: https://theposterdb.com/api/assets/168842, background: }
   Fate:
     template: {name: Collection, show: "326332 , 337018, 353666, 79151, 278626, 275798, 357492, 340138, 251047, 74522, 394346, 269319", poster: https://theposterdb.com/api/assets/141038, background: }
   Sword Art Online Universe:
