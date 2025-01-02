@@ -8343,3 +8343,11 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/556075
+
+  # Ubel Blatt
+  tt32581027:
+    url_poster: https://theposterdb.com/api/assets/556404
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/556405
+
