@@ -8375,3 +8375,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/559045
+
+  # I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
+  tt32524468:
+    url_poster: https://theposterdb.com/api/assets/559316
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/559317
+      1:
+        url_poster: https://theposterdb.com/api/assets/559318
