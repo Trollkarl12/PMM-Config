@@ -8405,3 +8405,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/560437
+
+  # Tasokare Hotel
+  tt34621609:
+    url_poster: https://theposterdb.com/api/assets/560586
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/560587
