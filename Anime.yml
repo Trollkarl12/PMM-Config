@@ -8419,3 +8419,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/561079
+
+  # Sakamoto Days
+  tt17069148:
+    url_poster: https://theposterdb.com/api/assets/561171
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/561172
