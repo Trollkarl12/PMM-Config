@@ -935,6 +935,14 @@ metadata:
   tt5433140:
     url_poster: https://theposterdb.com/api/assets/373081
 
+  # Gladiator https://theposterdb.com/set/297800
+  # Gladiator
+  tt0172495:
+    url_poster: https://theposterdb.com/api/assets/536336
+  # Gladiator II
+  tt9218128:
+    url_poster: https://theposterdb.com/api/assets/536335
+
   # The Godfather Saga
   # The Godfather
   tt0068646:
@@ -3463,9 +3471,6 @@ metadata:
   # The Girl with All the Gifts
   tt4547056:
     url_poster: https://theposterdb.com/api/assets/105509
-  # Gladiator
-  tt0172495:
-    url_poster: https://theposterdb.com/api/assets/62642
   # Glass Onion
   tt11564570:
     url_poster: https://theposterdb.com/api/assets/290535
