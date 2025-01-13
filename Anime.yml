@@ -4415,8 +4415,11 @@ metadata:
     year: 2023
     url_poster: https://theposterdb.com/api/assets/380200
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/561859
       1:
         url_poster: https://theposterdb.com/api/assets/380201
+
   Zetman:
     year: 2012
     url_poster: https://theposterdb.com/api/assets/217499
