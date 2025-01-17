@@ -5222,15 +5222,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/393049
 
-  Gate:
-    year: 2015
+  # Gate
+  tt4958580:
     url_poster: https://theposterdb.com/api/assets/129974
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/129975
 
-  Gatchaman Crowds:
-    year: 2013
+  # Gatchaman Crowds
+  tt2959370:
     url_poster: https://theposterdb.com/api/assets/407272
     seasons:
       0:
@@ -5240,8 +5240,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/407275
 
-  Penguindrum:
-    year: 2011
+  # Penguindrum
+  tt2017925:
     url_poster: https://theposterdb.com/api/assets/532640
     seasons:
       0:
@@ -5249,8 +5249,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/532642
 
-  Majestic Prince:
-    year: 2013
+  # Majestic Prince
+  tt6900184:
     url_poster: https://theposterdb.com/api/assets/336535
     seasons:
       0:
@@ -5258,8 +5258,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/336537
 
-  Is This a Zombie?:
-    year: 2011
+  # Is This a Zombie?
+  tt1780262:
     url_poster: https://theposterdb.com/api/assets/157266
     seasons:
       0:
@@ -5269,8 +5269,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/157270
 
-  Speed Grapher:
-    year: 2005
+  # Speed Grapher
+  tt0805960:
     url_poster: https://theposterdb.com/api/assets/447184
     seasons:
       0:
@@ -5278,8 +5278,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/447189
 
-  Major:
-    year: 2004
+  # Major
+  tt1693435:
     url_poster: https://theposterdb.com/api/assets/329272
     seasons:
       0:
@@ -5297,15 +5297,15 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/329268
 
-  The Pet Girl of Sakurasou:
-    year: 2012
+  # The Pet Girl of Sakurasou
+  tt2296348:
     url_poster: https://theposterdb.com/api/assets/297834
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/450314
 
-  The Promised Neverland:
-    year: 2019
+  # The Promised Neverland
+  tt8788458:
     url_poster: https://theposterdb.com/api/assets/121313
     seasons:
       1:
@@ -5313,8 +5313,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/121315
 
-  Special A:
-    year: 2008
+  # Special A
+  tt1216196:
     url_poster: https://theposterdb.com/api/assets/266136
     seasons:
       0:
@@ -5322,15 +5322,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/266138
 
-  "Drug Store in Another World: The Slow Life of a Cheat Pharmacist":
-    year: 2021
+  # Drug Store in Another World: The Slow Life of a Cheat Pharmacist
+  tt12390384:
     url_poster: https://theposterdb.com/api/assets/543192
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/543193
 
-  Gangsta.:
-    year: 2015
+  # Gangsta.
+  tt5025394:
     url_poster: https://theposterdb.com/api/assets/319920
     seasons:
       0:
@@ -5338,8 +5338,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/319922
 
-  The Qwaser of Stigmata:
-    year: 2010
+  # The Qwaser of Stigmata
+  tt3443306:
     url_poster: https://theposterdb.com/api/assets/128948
     seasons:
       0:
@@ -5349,22 +5349,22 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/128951
 
-  Ouran High School Host Club:
-    year: 2006
+  # Ouran High School Host Club
+  tt0816397:
     url_poster: https://theposterdb.com/api/assets/186327
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/186328
 
-  Claymore:
-    year: 2007
+  # Claymore
+  tt0985344:
     url_poster: https://theposterdb.com/api/assets/331924
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/331925
 
-  Why the Hell Are You Here, Teacher!?:
-    year: 2019
+  # Why the Hell Are You Here, Teacher!?
+  tt9826344:
     url_poster: https://theposterdb.com/api/assets/297254
     seasons:
       0:
@@ -5372,12 +5372,12 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/297256
 
-  Little Witch Academia:
-    year: 2017
+  # Little Witch Academia
+  tt6352180:
     url_poster: https://theposterdb.com/api/assets/236255
 
-  Chaika - The Coffin Princess:
-    year: 2014
+  # Chaika - The Coffin Princess
+  tt3517016:
     url_poster: https://theposterdb.com/api/assets/328238
     seasons:
       0:
@@ -5387,15 +5387,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/328240
 
-  Btooom!:
-    year: 2012
+  # Btooom!
+  tt2329220:
     url_poster: https://theposterdb.com/api/assets/75265
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/75266
 
-  The Future Diary:
-    year: 2011
+  # The Future Diary
+  tt2069441:
     url_poster: https://theposterdb.com/api/assets/406951
     seasons:
       0:
@@ -5403,22 +5403,22 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/406953
 
-  Katanagatari:
-    year: 2010
+  # Katanagatari
+  tt1945730:
     url_poster: https://theposterdb.com/api/assets/159066
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/159067
 
-  Devilman Crybaby:
-    year: 2018
+  # Devilman Crybaby
+  tt6660498:
     url_poster: https://theposterdb.com/api/assets/288482
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/288483
 
-  The Melancholy of Haruhi Suzumiya:
-    year: 2006
+  # The Melancholy of Haruhi Suzumiya
+  tt0816407:
     url_poster: https://theposterdb.com/api/assets/535431
     seasons:
       0:
@@ -5428,8 +5428,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/535434
 
-  Hyouka:
-    year: 2012
+  # Hyouka
+  tt2340841:
     url_poster: https://theposterdb.com/api/assets/533099
     seasons:
       0:
@@ -5437,8 +5437,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/533101
 
-  Durarara!!:
-    year: 2010
+  # Durarara!!
+  tt1584000:
     url_poster: https://theposterdb.com/api/assets/135914
     seasons:
       0:
@@ -5448,8 +5448,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/135917
 
-  The Prince of Tennis:
-    year: 2001
+  # The Prince of Tennis
+  tt0466352:
     url_poster: https://theposterdb.com/api/assets/318986
     seasons:
       0:
@@ -5469,8 +5469,8 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/318994
 
-  The New Prince of Tennis:
-    year: 2012
+  # The New Prince of Tennis
+  tt2172653:
     url_poster: https://theposterdb.com/api/assets/319093
     seasons:
       0:
@@ -5484,12 +5484,12 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/530204
 
-  Magic Kaito 1412:
-    year: 2014
+  # Magic Kaito 1412
+  tt4008500:
     url_poster: https://theposterdb.com/api/assets/79520
 
-  Yu Yu Hakusho:
-    year: 1992
+  # Yu Yu Hakusho
+  tt13664452:
     url_poster: https://theposterdb.com/api/assets/448667
     seasons:
       0:
@@ -5503,8 +5503,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/448672
 
-  The Apothecary Diaries:
-    year: 2023
+  # The Apothecary Diaries
+  tt26743760:
     url_poster: https://theposterdb.com/api/assets/388822
     seasons:
       0:
@@ -5514,8 +5514,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/474395
 
-  "Ghost in the Shell: Stand Alone Complex":
-    year: 2002
+  # Ghost in the Shell: Stand Alone Complex
+  tt0346314:
     url_poster: https://theposterdb.com/api/assets/175274
     seasons:
       0:
@@ -5529,8 +5529,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/224419
 
-  "The Seven Deadly Sins: Four Knights of the Apocalypse":
-    year: 2023
+  # The Seven Deadly Sins: Four Knights of the Apocalypse
+  tt20228550:
     url_poster: https://theposterdb.com/api/assets/432006
     seasons:
       1:
@@ -5538,8 +5538,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/529066
 
-  Rage of Bahamut:
-    year: 2014
+  # Rage of Bahamut
+  tt3981938:
     url_poster: https://theposterdb.com/api/assets/435512
     seasons:
       0:
@@ -5549,8 +5549,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/435515
 
-  "Wolf's Rain":
-    year: 2003
+  # Wolf's Rain
+  tt0367439:
     url_poster: https://theposterdb.com/api/assets/181180
     seasons:
       0:
@@ -5558,8 +5558,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/181182
 
-  Quanzhi Fashi:
-    year: 2016
+  # Quanzhi Fashi
+  tt11317074:
     url_poster: https://theposterdb.com/api/assets/424525
     seasons:
       1:
@@ -5571,12 +5571,12 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/146532
 
-  Desert Punk:
-    year: 2004
+  # Desert Punk
+  tt0440988:
     url_poster: https://theposterdb.com/api/assets/245217
 
-  "I Can't Understand What My Husband Is Saying":
-    year: 2014
+  # I Can't Understand What My Husband Is Saying
+  tt4045510:
     url_poster: https://theposterdb.com/api/assets/104262
     seasons:
       1:
@@ -5584,8 +5584,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/104264
 
-  Maid Sama!:
-    year: 2010
+  # Maid Sama!
+  tt1634208:
     url_poster: https://theposterdb.com/api/assets/337605
     seasons:
       0:
@@ -5593,8 +5593,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/337607
 
-  Trigun:
-    year: 1998
+  # Trigun
+  tt0251439:
     url_poster: https://theposterdb.com/api/assets/180572
     seasons:
       0:
@@ -5602,15 +5602,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/180574
 
-  Alice in Borderland:
-    year: 2014
+  # Alice in Borderland
+  tt13056398:
     url_poster: https://theposterdb.com/api/assets/262045
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/262046
 
-  The Familiar of Zero:
-    year: 2006
+  # The Familiar of Zero
+  tt0978553:
     url_poster: https://theposterdb.com/api/assets/321185
     seasons:
       0:
@@ -5624,8 +5624,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/321190
 
-  Aesthetica of a Rogue Hero:
-    year: 2012
+  # Aesthetica of a Rogue Hero
+  tt2269368:
     url_poster: https://theposterdb.com/api/assets/421870
     seasons:
       0:
@@ -5633,23 +5633,23 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/421872
 
-  Magical Sempai:
-    year: 2019
+  # Magical Sempai
+  tt10427926:
     url_poster: https://theposterdb.com/api/assets/423240
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/423241
 
-  DNA²:
-    year: 1994
+  # DNA²
+  tt0108736:
     url_poster: https://theposterdb.com/api/assets/106606
 
-  Rave Master:
-    year: 2001
+  # Rave Master
+  tt0414763:
     url_poster: https://theposterdb.com/api/assets/240972
 
-  REBORN!:
-    year: 2006
+  # REBORN!
+  tt1224144:
     url_poster: https://theposterdb.com/api/assets/160231
     seasons:
       0:
@@ -5673,8 +5673,8 @@ metadata:
       9:
         url_poster: https://theposterdb.com/api/assets/160241
 
-  Samurai Girls:
-    year: 2010
+  # Samurai Girls
+  tt2074011:
     url_poster: https://theposterdb.com/api/assets/348188
     seasons:
       0:
@@ -5684,8 +5684,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/348191
 
-  Yamada-kun and the Seven Witches:
-    year: 2015
+  # Yamada-kun and the Seven Witches
+  tt4623042:
     url_poster: https://theposterdb.com/api/assets/424016
     seasons:
       0:
@@ -5693,15 +5693,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/424018
 
-  Somali and the Forest Spirit:
-    year: 2020
+  # Somali and the Forest Spirit
+  tt11428586:
     url_poster: https://theposterdb.com/api/assets/537183
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/537184
 
-  "Kenichi: The Mightiest Disciple":
-    year: 2006
+  # Kenichi: The Mightiest Disciple
+  tt1424037:
     url_poster: https://theposterdb.com/api/assets/506386
     seasons:
       0:
@@ -5709,29 +5709,29 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/506388
 
-  Raven of the Inner Palace:
-    year: 2022
+  # Raven of the Inner Palace
+  tt21197084:
     url_poster: https://theposterdb.com/api/assets/271679
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/271680
 
-  "16bit Sensation: Another Layer":
-    year: 2023
+  # 16bit Sensation: Another Layer
+  tt29143189:
     url_poster: https://theposterdb.com/api/assets/416606
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/416607
 
-  Ben-To:
-    year: 2011
+  # Ben-To
+  tt3625280:
     url_poster: https://theposterdb.com/api/assets/322317
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/322318
 
-  The Vampire Dies in No Time:
-    year: 2021
+  # The Vampire Dies in No Time
+  tt12279682:
     url_poster: https://theposterdb.com/api/assets/310012
     seasons:
       1:
@@ -5739,15 +5739,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/310014
 
-  Blades of the Guardians:
-    year: 2023
+  # Blades of the Guardians
+  tt28259824:
     url_poster: https://theposterdb.com/api/assets/424502
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/424503
 
-  "Maoyu: Archenemy & Hero":
-    year: 2013
+  # Maoyu: Archenemy & Hero
+  tt2552230:
     url_poster: https://theposterdb.com/api/assets/424732
     seasons:
       0:
@@ -5755,15 +5755,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/424733
 
-  Plastic Elder Sister:
-    year: 2011
+  # Plastic Elder Sister
+  tt3462244:
     url_poster: https://theposterdb.com/api/assets/392781
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/392782
 
-  Afro Samurai:
-    year: 2007
+  # Afro Samurai
+  tt0465316:
     url_poster: https://theposterdb.com/api/assets/160888
     seasons:
       0:
@@ -5771,8 +5771,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/160890
 
-  Black Rock Shooter:
-    year: 2012
+  # Black Rock Shooter
+  tt2198397:
     url_poster: https://theposterdb.com/api/assets/323253
     seasons:
       0:
@@ -5780,29 +5780,29 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/323255
 
-  Gungrave:
-    year: 2003
+  # Gungrave
+  tt0435961:
     url_poster: https://theposterdb.com/api/assets/319060
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/319061
 
-  Heroic Age:
-    year: 2007
+  # Heroic Age
+  tt1433670:
     url_poster: https://theposterdb.com/api/assets/254699
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/254700
 
-  "Black Rock Shooter: Dawn Fall":
-    year: 2022
+  # Black Rock Shooter: Dawn Fall
+  tt15582422:
     url_poster: https://theposterdb.com/api/assets/323256
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/323257
 
-  Dusk Maiden of Amnesia:
-    year: 2012
+  # Dusk Maiden of Amnesia
+  tt2340511:
     url_poster: https://theposterdb.com/api/assets/310032
     seasons:
       0:
@@ -5810,15 +5810,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/310034
 
-  Blue Period:
-    year: 2021
+  # Blue Period
+  tt14115912:
     url_poster: https://theposterdb.com/api/assets/230858
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/230859
 
-  "Sankarea: Undying Love":
-    year: 2012
+  # Sankarea: Undying Love
+  tt2341379:
     url_poster: https://theposterdb.com/api/assets/186341
     seasons:
       0:
@@ -5826,8 +5826,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/186343
 
-  Shomin Sample:
-    year: 2015
+  # Shomin Sample
+  tt5355196:
     url_poster: https://theposterdb.com/api/assets/342443
     seasons:
       0:
@@ -5835,8 +5835,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/342445
 
-  Kamisama Kiss:
-    year: 2012
+  # Kamisama Kiss
+  tt2320220:
     url_poster: https://theposterdb.com/api/assets/435831
     seasons:
       0:
@@ -5846,36 +5846,36 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/435834
 
-  Tsukigakirei:
-    year: 2017
+  # Tsukigakirei
+  tt6472710:
     url_poster: https://theposterdb.com/api/assets/390329
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/390330
 
-  My Bride is a Mermaid:
-    year: 2007
+  # My Bride is a Mermaid
+  tt1739796:
     url_poster: https://theposterdb.com/api/assets/253862
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/253863
 
-  Aria the Scarlet Ammo AA:
-    year: 2015
+  # Aria the Scarlet Ammo AA
+  tt5024410:
     url_poster: https://theposterdb.com/api/assets/316917
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/316918
 
-  Chrome Shelled Regios:
-    year: 2009
+  # Chrome Shelled Regios
+  tt1394286:
     url_poster: https://theposterdb.com/api/assets/424980
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/424981
 
-  Aria the Scarlet Ammo:
-    year: 2011
+  # Aria the Scarlet Ammo
+  tt1936037:
     url_poster: https://theposterdb.com/api/assets/316914
     seasons:
       0:
@@ -5883,8 +5883,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/316916
 
-  xxxHOLiC:
-    year: 2006
+  # xxxHOLiC
+  tt0488477:
     url_poster: https://theposterdb.com/api/assets/248869
     seasons:
       0:
@@ -5894,15 +5894,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/248872
 
-  Punch Line:
-    year: 2015
+  # Punch Line
+  tt5160872:
     url_poster: https://theposterdb.com/api/assets/427144
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/427145
 
-  Laid-Back Camp:
-    year: 2018
+  # Laid-Back Camp
+  tt7742120:
     url_poster: https://theposterdb.com/api/assets/295767
     seasons:
       0:
@@ -5912,8 +5912,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/295770
 
-  Squid Girl:
-    year: 2010
+  # Squid Girl
+  tt1738090:
     url_poster: https://theposterdb.com/api/assets/427895
     seasons:
       0:
@@ -5923,15 +5923,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/427898
 
-  Sacrificial Princess and the King of Beasts:
-    year: 2023
+  # Sacrificial Princess and the King of Beasts
+  tt21929436:
     url_poster: https://theposterdb.com/api/assets/335393
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/335394
 
-  March Comes in Like a Lion:
-    year: 2016
+  # March Comes in Like a Lion
+  tt6074794:
     url_poster: https://theposterdb.com/api/assets/247633
     seasons:
       0:
@@ -5941,8 +5941,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/247636
 
-  Please Tell Me! Galko-chan:
-    year: 2016
+  # Please Tell Me! Galko-chan
+  tt5345050:
     url_poster: https://theposterdb.com/api/assets/254999
     seasons:
       0:
@@ -5950,8 +5950,8 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/255000
 
-  Black Butler:
-    year: 2008
+  # Black Butler
+  tt1316554:
     url_poster: https://theposterdb.com/api/assets/322783
     seasons:
       0:
@@ -5965,8 +5965,8 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/459030
 
-  "Nura: Rise of the Yokai Clan":
-    year: 2010
+  # Nura: Rise of the Yokai Clan
+  tt2716982:
     url_poster: https://theposterdb.com/api/assets/409278
     seasons:
       0:
@@ -5976,8 +5976,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/409281
 
-  Hakuoki:
-    year: 2010
+  # Hakuoki
+  tt1658978:
     url_poster: https://theposterdb.com/api/assets/204697
     seasons:
       0:
@@ -5989,8 +5989,8 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/204701
 
-  Darker Than Black:
-    year: 2007
+  # Darker Than Black
+  tt0995941:
     url_poster: https://theposterdb.com/api/assets/72750
     seasons:
       0:
@@ -6000,8 +6000,8 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/72753
 
-  Stardust Telepath:
-    year: 2023
+  # Stardust Telepath
+  tt29171939:
     url_poster: https://theposterdb.com/api/assets/419401
     seasons:
       1:
