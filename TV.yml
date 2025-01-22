@@ -2388,3 +2388,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/549287
+
+  # The Hunters
+  tt7059774:
+    url_poster: https://theposterdb.com/api/assets/529430
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/529431
+      2:
+        url_poster: https://theposterdb.com/api/assets/529432
