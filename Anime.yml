@@ -2228,16 +2228,18 @@ metadata:
 
   # Dr. Stone
   tt9679542:
-    url_poster: https://theposterdb.com/api/assets/331658
+    url_poster: https://theposterdb.com/api/assets/333335
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/331659
+        url_poster: https://theposterdb.com/api/assets/333340
       1:
-        url_poster: https://theposterdb.com/api/assets/331660
+        url_poster: https://theposterdb.com/api/assets/333341
       2:
-        url_poster: https://theposterdb.com/api/assets/331661
+        url_poster: https://theposterdb.com/api/assets/333342
       3:
-        url_poster: https://theposterdb.com/api/assets/347357
+        url_poster: https://theposterdb.com/api/assets/333343
+      4:
+        url_poster: https://theposterdb.com/api/assets/516690
 
   # Dragon Quest: The Adventure of Dai
   tt11858104:
