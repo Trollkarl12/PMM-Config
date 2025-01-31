@@ -8448,3 +8448,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/526589
+
+  # Castle Town Dandelion
+  tt5071764:
+    url_poster: https://theposterdb.com/api/assets/511310
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/511311
