@@ -2408,3 +2408,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/157865
       2:
         url_poster: https://theposterdb.com/api/assets/157866
+
+  # Money Heist
+  tt6468322:
+    url_poster: https://theposterdb.com/api/assets/60597
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/60598
+      2:
+        url_poster: https://theposterdb.com/api/assets/60599
+      3:
+        url_poster: https://theposterdb.com/api/assets/60600
+      4:
+        url_poster: https://theposterdb.com/api/assets/60601
+      5:
+        url_poster: https://theposterdb.com/api/assets/173592
