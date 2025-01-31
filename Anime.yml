@@ -8459,8 +8459,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/511311
 
   # Shigurui: Death Frenzy
-  tt5071764:
+  tt1233119:
     url_poster: https://theposterdb.com/api/assets/397950
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/397951
+
+  # You're Under Arrest!
+  tt0111351:
+    url_poster: https://theposterdb.com/api/assets/431296
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/431297
+      1:
+        url_poster: https://theposterdb.com/api/assets/431298
+      2:
+        url_poster: https://theposterdb.com/api/assets/431299
+      3:
+        url_poster: https://theposterdb.com/api/assets/431300
