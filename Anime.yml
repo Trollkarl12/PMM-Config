@@ -8477,3 +8477,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/431299
       3:
         url_poster: https://theposterdb.com/api/assets/431300
+
+  # Dominion Tank Police
+  tt0158591:
+    url_poster: https://theposterdb.com/api/assets/462941
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/462942
+      2:
+        url_poster: https://theposterdb.com/api/assets/462943
