@@ -2436,3 +2436,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/532915
       2:
         url_poster: https://theposterdb.com/api/assets/532916
+
+  # Tokyo Vice
+  tt2887954:
+    url_poster: https://theposterdb.com/api/assets/223787
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/223788
+      2:
+        url_poster: https://theposterdb.com/api/assets/451013
