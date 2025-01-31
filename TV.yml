@@ -2445,3 +2445,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/223788
       2:
         url_poster: https://theposterdb.com/api/assets/451013
+
+  # The Consultant
+  tt16152716:
+    url_poster: https://theposterdb.com/api/assets/319206
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/319207
