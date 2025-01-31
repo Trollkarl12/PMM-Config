@@ -2457,13 +2457,13 @@ metadata:
 
   # Sonic The Hedgehog https://theposterdb.com/set/267636
   # Sonic the Hedgehog
-  tt15474916:
+  tt3794354:
     url_poster: https://theposterdb.com/api/assets/486223
   # Sonic the Hedgehog 2
-  tt29268110:
+  tt12412888:
     url_poster: https://theposterdb.com/api/assets/486222
   # Sonic the Hedgehog 3
-  tt29268110:
+  tt18259086:
     url_poster: https://theposterdb.com/api/assets/490070
 
   # Sony Pictures Animation https://theposterdb.com/set/147984
@@ -4520,6 +4520,9 @@ metadata:
   # The Way of the Dragon
   tt0068935:
     url_poster: https://theposterdb.com/api/assets/30555
+  # We Live in Time
+  tt27131358:
+    url_poster: https://theposterdb.com/api/assets/549636
   # The Whale
   tt13833688:
     url_poster: https://theposterdb.com/api/assets/332616
