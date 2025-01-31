@@ -1577,10 +1577,12 @@ metadata:
 
   # Severance
   tt11280740:
-    url_poster: https://theposterdb.com/api/assets/231507
+    url_poster: https://theposterdb.com/api/assets/386508
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/231508
+        url_poster: https://theposterdb.com/api/assets/386509
+      2:
+        url_poster: https://theposterdb.com/api/assets/549878
 
   # Shōgun
   tt2788316:
