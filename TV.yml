@@ -590,6 +590,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/415576
+      2:
+        url_poster: https://theposterdb.com/api/assets/562826
 
   # Yellowstone https://theposterdb.com/set/170697
   # Yellowstone (2018)
