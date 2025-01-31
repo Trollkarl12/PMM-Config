@@ -2423,3 +2423,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/60601
       5:
         url_poster: https://theposterdb.com/api/assets/173592
+
+  # Tell Me Lies
+  tt13018148:
+    url_poster: https://theposterdb.com/api/assets/532914
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/532915
+      2:
+        url_poster: https://theposterdb.com/api/assets/532916
