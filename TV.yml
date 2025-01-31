@@ -2397,3 +2397,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/529431
       2:
         url_poster: https://theposterdb.com/api/assets/529432
+
+  # Kingdom
+  tt6611916:
+    url_poster: https://theposterdb.com/api/assets/157864
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/158675
+      1:
+        url_poster: https://theposterdb.com/api/assets/157865
+      2:
+        url_poster: https://theposterdb.com/api/assets/157866
