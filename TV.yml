@@ -2452,3 +2452,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/319207
+
+  # American Primeval
+  tt24069848:
+    url_poster: https://theposterdb.com/api/assets/559741
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/559742
