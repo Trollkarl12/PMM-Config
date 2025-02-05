@@ -1842,7 +1842,7 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/214087
 
-  # Detective Conan
+  # Detective Conan https://theposterdb.com/set/87677
   tt0131179:
     url_poster: https://theposterdb.com/api/assets/141079
     seasons:
@@ -1912,6 +1912,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/306821
       32:
         url_poster: https://theposterdb.com/api/assets/457131
+      33:
+        url_poster: https://theposterdb.com/api/assets/570043
 
   # Cautious Hero: The Hero Is Overpowered but Overly Cautious
   tt10974198:
