@@ -1381,7 +1381,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/295892
 
-  # Invincible (2021)
+  # Invincible https://theposterdb.com/set/217760
   tt6741278:
     url_poster: https://theposterdb.com/api/assets/387256
     seasons:
@@ -1391,6 +1391,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/387258
       2:
         url_poster: https://theposterdb.com/api/assets/387259
+      3:
+        url_poster: https://theposterdb.com/api/assets/567267
 
   # Limitless
   tt4422836:
