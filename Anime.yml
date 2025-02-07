@@ -7026,8 +7026,12 @@ metadata:
   tt31624309:
     url_poster: https://theposterdb.com/api/assets/450302
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/570759
       1:
         url_poster: https://theposterdb.com/api/assets/450303
+      2:
+        url_poster: https://theposterdb.com/api/assets/570760
 
   # The Banished Former Hero Lives as He Pleases
   tt28131643:
