@@ -1820,6 +1820,14 @@ metadata:
   tt8790086:
     url_poster: https://theposterdb.com/api/assets/387011
 
+  # It https://theposterdb.com/set/100581
+  # It
+  tt1396484:
+    url_poster: https://theposterdb.com/api/assets/164502
+  # It Chapter Two
+  tt7349950:
+    url_poster: https://theposterdb.com/api/assets/164503
+
   # The Mechanic https://theposterdb.com/set/23493
   # The Mechanic
   tt0472399:
@@ -3835,12 +3843,6 @@ metadata:
   # Iron Monkey
   tt0108148:
     url_poster: https://theposterdb.com/api/assets/110793
-  # It
-  tt1396484:
-    url_poster: https://theposterdb.com/api/assets/164502
-  # It Chapter Two
-  tt1396484:
-    url_poster: https://theposterdb.com/api/assets/164503
   # It Ends with Us
   tt10655524:
     url_poster: https://theposterdb.com/api/assets/527286
