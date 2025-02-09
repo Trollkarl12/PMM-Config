@@ -1410,6 +1410,14 @@ metadata:
   tt3038708:
     url_poster: https://theposterdb.com/api/assets/19827
 
+  # It https://theposterdb.com/set/100581
+  # It
+  tt1396484:
+    url_poster: https://theposterdb.com/api/assets/164502
+  # It Chapter Two
+  tt7349950:
+    url_poster: https://theposterdb.com/api/assets/164503
+
   # James Bond https://theposterdb.com/set/78937
   # Dr. No
   tt0055928:
@@ -1819,14 +1827,6 @@ metadata:
   # Kraven the Hunter
   tt8790086:
     url_poster: https://theposterdb.com/api/assets/387011
-
-  # It https://theposterdb.com/set/100581
-  # It
-  tt1396484:
-    url_poster: https://theposterdb.com/api/assets/164502
-  # It Chapter Two
-  tt7349950:
-    url_poster: https://theposterdb.com/api/assets/164503
 
   # The Mechanic https://theposterdb.com/set/23493
   # The Mechanic
@@ -2240,6 +2240,17 @@ metadata:
   # The First Purge
   tt6133466:
     url_poster: https://theposterdb.com/api/assets/5948
+
+  # Pusher https://theposterdb.com/set/53829
+  # Pusher
+  tt0117407:
+    url_poster: https://theposterdb.com/api/assets/84568
+  # Pusher II
+  tt0396184:
+    url_poster: https://theposterdb.com/api/assets/84569
+  # Pusher III
+  tt0425379:
+    url_poster: https://theposterdb.com/api/assets/84570
 
   # A Quiet Place https://theposterdb.com/set/283512
   # A Quiet Place
