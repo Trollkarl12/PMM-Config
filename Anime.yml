@@ -973,14 +973,16 @@ metadata:
   # Random Anime shows 
   # Queen's Blade
   tt1407599:
-    url_poster: https://theposterdb.com/api/assets/271661
+    url_poster: https://theposterdb.com/api/assets/572346
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/271662
+        url_poster: https://theposterdb.com/api/assets/572347
       1:
-        url_poster: https://theposterdb.com/api/assets/271663
+        url_poster: https://theposterdb.com/api/assets/572348
       2:
-        url_poster: https://theposterdb.com/api/assets/271664
+        url_poster: https://theposterdb.com/api/assets/572349
+      3:
+        url_poster: https://theposterdb.com/api/assets/572350
 
   # Heaven's Lost Property
   tt1528567:
