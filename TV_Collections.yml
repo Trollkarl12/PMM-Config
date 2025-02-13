@@ -28,7 +28,7 @@ collections:
     template: {name: Collection, show: "282670, 353232", poster: https://theposterdb.com/api/assets/196849, background: https://i.imgur.com/RUqzj0C.jpg}
     summary: Anthology of Netflix shows about the Columbia and Mexican drug cartells rise to power in the 1980's.
   Star Wars:
-    template: {name: Collection, show: "393199, 393187, 380352, 393218, 361753, 393589, 393189, 393188, 83867", poster: https://theposterdb.com/api/assets/4448, background: https://i.imgur.com/GdLMZko.jpg}
+    template: {name: Collection, show: "393199, 393187, 380352, 361753, 393589, 393189, 393188, 83867", poster: https://theposterdb.com/api/assets/4448, background: https://i.imgur.com/GdLMZko.jpg}
     summary: "The Complete Saga Of Star Wars"
   The Last Kingdom:
     template: {name: Collection, show: "298566", poster: https://theposterdb.com/api/assets/350790, background: https://i.imgur.com/7JCO6cc.jpg}
