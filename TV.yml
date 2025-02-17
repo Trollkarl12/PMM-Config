@@ -2498,3 +2498,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/544415
+
+  # Gotham https://theposterdb.com/set/92060
+  tt3749900:
+    url_poster: https://theposterdb.com/api/assets/149585
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/149586
+      1:
+        url_poster: https://theposterdb.com/api/assets/149587
+      2:
+        url_poster: https://theposterdb.com/api/assets/149588
+      3:
+        url_poster: https://theposterdb.com/api/assets/149589
+      4:
+        url_poster: https://theposterdb.com/api/assets/149590
+      5:
+        url_poster: https://theposterdb.com/api/assets/149591
