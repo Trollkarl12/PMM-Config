@@ -2491,3 +2491,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/141633
       9:
         url_poster: https://theposterdb.com/api/assets/141634
+
+  # Senna
+  tt13024830:
+    url_poster: https://theposterdb.com/api/assets/544414
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/544415
