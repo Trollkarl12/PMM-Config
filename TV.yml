@@ -2468,3 +2468,26 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/541610
+
+  # Suits https://theposterdb.com/set/87892
+  tt1632701:
+    url_poster: https://theposterdb.com/api/assets/141625
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/141626
+      2:
+        url_poster: https://theposterdb.com/api/assets/141627
+      3:
+        url_poster: https://theposterdb.com/api/assets/141628
+      4:
+        url_poster: https://theposterdb.com/api/assets/141629
+      5:
+        url_poster: https://theposterdb.com/api/assets/141630
+      6:
+        url_poster: https://theposterdb.com/api/assets/141631
+      7:
+        url_poster: https://theposterdb.com/api/assets/141632
+      8:
+        url_poster: https://theposterdb.com/api/assets/141633
+      9:
+        url_poster: https://theposterdb.com/api/assets/141634
