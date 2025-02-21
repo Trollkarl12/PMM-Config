@@ -572,6 +572,9 @@ metadata:
   # The Little Mermaid (Live Action)
   tt5971474:
     url_poster: https://theposterdb.com/api/assets/393719
+  # Mufasa: The Lion King
+  tt13186482:
+    url_poster: https://theposterdb.com/api/assets/575408
 
   # Doom
   # Doom
@@ -1902,6 +1905,20 @@ metadata:
   tt4431254:
     url_poster: https://theposterdb.com/api/assets/433310
 
+  # Lethal Weapon https://theposterdb.com/set/91760
+  # Lethal Weapon
+  tt0097778:
+    url_poster: https://theposterdb.com/api/assets/149037
+  # Lethal Weapon 2
+  tt0100050:
+    url_poster: https://theposterdb.com/api/assets/149038
+  # Lethal Weapon 3
+  tt0107438:
+    url_poster: https://theposterdb.com/api/assets/149039
+  # Lethal Weapon 4
+  tt0107438:
+    url_poster: https://theposterdb.com/api/assets/149040
+
   # Look Who's Talking https://theposterdb.com/set/83584
   # Look Who's Talking
   tt0097778:
@@ -3143,6 +3160,9 @@ metadata:
   # Apocalypse Now
   tt0078788:
     url_poster: https://theposterdb.com/api/assets/32549
+  # The Apprentice
+  tt8368368:
+    url_poster: https://theposterdb.com/api/assets/530444
   # Argo
   tt1024648:
     url_poster: https://theposterdb.com/api/assets/466838
@@ -3212,6 +3232,9 @@ metadata:
   # Bicentennial Man
   tt0182789:
     url_poster: https://theposterdb.com/api/assets/96890
+  # The Big Boss
+  tt0067824:
+    url_poster: https://theposterdb.com/api/assets/30553
   # The Big Lebowski
   tt0118715:
     url_poster: https://theposterdb.com/api/assets/50649
@@ -3272,6 +3295,9 @@ metadata:
   # Bullet Train
   tt12593682:
     url_poster: https://theposterdb.com/api/assets/269457
+  # The Brutalist
+  tt8999762:
+    url_poster: https://theposterdb.com/api/assets/575374
   # Burnt
   tt2503944:
     url_poster: https://theposterdb.com/api/assets/448346
@@ -3548,6 +3574,9 @@ metadata:
   # The Family Plan
   tt16431870:
     url_poster: https://theposterdb.com/api/assets/442778
+  # Fantastic Mr. Fox
+  tt0432283:
+    url_poster: https://theposterdb.com/api/assets/527703
   # Farewell My Concubine
   tt0106332:
     url_poster: https://theposterdb.com/api/assets/382050
@@ -3722,6 +3751,9 @@ metadata:
   # The Goonies
   tt0089218:
     url_poster: https://theposterdb.com/api/assets/36732
+  # The Gorge
+  tt13654226:
+    url_poster: https://theposterdb.com/api/assets/573935
   # Gran Turismo
   tt4495098:
     url_poster: https://theposterdb.com/api/assets/362016
@@ -4385,6 +4417,9 @@ metadata:
   # The Revenant
   tt1663202:
     url_poster: https://theposterdb.com/api/assets/53106
+  # Revolutionary Road
+  tt0959337:
+    url_poster: https://theposterdb.com/api/assets/114754
   # Richie Rich
   tt0110989:
     url_poster: https://theposterdb.com/api/assets/120295
@@ -4487,6 +4522,9 @@ metadata:
   # Sisu
   tt14846026:
     url_poster: https://theposterdb.com/api/assets/362414
+  # The Skin I Live In
+  tt1189073:
+    url_poster: https://theposterdb.com/api/assets/362377
   # Snowden
   tt3774114:
     url_poster: https://theposterdb.com/api/assets/80407
@@ -4739,9 +4777,15 @@ metadata:
   # We Live in Time
   tt27131358:
     url_poster: https://theposterdb.com/api/assets/549636
+  # Weird Science
+  tt0090305:
+    url_poster: https://theposterdb.com/api/assets/456956
   # The Whale
   tt13833688:
     url_poster: https://theposterdb.com/api/assets/332616
+  # Wheels on Meals
+  tt0087578:
+    url_poster: https://theposterdb.com/api/assets/150425
   # Where Eagles Dare
   tt0065207:
     url_poster: https://theposterdb.com/api/assets/427857

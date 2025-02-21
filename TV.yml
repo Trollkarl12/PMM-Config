@@ -1203,7 +1203,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/95209
 
-  # Family Guy
+  # Family Guy https://theposterdb.com/set/198138
   tt0182576:
     url_poster: https://theposterdb.com/api/assets/343600
     seasons:
@@ -1551,14 +1551,16 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/236703
 
-  # Reacher
+  # Reacher https://theposterdb.com/set/320010
   tt9288030:
-    url_poster: https://theposterdb.com/api/assets/212490
+    url_poster: https://theposterdb.com/api/assets/575753
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/212491
+        url_poster: https://theposterdb.com/api/assets/575754
       2:
-        url_poster: https://theposterdb.com/api/assets/431292
+        url_poster: https://theposterdb.com/api/assets/575755
+      3:
+        url_poster: https://theposterdb.com/api/assets/575756
 
   # Rick and Morty
   tt2861424:
@@ -2534,3 +2536,23 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123854
       7:
         url_poster: https://theposterdb.com/api/assets/123855
+
+  # The Pacific
+  tt0374463:
+    url_poster: https://theposterdb.com/api/assets/466621
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/466622
+
+  # The Man in the High Castle
+  tt0374463:
+    url_poster: https://theposterdb.com/api/assets/249286
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/249287
+      2:
+        url_poster: https://theposterdb.com/api/assets/249288
+      3:
+        url_poster: https://theposterdb.com/api/assets/249289
+      4:
+        url_poster: https://theposterdb.com/api/assets/249290
