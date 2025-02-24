@@ -282,6 +282,17 @@ metadata:
   tt0980970:
     url_poster: https://theposterdb.com/api/assets/153
 
+  # Crocodile Dundee https://theposterdb.com/set/255609
+  # Crocodile Dundee
+  tt0090555:
+    url_poster: https://theposterdb.com/api/assets/464370
+  # Crocodile Dundee II 
+  tt0092493:
+    url_poster: https://theposterdb.com/api/assets/464369
+  # Crocodile Dundee in Los Angeles
+  tt0231402:
+    url_poster: https://theposterdb.com/api/assets/464368
+
   # Crouching Tiger, Hidden Dragon https://theposterdb.com/set/112908
   # Crouching Tiger, Hidden Dragon
   tt0190332:
@@ -860,6 +871,9 @@ metadata:
   # I Live in Fear
   tt0048198:
     url_poster: https://theposterdb.com/api/assets/83564
+  # I Live in Fear
+  tt0387808:
+    url_poster: https://theposterdb.com/api/assets/448956
   # Throne of Blood
   tt0050613:
     url_poster: https://theposterdb.com/api/assets/83565
@@ -1294,6 +1308,9 @@ metadata:
   # The Passion of Anna
   tt0064793:
     url_poster: https://theposterdb.com/api/assets/428149
+  # The Passion of the Christ
+  tt0335345:
+    url_poster: https://theposterdb.com/api/assets/62201
   # Fårö Document
   tt0064355:
     url_poster: https://theposterdb.com/api/assets/428132
@@ -3160,6 +3177,9 @@ metadata:
   # Apocalypse Now
   tt0078788:
     url_poster: https://theposterdb.com/api/assets/32549
+  # Apocalypto
+  tt0472043:
+    url_poster: https://theposterdb.com/api/assets/194665
   # The Apprentice
   tt8368368:
     url_poster: https://theposterdb.com/api/assets/530444
@@ -3757,6 +3777,9 @@ metadata:
   # Gran Turismo
   tt4495098:
     url_poster: https://theposterdb.com/api/assets/362016
+  # The Grand Budapest Hotel
+  tt2278388:
+    url_poster: https://theposterdb.com/api/assets/54311
   # The Gray Man
   tt1649418:
     url_poster: https://theposterdb.com/api/assets/267418
@@ -4177,6 +4200,9 @@ metadata:
   # Mr. Bean's Holiday
   tt0453451:
     url_poster: https://theposterdb.com/api/assets/441898
+  # The Mule
+  tt7959026:
+    url_poster: https://theposterdb.com/api/assets/66057
   # Mulholland Drive
   tt0166924:
     url_poster: https://theposterdb.com/api/assets/114434
@@ -4258,6 +4284,9 @@ metadata:
   # The Outfit
   tt14114802:
     url_poster: https://theposterdb.com/api/assets/231575
+  # The Outlaw Josey Wales
+  tt0075029:
+    url_poster: https://theposterdb.com/api/assets/167695
   # Overlord
   tt4530422:
     url_poster: https://theposterdb.com/api/assets/79753
@@ -4267,6 +4296,9 @@ metadata:
   # The Pale Blue Eye
   tt14138650:
     url_poster: https://theposterdb.com/api/assets/306381
+  # Pale Rider
+  tt0089767:
+    url_poster: https://theposterdb.com/api/assets/169075
   # Parasite
   tt6751668:
     url_poster: https://theposterdb.com/api/assets/47915
@@ -4285,6 +4317,9 @@ metadata:
   # Patton
   tt0066206:
     url_poster: https://theposterdb.com/api/assets/31844
+  # Payback
+  tt0120784:
+    url_poster: https://theposterdb.com/api/assets/55069
   # Perfect Days
   tt27503384:
     url_poster: https://theposterdb.com/api/assets/479355
@@ -4831,6 +4866,9 @@ metadata:
   # Written on the Wind
   tt0049966:
     url_poster: https://theposterdb.com/api/assets/231965
+  # The Year of Living Dangerously
+  tt0086617:
+    url_poster: https://theposterdb.com/api/assets/306530
   # Yes Man
   tt1068680:
     url_poster: https://theposterdb.com/api/assets/302284
