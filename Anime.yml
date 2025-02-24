@@ -4519,12 +4519,12 @@ metadata:
 
   # Wotakoi: Love Is Hard for Otaku
   tt8254880:
-    url_poster: https://theposterdb.com/api/assets/199444
+    url_poster: https://theposterdb.com/api/assets/576649
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/199445
+        url_poster: https://theposterdb.com/api/assets/576650
       1:
-        url_poster: https://theposterdb.com/api/assets/199446
+        url_poster: https://theposterdb.com/api/assets/576651
 
   # WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?
   tt6819736:
@@ -6380,16 +6380,16 @@ metadata:
 
   # YuruYuri: Happy Go Lily
   tt2785038:
-    url_poster: https://theposterdb.com/api/assets/369282
+    url_poster: https://theposterdb.com/api/assets/576475
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/369289
+        url_poster: https://theposterdb.com/api/assets/576476
       1:
-        url_poster: https://theposterdb.com/api/assets/369283
+        url_poster: https://theposterdb.com/api/assets/576477
       2:
-        url_poster: https://theposterdb.com/api/assets/369286
+        url_poster: https://theposterdb.com/api/assets/576478
       3:
-        url_poster: https://theposterdb.com/api/assets/369287
+        url_poster: https://theposterdb.com/api/assets/576479
 
   # Ace of Diamond
   tt3105422:

@@ -2556,3 +2556,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/249289
       4:
         url_poster: https://theposterdb.com/api/assets/249290
+
+  # True Detective
+  tt2356777:
+    url_poster: https://theposterdb.com/api/assets/236689
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/236690
+      2:
+        url_poster: https://theposterdb.com/api/assets/236691
+      3:
+        url_poster: https://theposterdb.com/api/assets/236692
+      4:
+        url_poster: https://theposterdb.com/api/assets/454959
