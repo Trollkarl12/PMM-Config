@@ -622,6 +622,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/293983
+      2:
+        url_poster: https://theposterdb.com/api/assets/574657
 
   # Planet Collection https://theposterdb.com/set/142577
   # The Blue Planet
