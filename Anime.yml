@@ -1220,10 +1220,12 @@ metadata:
 
   # Cross Ange: Rondo of Angels and Dragons
   tt3957232:
-    url_poster: https://theposterdb.com/api/assets/348427
+    url_poster: https://theposterdb.com/api/assets/577462
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/577463
       1:
-        url_poster: https://theposterdb.com/api/assets/348428
+        url_poster: https://theposterdb.com/api/assets/577464
 
   # Demon King Daimao
   tt1636694:
