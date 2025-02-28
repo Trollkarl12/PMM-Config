@@ -51,3 +51,5 @@ collections:
     template: {name: Collection, show: "74372, 330942, 79257, 318408, 413197, 355229, 359365, 251418, 417395, 418505, 359251, 359250", poster: https://theposterdb.com/api/assets/237256, background: }
   Dune:
     template: {name: Collection, show: "367118", poster: https://theposterdb.com/api/assets/356988, background: }
+  Dexter:
+    template: {name: Collection, show: "79349, 412366, 430780", poster: https://theposterdb.com/api/assets/552988, background: }

@@ -1103,7 +1103,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/488776
 
-  # Dexter
+  # Dexter https://theposterdb.com/set/217770
   tt0773262:
     url_poster: https://theposterdb.com/api/assets/387280
     seasons:
@@ -1126,12 +1126,19 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/387289
 
-  # Dexter: New Blood
+  # Dexter: New Blood https://theposterdb.com/set/217773
   tt14164730:
     url_poster: https://theposterdb.com/api/assets/387292
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/387293
+
+  # Dexter: Original Sin https://theposterdb.com/set/306498
+  tt32252772:
+    url_poster: https://theposterdb.com/api/assets/552141
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/552142
 
   # A Discovery of Witches
   tt2177461:
@@ -2571,3 +2578,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/236692
       4:
         url_poster: https://theposterdb.com/api/assets/454959
+
+  # Yellowjackets
+  tt11041332:
+    url_poster: https://theposterdb.com/api/assets/573867
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/573869
+      2:
+        url_poster: https://theposterdb.com/api/assets/573870
+      3:
+        url_poster: https://theposterdb.com/api/assets/573871
