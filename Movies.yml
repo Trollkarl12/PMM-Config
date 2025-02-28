@@ -388,6 +388,23 @@ metadata:
   tt1606378:
     url_poster: https://theposterdb.com/api/assets/724
 
+  # Dirty Harry https://theposterdb.com/set/32452
+  # Dirty Harry
+  tt0066999:
+    url_poster: https://theposterdb.com/api/assets/50756
+  # Magnum Force
+  tt0070355:
+    url_poster: https://theposterdb.com/api/assets/50757
+  # The Enforcer
+  tt0074483:
+    url_poster: https://theposterdb.com/api/assets/50758
+  # Sudden Impact
+  tt0086383:
+    url_poster: https://theposterdb.com/api/assets/50759
+  # The Dead Pool
+  tt0094963:
+    url_poster: https://theposterdb.com/api/assets/50760
+
   # Disney Animation Studios https://theposterdb.com/set/52224
   # Snow White and the Seven Dwarfs
   tt0029583:
@@ -777,6 +794,14 @@ metadata:
   # The Wild Robot
   tt29623480:
     url_poster: https://theposterdb.com/api/assets/483924
+
+  # Drunken Master https://theposterdb.com/set/104028
+  # Drunken Master
+  tt0080179:
+    url_poster: https://theposterdb.com/api/assets/170409
+  # The Legend of Drunken Master
+  tt0111512:
+    url_poster: https://theposterdb.com/api/assets/170410
 
   # Election https://theposterdb.com/set/255619
   # Election
@@ -2376,6 +2401,20 @@ metadata:
   tt3062096:
     url_poster: https://theposterdb.com/api/assets/844
 
+  # RoboCop https://theposterdb.com/set/49942
+  # RoboCop
+  tt0093870:
+    url_poster: https://theposterdb.com/api/assets/78306
+  # RoboCop 2
+  tt0100502:
+    url_poster: https://theposterdb.com/api/assets/78307
+  # RoboCop 3
+  tt0107978:
+    url_poster: https://theposterdb.com/api/assets/78308
+  # RoboCop (2014)
+  tt1234721:
+    url_poster: https://theposterdb.com/api/assets/78309
+
   # Ringu https://theposterdb.com/set/3153
   # Ringu
   tt0178868:
@@ -3702,6 +3741,9 @@ metadata:
   # The Gentlemen
   tt13210838:
     url_poster: https://theposterdb.com/api/assets/58303
+  # Gentlemen Prefer Blondes
+  tt0045810:
+    url_poster: https://theposterdb.com/api/assets/133183
   # Gettysburg
   tt0107007:
     url_poster: https://theposterdb.com/api/assets/456509
@@ -3777,6 +3819,9 @@ metadata:
   # The Gorge
   tt13654226:
     url_poster: https://theposterdb.com/api/assets/573935
+  # Gran Torino
+  tt1205489:
+    url_poster: https://theposterdb.com/api/assets/58626
   # Gran Turismo
   tt4495098:
     url_poster: https://theposterdb.com/api/assets/362016
@@ -3852,6 +3897,9 @@ metadata:
   # Hero
   tt0299977:
     url_poster: https://theposterdb.com/api/assets/110832
+  # High Plains Drifter
+  tt0068699:
+    url_poster: https://theposterdb.com/api/assets/168701
   # The Hole
   tt0054407:
     url_poster: https://theposterdb.com/api/assets/382270
@@ -3873,6 +3921,9 @@ metadata:
   # Immaculate
   tt23137390:
     url_poster: https://theposterdb.com/api/assets/483232
+  # In the Heat of the Night
+  tt0061811:
+    url_poster: https://theposterdb.com/api/assets/224600
   # In the Mood for Love
   tt0118694:
     url_poster: https://theposterdb.com/api/assets/98665
@@ -4485,9 +4536,6 @@ metadata:
   # The Ritual Killer
   tt13141250:
     url_poster: https://theposterdb.com/api/assets/337490
-  # RoboCop
-  tt0093870:
-    url_poster: https://theposterdb.com/api/assets/7670
   # Rocketman
   tt2066051:
     url_poster: https://theposterdb.com/api/assets/47588
