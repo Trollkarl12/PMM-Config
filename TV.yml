@@ -2589,3 +2589,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/573870
       3:
         url_poster: https://theposterdb.com/api/assets/573871
+
+  # Paradise
+  tt27444205:
+    url_poster: https://theposterdb.com/api/assets/563107
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/563108
+
+  # The Day of the Jackal
+  tt24053860:
+    url_poster: https://theposterdb.com/api/assets/541832
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/541833
