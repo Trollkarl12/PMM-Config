@@ -2428,12 +2428,14 @@ metadata:
 
   # Frieren: Beyond Journey's End
   tt22248376:
-    url_poster: https://theposterdb.com/api/assets/421015
+    url_poster: https://theposterdb.com/api/assets/388818
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/421017
+        url_poster: https://theposterdb.com/api/assets/421200
       1:
-        url_poster: https://theposterdb.com/api/assets/421016
+        url_poster: https://theposterdb.com/api/assets/388819
+      2:
+        url_poster: https://theposterdb.com/api/assets/580572
 
   # The Fruit of Evolution: Before I Knew It, My Life Had It Made
   tt15026576:
