@@ -2603,3 +2603,22 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/541833
+
+  # Kitchen Nightmares https://theposterdb.com/set/320602
+  tt0983514:
+    url_poster: https://theposterdb.com/api/assets/414334
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/576743
+      2:
+        url_poster: https://theposterdb.com/api/assets/576744
+      3:
+        url_poster: https://theposterdb.com/api/assets/576745
+      4:
+        url_poster: https://theposterdb.com/api/assets/576746
+      5:
+        url_poster: https://theposterdb.com/api/assets/576747
+      6:
+        url_poster: https://theposterdb.com/api/assets/576748
+      7:
+        url_poster: https://theposterdb.com/api/assets/576749
