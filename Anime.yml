@@ -8521,3 +8521,60 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/531266
+
+  # Daily Lives of High School Boys
+  tt2180883:
+    url_poster: https://theposterdb.com/api/assets/334105
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/334106
+      1:
+        url_poster: https://theposterdb.com/api/assets/334107
+
+  # PLUTO
+  tt26737616:
+    url_poster: https://theposterdb.com/api/assets/431330
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/431331
+
+  # Mononoke
+  tt1992935:
+    url_poster: https://theposterdb.com/api/assets/573503
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/573504
+      1:
+        url_poster: https://theposterdb.com/api/assets/573505
+
+  # House of Five Leaves
+  tt1710529:
+    url_poster: https://theposterdb.com/api/assets/509233
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/509234
+
+  # Den-noh Coil
+  tt1033796:
+    url_poster: https://theposterdb.com/api/assets/263550
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/263554
+      1:
+        url_poster: https://theposterdb.com/api/assets/263551
+
+  # Salaryman's Club
+  tt15744206:
+    url_poster: https://theposterdb.com/api/assets/225203
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/225204
+
+  # AnoHana: The Flower We Saw That Day
+  tt1913273:
+    url_poster: https://theposterdb.com/api/assets/318259
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/318260
+      1:
+        url_poster: https://theposterdb.com/api/assets/318261
