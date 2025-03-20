@@ -2629,3 +2629,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/501029
+
+  # When Life Gives You Tangerines
+  tt26471411:
+    url_poster: https://theposterdb.com/api/assets/584269
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/584270
