@@ -2636,3 +2636,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/584270
+
+  # The Eastern Gate
+  tt35503291:
+    url_poster: https://theposterdb.com/api/assets/572562
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/572563
