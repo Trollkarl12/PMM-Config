@@ -6572,6 +6572,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/434092
+      2:
+        url_poster: https://theposterdb.com/api/assets/586164
 
   # The Demon Prince of Momochi House
   tt30691068:
@@ -8448,6 +8450,8 @@ metadata:
   tt17069148:
     url_poster: https://theposterdb.com/api/assets/561171
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/586166
       1:
         url_poster: https://theposterdb.com/api/assets/561172
 
