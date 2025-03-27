@@ -2643,3 +2643,26 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/572563
+
+  # Below Deck Mediterranean https://theposterdb.com/set/182642
+  tt5665418:
+    url_poster: https://theposterdb.com/api/assets/310666
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/517955
+      2:
+        url_poster: https://theposterdb.com/api/assets/312549
+      3:
+        url_poster: https://theposterdb.com/api/assets/517956
+      4:
+        url_poster: https://theposterdb.com/api/assets/312554
+      5:
+        url_poster: https://theposterdb.com/api/assets/312555
+      6:
+        url_poster: https://theposterdb.com/api/assets/312556
+      7:
+        url_poster: https://theposterdb.com/api/assets/312557
+      8:
+        url_poster: https://theposterdb.com/api/assets/517951
+      9:
+        url_poster: https://theposterdb.com/api/assets/517952
