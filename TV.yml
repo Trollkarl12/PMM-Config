@@ -2685,3 +2685,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/169368
       6:
         url_poster: https://theposterdb.com/api/assets/169369
+
+  # Day 5
+  tt5707408:
+    url_poster: https://theposterdb.com/api/assets/587723
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/587724
+      1:
+        url_poster: https://theposterdb.com/api/assets/587725
+      2:
+        url_poster: https://theposterdb.com/api/assets/587726
