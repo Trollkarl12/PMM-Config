@@ -2801,10 +2801,12 @@ metadata:
  
   # How a Realist Hero Rebuilt the Kingdom
   tt13399402:
-    url_poster: https://theposterdb.com/api/assets/228332
+    url_poster: https://theposterdb.com/api/assets/588292
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/588293
       1:
-        url_poster: https://theposterdb.com/api/assets/228333
+        url_poster: https://theposterdb.com/api/assets/588294
  
   # How Heavy Are the Dumbbells You Lift?
   tt10362632:
@@ -8602,3 +8604,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/584592
       1:
         url_poster: https://theposterdb.com/api/assets/584593
+
+  # Frozen Mahjong Tiles: Underground Mahjong Battle Record
+  tt32832433:
+    url_poster: https://theposterdb.com/api/assets/588278
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/588279
