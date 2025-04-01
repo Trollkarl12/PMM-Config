@@ -8625,3 +8625,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/537521
+
+  # Once Upon a Witch's Death
+  tt32779862:
+    url_poster: https://theposterdb.com/api/assets/589682
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/589683
+      1:
+        url_poster: https://theposterdb.com/api/assets/589684
