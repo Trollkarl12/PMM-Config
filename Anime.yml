@@ -8611,3 +8611,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/588279
+
+  # Sword of the Demon Hunter: Kijin Gentosho
+  tt32281073:
+    url_poster: https://theposterdb.com/api/assets/585462
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/585463
