@@ -8634,3 +8634,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/589683
       1:
         url_poster: https://theposterdb.com/api/assets/589684
+
+  # The Unaware Atelier Meister
+  tt35014218:
+    url_poster: https://theposterdb.com/api/assets/587282
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/587283
+
+  # Please Put Them On, Takamine San!
+  tt35436364:
+    url_poster: https://theposterdb.com/api/assets/589863
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/589864
+      1:
+        url_poster: https://theposterdb.com/api/assets/589865
