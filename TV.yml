@@ -1262,6 +1262,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/343625
       22:
         url_poster: https://theposterdb.com/api/assets/418189
+      23:
+        url_poster: https://theposterdb.com/api/assets/580955
 
   # For All Mankind
   tt7772588:
@@ -2076,22 +2078,24 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/491080
 
-  # The Rookie
+  # The Rookie https://theposterdb.com/set/252673
   tt7587890:
-    url_poster: https://theposterdb.com/api/assets/178282
+    url_poster: https://theposterdb.com/api/assets/458437
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/178283
+        url_poster: https://theposterdb.com/api/assets/458438
       2:
-        url_poster: https://theposterdb.com/api/assets/178284
+        url_poster: https://theposterdb.com/api/assets/458439
       3:
-        url_poster: https://theposterdb.com/api/assets/178285
+        url_poster: https://theposterdb.com/api/assets/458440
       4:
-        url_poster: https://theposterdb.com/api/assets/178286
+        url_poster: https://theposterdb.com/api/assets/458441
       5:
-        url_poster: https://theposterdb.com/api/assets/266716
+        url_poster: https://theposterdb.com/api/assets/458442
       6:
-        url_poster: https://theposterdb.com/api/assets/454933
+        url_poster: https://theposterdb.com/api/assets/458443
+      7:
+        url_poster: https://theposterdb.com/api/assets/557999
 
   # Tulsa King
   tt16358384:
