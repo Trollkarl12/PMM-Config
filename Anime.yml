@@ -8671,3 +8671,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/589969
+
+  # The Brilliant Healer's New Life in the Shadows
+  tt32524709:
+    url_poster: https://theposterdb.com/api/assets/587146
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/587147
+
+  # Rock Is a Lady's Modesty
+  tt35436553:
+    url_poster: https://theposterdb.com/api/assets/587879
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/587880
+      1:
+        url_poster: https://theposterdb.com/api/assets/587881
