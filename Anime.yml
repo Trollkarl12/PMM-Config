@@ -7700,8 +7700,12 @@ metadata:
   tt23844810:
     url_poster: https://theposterdb.com/api/assets/505127
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/580871
       1:
         url_poster: https://theposterdb.com/api/assets/505128
+      2:
+        url_poster: https://theposterdb.com/api/assets/580872
 
   # Birdie Wing -Golf Girls' Story-
   tt15789088:
@@ -8687,3 +8691,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/587880
       1:
         url_poster: https://theposterdb.com/api/assets/587881
+
+  # Can a Boy-Girl Friendship Survive?
+  tt35346400:
+    url_poster: https://theposterdb.com/api/assets/586162
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/586163
