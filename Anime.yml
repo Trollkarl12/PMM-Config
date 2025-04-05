@@ -8722,7 +8722,14 @@ metadata:
 
   # Kowloon Generic Romance
   tt33999377:
-    url_poster: https://theposterdb.com/api/assets/590972
+    url_poster: https://theposterdb.com/api/assets/590988
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/590973
+        url_poster: https://theposterdb.com/api/assets/590989
+
+  # Anne Shirley
+  tt34702901:
+    url_poster: https://theposterdb.com/api/assets/590984
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/590985
