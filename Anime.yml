@@ -6766,12 +6766,12 @@ metadata:
 
   # The Case Study of Vanitas
   tt14641098:
-    url_poster: https://theposterdb.com/api/assets/196611
+    url_poster: https://theposterdb.com/api/assets/326437
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/591036
       1:
-        url_poster: https://theposterdb.com/api/assets/196612
-      2:
-        url_poster: https://theposterdb.com/api/assets/199406
+        url_poster: https://theposterdb.com/api/assets/326438
 
   # Golden Boy
   tt0159145:
@@ -8735,3 +8735,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/590985
+
+  # Lazarus
+  tt28454008:
+    url_poster: https://theposterdb.com/api/assets/580935
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/580936
+
+  # Witch Watch
+  tt33165027:
+    url_poster: https://theposterdb.com/api/assets/580915
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/580916
