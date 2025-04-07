@@ -8779,3 +8779,37 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/591466
       1:
         url_poster: https://theposterdb.com/api/assets/591467
+
+  # Aharen-san wa Hakarenai
+  tt16341212:
+    url_poster: https://theposterdb.com/api/assets/316198
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/316199
+      1:
+        url_poster: https://theposterdb.com/api/assets/316200
+      2:
+        url_poster: https://theposterdb.com/api/assets/513425
+
+  # ZatsuTabi -That's Journey-
+  tt35437780:
+    url_poster: https://theposterdb.com/api/assets/591731
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/591732
+
+  # Summer Pockets
+  tt16741414:
+    url_poster: https://theposterdb.com/api/assets/583726
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/583727
+
+  # My Hero Academia: Vigilantes
+  tt35636246:
+    url_poster: https://theposterdb.com/api/assets/583896
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/583897
+      1:
+        url_poster: https://theposterdb.com/api/assets/583898
