@@ -8763,3 +8763,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/591367
+
+  # The Dinner Table Detective
+  tt34818628:
+    url_poster: https://theposterdb.com/api/assets/591460
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/591461
+
+  # Classic Stars
+  tt35636200:
+    url_poster: https://theposterdb.com/api/assets/591465
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/591466
+      1:
+        url_poster: https://theposterdb.com/api/assets/591467
