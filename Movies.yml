@@ -2103,6 +2103,20 @@ metadata:
   tt0859163:
     url_poster: https://theposterdb.com/api/assets/1044
 
+  # Ocean's https://theposterdb.com/set/41328
+  # Ocean's Eleven
+  tt0240772:
+    url_poster: https://theposterdb.com/api/assets/64819
+  # Ocean's Twelve
+  tt0349903:
+    url_poster: https://theposterdb.com/api/assets/64820
+  # Ocean's Thirteen
+  tt0496806:
+    url_poster: https://theposterdb.com/api/assets/64821
+  # Ocean's Eight
+  tt5164214:
+    url_poster: https://theposterdb.com/api/assets/64822
+
   # Once Upon a Time in China https://theposterdb.com/set/40848
   # Once Upon a Time in China
   tt0103285:
@@ -3204,6 +3218,9 @@ metadata:
   # All Quiet on the Western Front 2022
   tt1016150:
     url_poster: https://theposterdb.com/api/assets/270945
+  # Allied
+  tt3640424:
+    url_poster: https://theposterdb.com/api/assets/47637
   # Almost Famous
   tt0181875:
     url_poster: https://theposterdb.com/api/assets/48721
@@ -3240,6 +3257,9 @@ metadata:
   # Annie Hall
   tt0075686:
     url_poster: https://theposterdb.com/api/assets/51770
+  # Anomalisa
+  tt2401878:
+    url_poster: https://theposterdb.com/api/assets/49260
   # The Apartment
   tt0053604:
     url_poster: https://theposterdb.com/api/assets/467619
@@ -3333,6 +3353,9 @@ metadata:
   # The Bikeriders
   tt21454134:
     url_poster: https://theposterdb.com/api/assets/506677
+  # Black Bag
+  tt30988739:
+    url_poster: https://theposterdb.com/api/assets/575394
   # Black Hawk Down
   tt0265086:
     url_poster: https://theposterdb.com/api/assets/27565
@@ -3414,6 +3437,9 @@ metadata:
   # Catch Me If You Can
   tt0264464:
     url_poster: https://theposterdb.com/api/assets/34303
+  # The Catcher Was a Spy
+  tt4602066:
+    url_poster: https://theposterdb.com/api/assets/99988
   # Challengers
   tt16426418:
     url_poster: https://theposterdb.com/api/assets/493244
@@ -3432,6 +3458,9 @@ metadata:
   # Civil War
   tt17279496:
     url_poster: https://theposterdb.com/api/assets/477512
+  # Clear and Present Danger
+  tt0109444:
+    url_poster: https://theposterdb.com/api/assets/150533
   # Cleopatra
   tt0056937:
     url_poster: https://theposterdb.com/api/assets/246669
@@ -3456,6 +3485,9 @@ metadata:
   # A Complete Unknown
   tt11563598:
     url_poster: https://theposterdb.com/api/assets/576005
+  # Conspiracy
+  tt0266425:
+    url_poster: https://theposterdb.com/api/assets/71919
   # Constantine
   tt0360486:
     url_poster: https://theposterdb.com/api/assets/65739
@@ -3474,6 +3506,9 @@ metadata:
   # The Creator
   tt11858890:
     url_poster: https://theposterdb.com/api/assets/413414
+  # Cronos
+  tt0104029:
+    url_poster: https://theposterdb.com/api/assets/271789
   # The Crow
   tt1340094:
     url_poster: https://theposterdb.com/api/assets/479567
@@ -3606,6 +3641,9 @@ metadata:
   # Empire of the Sun
   tt0092965:
     url_poster: https://theposterdb.com/api/assets/53824
+  # The English Patient
+  tt0116209:
+    url_poster: https://theposterdb.com/api/assets/33771
   # Enter the Dragon
   tt0070034:
     url_poster: https://theposterdb.com/api/assets/30556
@@ -3717,6 +3755,9 @@ metadata:
   # Flatliners
   tt0099582:
     url_poster: https://theposterdb.com/api/assets/225325
+  # Flight Risk
+  tt10078772:
+    url_poster: https://theposterdb.com/api/assets/573854
   # Flightplan
   tt0408790:
     url_poster: https://theposterdb.com/api/assets/134368
@@ -3936,6 +3977,9 @@ metadata:
   # The Hole
   tt0054407:
     url_poster: https://theposterdb.com/api/assets/382270
+  # Holland
+  tt3045628:
+    url_poster: https://theposterdb.com/api/assets/577944
   # House of Flying Daggers
   tt0385004:
     url_poster: https://theposterdb.com/api/assets/143579
@@ -4641,6 +4685,9 @@ metadata:
   # Sense and Sensibility
   tt0114388:
     url_poster: https://theposterdb.com/api/assets/440748
+  # September 5
+  tt28082769:
+    url_poster: https://theposterdb.com/api/assets/570224
   # Serpico
   tt0070666:
     url_poster: https://theposterdb.com/api/assets/122753
@@ -4794,6 +4841,9 @@ metadata:
   # There Will Be Blood
   tt0469494:
     url_poster: https://theposterdb.com/api/assets/61516
+  # Thief
+  tt0083190:
+    url_poster: https://theposterdb.com/api/assets/108206
   # The Thin Red Line
   tt0120863:
     url_poster: https://theposterdb.com/api/assets/93075
@@ -4842,6 +4892,9 @@ metadata:
   # Tombstone
   tt0108358:
     url_poster: https://theposterdb.com/api/assets/148425
+  # Tommy Boy
+  tt0114694:
+    url_poster: https://theposterdb.com/api/assets/316456
   # Tora! Tora! Tora!
   tt0066473:
     url_poster: https://theposterdb.com/api/assets/18758
@@ -4866,6 +4919,9 @@ metadata:
   # Ugetsu
   tt0046478:
     url_poster: https://theposterdb.com/api/assets/310653
+  # Unbroken
+  tt1809398:
+    url_poster: https://theposterdb.com/api/assets/97551
   # Uncharted
   tt1464335:
     url_poster: https://theposterdb.com/api/assets/205426
