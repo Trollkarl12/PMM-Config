@@ -2009,10 +2009,12 @@ metadata:
 
   # Cyberpunk: Edgerunners
   tt12590266:
-    url_poster: https://theposterdb.com/api/assets/245118
+    url_poster: https://theposterdb.com/api/assets/591853
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/591854
       1:
-        url_poster: https://theposterdb.com/api/assets/245119
+        url_poster: https://theposterdb.com/api/assets/591855
 
   # Dagashi Kashi
   tt5346952:
