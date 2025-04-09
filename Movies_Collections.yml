@@ -160,3 +160,5 @@ collections:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls068768438/
     url_poster: https://theposterdb.com/api/assets/23524
+  "Ocean's":
+    template: {name: Collection, collection: 304, poster: https://theposterdb.com/api/assets/64818}
