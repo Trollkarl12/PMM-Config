@@ -8831,3 +8831,26 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/592246
+
+  # Apocalypse Hotel
+  tt35636155:
+    url_poster: https://theposterdb.com/api/assets/592595
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/592596
+
+  # Moonrise
+  tt20672482:
+    url_poster: https://theposterdb.com/api/assets/590567
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/590568
+
+  # A Ninja and an Assassin Under One Roof
+  tt35351359:
+    url_poster: https://theposterdb.com/api/assets/586021
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/586022
+      1:
+        url_poster: https://theposterdb.com/api/assets/586023
