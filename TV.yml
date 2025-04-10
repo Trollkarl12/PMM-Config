@@ -2700,3 +2700,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/587725
       2:
         url_poster: https://theposterdb.com/api/assets/587726
+
+  # Study Group
+  tt35304338:
+    url_poster: https://theposterdb.com/api/assets/573065
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/573066
+      1:
+        url_poster: https://theposterdb.com/api/assets/573067
