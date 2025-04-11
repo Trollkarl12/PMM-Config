@@ -2490,10 +2490,12 @@ metadata:
 
   # The Genius Prince's Guide to Raising a Nation Out of Debt
   tt13956466:
-    url_poster: https://theposterdb.com/api/assets/201686
+    url_poster: https://theposterdb.com/api/assets/593198
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/593199
       1:
-        url_poster: https://theposterdb.com/api/assets/201687
+        url_poster: https://theposterdb.com/api/assets/593200
 
   # Comet Lucifer
   tt5238484:
