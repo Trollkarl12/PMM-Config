@@ -143,7 +143,9 @@ collections:
   Wrong Turn:
     template: {name: Collection, collection: 52985, poster: https://theposterdb.com/api/assets/181598}
   DreamWorks:
-    template: {name: Collection, collection: 127, poster: https://theposterdb.com/api/assets/399958}
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls068935612/
+    url_poster: https://theposterdb.com/api/assets/399958
   Illumination:
     template: {name: Collection}
     imdb_list: https://www.imdb.com/list/ls569429708/
