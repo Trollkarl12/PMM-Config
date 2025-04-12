@@ -8856,3 +8856,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/586022
       1:
         url_poster: https://theposterdb.com/api/assets/586023
+
+  # Teogonia
+  tt32514593:
+    url_poster: https://theposterdb.com/api/assets/586155
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/586156
+
+  # Love Flops
+  tt21606344:
+    url_poster: https://theposterdb.com/api/assets/569502
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/569503

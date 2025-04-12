@@ -2583,16 +2583,16 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/454959
 
-  # Yellowjackets
+  # Yellowjackets https://theposterdb.com/set/153333
   tt11041332:
-    url_poster: https://theposterdb.com/api/assets/573867
+    url_poster: https://theposterdb.com/api/assets/256909
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/573869
+        url_poster: https://theposterdb.com/api/assets/256910
       2:
-        url_poster: https://theposterdb.com/api/assets/573870
+        url_poster: https://theposterdb.com/api/assets/326418
       3:
-        url_poster: https://theposterdb.com/api/assets/573871
+        url_poster: https://theposterdb.com/api/assets/593306
 
   # Paradise
   tt27444205:
@@ -2709,3 +2709,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/573066
       1:
         url_poster: https://theposterdb.com/api/assets/573067
+
+  # Adolescence
+  tt31806037:
+    url_poster: https://theposterdb.com/api/assets/581325
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/581326
