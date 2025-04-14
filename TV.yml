@@ -877,10 +877,12 @@ metadata:
 
   # The Last of Us
   tt3581920:
-    url_poster: https://theposterdb.com/api/assets/294968
+    url_poster: https://theposterdb.com/api/assets/591810
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/294969
+        url_poster: https://theposterdb.com/api/assets/591811
+      2:
+        url_poster: https://theposterdb.com/api/assets/591812
 
   # Better Call Saul
   tt3032476:
