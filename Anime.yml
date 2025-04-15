@@ -3066,10 +3066,12 @@ metadata:
 
   # Isekai Cheat Magician
   tt10431262:
-    url_poster: https://theposterdb.com/api/assets/75909
+    url_poster: https://theposterdb.com/api/assets/594449
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/594450
       1:
-        url_poster: https://theposterdb.com/api/assets/75910
+        url_poster: https://theposterdb.com/api/assets/594451
 
   # JoJo's Bizarre Adventure
   tt2359704:
