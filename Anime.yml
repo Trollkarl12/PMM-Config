@@ -1451,10 +1451,12 @@ metadata:
 
   # The Asterisk War: The Academy City on the Water
   tt5095466:
-    url_poster: https://theposterdb.com/api/assets/322304
+    url_poster: https://theposterdb.com/api/assets/594824
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/322305
+        url_poster: https://theposterdb.com/api/assets/594825
+      1:
+        url_poster: https://theposterdb.com/api/assets/594826
 
   # Astra Lost in Space
   tt10483250:
