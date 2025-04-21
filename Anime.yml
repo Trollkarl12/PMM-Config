@@ -4604,8 +4604,10 @@ metadata:
 
   # Witchblade
   tt0813971:
-    url_poster: https://theposterdb.com/api/assets/99124
+    url_poster: https://theposterdb.com/api/assets/596157
     seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/596158
 
   # Witch Craft Works
   tt3341534:
@@ -8909,3 +8911,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595792
+
+  # SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother with Memories from My Past Life
+  tt32985844:
+    url_poster: https://theposterdb.com/api/assets/595901
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/595902
