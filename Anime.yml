@@ -5085,7 +5085,10 @@ metadata:
 
   # Code:Breaker
   tt2294070:
-    url_poster: https://theposterdb.com/api/assets/86476
+    url_poster: https://theposterdb.com/api/assets/596428
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/596429
 
   # Grimoire of Zero
   tt6477270:
