@@ -2718,3 +2718,31 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/581326
+
+  # Under the Dome
+  tt1553656:
+    url_poster: https://theposterdb.com/api/assets/249565
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/249566
+      2:
+        url_poster: https://theposterdb.com/api/assets/249567
+      3:
+        url_poster: https://theposterdb.com/api/assets/249568
+
+  # The Handmaid's Tale
+  tt5834204:
+    url_poster: https://theposterdb.com/api/assets/144234
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/144235
+      2:
+        url_poster: https://theposterdb.com/api/assets/144236
+      3:
+        url_poster: https://theposterdb.com/api/assets/144237
+      4:
+        url_poster: https://theposterdb.com/api/assets/144238
+      5:
+        url_poster: https://theposterdb.com/api/assets/257222
+      6:
+        url_poster: https://theposterdb.com/api/assets/576923
