@@ -6233,14 +6233,14 @@ metadata:
 
   # Sekirei
   tt1339238:
-    url_poster: https://theposterdb.com/api/assets/186348
+    url_poster: https://theposterdb.com/api/assets/596827
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/186349
+        url_poster: https://theposterdb.com/api/assets/596828
       1:
-        url_poster: https://theposterdb.com/api/assets/186350
+        url_poster: https://theposterdb.com/api/assets/596829
       2:
-        url_poster: https://theposterdb.com/api/assets/186351
+        url_poster: https://theposterdb.com/api/assets/596830
 
   # Tears to Tiara
   tt1409068:
@@ -8921,3 +8921,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595902
+
+  # KanColle: Kantai Collection
+  tt3639872:
+    url_poster: https://theposterdb.com/api/assets/596788
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/596789
+      1:
+        url_poster: https://theposterdb.com/api/assets/596790
+      2:
+        url_poster: https://theposterdb.com/api/assets/596791
