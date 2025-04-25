@@ -8946,3 +8946,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/596942
+
+  # Our Last Crusade or the Rise of a New World
+  tt12331304:
+    url_poster: https://theposterdb.com/api/assets/414629
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/414630
+      2:
+        url_poster: https://theposterdb.com/api/assets/414631
