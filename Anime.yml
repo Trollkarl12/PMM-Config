@@ -8932,3 +8932,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/596790
       2:
         url_poster: https://theposterdb.com/api/assets/596791
+
+  # Run with the Wind
+  tt9402026:
+    url_poster: https://theposterdb.com/api/assets/596911
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/596912
