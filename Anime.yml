@@ -5846,12 +5846,12 @@ metadata:
 
   # Sankarea: Undying Love
   tt2341379:
-    url_poster: https://theposterdb.com/api/assets/186341
+    url_poster: https://theposterdb.com/api/assets/597660
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/186342
+        url_poster: https://theposterdb.com/api/assets/597661
       1:
-        url_poster: https://theposterdb.com/api/assets/186343
+        url_poster: https://theposterdb.com/api/assets/597662
 
   # Shomin Sample
   tt5355196:
@@ -8955,3 +8955,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/414630
       2:
         url_poster: https://theposterdb.com/api/assets/414631
+
+  # The Kawai Complex Guide to Manors and Hostel Behavior
+  tt3498072:
+    url_poster: https://theposterdb.com/api/assets/597614
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/597615
+      1:
+        url_poster: https://theposterdb.com/api/assets/597616
