@@ -2746,3 +2746,36 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/257222
       6:
         url_poster: https://theposterdb.com/api/assets/576923
+
+  # Doctor Who https://theposterdb.com/set/246879
+  tt0436992:
+    url_poster: https://theposterdb.com/api/assets/446454
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/446455
+      1:
+        url_poster: https://theposterdb.com/api/assets/446456
+      2:
+        url_poster: https://theposterdb.com/api/assets/446457
+      3:
+        url_poster: https://theposterdb.com/api/assets/446458
+      4:
+        url_poster: https://theposterdb.com/api/assets/446459
+      5:
+        url_poster: https://theposterdb.com/api/assets/446460
+      6:
+        url_poster: https://theposterdb.com/api/assets/446461
+      7:
+        url_poster: https://theposterdb.com/api/assets/446462
+      8:
+        url_poster: https://theposterdb.com/api/assets/446463
+      9:
+        url_poster: https://theposterdb.com/api/assets/446464
+      10:
+        url_poster: https://theposterdb.com/api/assets/446465
+      11:
+        url_poster: https://theposterdb.com/api/assets/446466
+      12:
+        url_poster: https://theposterdb.com/api/assets/446467
+      13:
+        url_poster: https://theposterdb.com/api/assets/446468
