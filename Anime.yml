@@ -6732,6 +6732,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/450328
+      2:
+        url_poster: https://theposterdb.com/api/assets/601546
 
   # 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
   tt28685624:
@@ -8964,3 +8966,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/597615
       1:
         url_poster: https://theposterdb.com/api/assets/597616
+
+  # TO BE HERO X
+  tt23139038:
+    url_poster: https://theposterdb.com/api/assets/586062
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/586063
