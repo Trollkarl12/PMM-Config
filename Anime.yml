@@ -7238,6 +7238,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/467915
       1:
         url_poster: https://theposterdb.com/api/assets/450292
+      2:
+        url_poster: https://theposterdb.com/api/assets/601910
 
   # Buso Renkin
   tt0877507:
@@ -7409,6 +7411,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/332189
       1:
         url_poster: https://theposterdb.com/api/assets/332186
+      2:
+        url_poster: https://theposterdb.com/api/assets/601919
 
   # Record of Ragnarok
   tt13676344:
@@ -8973,3 +8977,24 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
+
+  # The Summer Hikaru Died
+  tt33028568:
+    url_poster: https://theposterdb.com/api/assets/601594
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/601595
+
+  # Hell Teacher: Jigoku Sensei Nube
+  tt34754751:
+    url_poster: https://theposterdb.com/api/assets/601898
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/601899
+
+  # TOUGEN ANKI
+  tt32344704:
+    url_poster: https://theposterdb.com/api/assets/601960
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/601961
