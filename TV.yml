@@ -2779,3 +2779,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/446467
       13:
         url_poster: https://theposterdb.com/api/assets/446468
+
+  # The White Lotus
+  tt13406094:
+    url_poster: https://theposterdb.com/api/assets/275771
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/275772
+      2:
+        url_poster: https://theposterdb.com/api/assets/275773
+      3:
+        url_poster: https://theposterdb.com/api/assets/593307
