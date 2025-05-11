@@ -164,3 +164,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/23524
   "Ocean's":
     template: {name: Collection, collection: 304, poster: https://theposterdb.com/api/assets/64818}
+  South Park:
+    template: {name: Collection}
+    imdb_list: https://www.imdb.com/list/ls529755707/
+    url_poster: https://theposterdb.com/api/assets/445827

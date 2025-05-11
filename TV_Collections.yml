@@ -53,3 +53,5 @@ collections:
     template: {name: Collection, show: "367118", poster: https://theposterdb.com/api/assets/356988, background: }
   Dexter:
     template: {name: Collection, show: "79349, 412366, 430780", poster: https://theposterdb.com/api/assets/552988, background: }
+  South Park:
+    template: {name: Collection, show: "75897", poster: https://theposterdb.com/api/assets/445827, background: }

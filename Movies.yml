@@ -1811,6 +1811,9 @@ metadata:
   # The Marvels
   tt10676048:
     url_poster: https://theposterdb.com/api/assets/452675
+  # Captain America: Brave New World
+  tt14513804:
+    url_poster: https://theposterdb.com/api/assets/595571
 
   # In Association With Marvel https://theposterdb.com/set/99475
   # Spider-Man
@@ -2869,6 +2872,41 @@ metadata:
   tt0472602:
     url_poster: https://theposterdb.com/api/assets/234232
 
+  # South Park https://theposterdb.com/set/246490
+  # South Park: Bigger, Longer & Uncut
+  tt0158983:
+    url_poster: https://theposterdb.com/api/assets/445828
+  # South Park: Imaginationland
+  tt1308667:
+    url_poster: https://theposterdb.com/api/assets/445836
+  # 6 Days to Air: The Making of South Park
+  tt2076781:
+    url_poster: https://theposterdb.com/api/assets/506152
+  # South Park: Post COVID
+  tt15005868:
+    url_poster: https://theposterdb.com/api/assets/445829
+  # South Park: Post COVID: The Return of COVID
+  tt16375288:
+    url_poster: https://theposterdb.com/api/assets/445830
+  # South Park the Streaming Wars
+  tt15783698:
+    url_poster: https://theposterdb.com/api/assets/445832
+  # South Park the Streaming Wars Part 2
+  tt21198156:
+    url_poster: https://theposterdb.com/api/assets/445831
+  # South Park: The 25th Anniversary Concert
+  tt21394322:
+    url_poster: https://theposterdb.com/api/assets/445833
+  # South Park Not Suitable for Children
+  tt30505159:
+    url_poster: https://theposterdb.com/api/assets/445834
+  # South Park: Joining the Panderverse
+  tt29474455:
+    url_poster: https://theposterdb.com/api/assets/445835
+  # South Park: The End of Obesity
+  tt32375562:
+    url_poster: https://theposterdb.com/api/assets/494624
+
   # The Terminator https://theposterdb.com/set/93020
   # The Terminator
   tt0088247:
@@ -3136,6 +3174,9 @@ metadata:
   # Zatoichi's Conspiracy
   tt0072439:
     url_poster: https://theposterdb.com/api/assets/67645
+  # Zatoichi
+  tt0363226:
+    url_poster: https://theposterdb.com/api/assets/108168
 
   # Zombieland https://theposterdb.com/set/22318
   # Zombieland
@@ -3380,6 +3421,9 @@ metadata:
   # Bohemian Rhapsody
   tt1727824:
     url_poster: https://theposterdb.com/api/assets/30683
+  # Boogie Nights
+  tt0118749:
+    url_poster: https://theposterdb.com/api/assets/54119
   # The Book of Eli
   tt1037705:
     url_poster: https://theposterdb.com/api/assets/92297
@@ -3491,6 +3535,9 @@ metadata:
   # A Complete Unknown
   tt11563598:
     url_poster: https://theposterdb.com/api/assets/576005
+  # Conclave
+  tt20215234:
+    url_poster: https://theposterdb.com/api/assets/535415
   # Conspiracy
   tt0266425:
     url_poster: https://theposterdb.com/api/assets/71919
@@ -3650,6 +3697,9 @@ metadata:
   # Empire of the Sun
   tt0092965:
     url_poster: https://theposterdb.com/api/assets/53824
+  # Enemy at the Gates
+  tt0215750:
+    url_poster: https://theposterdb.com/api/assets/76479
   # The English Patient
   tt0116209:
     url_poster: https://theposterdb.com/api/assets/33771
@@ -3746,6 +3796,12 @@ metadata:
   # Fight Club
   tt0137523:
     url_poster: https://theposterdb.com/api/assets/64093
+  # The Fighter
+  tt0964517:
+    url_poster: https://theposterdb.com/api/assets/456848
+  # Fireworks
+  tt0119250:
+    url_poster: https://theposterdb.com/api/assets/230238
   # The Fisher King
   tt0101889:
     url_poster: https://theposterdb.com/api/assets/514640
@@ -3770,12 +3826,18 @@ metadata:
   # Flightplan
   tt0408790:
     url_poster: https://theposterdb.com/api/assets/134368
+  # The Flowers of War
+  tt1410063:
+    url_poster: https://theposterdb.com/api/assets/93070
   # Fly Me to the Moon
   tt1896747:
     url_poster: https://theposterdb.com/api/assets/516318
   # Ford v Ferrari
   tt1950186:
     url_poster: https://theposterdb.com/api/assets/54081
+  # The Forgotten Battle
+  tt10521092:
+    url_poster: https://theposterdb.com/api/assets/185724
   # Forrest Gump
   tt0109830:
     url_poster: https://theposterdb.com/api/assets/40165
@@ -3935,6 +3997,9 @@ metadata:
   # Greyhound
   tt6048922:
     url_poster: https://theposterdb.com/api/assets/97377
+  # Groundhog Day
+  tt0107048:
+    url_poster: https://theposterdb.com/api/assets/105505
   # The Guns of Navarone
   tt0054953:
     url_poster: https://theposterdb.com/api/assets/427953
@@ -3989,6 +4054,12 @@ metadata:
   # Holland
   tt3045628:
     url_poster: https://theposterdb.com/api/assets/577944
+  # The Host
+  tt0468492:
+    url_poster: https://theposterdb.com/api/assets/452650
+  # Hostiles
+  tt5478478:
+    url_poster: https://theposterdb.com/api/assets/138964
   # House of Flying Daggers
   tt0385004:
     url_poster: https://theposterdb.com/api/assets/143579
@@ -4046,6 +4117,9 @@ metadata:
   # Interstellar
   tt0816692:
     url_poster: https://theposterdb.com/api/assets/6461
+  # Into the White
+  tt1876277:
+    url_poster: https://theposterdb.com/api/assets/92995
   # The Intouchables
   tt1675434:
     url_poster: https://theposterdb.com/api/assets/63239
@@ -4211,6 +4285,9 @@ metadata:
   # Life Is Beautiful
   tt0118799:
     url_poster: https://theposterdb.com/api/assets/34187
+  # Life of Pi
+  tt0454876:
+    url_poster: https://theposterdb.com/api/assets/63147
   # Lift
   tt14371878:
     url_poster: https://theposterdb.com/api/assets/452782
@@ -4289,6 +4366,9 @@ metadata:
   # The Man Who Knew Infinity
   tt0787524:
     url_poster: https://theposterdb.com/api/assets/325378
+  # The Man Who Shot Liberty Valance
+  tt0056217:
+    url_poster: https://theposterdb.com/api/assets/305164
   # The Many Saints of Newark
   tt8110232:
     url_poster: https://theposterdb.com/api/assets/175557
@@ -4358,9 +4438,15 @@ metadata:
   # Mishima: A Life in Four Chapters
   tt0089603:
     url_poster: https://theposterdb.com/api/assets/110843
+  # The Missing
+  tt0338188:
+    url_poster: https://theposterdb.com/api/assets/57124
   # The Monkey
   tt27714946:
     url_poster: https://theposterdb.com/api/assets/522320
+  # The Monuments Men
+  tt2177771:
+    url_poster: https://theposterdb.com/api/assets/208450
   # Moon
   tt1182345:
     url_poster: https://theposterdb.com/api/assets/6459
@@ -4397,9 +4483,15 @@ metadata:
   # The Night of the Hunter
   tt0048424:
     url_poster: https://theposterdb.com/api/assets/95345
+  # Night of the Living Dead
+  tt0063350:
+    url_poster: https://theposterdb.com/api/assets/60372
   # Nightcrawler
   tt2872718:
     url_poster: https://theposterdb.com/api/assets/57470
+  # A Nightmare on Elm Street
+  tt0087800:
+    url_poster: https://theposterdb.com/api/assets/10493
   # Nightwatch: Demons Are Forever
   tt6318608:
     url_poster: https://theposterdb.com/api/assets/460874
@@ -4451,6 +4543,9 @@ metadata:
   # Only God Forgives
   tt1602613:
     url_poster: https://theposterdb.com/api/assets/42825
+  # Operation Mincemeat
+  tt1879016:
+    url_poster: https://theposterdb.com/api/assets/236269
   # Oppenheimer
   tt15398776:
     url_poster: https://theposterdb.com/api/assets/252160
@@ -4463,6 +4558,9 @@ metadata:
   # The Outlaw Josey Wales
   tt0075029:
     url_poster: https://theposterdb.com/api/assets/167695
+  # Outrage
+  tt1462667:
+    url_poster: https://theposterdb.com/api/assets/97722
   # Overlord
   tt4530422:
     url_poster: https://theposterdb.com/api/assets/79753
@@ -4496,6 +4594,9 @@ metadata:
   # Payback
   tt0120784:
     url_poster: https://theposterdb.com/api/assets/55069
+  # Pearl Harbor
+  tt0213149:
+    url_poster: https://theposterdb.com/api/assets/64823
   # Peppermint Candy
   tt0247613:
     url_poster: https://theposterdb.com/api/assets/108767
@@ -4574,6 +4675,9 @@ metadata:
   # The Promised Land
   tt20561198:
     url_poster: https://theposterdb.com/api/assets/447675
+  # The Proposition
+  tt0421238:
+    url_poster: https://theposterdb.com/api/assets/342424
   # Psycho
   tt0054215:
     url_poster: https://theposterdb.com/api/assets/432190
@@ -4646,6 +4750,9 @@ metadata:
   # The Ritual Killer
   tt13141250:
     url_poster: https://theposterdb.com/api/assets/337490
+  # Robin Hood: Prince of Thieves
+  tt0102798:
+    url_poster: https://theposterdb.com/api/assets/110627
   # Rocketman
   tt2066051:
     url_poster: https://theposterdb.com/api/assets/47588
@@ -4757,6 +4864,9 @@ metadata:
   # Some Like It Hot
   tt0053291:
     url_poster: https://theposterdb.com/api/assets/456780
+  # Sonatine
+  tt0108188:
+    url_poster: https://theposterdb.com/api/assets/264391
   # Sorry to Bother You
   tt5688932:
     url_poster: https://theposterdb.com/api/assets/117909
@@ -4793,6 +4903,9 @@ metadata:
   # Starship Troopers
   tt0120201:
     url_poster: https://theposterdb.com/api/assets/5526
+  # Stripes
+  tt0083131:
+    url_poster: https://theposterdb.com/api/assets/76420
   # Subservience
   tt24871974:
     url_poster: https://theposterdb.com/api/assets/524560
@@ -4931,9 +5044,15 @@ metadata:
   # Troy
   tt0332452:
     url_poster: https://theposterdb.com/api/assets/82374
+  # True Romance
+  tt0108399:
+    url_poster: https://theposterdb.com/api/assets/118712
   # Tucker and Dale vs Evil
   tt1465522:
     url_poster: https://theposterdb.com/api/assets/108978
+  # The Two Popes
+  tt8404614:
+    url_poster: https://theposterdb.com/api/assets/50892
   # Ugetsu
   tt0046478:
     url_poster: https://theposterdb.com/api/assets/310653
@@ -4946,6 +5065,9 @@ metadata:
   # Uncut Gems
   tt5727208:
     url_poster: https://theposterdb.com/api/assets/45875
+  # Under the Silver Lake
+  tt5691670:
+    url_poster: https://theposterdb.com/api/assets/170448
   # Unthinkable
   tt0914863:
     url_poster: https://theposterdb.com/api/assets/56643
@@ -4973,6 +5095,9 @@ metadata:
   # Valley Uprising
   tt3784160:
     url_poster: https://theposterdb.com/api/assets/231226
+  # Van Helsing
+  tt0338526:
+    url_poster: https://theposterdb.com/api/assets/60784
   # Vertigo
   tt0052357:
     url_poster: https://theposterdb.com/api/assets/15359
@@ -5066,6 +5191,9 @@ metadata:
   # The Wolf of Wall Street
   tt0993846:
     url_poster: https://theposterdb.com/api/assets/54281
+  # The Wolf's Call
+  tt7458762:
+    url_poster: https://theposterdb.com/api/assets/63163
   # Wolfs
   tt14257582:
     url_poster: https://theposterdb.com/api/assets/526746
