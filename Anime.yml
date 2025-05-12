@@ -1014,6 +1014,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/348894
+      2:
+        url_poster: https://theposterdb.com/api/assets/602883
 
   # Chihayafuru
   tt2150751:
@@ -3907,10 +3909,10 @@ metadata:
 
   # Outbreak Company
   tt3196310:
-    url_poster: https://theposterdb.com/api/assets/254670
+    url_poster: https://theposterdb.com/api/assets/603639
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/254671
+        url_poster: https://theposterdb.com/api/assets/603640
 
   # Overlord
   tt4869896:
@@ -8998,3 +9000,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/601961
+
+  # Catch Me at the Ballpark!
+  tt35994065:
+    url_poster: https://theposterdb.com/api/assets/603399
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/603400
