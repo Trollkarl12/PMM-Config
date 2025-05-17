@@ -2510,12 +2510,12 @@ metadata:
 
   # Air
   tt0940874:
-    url_poster: https://theposterdb.com/api/assets/358142
+    url_poster: https://theposterdb.com/api/assets/605214
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/358143
+        url_poster: https://theposterdb.com/api/assets/605215
       1:
-        url_poster: https://theposterdb.com/api/assets/358144
+        url_poster: https://theposterdb.com/api/assets/605216
 
   # Air Gear
   tt0953916:
@@ -4757,6 +4757,8 @@ metadata:
   tt12464182:
     url_poster: https://theposterdb.com/api/assets/273659
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/604472
       1:
         url_poster: https://theposterdb.com/api/assets/273660
       2:
