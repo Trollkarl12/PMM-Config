@@ -986,14 +986,14 @@ metadata:
 
   # Heaven's Lost Property
   tt1528567:
-    url_poster: https://theposterdb.com/api/assets/266312
+    url_poster: https://theposterdb.com/api/assets/598154
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/266313
+        url_poster: https://theposterdb.com/api/assets/598155
       1:
-        url_poster: https://theposterdb.com/api/assets/266314
+        url_poster: https://theposterdb.com/api/assets/598156
       2:
-        url_poster: https://theposterdb.com/api/assets/266315
+        url_poster: https://theposterdb.com/api/assets/598157
 
   # Rent-a-Girlfriend
   tt11448214:
@@ -4403,10 +4403,10 @@ metadata:
 
   # Sonny Boy
   tt14642342:
-    url_poster: https://theposterdb.com/api/assets/179286
+    url_poster: https://theposterdb.com/api/assets/604515
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/179287
+        url_poster: https://theposterdb.com/api/assets/604516
 
   # Strike the Blood
   tt2789238:
@@ -9023,3 +9023,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/93861
+
+  # Corpse Party: Tortured Souls
+  tt3127798:
+    url_poster: https://theposterdb.com/api/assets/422946
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/422947
+      1:
+        url_poster: https://theposterdb.com/api/assets/422948
