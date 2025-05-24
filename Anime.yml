@@ -3437,7 +3437,10 @@ metadata:
 
   # Love of Kill
   tt15018116:
-    url_poster: https://theposterdb.com/api/assets/236811
+    url_poster: https://theposterdb.com/api/assets/607447
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/607448
 
   # Lycoris Recoil
   tt16755706:
@@ -4645,14 +4648,18 @@ metadata:
 
   # Welcome to Demon School! Iruma-kun
   tt11034066:
-    url_poster: https://theposterdb.com/api/assets/319941
+    url_poster: https://theposterdb.com/api/assets/607438
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/607439
       1:
-        url_poster: https://theposterdb.com/api/assets/319942
+        url_poster: https://theposterdb.com/api/assets/607440
       2:
-        url_poster: https://theposterdb.com/api/assets/319943
+        url_poster: https://theposterdb.com/api/assets/607441
       3:
-        url_poster: https://theposterdb.com/api/assets/319944
+        url_poster: https://theposterdb.com/api/assets/607442
+      4:
+        url_poster: https://theposterdb.com/api/assets/607443
 
   # Wandering Witch: The Journey of Elaina
   tt12457334:
