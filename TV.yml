@@ -1577,7 +1577,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/575756
 
-  # Rick and Morty
+  # Rick and Morty https://theposterdb.com/set/102786
   tt2861424:
     url_poster: https://theposterdb.com/api/assets/159152
     seasons:
@@ -1594,6 +1594,8 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/264625
       7:
+        url_poster: https://theposterdb.com/api/assets/422106
+      8:
         url_poster: https://theposterdb.com/api/assets/422106
 
   # Severance
