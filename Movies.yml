@@ -258,6 +258,14 @@ metadata:
   tt0087078:
     url_poster: https://theposterdb.com/api/assets/65626
 
+  # Crank https://theposterdb.com/set/102784
+  # Crank
+  tt0479884:
+    url_poster: https://theposterdb.com/api/assets/168169
+  # Crank: High Voltage
+  tt1121931:
+    url_poster: https://theposterdb.com/api/assets/168170
+
   # The Conjuring https://theposterdb.com/set/13879
   # The Conjuring
   tt1457767:
@@ -3625,6 +3633,9 @@ metadata:
   # The Dictator
   tt1645170:
     url_poster: https://theposterdb.com/api/assets/426718
+  # Dinner for Schmucks
+  tt0427152:
+    url_poster: https://theposterdb.com/api/assets/113428
   # The Dirty Dozen
   tt0061578:
     url_poster: https://theposterdb.com/api/assets/100675
@@ -4921,6 +4932,9 @@ metadata:
   # The Spiderwick Chronicles
   tt0416236:
     url_poster: https://theposterdb.com/api/assets/87939
+  # Stagecoach
+  tt0031971:
+    url_poster: https://theposterdb.com/api/assets/478234
   # Stalingrad
   tt0108211:
     url_poster: https://theposterdb.com/api/assets/153948
@@ -5128,6 +5142,9 @@ metadata:
   # Van Helsing
   tt0338526:
     url_poster: https://theposterdb.com/api/assets/60784
+  # Vanilla Sky
+  tt0259711:
+    url_poster: https://theposterdb.com/api/assets/95556
   # Vertigo
   tt0052357:
     url_poster: https://theposterdb.com/api/assets/15359

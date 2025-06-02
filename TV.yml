@@ -1581,6 +1581,8 @@ metadata:
   tt2861424:
     url_poster: https://theposterdb.com/api/assets/159152
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/168177
       1:
         url_poster: https://theposterdb.com/api/assets/159153
       2:
@@ -1596,7 +1598,7 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/422106
       8:
-        url_poster: https://theposterdb.com/api/assets/422106
+        url_poster: https://theposterdb.com/api/assets/603637
 
   # Severance
   tt11280740:
@@ -2794,3 +2796,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/275773
       3:
         url_poster: https://theposterdb.com/api/assets/593307
+
+  # Marry My Husband
+  tt26628595:
+    url_poster: https://theposterdb.com/api/assets/562717
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/562718
