@@ -476,7 +476,7 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/495081
 
-  # Gen V
+  # Gen V https://theposterdb.com/set/227521
   tt13159924:
     url_poster: https://theposterdb.com/api/assets/408210
     seasons:
@@ -1577,28 +1577,28 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/575756
 
-  # Rick and Morty https://theposterdb.com/set/102786
+  # Rick and Morty https://theposterdb.com/set/233497
   tt2861424:
-    url_poster: https://theposterdb.com/api/assets/159152
+    url_poster: https://theposterdb.com/api/assets/421764
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/168177
+        url_poster: https://theposterdb.com/api/assets/421765
       1:
-        url_poster: https://theposterdb.com/api/assets/159153
+        url_poster: https://theposterdb.com/api/assets/425197
       2:
-        url_poster: https://theposterdb.com/api/assets/159154
+        url_poster: https://theposterdb.com/api/assets/421766
       3:
-        url_poster: https://theposterdb.com/api/assets/159155
+        url_poster: https://theposterdb.com/api/assets/421767
       4:
-        url_poster: https://theposterdb.com/api/assets/159156
+        url_poster: https://theposterdb.com/api/assets/421768
       5:
-        url_poster: https://theposterdb.com/api/assets/159157
+        url_poster: https://theposterdb.com/api/assets/421769
       6:
-        url_poster: https://theposterdb.com/api/assets/264625
+        url_poster: https://theposterdb.com/api/assets/421770
       7:
-        url_poster: https://theposterdb.com/api/assets/422106
+        url_poster: https://theposterdb.com/api/assets/421771
       8:
-        url_poster: https://theposterdb.com/api/assets/603637
+        url_poster: https://theposterdb.com/api/assets/606247
 
   # Severance
   tt11280740:
