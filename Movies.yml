@@ -20,6 +20,14 @@ metadata:
   tt1253863:
     url_poster: https://theposterdb.com/api/assets/138691
 
+  # The Accountant https://theposterdb.com/set/324439
+  # The Accountant
+  tt2140479:
+    url_poster: https://theposterdb.com/api/assets/583299
+  # The Accountant 2
+  tt7068946:
+    url_poster: https://theposterdb.com/api/assets/583298
+
   # Admiral Yi Trilogy https://theposterdb.com/set/274776
   # The Admiral: Roaring Currents
   tt3541262:
@@ -3237,9 +3245,6 @@ metadata:
   # The Abyss
   tt0096754:
     url_poster: https://theposterdb.com/api/assets/47327
-  # The Accountant
-  tt2140479:
-    url_poster: https://theposterdb.com/api/assets/588407
   # The Adam Project
   tt2463208:
     url_poster: https://theposterdb.com/api/assets/218916
@@ -3837,6 +3842,9 @@ metadata:
   # Flatliners
   tt0099582:
     url_poster: https://theposterdb.com/api/assets/225325
+  # Flight
+  tt1907668:
+    url_poster: https://theposterdb.com/api/assets/601509
   # Flight Risk
   tt10078772:
     url_poster: https://theposterdb.com/api/assets/573854
@@ -4338,6 +4346,9 @@ metadata:
   # The Lives of Others
   tt0405094:
     url_poster: https://theposterdb.com/api/assets/50948
+  # Locked
+  tt26671996:
+    url_poster: https://theposterdb.com/api/assets/583059
   # Lone Survivor
   tt1091191:
     url_poster: https://theposterdb.com/api/assets/56195

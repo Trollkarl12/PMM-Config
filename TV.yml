@@ -2830,3 +2830,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/562718
+
+  # Reaper
+  tt0955322:
+    url_poster: https://theposterdb.com/api/assets/589229
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/589230
+      1:
+        url_poster: https://theposterdb.com/api/assets/589231
+      2:
+        url_poster: https://theposterdb.com/api/assets/589232
