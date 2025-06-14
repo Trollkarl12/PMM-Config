@@ -9057,3 +9057,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/608090
+
+  # The Fable
+  tt28329410:
+    url_poster: https://theposterdb.com/api/assets/470608
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/470609

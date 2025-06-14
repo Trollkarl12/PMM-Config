@@ -2841,3 +2841,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/589231
       2:
         url_poster: https://theposterdb.com/api/assets/589232
+
+  # WeCrashed
+  tt12005128:
+    url_poster: https://theposterdb.com/api/assets/277047
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/277048
