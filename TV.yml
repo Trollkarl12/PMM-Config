@@ -2848,3 +2848,16 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/277048
+
+  # The Righteous Gemstones
+  tt8634332:
+    url_poster: https://theposterdb.com/api/assets/596432
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/596433
+      2:
+        url_poster: https://theposterdb.com/api/assets/596434
+      3:
+        url_poster: https://theposterdb.com/api/assets/596435
+      4:
+        url_poster: https://theposterdb.com/api/assets/596436

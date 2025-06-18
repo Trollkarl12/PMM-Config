@@ -4148,16 +4148,18 @@ metadata:
 
   # The Rising of the Shield Hero
   tt9529546:
-    url_poster: https://theposterdb.com/api/assets/436621
+    url_poster: https://theposterdb.com/api/assets/374135
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/436622
+        url_poster: https://theposterdb.com/api/assets/374136
       1:
-        url_poster: https://theposterdb.com/api/assets/436623
+        url_poster: https://theposterdb.com/api/assets/374137
       2:
-        url_poster: https://theposterdb.com/api/assets/436624
+        url_poster: https://theposterdb.com/api/assets/374138
       3:
-        url_poster: https://theposterdb.com/api/assets/436625
+        url_poster: https://theposterdb.com/api/assets/390615
+      4:
+        url_poster: https://theposterdb.com/api/assets/616707
 
   # Romantic Killer
   tt21991254:
