@@ -2861,3 +2861,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/596435
       4:
         url_poster: https://theposterdb.com/api/assets/596436
+
+  # Dark
+  tt5753856:
+    url_poster: https://theposterdb.com/api/assets/271626
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/271627
+      2:
+        url_poster: https://theposterdb.com/api/assets/271628
+      3:
+        url_poster: https://theposterdb.com/api/assets/271629
