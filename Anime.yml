@@ -9068,3 +9068,24 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/470609
+
+  # Scum's Wish
+  tt6197170:
+    url_poster: https://theposterdb.com/api/assets/395850
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/395851
+
+  # Devil May Cry (2025)
+  tt15716776:
+    url_poster: https://theposterdb.com/api/assets/589837
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/589838
+
+  # MIRU: Paths to My Future
+  tt28400589:
+    url_poster: https://theposterdb.com/api/assets/590572
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/590575
