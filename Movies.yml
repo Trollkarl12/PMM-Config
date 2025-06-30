@@ -3482,6 +3482,9 @@ metadata:
   # Burnt
   tt2503944:
     url_poster: https://theposterdb.com/api/assets/448346
+  # The Cabin in the Woods
+  tt1259521:
+    url_poster: https://theposterdb.com/api/assets/456830
   # El Camino: A Breaking Bad Movie
   tt9243946:
     url_poster: https://theposterdb.com/api/assets/20287
@@ -3875,6 +3878,9 @@ metadata:
   # Fountain of Youth
   tt27075958:
     url_poster: https://theposterdb.com/api/assets/607168
+  # The Four Musketeers
+  tt0073012:
+    url_poster: https://theposterdb.com/api/assets/18097
   # Fractured
   tt4332232:
     url_poster: https://theposterdb.com/api/assets/183867
@@ -4112,6 +4118,12 @@ metadata:
   # Hypnotic
   tt8080204:
     url_poster: https://theposterdb.com/api/assets/367831
+  # The Ides of March
+  tt1124035:
+    url_poster: https://theposterdb.com/api/assets/190701
+  # Idiocracy
+  tt0387808:
+    url_poster: https://theposterdb.com/api/assets/448956
   # The Imitation Game
   tt2084970:
     url_poster: https://theposterdb.com/api/assets/81190
@@ -5150,6 +5162,9 @@ metadata:
   # The Untouchables
   tt0094226:
     url_poster: https://theposterdb.com/api/assets/284398
+  # Up in the Air
+  tt1193138:
+    url_poster: https://theposterdb.com/api/assets/305837
   # Upgrade
   tt6499752:
     url_poster: https://theposterdb.com/api/assets/93323
