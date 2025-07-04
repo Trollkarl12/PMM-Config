@@ -9093,3 +9093,45 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/590575
+
+  # Clevatess
+  tt32991344:
+    url_poster: https://theposterdb.com/api/assets/618633
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/618634
+
+  # New Saga
+  tt33050376:
+    url_poster: https://theposterdb.com/api/assets/617873
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/617874
+
+  # Hell Teacher: Jigoku Sensei Nube
+  tt34754751:
+    url_poster: https://theposterdb.com/api/assets/601898
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/601899
+
+  # Welcome to the Outcast's Restaurant!
+  tt36600399:
+    url_poster: https://theposterdb.com/api/assets/621903
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/621904
+
+  # The Water Magician
+  tt36592736:
+    url_poster: https://theposterdb.com/api/assets/619670
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/619813
+
+  # Betrothed to my Sister's Ex
+  tt35652469:
+    url_poster: https://theposterdb.com/api/assets/618766
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/618767
