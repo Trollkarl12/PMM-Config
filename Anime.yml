@@ -4046,6 +4046,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/250451
       1:
         url_poster: https://theposterdb.com/api/assets/250452
+      2:
+        url_poster: https://theposterdb.com/api/assets/589145
 
   # Re:Creators
   tt6755926:
@@ -9108,13 +9110,6 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/617874
 
-  # Hell Teacher: Jigoku Sensei Nube
-  tt34754751:
-    url_poster: https://theposterdb.com/api/assets/601898
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/601899
-
   # Welcome to the Outcast's Restaurant!
   tt36600399:
     url_poster: https://theposterdb.com/api/assets/621903
@@ -9135,3 +9130,31 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/618767
+
+  # Lord of Mysteries
+  tt28618556:
+    url_poster: https://theposterdb.com/api/assets/619039
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/619040
+
+  # Scooped Up by an S-Rank Adventurer!
+  tt36592820:
+    url_poster: https://theposterdb.com/api/assets/618770
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/618771
+
+  # Private Tutor to the Duke's Daughter
+  tt32536624:
+    url_poster: https://theposterdb.com/api/assets/619632
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/619633
+
+  # With You and the Rain
+  tt36143285:
+    url_poster: https://theposterdb.com/api/assets/619154
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/619155
