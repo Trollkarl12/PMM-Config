@@ -1183,6 +1183,14 @@ metadata:
   tt2308733:
     url_poster: https://theposterdb.com/api/assets/50692
 
+  # Hot Shots! https://theposterdb.com/set/256863
+  # Hot Shots!
+  tt0102059:
+    url_poster: https://theposterdb.com/api/assets/466771
+  # Hot Shots! Part Deux
+  tt0107144:
+    url_poster: https://theposterdb.com/api/assets/466769
+
   # Horizon: An American Saga https://theposterdb.com/set/281888
   # Horizon: An American Saga - Chapter 1
   tt17505010:
@@ -2135,6 +2143,14 @@ metadata:
   # Ocean's Eight
   tt5164214:
     url_poster: https://theposterdb.com/api/assets/64822
+    
+  # The Old Guard https://theposterdb.com/set/345509
+  # The Old Guard
+  tt7556122:
+    url_poster: https://theposterdb.com/api/assets/619210
+  # The Old Guard 2
+  tt14961624:
+    url_poster: https://theposterdb.com/api/assets/619209
 
   # Once Upon a Time in China https://theposterdb.com/set/40848
   # Once Upon a Time in China
@@ -4592,9 +4608,6 @@ metadata:
   # Oldboy
   tt0364569:
     url_poster: https://theposterdb.com/api/assets/62608
-  # The Old Guard
-  tt7556122:
-    url_poster: https://theposterdb.com/api/assets/75665
   # On the Waterfront
   tt0047296:
     url_poster: https://theposterdb.com/api/assets/467591
@@ -4625,6 +4638,9 @@ metadata:
   # The Others
   tt0230600:
     url_poster: https://theposterdb.com/api/assets/89621
+  # Our Little Sister
+  tt3756788:
+    url_poster: https://theposterdb.com/api/assets/539304
   # The Outfit
   tt14114802:
     url_poster: https://theposterdb.com/api/assets/231575
@@ -5030,6 +5046,9 @@ metadata:
   # The Talented Mr. Ripley
   tt0134119:
     url_poster: https://theposterdb.com/api/assets/305855
+  # Tampopo
+  tt0092048:
+    url_poster: https://theposterdb.com/api/assets/264326
   # Tár
   tt14444726:
     url_poster: https://theposterdb.com/api/assets/293865
