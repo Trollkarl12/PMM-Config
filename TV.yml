@@ -1301,7 +1301,7 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/454333
 
-  # Foundation (2021)
+  # Foundation (2021) https://theposterdb.com/poster/182327
   tt0804484:
     url_poster: https://theposterdb.com/api/assets/182327
     seasons:
@@ -1309,6 +1309,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/182328
       2:
         url_poster: https://theposterdb.com/api/assets/362222
+      3:
+        url_poster: https://theposterdb.com/api/assets/616984
 
   # Futurama
   tt0149460:
@@ -2874,3 +2876,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/271628
       3:
         url_poster: https://theposterdb.com/api/assets/271629
+
+  # The Bear https://theposterdb.com/set/159504
+  tt14452776:
+    url_poster: https://theposterdb.com/api/assets/267741
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/267742
+      2:
+        url_poster: https://theposterdb.com/api/assets/362224
+      3:
+        url_poster: https://theposterdb.com/api/assets/602394
+      4:
+        url_poster: https://theposterdb.com/api/assets/607605

@@ -3303,6 +3303,9 @@ metadata:
   # Ambulance
   tt4998632:
     url_poster: https://theposterdb.com/api/assets/230421
+  # Amélie
+  tt0211915:
+    url_poster: https://theposterdb.com/api/assets/22664
   # American Beauty
   tt0169547:
     url_poster: https://theposterdb.com/api/assets/25765
@@ -3525,6 +3528,9 @@ metadata:
   # Casualties of War
   tt0097027:
     url_poster: https://theposterdb.com/api/assets/474547
+  # The Cat in the Hat
+  tt0312528:
+    url_poster: https://theposterdb.com/api/assets/21333
   # Catch Me If You Can
   tt0264464:
     url_poster: https://theposterdb.com/api/assets/34303
@@ -4281,6 +4287,9 @@ metadata:
   # Kung Fu Hustle
   tt0373074:
     url_poster: https://theposterdb.com/api/assets/82138
+  # Kwaidan
+  tt0058279:
+    url_poster: https://theposterdb.com/api/assets/565595
   # La La Land
   tt3783958:
     url_poster: https://theposterdb.com/api/assets/45335
