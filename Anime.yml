@@ -6225,12 +6225,14 @@ metadata:
 
   # Panty & Stocking with Garterbelt
   tt1727444:
-    url_poster: https://theposterdb.com/api/assets/509877
+    url_poster: https://theposterdb.com/api/assets/618205
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/510088
+        url_poster: https://theposterdb.com/api/assets/618206
       1:
-        url_poster: https://theposterdb.com/api/assets/510089
+        url_poster: https://theposterdb.com/api/assets/618207
+      2:
+        url_poster: https://theposterdb.com/api/assets/623952
 
   # Samurai 7
   tt0482424:
@@ -6918,10 +6920,10 @@ metadata:
 
   # Summer Time Rendering
   tt15686254:
-    url_poster: https://theposterdb.com/api/assets/228680
+    url_poster: https://theposterdb.com/api/assets/624465
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/228681
+        url_poster: https://theposterdb.com/api/assets/624466
 
   # Nana
   tt0810705:
@@ -9242,3 +9244,60 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/619622
+
+  # Secrets of the Silent Witch
+  tt33317800:
+    url_poster: https://theposterdb.com/api/assets/622162
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/622163
+      1:
+        url_poster: https://theposterdb.com/api/assets/622164
+
+  # Watari-kun's ****** Is About to Collapse
+  tt32535912:
+    url_poster: https://theposterdb.com/api/assets/617882
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/617883
+
+  # Tougen Anki
+  tt32344704:
+    url_poster: https://theposterdb.com/api/assets/601960
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/618167
+      1:
+        url_poster: https://theposterdb.com/api/assets/601961
+
+  # Solo Camping for Two
+  tt36271866:
+    url_poster: https://theposterdb.com/api/assets/623939
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/623940
+
+  # The Fragrant Flower Blooms with Dignity
+  tt36271866:
+    url_poster: https://theposterdb.com/api/assets/622624
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/622625
+
+  # Amagami SS
+  tt1685397:
+    url_poster: https://theposterdb.com/api/assets/624447
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/624448
+      1:
+        url_poster: https://theposterdb.com/api/assets/624449
+      2:
+        url_poster: https://theposterdb.com/api/assets/624450
+
+  # Uglymug, Epicfighter
+  tt36592756:
+    url_poster: https://theposterdb.com/api/assets/624340
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/624341
