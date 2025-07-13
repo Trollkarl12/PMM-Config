@@ -9301,3 +9301,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/624341
+
+  # Fermat Kitchen
+  tt36131958:
+    url_poster: https://theposterdb.com/api/assets/622363
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/622364

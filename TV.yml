@@ -2889,3 +2889,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/602394
       4:
         url_poster: https://theposterdb.com/api/assets/607605
+
+  # The Walking Dead: Dead City https://theposterdb.com/set/293837
+  tt18546730:
+    url_poster: https://theposterdb.com/api/assets/528969
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/528970
+      2:
+        url_poster: https://theposterdb.com/api/assets/598328
