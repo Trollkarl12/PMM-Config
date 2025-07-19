@@ -9301,3 +9301,16 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/622364
+
+  # Strike Witches
+  tt1300176:
+    url_poster: https://theposterdb.com/api/assets/626633
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/626634
+      1:
+        url_poster: https://theposterdb.com/api/assets/626635
+      2:
+        url_poster: https://theposterdb.com/api/assets/626636
+      3:
+        url_poster: https://theposterdb.com/api/assets/626637
