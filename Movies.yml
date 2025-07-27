@@ -199,6 +199,17 @@ metadata:
   tt3083016:
     url_poster: https://theposterdb.com/api/assets/502945
 
+  # Bill & Ted https://theposterdb.com/set/61208
+  # Bill & Ted's Excellent Adventure
+  tt0096928:
+    url_poster: https://theposterdb.com/api/assets/96795
+  # Bill & Ted's Bogus Journey
+  tt0101452:
+    url_poster: https://theposterdb.com/api/assets/96796
+  # Bill & Ted Face the Music
+  tt1086064:
+    url_poster: https://theposterdb.com/api/assets/96797
+
   # Blade Runner https://theposterdb.com/set/16911
   # Blade Runner
   tt0083658:
@@ -1129,6 +1140,14 @@ metadata:
   # Halloween Ends
   tt10665342:
     url_poster: https://theposterdb.com/api/assets/190043
+
+  # Happy Gilmore https://theposterdb.com/set/351037
+  # Happy Gilmore
+  tt0116483:
+    url_poster: https://theposterdb.com/api/assets/628069
+  # Happy Gilmore 2
+  tt31868189:
+    url_poster: https://theposterdb.com/api/assets/628068
 
   # Highlander
   # Highlander
@@ -3678,6 +3697,9 @@ metadata:
   # Dinner for Schmucks
   tt0427152:
     url_poster: https://theposterdb.com/api/assets/113428
+  # Dirty Dancing
+  tt0092890:
+    url_poster: https://theposterdb.com/api/assets/295511
   # The Dirty Dozen
   tt0061578:
     url_poster: https://theposterdb.com/api/assets/100675
@@ -4083,9 +4105,6 @@ metadata:
   # The Handmaiden
   tt4016934:
     url_poster: https://theposterdb.com/api/assets/89538
-  # Happy Gilmore
-  tt0116483:
-    url_poster: https://theposterdb.com/api/assets/40325
   # Happy Together
   tt0118845:
     url_poster: https://theposterdb.com/api/assets/146555
@@ -5247,6 +5266,9 @@ metadata:
   # Vertigo
   tt0052357:
     url_poster: https://theposterdb.com/api/assets/15359
+  # Victoria
+  tt4226388:
+    url_poster: https://theposterdb.com/api/assets/396399
   # The Virgin Suicides
   tt0159097:
     url_poster: https://theposterdb.com/api/assets/492827

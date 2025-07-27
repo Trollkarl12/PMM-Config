@@ -1146,6 +1146,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/552142
 
+  # Dexter: Resurrection https://theposterdb.com/set/347801
+  tt33043892:
+    url_poster: https://theposterdb.com/api/assets/622997
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/622998
+
   # A Discovery of Witches
   tt2177461:
     url_poster: https://theposterdb.com/api/assets/131461
@@ -2898,3 +2905,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/528970
       2:
         url_poster: https://theposterdb.com/api/assets/598328
+
+  # MobLand https://theposterdb.com/set/340293
+  tt31510819:
+    url_poster: https://theposterdb.com/api/assets/609881
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/609882
