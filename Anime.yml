@@ -9144,6 +9144,8 @@ metadata:
   tt32536624:
     url_poster: https://theposterdb.com/api/assets/619632
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/628980
       1:
         url_poster: https://theposterdb.com/api/assets/619633
 

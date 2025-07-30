@@ -219,6 +219,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/169287
       2:
         url_poster: https://theposterdb.com/api/assets/452737
+      3:
+        url_poster: https://theposterdb.com/api/assets/629545
 
   # Moon Knight
   tt10234724:
@@ -1943,6 +1945,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/270564
       3:
         url_poster: https://theposterdb.com/api/assets/431287
+      4:
+        url_poster: https://theposterdb.com/api/assets/629453
 
   # Legacies
   tt8103070:
@@ -2912,3 +2916,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/609882
+
+  # High School Return of a Gangster
+  tt32499943:
+    url_poster: https://theposterdb.com/api/assets/609627
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/609628
