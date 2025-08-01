@@ -2923,3 +2923,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/609628
+
+  # Stick https://theposterdb.com/set/345046
+  tt31710249:
+    url_poster: https://theposterdb.com/api/assets/618450
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/618449
