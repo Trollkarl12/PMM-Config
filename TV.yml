@@ -2930,3 +2930,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/618449
+
+  # Taboo https://theposterdb.com/poster/136966
+  tt3647998:
+    url_poster: https://theposterdb.com/api/assets/136966
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/136967
