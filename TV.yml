@@ -2249,7 +2249,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/497075
 
-  # King of the hill
+  # King of the hill https://theposterdb.com/poster/406543
   tt0118375:
     url_poster: https://theposterdb.com/api/assets/406543
     seasons:
@@ -2279,6 +2279,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/406555
       13:
         url_poster: https://theposterdb.com/api/assets/406556
+      14:
+        url_poster: https://theposterdb.com/api/assets/631971
 
   # Those About to Die
   tt10569934:
