@@ -4,6 +4,117 @@
 
 metadata:
 
+  # Arrowverse https://theposterdb.com/poster/133540
+  # Arrow
+  tt2193021:
+    url_poster: https://theposterdb.com/api/assets/133540
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/133541
+      1:
+        url_poster: https://theposterdb.com/api/assets/133542
+      2:
+        url_poster: https://theposterdb.com/api/assets/133543
+      3:
+        url_poster: https://theposterdb.com/api/assets/133544
+      4:
+        url_poster: https://theposterdb.com/api/assets/133545
+      5:
+        url_poster: https://theposterdb.com/api/assets/133546
+      6:
+        url_poster: https://theposterdb.com/api/assets/133547
+      7:
+        url_poster: https://theposterdb.com/api/assets/133548
+      8:
+        url_poster: https://theposterdb.com/api/assets/133549
+
+  # Batwoman
+  tt8712204:
+    url_poster: https://theposterdb.com/api/assets/132845
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/132846
+      2:
+        url_poster: https://theposterdb.com/api/assets/132847
+
+  # Black Lightning
+  tt6045840:
+    url_poster: https://theposterdb.com/api/assets/134698
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/134699
+      2:
+        url_poster: https://theposterdb.com/api/assets/134700
+      3:
+        url_poster: https://theposterdb.com/api/assets/134701
+      4:
+        url_poster: https://theposterdb.com/api/assets/134702
+
+  # DC's Legends of Tomorrow
+  tt4532368:
+    url_poster: https://theposterdb.com/api/assets/134384
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/134385
+      1:
+        url_poster: https://theposterdb.com/api/assets/134386
+      2:
+        url_poster: https://theposterdb.com/api/assets/134387
+      3:
+        url_poster: https://theposterdb.com/api/assets/134388
+      4:
+        url_poster: https://theposterdb.com/api/assets/134389
+      5:
+        url_poster: https://theposterdb.com/api/assets/134390
+      6:
+        url_poster: https://theposterdb.com/api/assets/134391
+      7:
+        url_poster: https://theposterdb.com/api/assets/182349
+
+  # The Flash (2014)
+  tt3107288:
+    url_poster: https://theposterdb.com/api/assets/133667
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/133668
+      1:
+        url_poster: https://theposterdb.com/api/assets/133669
+      2:
+        url_poster: https://theposterdb.com/api/assets/133670
+      3:
+        url_poster: https://theposterdb.com/api/assets/133671
+      4:
+        url_poster: https://theposterdb.com/api/assets/133672
+      5:
+        url_poster: https://theposterdb.com/api/assets/133673
+      6:
+        url_poster: https://theposterdb.com/api/assets/133674
+      7:
+        url_poster: https://theposterdb.com/api/assets/133675
+      8:
+        url_poster: https://theposterdb.com/api/assets/190475
+      9:
+        url_poster: https://theposterdb.com/api/assets/321255
+
+  # Supergirl
+  tt4016454:
+    url_poster: https://theposterdb.com/api/assets/134125
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/134126
+      1:
+        url_poster: https://theposterdb.com/api/assets/134127
+      2:
+        url_poster: https://theposterdb.com/api/assets/134128
+      3:
+        url_poster: https://theposterdb.com/api/assets/134129
+      4:
+        url_poster: https://theposterdb.com/api/assets/134130
+      5:
+        url_poster: https://theposterdb.com/api/assets/134131
+      6:
+        url_poster: https://theposterdb.com/api/assets/141701
+
   # The World of Ice and Fire https://theposterdb.com/set/152511
   # Game of Thrones
   tt0944947:
@@ -229,116 +340,36 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/224410
 
-  # Arrowverse https://theposterdb.com/poster/133540
-  # Arrow
-  tt2193021:
-    url_poster: https://theposterdb.com/api/assets/133540
+  # Outlander https://theposterdb.com/set/75825
+  # Outlander
+  tt3006802:
+    url_poster: https://theposterdb.com/api/assets/120908
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/133541
+        url_poster: https://theposterdb.com/api/assets/120909
       1:
-        url_poster: https://theposterdb.com/api/assets/133542
+        url_poster: https://theposterdb.com/api/assets/120910
       2:
-        url_poster: https://theposterdb.com/api/assets/133543
+        url_poster: https://theposterdb.com/api/assets/120911
       3:
-        url_poster: https://theposterdb.com/api/assets/133544
+        url_poster: https://theposterdb.com/api/assets/120912
       4:
-        url_poster: https://theposterdb.com/api/assets/133545
+        url_poster: https://theposterdb.com/api/assets/120913
       5:
-        url_poster: https://theposterdb.com/api/assets/133546
+        url_poster: https://theposterdb.com/api/assets/120914
       6:
-        url_poster: https://theposterdb.com/api/assets/133547
+        url_poster: https://theposterdb.com/api/assets/197878
       7:
-        url_poster: https://theposterdb.com/api/assets/133548
-      8:
-        url_poster: https://theposterdb.com/api/assets/133549
+        url_poster: https://theposterdb.com/api/assets/360981
 
-  # Batwoman
-  tt8712204:
-    url_poster: https://theposterdb.com/api/assets/132845
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/132846
-      2:
-        url_poster: https://theposterdb.com/api/assets/132847
-
-  # Black Lightning
-  tt6045840:
-    url_poster: https://theposterdb.com/api/assets/134698
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/134699
-      2:
-        url_poster: https://theposterdb.com/api/assets/134700
-      3:
-        url_poster: https://theposterdb.com/api/assets/134701
-      4:
-        url_poster: https://theposterdb.com/api/assets/134702
-
-  # DC's Legends of Tomorrow
-  tt4532368:
-    url_poster: https://theposterdb.com/api/assets/134384
+  # Outlander: Blood of My Blood
+  tt18332852:
+    url_poster: https://theposterdb.com/api/assets/631276
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/134385
+        url_poster: https://theposterdb.com/api/assets/631277
       1:
-        url_poster: https://theposterdb.com/api/assets/134386
-      2:
-        url_poster: https://theposterdb.com/api/assets/134387
-      3:
-        url_poster: https://theposterdb.com/api/assets/134388
-      4:
-        url_poster: https://theposterdb.com/api/assets/134389
-      5:
-        url_poster: https://theposterdb.com/api/assets/134390
-      6:
-        url_poster: https://theposterdb.com/api/assets/134391
-      7:
-        url_poster: https://theposterdb.com/api/assets/182349
-
-  # The Flash (2014)
-  tt3107288:
-    url_poster: https://theposterdb.com/api/assets/133667
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/133668
-      1:
-        url_poster: https://theposterdb.com/api/assets/133669
-      2:
-        url_poster: https://theposterdb.com/api/assets/133670
-      3:
-        url_poster: https://theposterdb.com/api/assets/133671
-      4:
-        url_poster: https://theposterdb.com/api/assets/133672
-      5:
-        url_poster: https://theposterdb.com/api/assets/133673
-      6:
-        url_poster: https://theposterdb.com/api/assets/133674
-      7:
-        url_poster: https://theposterdb.com/api/assets/133675
-      8:
-        url_poster: https://theposterdb.com/api/assets/190475
-      9:
-        url_poster: https://theposterdb.com/api/assets/321255
-
-  # Supergirl
-  tt4016454:
-    url_poster: https://theposterdb.com/api/assets/134125
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/134126
-      1:
-        url_poster: https://theposterdb.com/api/assets/134127
-      2:
-        url_poster: https://theposterdb.com/api/assets/134128
-      3:
-        url_poster: https://theposterdb.com/api/assets/134129
-      4:
-        url_poster: https://theposterdb.com/api/assets/134130
-      5:
-        url_poster: https://theposterdb.com/api/assets/134131
-      6:
-        url_poster: https://theposterdb.com/api/assets/141701
+        url_poster: https://theposterdb.com/api/assets/631278
 
   # Star Wars https://theposterdb.com/set/78057
   # The Mandalorian
@@ -1524,27 +1555,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/76103
       5:
         url_poster: https://theposterdb.com/api/assets/76104
-
-  # Outlander
-  tt3006802:
-    url_poster: https://theposterdb.com/api/assets/120908
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/120909
-      1:
-        url_poster: https://theposterdb.com/api/assets/120910
-      2:
-        url_poster: https://theposterdb.com/api/assets/120911
-      3:
-        url_poster: https://theposterdb.com/api/assets/120912
-      4:
-        url_poster: https://theposterdb.com/api/assets/120913
-      5:
-        url_poster: https://theposterdb.com/api/assets/120914
-      6:
-        url_poster: https://theposterdb.com/api/assets/197878
-      7:
-        url_poster: https://theposterdb.com/api/assets/360981
 
   # Peacemaker
   tt13146488:
