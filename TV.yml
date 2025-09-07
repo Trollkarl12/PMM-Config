@@ -938,12 +938,14 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/220411
 
-  # Wednesday
+  # Wednesday https://theposterdb.com/set/170350
   tt13443470:
     url_poster: https://theposterdb.com/api/assets/287339
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/287340 
+      2:
+        url_poster: https://theposterdb.com/api/assets/622418
 
   # Shameless
   tt1586680:

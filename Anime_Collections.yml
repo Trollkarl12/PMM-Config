@@ -72,3 +72,5 @@ collections:
     template: {name: Collection, show: "76547, 403849, 72352, 71535, 71536, 80785, 80784, 81104, 319976, 80398, 80783", poster: https://theposterdb.com/api/assets/322526, background: }
   Ghost in the Shell:
     template: {name: Collection, show: "293491, 73749", poster: https://theposterdb.com/api/assets/175259, background: }
+  Overlord:
+    template: {name: Collection, show: "294002", poster: https://theposterdb.com/api/assets/181473, background: }
