@@ -4,6 +4,14 @@
 
 metadata:
 
+  # Alien https://theposterdb.com/set/354172
+  # Alien: Earth
+  tt13623632:
+    url_poster: https://theposterdb.com/api/assets/633353
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/633354
+
   # Arrowverse https://theposterdb.com/poster/133540
   # Arrow
   tt2193021:
@@ -515,6 +523,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/408211
+      2:
+        url_poster: https://theposterdb.com/api/assets/642291
 
   # Avatar https://theposterdb.com/set/250744
   # Avatar: The Last Airbender
@@ -1354,7 +1364,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/616984
 
-  # Futurama
+  # Futurama https://theposterdb.com/set/284625
   tt0149460:
     url_poster: https://theposterdb.com/api/assets/513280
     seasons:
@@ -1378,6 +1388,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/513289
       9:
         url_poster: https://theposterdb.com/api/assets/513290
+      10:
+        url_poster: https://theposterdb.com/api/assets/642938
 
   # The Gentlemen
   tt13210838:
@@ -2134,14 +2146,16 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/593202
 
-  # Tulsa King
+  # Tulsa King https://theposterdb.com/set/296439
   tt16358384:
-    url_poster: https://theposterdb.com/api/assets/284193
+    url_poster: https://theposterdb.com/api/assets/533724
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/284194
+        url_poster: https://theposterdb.com/api/assets/533727
       2:
-        url_poster: https://theposterdb.com/api/assets/517235
+        url_poster: https://theposterdb.com/api/assets/533728
+      3:
+        url_poster: https://theposterdb.com/api/assets/644485
 
   # PEN15
   tt8324422:
@@ -2947,9 +2961,29 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/618449
 
-  # Taboo https://theposterdb.com/poster/136966
+  # Taboo https://theposterdb.com/set/85223
   tt3647998:
     url_poster: https://theposterdb.com/api/assets/136966
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/136967
+
+  # Evil https://theposterdb.com/set/112621
+  tt9055008:
+    url_poster: https://theposterdb.com/api/assets/185551
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/185552
+      2:
+        url_poster: https://theposterdb.com/api/assets/185553
+      3:
+        url_poster: https://theposterdb.com/api/assets/263803
+      4:
+        url_poster: https://theposterdb.com/api/assets/521023
+
+  # The Pitt https://theposterdb.com/set/331152
+  tt31938062:
+    url_poster: https://theposterdb.com/api/assets/595315
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/595316
