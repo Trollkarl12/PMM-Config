@@ -2355,7 +2355,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/221775
 
-  # Slow Horses
+  # Slow Horses https://theposterdb.com/set/135239
   tt5875444:
     url_poster: https://theposterdb.com/api/assets/224856
     seasons:
@@ -2367,6 +2367,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/433774
       4:
         url_poster: https://theposterdb.com/api/assets/516799
+      5:
+        url_poster: https://theposterdb.com/api/assets/642427
 
   # Shadow and Bone
   tt2403776:
@@ -2440,12 +2442,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/544111
 
-  # English Teacher
+  # English Teacher https://theposterdb.com/set/292848
   tt20782190:
     url_poster: https://theposterdb.com/api/assets/526945
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/526946
+      2:
+        url_poster: https://theposterdb.com/api/assets/645552
 
   # Shrinking
   tt15677150:
@@ -2987,3 +2991,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595316
+
+  # Task https://theposterdb.com/set/358538
+  tt28013708:
+    url_poster: https://theposterdb.com/api/assets/640650
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/640651
+
+  # James May: Our Man in… https://theposterdb.com/set/251338
+  tt11302324:
+    url_poster: https://theposterdb.com/api/assets/455306
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/455307
+      2:
+        url_poster: https://theposterdb.com/api/assets/455308
+      3:
+        url_poster: https://theposterdb.com/api/assets/455309

@@ -1702,6 +1702,9 @@ metadata:
   # Jurassic World Dominion
   tt8041270:
     url_poster: https://theposterdb.com/api/assets/158975
+  # Jurassic World Rebirth
+  tt31036941:
+    url_poster: https://theposterdb.com/api/assets/625064
 
   # Kill Bill https://theposterdb.com/set/40481
   # Kill Bill: Vol. 1
@@ -2879,6 +2882,9 @@ metadata:
   # Hotel Transylvania: Transformania
   tt9848626:
     url_poster: https://theposterdb.com/api/assets/246991
+  # KPop Demon Hunters
+  tt14205554:
+    url_poster: https://theposterdb.com/api/assets/618093
 
   # Star Wars https://theposterdb.com/set/78057
   # Star Wars: Episode IV - A New Hope
@@ -3307,6 +3313,9 @@ metadata:
   # Ali G Indahouse
   tt0284837:
     url_poster: https://theposterdb.com/api/assets/22660
+  # Alita: Battle Angel
+  tt0437086:
+    url_poster: https://theposterdb.com/api/assets/22662
   # All About Eve
   tt0042192:
     url_poster: https://theposterdb.com/api/assets/466848
@@ -3532,6 +3541,12 @@ metadata:
   # El Camino: A Breaking Bad Movie
   tt9243946:
     url_poster: https://theposterdb.com/api/assets/20287
+  # Captain Fantastic
+  tt3553976:
+    url_poster: https://theposterdb.com/api/assets/50073
+  # Captain Phillips
+  tt1535109:
+    url_poster: https://theposterdb.com/api/assets/50075
   # Carlito's Way
   tt0106519:
     url_poster: https://theposterdb.com/api/assets/192355
@@ -3796,6 +3811,9 @@ metadata:
   # Empire of the Sun
   tt0092965:
     url_poster: https://theposterdb.com/api/assets/53824
+  # Enemy
+  tt2316411:
+    url_poster: https://theposterdb.com/api/assets/64297
   # Enemy at the Gates
   tt0215750:
     url_poster: https://theposterdb.com/api/assets/76479
@@ -4294,6 +4312,9 @@ metadata:
   # Jules
   tt15428940:
     url_poster: https://theposterdb.com/api/assets/453943
+  # Khartoum
+  tt0060588:
+    url_poster: https://theposterdb.com/api/assets/620447
   # The Killer
   tt1136617:
     url_poster: https://theposterdb.com/api/assets/425893
@@ -4363,6 +4384,9 @@ metadata:
   # The Last Kingdom: Seven Kings Must Die
   tt15767808:
     url_poster: https://theposterdb.com/api/assets/331301
+  # Last Night in Soho
+  tt9639470:
+    url_poster: https://theposterdb.com/api/assets/176855
   # The Last of the Mohicans
   tt0104691:
     url_poster: https://theposterdb.com/api/assets/278232
@@ -5410,6 +5434,9 @@ metadata:
   # Wolfs
   tt14257582:
     url_poster: https://theposterdb.com/api/assets/526746
+  # Woman of the Hour
+  tt7737800:
+    url_poster: https://theposterdb.com/api/assets/535335
   # Wonka
   tt6166392:
     url_poster: https://theposterdb.com/api/assets/454485
