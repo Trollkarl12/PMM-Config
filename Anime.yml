@@ -2646,6 +2646,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/485182
       2:
         url_poster: https://theposterdb.com/api/assets/529097
+      3:
+        url_poster: https://theposterdb.com/api/assets/644780
 
   # The Great Cleric
   tt28101962:
@@ -4981,12 +4983,16 @@ metadata:
 
   # To Your Eternity
   tt12063450:
-    url_poster: https://theposterdb.com/api/assets/271021
+    url_poster: https://theposterdb.com/api/assets/645536
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/645537
       1:
-        url_poster: https://theposterdb.com/api/assets/271022
+        url_poster: https://theposterdb.com/api/assets/645538
       2:
-        url_poster: https://theposterdb.com/api/assets/271023
+        url_poster: https://theposterdb.com/api/assets/645539
+      3:
+        url_poster: https://theposterdb.com/api/assets/645540
 
   # To the Abandoned Sacred Beasts
   tt10431310:
