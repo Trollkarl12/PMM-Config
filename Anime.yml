@@ -803,10 +803,12 @@ metadata:
 
   # Ranma1/2 (2024)
   tt32766897:
-    url_poster: https://theposterdb.com/api/assets/531294
+    url_poster: https://theposterdb.com/api/assets/614893
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/531295
+        url_poster: https://theposterdb.com/api/assets/614894
+      2:
+        url_poster: https://theposterdb.com/api/assets/643431
 
   # Rurouni Kenshin
   # Rurouni Kenshin
@@ -1063,14 +1065,16 @@ metadata:
 
   # SPY x FAMILY
   tt13706018:
-    url_poster: https://theposterdb.com/api/assets/416718
+    url_poster: https://theposterdb.com/api/assets/407649
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/461066
+        url_poster: https://theposterdb.com/api/assets/462956
       1:
-        url_poster: https://theposterdb.com/api/assets/416719
+        url_poster: https://theposterdb.com/api/assets/407650
       2:
-        url_poster: https://theposterdb.com/api/assets/416720
+        url_poster: https://theposterdb.com/api/assets/413365
+      3:
+        url_poster: https://theposterdb.com/api/assets/500113
 
   # Freezing
   tt1909463:
@@ -3250,6 +3254,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/424500
       5:
         url_poster: https://theposterdb.com/api/assets/424501
+      6:
+        url_poster: https://theposterdb.com/api/assets/648473
 
   # KissXsis
   tt1634209:
@@ -3698,6 +3704,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/234259
       7:
         url_poster: https://theposterdb.com/api/assets/445992
+      8:
+        url_poster: https://theposterdb.com/api/assets/627624
 
   # My Home Hero
   tt22410622:
@@ -6599,6 +6607,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/433899
+      2:
+        url_poster: https://theposterdb.com/api/assets/642718
 
   # The Witch and the Beast
   tt30089363:
@@ -7974,6 +7984,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/528629
       1:
         url_poster: https://theposterdb.com/api/assets/528630
+      2:
+        url_poster: https://theposterdb.com/api/assets/648481
 
   # Tanaka-kun Is Always Listless
   tt5531604:
@@ -9382,8 +9394,22 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/645075
 
   # May I Ask for One Final Thing?
-  tt36593026:
+  tt33384856:
     url_poster: https://theposterdb.com/api/assets/644011
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/644012
+
+  # The Banished Court Magician Aims to Become the Strongest
+  tt36631539:
+    url_poster: https://theposterdb.com/api/assets/648595
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/648596
+
+  # Touring After the Apocalypse
+  tt38353724:
+    url_poster: https://theposterdb.com/api/assets/645406
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/645407
