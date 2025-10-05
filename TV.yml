@@ -3009,3 +3009,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/455308
       3:
         url_poster: https://theposterdb.com/api/assets/455309
+
+  # Mussolini: Son of the Century https://theposterdb.com/set/316729
+  tt19386538:
+    url_poster: https://theposterdb.com/api/assets/570555
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/570556
