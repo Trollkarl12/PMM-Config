@@ -854,6 +854,17 @@ metadata:
   tt0491244:
     url_poster: https://theposterdb.com/api/assets/464401
 
+  # The Evil Dead https://theposterdb.com/set/22865
+  # The Evil Dead
+  tt0083907:
+    url_poster: https://theposterdb.com/api/assets/37369
+  # The Evil Dead 2
+  tt0092991:
+    url_poster: https://theposterdb.com/api/assets/37370
+  # Army of Darkness
+  tt0106308:
+    url_poster: https://theposterdb.com/api/assets/37371
+
   # The Equalizer
   # The Equalizer
   tt0455944:
@@ -3394,9 +3405,6 @@ metadata:
   # Argylle
   tt15009428:
     url_poster: https://theposterdb.com/api/assets/442559
-  # Army of Darkness
-  tt0106308:
-    url_poster: https://theposterdb.com/api/assets/7316
   # Army of Shadows
   tt0064040:
     url_poster: https://theposterdb.com/api/assets/115184
@@ -3577,6 +3585,9 @@ metadata:
   # The Catcher Was a Spy
   tt4602066:
     url_poster: https://theposterdb.com/api/assets/99988
+  # Caveat
+  tt7917178:
+    url_poster: https://theposterdb.com/api/assets/300037
   # Challengers
   tt16426418:
     url_poster: https://theposterdb.com/api/assets/493244
@@ -4198,6 +4209,9 @@ metadata:
   # Hostiles
   tt5478478:
     url_poster: https://theposterdb.com/api/assets/138964
+  # Hot Fuzz
+  tt0425112:
+    url_poster: https://theposterdb.com/api/assets/7936
   # House of Flying Daggers
   tt0385004:
     url_poster: https://theposterdb.com/api/assets/143579
