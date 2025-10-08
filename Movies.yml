@@ -313,6 +313,9 @@ metadata:
   # The Nun II
   tt10160976:
     url_poster: https://theposterdb.com/api/assets/461995
+  # The Conjuring: Last Rites
+  tt22898462:
+    url_poster: https://theposterdb.com/api/assets/649936
 
   # The Chronicles of Narnia https://theposterdb.com/set/46
   # The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
@@ -4194,6 +4197,9 @@ metadata:
   # High Plains Drifter
   tt0068699:
     url_poster: https://theposterdb.com/api/assets/168701
+  # Him
+  tt20990442:
+    url_poster: https://theposterdb.com/api/assets/641539
   # The Hole
   tt0054407:
     url_poster: https://theposterdb.com/api/assets/382270
@@ -5037,6 +5043,9 @@ metadata:
   # The Shape of Water
   tt5580390:
     url_poster: https://theposterdb.com/api/assets/72838
+  # Shaun of the Dead
+  tt0365748:
+    url_poster: https://theposterdb.com/api/assets/7935
   # The Shawshank Redemption
   tt0111161:
     url_poster: https://theposterdb.com/api/assets/51857
@@ -5055,6 +5064,9 @@ metadata:
   # Silence
   tt0490215:
     url_poster: https://theposterdb.com/api/assets/241663
+  # Silent Hill
+  tt0384537:
+    url_poster: https://theposterdb.com/api/assets/149073
   # Silent Night
   tt15799866:
     url_poster: https://theposterdb.com/api/assets/417143
