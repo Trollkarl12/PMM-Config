@@ -1996,12 +1996,14 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/477846
 
-  # Fallout
+  # Fallout https://theposterdb.com/set/251250
   tt12637874:
     url_poster: https://theposterdb.com/api/assets/454935
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/454936
+      2:
+        url_poster: https://theposterdb.com/api/assets/650633
 
   # Business Proposal
   tt14819828:
