@@ -9463,3 +9463,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/541151
       2:
         url_poster: https://theposterdb.com/api/assets/626419
+
+  # Fena: Pirate Princess
+  tt12779780:
+    url_poster: https://theposterdb.com/api/assets/170694
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/170695
