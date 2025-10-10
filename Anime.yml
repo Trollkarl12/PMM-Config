@@ -9443,3 +9443,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/645079
+
+  # Record of Lodoss War
+  tt0100044:
+    url_poster: https://theposterdb.com/api/assets/519249
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/519250
+      1:
+        url_poster: https://theposterdb.com/api/assets/519251
+
+  # Dragon Raja -The Blazing Dawn-
+  tt27442011:
+    url_poster: https://theposterdb.com/api/assets/541149
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/541150
+      1:
+        url_poster: https://theposterdb.com/api/assets/541151
+      2:
+        url_poster: https://theposterdb.com/api/assets/626419
