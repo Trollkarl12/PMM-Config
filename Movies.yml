@@ -5253,6 +5253,9 @@ metadata:
   # The Three Musketeers
   tt0072281:
     url_poster: https://theposterdb.com/api/assets/376727
+  # The Thursday Murder Club
+  tt12001534:
+    url_poster: https://theposterdb.com/api/assets/638307
   # A Time to Kill
   tt0117913:
     url_poster: https://theposterdb.com/api/assets/54162
@@ -5304,6 +5307,9 @@ metadata:
   # TRON: Legacy
   tt1104001:
     url_poster: https://theposterdb.com/api/assets/86757
+  # Tropic Thunder
+  tt0942385:
+    url_poster: https://theposterdb.com/api/assets/310669
   # Troy
   tt0332452:
     url_poster: https://theposterdb.com/api/assets/82374
