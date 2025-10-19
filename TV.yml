@@ -3045,3 +3045,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123889
       11:
         url_poster: https://theposterdb.com/api/assets/169355
+
+  # The Chair Company https://theposterdb.com/set/363177
+  tt31987295:
+    url_poster: https://theposterdb.com/api/assets/648471
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/648472
