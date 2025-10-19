@@ -3052,3 +3052,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/648472
+
+  # True Haunting https://theposterdb.com/set/365876
+  tt38362312:
+    url_poster: https://theposterdb.com/api/assets/653301
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/653302
