@@ -3874,14 +3874,16 @@ metadata:
 
   # One-Punch Man
   tt4508902:
-    url_poster: https://theposterdb.com/api/assets/312223
+    url_poster: https://theposterdb.com/api/assets/414194
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/312224
+        url_poster: https://theposterdb.com/api/assets/414195
       1:
-        url_poster: https://theposterdb.com/api/assets/312225
+        url_poster: https://theposterdb.com/api/assets/414196
       2:
-        url_poster: https://theposterdb.com/api/assets/312226
+        url_poster: https://theposterdb.com/api/assets/414197
+      3:
+        url_poster: https://theposterdb.com/api/assets/414198
 
   # ONIMAI: I'm Now Your Sister!
   tt21929424:
@@ -8410,6 +8412,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/551038
+      2:
+        url_poster: https://theposterdb.com/api/assets/642180
 
   # Beheneko: The Elf-Girl's Cat Is Secretly an S-Ranked Monster!
   tt32856718:
