@@ -6119,7 +6119,10 @@ metadata:
 
   # Karin: Chibi Vampire
   tt1127249:
-    url_poster: https://theposterdb.com/api/assets/304989
+    url_poster: https://theposterdb.com/api/assets/655542
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/655543
 
   # Seitokai Yakuindomo
   tt1694038:
@@ -9481,3 +9484,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/650757
+
+  # The Fated Magical Princess: Who Made Me a Princess
+  tt38353703:
+    url_poster: https://theposterdb.com/api/assets/655550
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/655551
