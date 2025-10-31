@@ -9491,3 +9491,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/655551
+
+  # Asobi Asobase - workshop of fun -
+  tt8515062:
+    url_poster: https://theposterdb.com/api/assets/526614
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/526615
+      1:
+        url_poster: https://theposterdb.com/api/assets/526616

@@ -462,6 +462,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/193237
       3:
         url_poster: https://theposterdb.com/api/assets/354837
+      4:
+        url_poster: https://theposterdb.com/api/assets/653979
 
   # The Witcher: Blood Origin
   tt12785720:
@@ -795,7 +797,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/43408
 
-  # Stranger Things
+  # Stranger Things https://theposterdb.com/set/143346
   tt4574334:
     url_poster: https://theposterdb.com/api/assets/238529
     seasons:
@@ -3059,3 +3061,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/653302
+
+  # Twisted Metal https://theposterdb.com/set/218932
+  tt14261112:
+    url_poster: https://theposterdb.com/api/assets/389473
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/389474
+      2:
+        url_poster: https://theposterdb.com/api/assets/622068

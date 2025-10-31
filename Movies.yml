@@ -3411,6 +3411,9 @@ metadata:
   # Army of Shadows
   tt0064040:
     url_poster: https://theposterdb.com/api/assets/115184
+  # The Assassination of Jesse James by the Coward Robert Ford
+  tt0443680:
+    url_poster: https://theposterdb.com/api/assets/153961
   # Asteroid City
   tt14230388:
     url_poster: https://theposterdb.com/api/assets/406909
@@ -3489,6 +3492,9 @@ metadata:
   # The Black Phone
   tt7144666:
     url_poster: https://theposterdb.com/api/assets/178069
+  # BlackBerry
+  tt21867434:
+    url_poster: https://theposterdb.com/api/assets/480963
   # Blackhat
   tt2717822:
     url_poster: https://theposterdb.com/api/assets/74184
@@ -5406,6 +5412,9 @@ metadata:
   # The Wailing
   tt5215952:
     url_poster: https://theposterdb.com/api/assets/454394
+  # Wall Street
+  tt0094291:
+    url_poster: https://theposterdb.com/api/assets/511635
   # The Wandering Earth
   tt7605074:
     url_poster: https://theposterdb.com/api/assets/372187
