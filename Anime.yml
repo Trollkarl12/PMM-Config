@@ -9500,3 +9500,28 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/526615
       1:
         url_poster: https://theposterdb.com/api/assets/526616
+
+  # Hazbin Hotel
+  tt7216636:
+    url_poster: https://theposterdb.com/api/assets/656627
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/656628
+      2:
+        url_poster: https://theposterdb.com/api/assets/656629
+
+  # Harmony of Mille-Feuille
+  tt36592773:
+    url_poster: https://theposterdb.com/api/assets/602305
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/602306
+
+  # Science Fell in Love, So I Tried to Prove It
+  tt10635210:
+    url_poster: https://theposterdb.com/api/assets/613622
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/613623
+      2:
+        url_poster: https://theposterdb.com/api/assets/613624
