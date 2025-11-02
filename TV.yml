@@ -3070,3 +3070,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/389474
       2:
         url_poster: https://theposterdb.com/api/assets/622068
+
+  # House of Cards https://theposterdb.com/set/77669
+  tt1856010:
+    url_poster: https://theposterdb.com/api/assets/123872
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/123873
+      2:
+        url_poster: https://theposterdb.com/api/assets/123874
+      3:
+        url_poster: https://theposterdb.com/api/assets/123875
+      4:
+        url_poster: https://theposterdb.com/api/assets/123876
+      5:
+        url_poster: https://theposterdb.com/api/assets/123877
+      6:
+        url_poster: https://theposterdb.com/api/assets/123878
