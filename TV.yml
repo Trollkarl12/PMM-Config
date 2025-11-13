@@ -1740,7 +1740,9 @@ metadata:
       26:
         url_poster: https://theposterdb.com/api/assets/445882
       27:
-        url_poster: https://theposterdb.com/api/assets/636413
+        url_poster: https://theposterdb.com/api/assets/636550
+      28:
+        url_poster: https://theposterdb.com/api/assets/660123
 
   # Supernatural
   tt0460681:
@@ -3087,3 +3089,33 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123877
       6:
         url_poster: https://theposterdb.com/api/assets/123878
+
+  # Deadwood https://theposterdb.com/set/103588
+  tt0348914:
+    url_poster: https://theposterdb.com/api/assets/169748
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/169750
+      2:
+        url_poster: https://theposterdb.com/api/assets/169751
+      3:
+        url_poster: https://theposterdb.com/api/assets/169752
+
+  # Sons of Anarchy https://theposterdb.com/set/116387
+  tt1124373:
+    url_poster: https://theposterdb.com/api/assets/192772
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/192773
+      2:
+        url_poster: https://theposterdb.com/api/assets/192774
+      3:
+        url_poster: https://theposterdb.com/api/assets/192775
+      4:
+        url_poster: https://theposterdb.com/api/assets/192776
+      5:
+        url_poster: https://theposterdb.com/api/assets/192777
+      6:
+        url_poster: https://theposterdb.com/api/assets/192778
+      7:
+        url_poster: https://theposterdb.com/api/assets/192779
