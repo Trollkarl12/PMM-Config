@@ -797,18 +797,20 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/43408
 
-  # Stranger Things https://theposterdb.com/set/143346
+  # Stranger Things https://theposterdb.com/set/296134
   tt4574334:
-    url_poster: https://theposterdb.com/api/assets/238529
+    url_poster: https://theposterdb.com/api/assets/533139
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/238530
+        url_poster: https://theposterdb.com/api/assets/533141
       2:
-        url_poster: https://theposterdb.com/api/assets/238531
+        url_poster: https://theposterdb.com/api/assets/533142
       3:
-        url_poster: https://theposterdb.com/api/assets/238532
+        url_poster: https://theposterdb.com/api/assets/533143
       4:
-        url_poster: https://theposterdb.com/api/assets/238533
+        url_poster: https://theposterdb.com/api/assets/533144
+      5:
+        url_poster: https://theposterdb.com/api/assets/629566
 
   # Squid Game
   tt10919420:
@@ -3119,3 +3121,76 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/192778
       7:
         url_poster: https://theposterdb.com/api/assets/192779
+
+  # Scavengers Reign https://theposterdb.com/set/238543
+  tt21056886:
+    url_poster: https://theposterdb.com/api/assets/431385
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/431386
+
+  # Hell's Kitchen https://theposterdb.com/set/181682
+  tt0437005:
+    url_poster: https://theposterdb.com/api/assets/308949
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/308951
+      2:
+        url_poster: https://theposterdb.com/api/assets/308952
+      3:
+        url_poster: https://theposterdb.com/api/assets/308953
+      4:
+        url_poster: https://theposterdb.com/api/assets/308954
+      5:
+        url_poster: https://theposterdb.com/api/assets/308955
+      6:
+        url_poster: https://theposterdb.com/api/assets/308956
+      7:
+        url_poster: https://theposterdb.com/api/assets/308957
+      8:
+        url_poster: https://theposterdb.com/api/assets/308958
+      9:
+        url_poster: https://theposterdb.com/api/assets/308959
+      10:
+        url_poster: https://theposterdb.com/api/assets/308960
+      11:
+        url_poster: https://theposterdb.com/api/assets/308961
+      12:
+        url_poster: https://theposterdb.com/api/assets/308962
+      13:
+        url_poster: https://theposterdb.com/api/assets/308963
+      14:
+        url_poster: https://theposterdb.com/api/assets/308964
+      15:
+        url_poster: https://theposterdb.com/api/assets/308965
+      16:
+        url_poster: https://theposterdb.com/api/assets/308966
+      17:
+        url_poster: https://theposterdb.com/api/assets/308967
+      18:
+        url_poster: https://theposterdb.com/api/assets/308968
+      19:
+        url_poster: https://theposterdb.com/api/assets/308969
+      20:
+        url_poster: https://theposterdb.com/api/assets/308970
+      21:
+        url_poster: https://theposterdb.com/api/assets/308971
+      22:
+        url_poster: https://theposterdb.com/api/assets/414274
+      23:
+        url_poster: https://theposterdb.com/api/assets/542243
+
+  # Ghosts https://theposterdb.com/set/160635
+  tt11379026:
+    url_poster: https://theposterdb.com/api/assets/269727
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/269728
+      2:
+        url_poster: https://theposterdb.com/api/assets/269729
+      3:
+        url_poster: https://theposterdb.com/api/assets/455032
+      4:
+        url_poster: https://theposterdb.com/api/assets/597820
+      5:
+        url_poster: https://theposterdb.com/api/assets/652368

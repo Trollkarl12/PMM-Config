@@ -3480,6 +3480,9 @@ metadata:
   # The Big Boss
   tt0067824:
     url_poster: https://theposterdb.com/api/assets/30553
+  # Big Brother
+  tt7336572:
+    url_poster: https://theposterdb.com/api/assets/85195
   # The Big Lebowski
   tt0118715:
     url_poster: https://theposterdb.com/api/assets/50649
@@ -5193,6 +5196,9 @@ metadata:
   # The Spiderwick Chronicles
   tt0416236:
     url_poster: https://theposterdb.com/api/assets/87939
+  # Spree
+  tt11394332:
+    url_poster: https://theposterdb.com/api/assets/320048
   # Stagecoach
   tt0031971:
     url_poster: https://theposterdb.com/api/assets/478234
@@ -5532,6 +5538,9 @@ metadata:
   # The Wizard of Lies
   tt1933667:
     url_poster: https://theposterdb.com/api/assets/139251
+  # The Wizard of Oz
+  tt0032138:
+    url_poster: https://theposterdb.com/api/assets/553754
   # The Wolf of Wall Street
   tt0993846:
     url_poster: https://theposterdb.com/api/assets/54281
