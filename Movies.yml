@@ -2981,6 +2981,25 @@ metadata:
   tt32375562:
     url_poster: https://theposterdb.com/api/assets/494624
 
+  # Teenage Mutant Ninja Turtles https://theposterdb.com/set/39014
+  # Teenage Mutant Ninja Turtles
+  tt1291150:
+    url_poster: https://theposterdb.com/api/assets/60982
+  # Teenage Mutant Ninja Turtles: Out of the Shadows
+  tt3949660:
+    url_poster: https://theposterdb.com/api/assets/60983
+
+  # Three Colors https://theposterdb.com/poster/80626 https://theposterdb.com/poster/80625 https://theposterdb.com/poster/80624
+  # Three Colors: Blue
+  tt0108394:
+    url_poster: https://theposterdb.com/api/assets/80626
+  # Three Colors: Red
+  tt0111495:
+    url_poster: https://theposterdb.com/api/assets/80625
+  # Three Colors: White
+  tt0111507:
+    url_poster: https://theposterdb.com/api/assets/80624
+
   # The Terminator https://theposterdb.com/set/93020
   # The Terminator
   tt0088247:
@@ -3070,24 +3089,16 @@ metadata:
   tt5090568:
     url_poster: https://theposterdb.com/api/assets/420713
 
-  # Teenage Mutant Ninja Turtles https://theposterdb.com/set/39014
-  # Teenage Mutant Ninja Turtles
-  tt1291150:
-    url_poster: https://theposterdb.com/api/assets/60982
-  # Teenage Mutant Ninja Turtles: Out of the Shadows
-  tt3949660:
-    url_poster: https://theposterdb.com/api/assets/60983
-
-  # Three Colors https://theposterdb.com/poster/80626 https://theposterdb.com/poster/80625 https://theposterdb.com/poster/80624
-  # Three Colors: Blue
-  tt0108394:
-    url_poster: https://theposterdb.com/api/assets/80626
-  # Three Colors: Red
-  tt0111495:
-    url_poster: https://theposterdb.com/api/assets/80625
-  # Three Colors: White
-  tt0111507:
-    url_poster: https://theposterdb.com/api/assets/80624
+  # Tron https://theposterdb.com/set/357388
+  # Tron
+  tt0084827:
+    url_poster: https://theposterdb.com/api/assets/638860
+  # Tron: Legacy
+  tt1104001:
+    url_poster: https://theposterdb.com/api/assets/638859
+  # Tron: Ares
+  tt6604188:
+    url_poster: https://theposterdb.com/api/assets/638858
 
   # Twister https://theposterdb.com/set/284302
   # Twister
@@ -5361,9 +5372,6 @@ metadata:
   # Troll
   tt11116912:
     url_poster: https://theposterdb.com/api/assets/322184
-  # TRON: Legacy
-  tt1104001:
-    url_poster: https://theposterdb.com/api/assets/86757
   # Tropic Thunder
   tt0942385:
     url_poster: https://theposterdb.com/api/assets/310669
@@ -5583,6 +5591,9 @@ metadata:
   # Zodiac
   tt0443706:
     url_poster: https://theposterdb.com/api/assets/64095
+  # Zombeavers
+  tt2784512:
+    url_poster: https://theposterdb.com/api/assets/148178
   # The Zone of Interest
   tt7160372:
     url_poster: https://theposterdb.com/api/assets/439681

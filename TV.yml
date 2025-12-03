@@ -3194,3 +3194,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/597820
       5:
         url_poster: https://theposterdb.com/api/assets/652368
+
+  # Smiling Friends https://theposterdb.com/set/363801
+  tt12074628:
+    url_poster: https://theposterdb.com/api/assets/649502
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/649503
+      2:
+        url_poster: https://theposterdb.com/api/assets/649504
+      3:
+        url_poster: https://theposterdb.com/api/assets/649505
+
+  # Pluribus https://theposterdb.com/set/364362
+  tt22202452:
+    url_poster: https://theposterdb.com/api/assets/650628
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/650629
