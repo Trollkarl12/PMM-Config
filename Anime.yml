@@ -7462,7 +7462,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/601919
 
-  # Record of Ragnarok
+  # Record of Ragnarok https://theposterdb.com/set/151547
   tt13676344:
     url_poster: https://theposterdb.com/api/assets/253654
     seasons:
@@ -7470,6 +7470,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/253655
       2:
         url_poster: https://theposterdb.com/api/assets/253714
+      3:
+        url_poster: https://theposterdb.com/api/assets/647876
 
   # Zombie Land SAGA
   tt9054354:
@@ -9525,6 +9527,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/613623
       2:
         url_poster: https://theposterdb.com/api/assets/613624
+
+  # Tatsuki Fujimoto 17-26
+  tt38491451:
+    url_poster: https://theposterdb.com/api/assets/661328
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/661329
 
   # Tatsuki Fujimoto 17-26
   tt38491451:

@@ -3514,7 +3514,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/45933
   # The Black Phone
   tt7144666:
-    url_poster: https://theposterdb.com/api/assets/178069
+    url_poster: https://theposterdb.com/api/assets/658797
+  # Black Phone 2
+  tt29644189:
+    url_poster: https://theposterdb.com/api/assets/658796
   # BlackBerry
   tt21867434:
     url_poster: https://theposterdb.com/api/assets/480963
@@ -3572,6 +3575,9 @@ metadata:
   # Bullet Train
   tt12593682:
     url_poster: https://theposterdb.com/api/assets/269457
+  # Burn After Reading
+  tt0887883:
+    url_poster: https://theposterdb.com/api/assets/50655
   # The Brutalist
   tt8999762:
     url_poster: https://theposterdb.com/api/assets/575374

@@ -3212,3 +3212,38 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/650629
+
+  # Your Friends & Neighbors https://theposterdb.com/set/330152
+  tt30459041:
+    url_poster: https://theposterdb.com/api/assets/593619
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/593620
+
+  # The Terminal List https://theposterdb.com/set/149839
+  tt11743610:
+    url_poster: https://theposterdb.com/api/assets/250822
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/250823
+
+  # The Terminal List: Dark Wolf https://theposterdb.com/set/365414
+  tt26576161:
+    url_poster: https://theposterdb.com/api/assets/652364
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/652365
+
+  # IT: Welcome to Derry https://theposterdb.com/set/360984
+  tt19244304:
+    url_poster: https://theposterdb.com/api/assets/644919
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/644920
+
+  # The War Between the Land and the Sea https://theposterdb.com/set/374197
+  tt30645193:
+    url_poster: https://theposterdb.com/api/assets/669003
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/669004
