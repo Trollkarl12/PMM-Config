@@ -1032,7 +1032,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/92261
 
-  # The Daily Life of the Immortal King
+  # The Daily Life of the Immortal King https://theposterdb.com/set/193532
   tt11755260:
     url_poster: https://theposterdb.com/api/assets/332306
     seasons:
@@ -1046,6 +1046,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/332309
       4:
         url_poster: https://theposterdb.com/api/assets/445134
+      5:
+        url_poster: https://theposterdb.com/api/assets/673086
 
   # The Kingdoms of Ruin
   tt28774702:
@@ -7040,7 +7042,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/467293
 
-  # MF GHOST
+  # MF GHOST https://theposterdb.com/set/224699
   tt28299608:
     url_poster: https://theposterdb.com/api/assets/401377
     seasons:
@@ -7048,6 +7050,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/401378
       2:
         url_poster: https://theposterdb.com/api/assets/470128
+      3:
+        url_poster: https://theposterdb.com/api/assets/669443
 
   # Miss Kuroitsu From the Monster Development Department
   tt15582924:

@@ -114,13 +114,16 @@ metadata:
   tt0295178:
     url_poster: https://theposterdb.com/api/assets/35265
 
-  # Avatar https://theposterdb.com/set/159549
+  # Avatar https://theposterdb.com/set/375926
   # Avatar
   tt0499549:
-    url_poster: https://theposterdb.com/api/assets/267821
+    url_poster: https://theposterdb.com/api/assets/672056
   # Avatar: The Way of Water
   tt1630029:
-    url_poster: https://theposterdb.com/api/assets/267822
+    url_poster: https://theposterdb.com/api/assets/672055
+  # Avatar: Fire and Ash
+  tt1757678:
+    url_poster: https://theposterdb.com/api/assets/672054
 
   # Bad Boys https://theposterdb.com/set/282989
   # Bad Boys
@@ -5063,6 +5066,9 @@ metadata:
   # Run Lola Run
   tt0130827:
     url_poster: https://theposterdb.com/api/assets/396103
+  # The Running Man
+  tt14107334:
+    url_poster: https://theposterdb.com/api/assets/650837
   # The Sacrifice
   tt0091670:
     url_poster: https://theposterdb.com/api/assets/495587

@@ -29,7 +29,7 @@ collections:
   Austin Powers:
     template: {name: Collection, collection: 1006, poster: https://theposterdb.com/api/assets/35262}
   Avatar:
-    template: {name: Collection, collection: 87096, poster: https://theposterdb.com/api/assets/267820}
+    template: {name: Collection, collection: 87096, poster: https://theposterdb.com/api/assets/672053}
   Back to the Future:
     template: {name: Collection, collection: 264, poster: https://theposterdb.com/api/assets/87588}
   Blade Runner:
