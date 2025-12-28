@@ -3641,6 +3641,9 @@ metadata:
   # Chinatown
   tt0071315:
     url_poster: https://theposterdb.com/api/assets/110518
+  # Christmas Vacation
+  tt0097958:
+    url_poster: https://theposterdb.com/api/assets/217442
   # Cinema Paradiso
   tt0095765:
     url_poster: https://theposterdb.com/api/assets/150370
@@ -3994,7 +3997,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/256930
   # Five Nights at Freddy's
   tt4589218:
-    url_poster: https://theposterdb.com/api/assets/424845
+    url_poster: https://theposterdb.com/api/assets/674196
+  # Five Nights at Freddy's 2
+  tt30274401:
+    url_poster: https://theposterdb.com/api/assets/674195
   # Flags of Our Fathers
   tt0418689:
     url_poster: https://theposterdb.com/api/assets/110497
@@ -4781,6 +4787,9 @@ metadata:
   # Notorious
   tt0038787:
     url_poster: https://theposterdb.com/api/assets/260925
+  # Nuremberg
+  tt29567915:
+    url_poster: https://theposterdb.com/api/assets/668385
   # Oasis
   tt0320193:
     url_poster: https://theposterdb.com/api/assets/116321
@@ -5462,6 +5471,9 @@ metadata:
   # Victoria
   tt4226388:
     url_poster: https://theposterdb.com/api/assets/396399
+  # Violent Night
+  tt12003946:
+    url_poster: https://theposterdb.com/api/assets/284377
   # The Virgin Suicides
   tt0159097:
     url_poster: https://theposterdb.com/api/assets/492827
