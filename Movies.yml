@@ -3407,6 +3407,9 @@ metadata:
   # Anomalisa
   tt2401878:
     url_poster: https://theposterdb.com/api/assets/49260
+  # Another Round
+  tt10288566:
+    url_poster: https://theposterdb.com/api/assets/107345
   # The Apartment
   tt0053604:
     url_poster: https://theposterdb.com/api/assets/467619
@@ -4562,6 +4565,9 @@ metadata:
   # The Long Good Friday
   tt0081070:
     url_poster: https://theposterdb.com/api/assets/496503
+  # The Long Walk
+  tt10374610:
+    url_poster: https://theposterdb.com/api/assets/602402
   # Longlegs
   tt23468450:
     url_poster: https://theposterdb.com/api/assets/511771
@@ -4736,12 +4742,18 @@ metadata:
   # My Fair Lady
   tt0058385:
     url_poster: https://theposterdb.com/api/assets/302264
+  # My Sassy Girl
+  tt0293715:
+    url_poster: https://theposterdb.com/api/assets/489100
   # Mystic River
   tt0327056:
     url_poster: https://theposterdb.com/api/assets/48370
   # Napoleon
   tt13287846:
     url_poster: https://theposterdb.com/api/assets/383586
+  # The NeverEnding Story
+  tt0088323:
+    url_poster: https://theposterdb.com/api/assets/442309
   # Next
   tt0435705:
     url_poster: https://theposterdb.com/api/assets/78811
@@ -5483,6 +5495,9 @@ metadata:
   # The Wailing
   tt5215952:
     url_poster: https://theposterdb.com/api/assets/454394
+  # Wake Up Dead Man
+  tt14364480:
+    url_poster: https://theposterdb.com/api/assets/639623
   # Wall Street
   tt0094291:
     url_poster: https://theposterdb.com/api/assets/511635
@@ -5546,6 +5561,9 @@ metadata:
   # Wicked
   tt1262426:
     url_poster: https://theposterdb.com/api/assets/497899
+  # Wicked: For Good
+  tt19847976:
+    url_poster: https://theposterdb.com/api/assets/614348
   # Willy Wonka & the Chocolate Factory
   tt0067992:
     url_poster: https://theposterdb.com/api/assets/163439

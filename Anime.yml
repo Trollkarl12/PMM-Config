@@ -6352,7 +6352,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/435517
 
-  # Hitori no Shita: The Outcast
+  # Hitori no Shita: The Outcast https://theposterdb.com/set/318003
   tt12882132:
     url_poster: https://theposterdb.com/api/assets/572741
     seasons:
@@ -6368,6 +6368,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/572746
       5:
         url_poster: https://theposterdb.com/api/assets/572747
+      6:
+        url_poster: https://theposterdb.com/api/assets/679575
 
   # Ef: A Tale Of Memories & Melodies
   tt1132203:
@@ -9538,3 +9540,35 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/661329
+
+  # Sentenced to Be a Hero
+  tt32536168:
+    url_poster: https://theposterdb.com/api/assets/676942
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676943
+      1:
+        url_poster: https://theposterdb.com/api/assets/676944
+
+  # Kunon the Sorcerer Can See
+  tt32536168:
+    url_poster: https://theposterdb.com/api/assets/677645
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/677646
+
+  # The Daily Life of a Part-time Torturer
+  tt38976904:
+    url_poster: https://theposterdb.com/api/assets/679445
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/679446
+
+  # Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
+  tt38976904:
+    url_poster: https://theposterdb.com/api/assets/679515
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/679516
+      1:
+        url_poster: https://theposterdb.com/api/assets/679517
