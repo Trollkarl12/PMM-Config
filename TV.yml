@@ -3247,3 +3247,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/669004
+
+  # The Wire https://theposterdb.com/set/79944
+  tt0306414:
+    url_poster: https://theposterdb.com/api/assets/128432
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/128433
+      2:
+        url_poster: https://theposterdb.com/api/assets/128434
+      3:
+        url_poster: https://theposterdb.com/api/assets/128435
+      4:
+        url_poster: https://theposterdb.com/api/assets/128436
+      5:
+        url_poster: https://theposterdb.com/api/assets/128437
