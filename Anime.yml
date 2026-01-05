@@ -2631,18 +2631,20 @@ metadata:
 
   # Golden Kamuy
   tt8225204:
-    url_poster: https://theposterdb.com/api/assets/272248
+    url_poster: https://theposterdb.com/api/assets/450774
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/272249
+        url_poster: https://theposterdb.com/api/assets/450775
       1:
-        url_poster: https://theposterdb.com/api/assets/272250
+        url_poster: https://theposterdb.com/api/assets/450776
       2:
-        url_poster: https://theposterdb.com/api/assets/272251
+        url_poster: https://theposterdb.com/api/assets/450777
       3:
-        url_poster: https://theposterdb.com/api/assets/272252
+        url_poster: https://theposterdb.com/api/assets/450778
       4:
-        url_poster: https://theposterdb.com/api/assets/272253
+        url_poster: https://theposterdb.com/api/assets/450779
+      5:
+        url_poster: https://theposterdb.com/api/assets/679647
 
   # Grand Blue
   tt8086718:
@@ -8894,6 +8896,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/583897
       1:
         url_poster: https://theposterdb.com/api/assets/583898
+      2:
+        url_poster: https://theposterdb.com/api/assets/620756
 
   # The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries
   tt35437053:
