@@ -9590,3 +9590,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/680201
+
+  # An Adventurer's Daily Grind at Age 29
+  tt33309549:
+    url_poster: https://theposterdb.com/api/assets/677263
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/677264
+      1:
+        url_poster: https://theposterdb.com/api/assets/677265
+
+  # SHIBOYUGI: Playing Death Games to Put Food on the Table
+  tt33309549:
+    url_poster: https://theposterdb.com/api/assets/680254
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/680255
