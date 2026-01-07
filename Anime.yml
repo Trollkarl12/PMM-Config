@@ -6354,7 +6354,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/435517
 
-  # Hitori no Shita: The Outcast https://theposterdb.com/set/318003
+  # Hitori No Shita - The Outcast https://theposterdb.com/set/318003
   tt12882132:
     url_poster: https://theposterdb.com/api/assets/572741
     seasons:
@@ -9576,3 +9576,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/679516
       1:
         url_poster: https://theposterdb.com/api/assets/679517
+
+  # The Demon King's Daughter Is Too Kind!!
+  tt38969275:
+    url_poster: https://theposterdb.com/api/assets/680193
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/680194
+
+  # There Was a Cute Girl in the Hero's Party, so I Tried Confessing to Her
+  tt38037498:
+    url_poster: https://theposterdb.com/api/assets/680200
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/680201
