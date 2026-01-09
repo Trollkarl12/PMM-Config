@@ -3112,16 +3112,18 @@ metadata:
   tt5614180:
     url_poster: https://theposterdb.com/api/assets/91298
 
-  # Jujutsu Kaisen
+  # Jujutsu Kaisen https://theposterdb.com/set/198393
   tt12343534:
-    url_poster: https://theposterdb.com/api/assets/162503
+    url_poster: https://theposterdb.com/api/assets/344217
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/162504
+        url_poster: https://theposterdb.com/api/assets/344218
       1:
-        url_poster: https://theposterdb.com/api/assets/162505
+        url_poster: https://theposterdb.com/api/assets/344219
       2:
-        url_poster: https://theposterdb.com/api/assets/271040
+        url_poster: https://theposterdb.com/api/assets/344220
+      3:
+        url_poster: https://theposterdb.com/api/assets/678678
 
   # K-ON!
   tt1410218:
@@ -9606,3 +9608,24 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/680255
+
+  # The Holy Grail of Eris
+  tt38647635:
+    url_poster: https://theposterdb.com/api/assets/678895
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/678896
+
+  # ROLL OVER AND DIE
+  tt37901124:
+    url_poster: https://theposterdb.com/api/assets/678906
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/678907
+
+  # DARK MOON: THE BLOOD ALTAR
+  tt38646055:
+    url_poster: https://theposterdb.com/api/assets/677620
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/677621
