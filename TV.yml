@@ -3262,3 +3262,37 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/128436
       5:
         url_poster: https://theposterdb.com/api/assets/128437
+
+  # Bosch https://theposterdb.com/set/95652
+  tt3502248:
+    url_poster: https://theposterdb.com/api/assets/156232
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/156234
+      2:
+        url_poster: https://theposterdb.com/api/assets/156235
+      3:
+        url_poster: https://theposterdb.com/api/assets/156236
+      4:
+        url_poster: https://theposterdb.com/api/assets/156237
+      5:
+        url_poster: https://theposterdb.com/api/assets/156238
+      6:
+        url_poster: https://theposterdb.com/api/assets/156239
+      7:
+        url_poster: https://theposterdb.com/api/assets/156240
+
+  # Shoresy https://theposterdb.com/set/317058
+  tt0306414:
+    url_poster: https://theposterdb.com/api/assets/234984
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/571218
+      2:
+        url_poster: https://theposterdb.com/api/assets/571219
+      3:
+        url_poster: https://theposterdb.com/api/assets/571220
+      4:
+        url_poster: https://theposterdb.com/api/assets/571221
+      5:
+        url_poster: https://theposterdb.com/api/assets/676466

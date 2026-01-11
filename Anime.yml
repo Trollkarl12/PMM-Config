@@ -416,6 +416,15 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/142213
 
+  # Fate/strange Fake
+  tt32864316:
+    url_poster: https://theposterdb.com/api/assets/465538
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/465539
+      1:
+        url_poster: https://theposterdb.com/api/assets/465540
+
   # Fullmetal Alchemist
   # Fullmetal Alchemist
   tt5607028:
