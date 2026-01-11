@@ -40,3 +40,5 @@ collections:
     template: {name: Collection, movie: "1014505", poster: https://theposterdb.com/api/assets/181473}
   Demon Slayer:
     template: {name: Collection, movie: "1311031", poster: https://theposterdb.com/api/assets/501726}
+  Chainsaw Man:
+    template: {name: Collection, movie: "1218925", poster: https://theposterdb.com/api/assets/567743}
