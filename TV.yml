@@ -158,6 +158,15 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/495066
 
+  # A Knight of the Seven Kingdoms
+  tt27497448:
+    url_poster: https://theposterdb.com/api/assets/683429
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/683430
+      1:
+        url_poster: https://theposterdb.com/api/assets/683431
+
   # Middle Earth https://theposterdb.com/set/153678
   # The Lord of the Rings: The Rings of Power
   tt7631058:
@@ -3296,3 +3305,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/571221
       5:
         url_poster: https://theposterdb.com/api/assets/676466
+
+  # HIS & HERS https://theposterdb.com/set/379875
+  tt33035373:
+    url_poster: https://theposterdb.com/api/assets/679462
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/679463
