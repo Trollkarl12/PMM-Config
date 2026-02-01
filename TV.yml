@@ -2468,14 +2468,16 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/645552
 
-  # Shrinking
+  # Shrinking https://theposterdb.com/set/304853
   tt15677150:
-    url_poster: https://theposterdb.com/api/assets/310732
+    url_poster: https://theposterdb.com/api/assets/549444
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/310733
+        url_poster: https://theposterdb.com/api/assets/549445
       2:
-        url_poster: https://theposterdb.com/api/assets/538192
+        url_poster: https://theposterdb.com/api/assets/549446
+      3:
+        url_poster: https://theposterdb.com/api/assets/682419
 
   # Secret Level
   tt33204697:
@@ -3312,3 +3314,43 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/679463
+
+  # The Boondocks https://theposterdb.com/set/372678
+  tt0373732:
+    url_poster: https://theposterdb.com/api/assets/665894
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/665895
+      2:
+        url_poster: https://theposterdb.com/api/assets/665896
+      3:
+        url_poster: https://theposterdb.com/api/assets/665897
+      4:
+        url_poster: https://theposterdb.com/api/assets/665898
+
+  # The Pitt https://theposterdb.com/set/382797
+  tt31938062:
+    url_poster: https://theposterdb.com/api/assets/684675
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/684676
+      2:
+        url_poster: https://theposterdb.com/api/assets/684677
+
+  # Heated Rivalry https://theposterdb.com/set/375039
+  tt35495073:
+    url_poster: https://theposterdb.com/api/assets/670487
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/670488
+
+  # Ted Lasso https://theposterdb.com/set/68784
+  tt10986410:
+    url_poster: https://theposterdb.com/api/assets/109644
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/109645
+      2:
+        url_poster: https://theposterdb.com/api/assets/164931
+      3:
+        url_poster: https://theposterdb.com/api/assets/379295

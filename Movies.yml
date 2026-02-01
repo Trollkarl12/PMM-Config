@@ -644,6 +644,9 @@ metadata:
   # Moana 2
   tt13622970:
     url_poster: https://theposterdb.com/api/assets/553756
+  # Zootopia 2
+  tt26443597:
+    url_poster: https://theposterdb.com/api/assets/676974
 
   # Disney Live Action https://theposterdb.com/set/66490
   # The Little Mermaid (Live Action)
@@ -3575,6 +3578,9 @@ metadata:
   # Bring Her Back
   tt32246771:
     url_poster: https://theposterdb.com/api/assets/622709
+  # Bronson
+  tt1172570:
+    url_poster: https://theposterdb.com/api/assets/79946
   # A Bronx Tale
   tt0106489:
     url_poster: https://theposterdb.com/api/assets/119179
@@ -3755,6 +3761,9 @@ metadata:
   # Dead Man's Shoes
   tt0419677:
     url_poster: https://theposterdb.com/api/assets/622632
+  # Dead Poets Society
+  tt0097165:
+    url_poster: https://theposterdb.com/api/assets/456382
   # Death Proof
   tt1028528:
     url_poster: https://theposterdb.com/api/assets/31976
@@ -4787,6 +4796,9 @@ metadata:
   # No Hard Feelings
   tt15671028:
     url_poster: https://theposterdb.com/api/assets/387736
+  # No Other Choice
+  tt1527793:
+    url_poster: https://theposterdb.com/api/assets/684197
   # Nobody
   tt7888964:
     url_poster: https://theposterdb.com/api/assets/158367
@@ -5045,6 +5057,9 @@ metadata:
   # Renfield
   tt11358390:
     url_poster: https://theposterdb.com/api/assets/305845
+  # Rental Family
+  tt14142060:
+    url_poster: https://theposterdb.com/api/assets/677656
   # Rescue Dawn
   tt0462504:
     url_poster: https://theposterdb.com/api/assets/65863
@@ -5291,6 +5306,9 @@ metadata:
   # Sweeney Todd: The Demon Barber of Fleet Street
   tt0408236:
     url_poster: https://theposterdb.com/api/assets/60958
+  # Swing Kids
+  tt0108265:
+    url_poster: https://theposterdb.com/api/assets/352440
   # The Sword and the Sorcerer
   tt0084749:
     url_poster: https://theposterdb.com/api/assets/220177
@@ -5450,9 +5468,12 @@ metadata:
   # Unthinkable
   tt0914863:
     url_poster: https://theposterdb.com/api/assets/56643
-  # The Untouchables
+  # The Intouchables
   tt0094226:
     url_poster: https://theposterdb.com/api/assets/284398
+  # Invictus
+  tt1057500:
+    url_poster: https://theposterdb.com/api/assets/166219
   # Up in the Air
   tt1193138:
     url_poster: https://theposterdb.com/api/assets/305837
