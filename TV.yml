@@ -3004,12 +3004,14 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/521023
 
-  # The Pitt https://theposterdb.com/set/331152
+  # The Pitt https://theposterdb.com/set/382797
   tt31938062:
-    url_poster: https://theposterdb.com/api/assets/595315
+    url_poster: https://theposterdb.com/api/assets/684675
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/595316
+        url_poster: https://theposterdb.com/api/assets/684676
+      2:
+        url_poster: https://theposterdb.com/api/assets/684677
 
   # Task https://theposterdb.com/set/358538
   tt28013708:
@@ -3327,15 +3329,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/665897
       4:
         url_poster: https://theposterdb.com/api/assets/665898
-
-  # The Pitt https://theposterdb.com/set/382797
-  tt31938062:
-    url_poster: https://theposterdb.com/api/assets/684675
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/684676
-      2:
-        url_poster: https://theposterdb.com/api/assets/684677
 
   # Heated Rivalry https://theposterdb.com/set/375039
   tt35495073:
