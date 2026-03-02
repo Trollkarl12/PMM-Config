@@ -1241,6 +1241,14 @@ metadata:
   tt0107144:
     url_poster: https://theposterdb.com/api/assets/466769
 
+  # Hot Tub Time Machine https://theposterdb.com/set/128520
+  # Hot Tub Time Machine
+  tt1231587:
+    url_poster: https://theposterdb.com/api/assets/213179
+  # Hot Tub Time Machine 2
+  tt2637294:
+    url_poster: https://theposterdb.com/api/assets/213180
+
   # Horizon: An American Saga https://theposterdb.com/set/281888
   # Horizon: An American Saga - Chapter 1
   tt17505010:
@@ -2803,6 +2811,17 @@ metadata:
   tt5606664:
     url_poster: https://theposterdb.com/api/assets/32303
 
+  # Silent Hill https://theposterdb.com/set/381984
+  # Silent Hill
+  tt0384537:
+    url_poster: https://theposterdb.com/api/assets/683396
+  # Silent Hill: Revelation 3D
+  tt0938330:
+    url_poster: https://theposterdb.com/api/assets/683395
+  # Return to Silent Hill
+  tt22868010:
+    url_poster: https://theposterdb.com/api/assets/683394
+
   # Smile https://theposterdb.com/set/253874
   # Smile
   tt15474916:
@@ -3394,6 +3413,9 @@ metadata:
   # American History X
   tt0120586:
     url_poster: https://theposterdb.com/api/assets/79193
+  # American Made
+  tt3532216:
+    url_poster: https://theposterdb.com/api/assets/169989
   # American Psycho
   tt0144084:
     url_poster: https://theposterdb.com/api/assets/153800
@@ -4609,15 +4631,18 @@ metadata:
   # The Lost City
   tt13320622:
     url_poster: https://theposterdb.com/api/assets/231577
+  # The Lost City of Z
+  tt1212428:
+    url_poster: https://theposterdb.com/api/assets/34206
+  # Lost in Translation
+  tt0335266:
+    url_poster: https://theposterdb.com/api/assets/456640
   # Love and Monsters
   tt2222042:
     url_poster: https://theposterdb.com/api/assets/145250
   # Love Hurts
   tt30788842:
     url_poster: https://theposterdb.com/api/assets/564478
-  # The Lost City of Z
-  tt1212428:
-    url_poster: https://theposterdb.com/api/assets/34206
   # Lullaby
   tt11891246:
     url_poster: https://theposterdb.com/api/assets/436823
@@ -5224,9 +5249,6 @@ metadata:
   # Silence
   tt0490215:
     url_poster: https://theposterdb.com/api/assets/241663
-  # Silent Hill
-  tt0384537:
-    url_poster: https://theposterdb.com/api/assets/149073
   # Silent Night
   tt15799866:
     url_poster: https://theposterdb.com/api/assets/417143
