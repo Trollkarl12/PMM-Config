@@ -1335,6 +1335,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/418189
       23:
         url_poster: https://theposterdb.com/api/assets/580955
+      24:
+        url_poster: https://theposterdb.com/api/assets/690851
 
   # For All Mankind
   tt7772588:
@@ -1351,20 +1353,24 @@ metadata:
 
   # Formula 1: Drive to Survive
   tt8289930:
-    url_poster: https://theposterdb.com/api/assets/454327
+    url_poster: https://theposterdb.com/api/assets/276992
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/454328
+        url_poster: https://theposterdb.com/api/assets/276993
       2:
-        url_poster: https://theposterdb.com/api/assets/454329
+        url_poster: https://theposterdb.com/api/assets/276994
       3:
-        url_poster: https://theposterdb.com/api/assets/454330
+        url_poster: https://theposterdb.com/api/assets/276995
       4:
-        url_poster: https://theposterdb.com/api/assets/454331
+        url_poster: https://theposterdb.com/api/assets/276996
       5:
-        url_poster: https://theposterdb.com/api/assets/454332
+        url_poster: https://theposterdb.com/api/assets/451938
       6:
-        url_poster: https://theposterdb.com/api/assets/454333
+        url_poster: https://theposterdb.com/api/assets/693579
+      7:
+        url_poster: https://theposterdb.com/api/assets/693580
+      8:
+        url_poster: https://theposterdb.com/api/assets/693581
 
   # Foundation (2021) https://theposterdb.com/poster/182327
   tt0804484:
@@ -2162,6 +2168,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/454933
       7:
         url_poster: https://theposterdb.com/api/assets/593202
+      8:
+        url_poster: https://theposterdb.com/api/assets/685120
 
   # Tulsa King https://theposterdb.com/set/296439
   tt16358384:
@@ -2444,6 +2452,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/343449
       21:
         url_poster: https://theposterdb.com/api/assets/541358
+      22:
+        url_poster: https://theposterdb.com/api/assets/692539
 
   # The Queen's Gambit
   tt10048342:
@@ -2672,10 +2682,12 @@ metadata:
 
   # Paradise
   tt27444205:
-    url_poster: https://theposterdb.com/api/assets/563107
+    url_poster: https://theposterdb.com/api/assets/563099
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/563108
+        url_poster: https://theposterdb.com/api/assets/563100
+      2:
+        url_poster: https://theposterdb.com/api/assets/688527
 
   # The Day of the Jackal
   tt24053860:
@@ -3347,3 +3359,48 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/164931
       3:
         url_poster: https://theposterdb.com/api/assets/379295
+
+  # The Copenhagen Test https://theposterdb.com/set/377473
+  tt31314791:
+    url_poster: https://theposterdb.com/api/assets/674789
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/674790
+
+  # PONIES https://theposterdb.com/set/379891
+  tt33270420:
+    url_poster: https://theposterdb.com/api/assets/679503
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/679504
+
+  # Pachinko https://theposterdb.com/set/132867
+  tt8888462:
+    url_poster: https://theposterdb.com/api/assets/220324
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/220325
+      2:
+        url_poster: https://theposterdb.com/api/assets/517248
+
+  # Richard Hammond's Workshop https://theposterdb.com/set/174872
+  tt14906022:
+    url_poster: https://theposterdb.com/api/assets/295829
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/295830
+      2:
+        url_poster: https://theposterdb.com/api/assets/295831
+      3:
+        url_poster: https://theposterdb.com/api/assets/421288
+      4:
+        url_poster: https://theposterdb.com/api/assets/519357
+      5:
+        url_poster: https://theposterdb.com/api/assets/653719
+
+  # Scrubs https://theposterdb.com/set/388015
+  tt40197357:
+    url_poster: https://theposterdb.com/api/assets/693321
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/693322
