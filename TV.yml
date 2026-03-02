@@ -3404,3 +3404,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/693322
+
+  # The Orville https://theposterdb.com/set/159724
+  tt5691552:
+    url_poster: https://theposterdb.com/api/assets/268136
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/268137
+      2:
+        url_poster: https://theposterdb.com/api/assets/268138
+      3:
+        url_poster: https://theposterdb.com/api/assets/268139
