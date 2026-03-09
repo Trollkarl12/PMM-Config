@@ -6864,7 +6864,10 @@ metadata:
 
   # Shironeko Project: Zero Chronicle
   tt11688122:
-    url_poster: https://theposterdb.com/api/assets/107034
+    url_poster: https://theposterdb.com/api/assets/687755
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/687756
 
   # I'm Standing on a Million Lives
   tt12706854:
@@ -9710,3 +9713,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/676935
+
+  # 11eyes
+  tt1515976:
+    url_poster: https://theposterdb.com/api/assets/687920
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/687921
+      1:
+        url_poster: https://theposterdb.com/api/assets/687922
+
+  # Rio: Rainbow Gate!
+  tt4864696:
+    url_poster: https://theposterdb.com/api/assets/687807
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/687808
+      1:
+        url_poster: https://theposterdb.com/api/assets/687809
