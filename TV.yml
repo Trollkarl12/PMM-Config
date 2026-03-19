@@ -3426,3 +3426,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/696083
+
+  # Murderbot https://theposterdb.com/set/331557
+  tt30444310:
+    url_poster: https://theposterdb.com/api/assets/595941
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/595942
+
+  # The Walking Dead: Daryl Dixon https://theposterdb.com/set/223441
+  tt30444310:
+    url_poster: https://theposterdb.com/api/assets/398976
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/398977
+      2:
+        url_poster: https://theposterdb.com/api/assets/528521
+      3:
+        url_poster: https://theposterdb.com/api/assets/639045
