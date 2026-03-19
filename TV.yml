@@ -1485,6 +1485,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/572759
       3:
         url_poster: https://theposterdb.com/api/assets/572760
+      4:
+        url_poster: https://theposterdb.com/api/assets/686069
 
   # Limitless
   tt4422836:
@@ -1567,12 +1569,14 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/270236
 
-  # ONE PIECE (2023)
+  # ONE PIECE (2023) https://theposterdb.com/set/225720
   tt11737520:
     url_poster: https://theposterdb.com/api/assets/403596
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/403597
+      2:
+        url_poster: https://theposterdb.com/api/assets/697332
 
   # The Originals
   tt2632424:
@@ -3415,3 +3419,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/268138
       3:
         url_poster: https://theposterdb.com/api/assets/268139
+
+  # The Dinosaurs https://theposterdb.com/set/389858
+  tt32493765:
+    url_poster: https://theposterdb.com/api/assets/696082
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/696083

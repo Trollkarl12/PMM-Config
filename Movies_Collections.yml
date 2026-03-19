@@ -166,3 +166,7 @@ collections:
     template: {name: Collection, collection: 304, poster: https://theposterdb.com/api/assets/64818}
   South Park:
     template: {name: Collection, collection: 1290938, poster: https://theposterdb.com/api/assets/445827}
+  Now you see me:
+    template: {name: Collection, collection: 382685, poster: https://theposterdb.com/api/assets/639519}
+  Scream:
+    template: {name: Collection, collection: 2602, poster: https://theposterdb.com/api/assets/804}

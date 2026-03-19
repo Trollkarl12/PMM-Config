@@ -1996,6 +1996,17 @@ metadata:
   tt0110622:
     url_poster: https://theposterdb.com/api/assets/160871
 
+  # Now You See Me https://theposterdb.com/set/357793
+  # Now You See Me
+  tt1670345:
+    url_poster: https://theposterdb.com/api/assets/639522
+  # Now You See Me 2 
+  tt3110958:
+    url_poster: https://theposterdb.com/api/assets/639521
+  # Now You See Me: Now you don't
+  tt4712810:
+    url_poster: https://theposterdb.com/api/assets/639520
+
   # Johnny English https://theposterdb.com/set/22597
   # Johnny English
   tt0274166:
@@ -2783,25 +2794,28 @@ metadata:
   tt28508231:
     url_poster: https://theposterdb.com/api/assets/488209
 
-  # Scream https://theposterdb.com/set/224
+  # Scream https://theposterdb.com/set/368396
   # Scream
   tt0117571:
-    url_poster: https://theposterdb.com/api/assets/805
+    url_poster: https://theposterdb.com/api/assets/657560
   # Scream 2
   tt0120082:
-    url_poster: https://theposterdb.com/api/assets/806
+    url_poster: https://theposterdb.com/api/assets/657559
   # Scream 3
   tt0134084:
-    url_poster: https://theposterdb.com/api/assets/807
+    url_poster: https://theposterdb.com/api/assets/657558
   # Scream 4
   tt1262416:
-    url_poster: https://theposterdb.com/api/assets/808
-  # Scream (2022)
+    url_poster: https://theposterdb.com/api/assets/657557
+  # Scream 5 (2022)
   tt11245972:
-    url_poster: https://theposterdb.com/api/assets/212929
-  # Scream VI
+    url_poster: https://theposterdb.com/api/assets/657556
+  # Scream 6
   tt17663992:
-    url_poster: https://theposterdb.com/api/assets/355473
+    url_poster: https://theposterdb.com/api/assets/657555
+  # Scream 7
+  tt27047903:
+    url_poster: https://theposterdb.com/api/assets/657554
 
   # The Shining
   # The Shining
@@ -3016,6 +3030,14 @@ metadata:
   # South Park: The End of Obesity
   tt32375562:
     url_poster: https://theposterdb.com/api/assets/494624
+
+  # Ted https://theposterdb.com/set/380792
+  # Ted
+  tt1637725:
+    url_poster: https://theposterdb.com/api/assets/681316
+  # Ted 2
+  tt2637276:
+    url_poster: https://theposterdb.com/api/assets/681315
 
   # Teenage Mutant Ninja Turtles https://theposterdb.com/set/39014
   # Teenage Mutant Ninja Turtles
@@ -3494,6 +3516,9 @@ metadata:
   # Babylon
   tt10640346:
     url_poster: https://theposterdb.com/api/assets/293641
+  # Bandit
+  tt9853500:
+    url_poster: https://theposterdb.com/api/assets/269047
   # The Banker
   tt6285944:
     url_poster: https://theposterdb.com/api/assets/57652
@@ -3824,6 +3849,9 @@ metadata:
   # The Devil's Advocate
   tt0118971:
     url_poster: https://theposterdb.com/api/assets/68481
+  # The Devil's Rejects
+  tt0395584:
+    url_poster: https://theposterdb.com/api/assets/19889
   # The Dictator
   tt1645170:
     url_poster: https://theposterdb.com/api/assets/426718
@@ -3890,6 +3918,9 @@ metadata:
   # Eddington
   tt31176520:
     url_poster: https://theposterdb.com/api/assets/634613
+  # Eden
+  tt23149780:
+    url_poster: https://theposterdb.com/api/assets/592565
   # Edge of Tomorrow
   tt1631867:
     url_poster: https://theposterdb.com/api/assets/47298
@@ -4352,6 +4383,9 @@ metadata:
   # Immaculate
   tt23137390:
     url_poster: https://theposterdb.com/api/assets/483232
+  # In Bruges
+  tt0780536:
+    url_poster: https://theposterdb.com/api/assets/80195
   # In the Heat of the Night
   tt0061811:
     url_poster: https://theposterdb.com/api/assets/224600
@@ -4481,6 +4515,9 @@ metadata:
   # Knock at the Cabin
   tt15679400:
     url_poster: https://theposterdb.com/api/assets/292634
+  # Kokuho
+  tt35231039:
+    url_poster: https://theposterdb.com/api/assets/693234
   # Kong: Skull Island
   tt3731562:
     url_poster: https://theposterdb.com/api/assets/397792
@@ -5519,6 +5556,9 @@ metadata:
   # Unthinkable
   tt0914863:
     url_poster: https://theposterdb.com/api/assets/56643
+  # Until Dawn
+  tt30955489:
+    url_poster: https://theposterdb.com/api/assets/599020
   # The Intouchables
   tt0094226:
     url_poster: https://theposterdb.com/api/assets/284398
@@ -5588,6 +5628,9 @@ metadata:
   # War Horse
   tt1568911:
     url_poster: https://theposterdb.com/api/assets/80410
+  # War Machine
+  tt15940132:
+    url_poster: https://theposterdb.com/api/assets/695909
   # War of the Worlds
   tt0407304:
     url_poster: https://theposterdb.com/api/assets/74519
