@@ -2251,6 +2251,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/326431
       1:
         url_poster: https://theposterdb.com/api/assets/326432
+      2:
+        url_poster: https://theposterdb.com/api/assets/697187
 
   # Dororo
   tt9458304:
@@ -4112,6 +4114,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/392489
       2:
         url_poster: https://theposterdb.com/api/assets/617265
+      3:
+        url_poster: https://theposterdb.com/api/assets/699386
 
   # Reborn to Master the Blade: From Hero-King to Extraordinary Squire
   tt25971150:
@@ -8762,6 +8766,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/583123
+      2:
+        url_poster: https://theposterdb.com/api/assets/698825
 
   # Your Forma
   tt32513973:
@@ -9747,3 +9753,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/701369
+
+  # Always a Catch!
+  tt39122552:
+    url_poster: https://theposterdb.com/api/assets/700010
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/700011
