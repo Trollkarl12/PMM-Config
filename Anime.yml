@@ -2013,6 +2013,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/331706
       3:
         url_poster: https://theposterdb.com/api/assets/401875
+      4:
+        url_poster: https://theposterdb.com/api/assets/698905
 
   # Combatants Will Be Dispatched!
   tt13758670:
@@ -9738,3 +9740,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/698455
+
+  # Agents of the Four Seasons
+  tt39267868:
+    url_poster: https://theposterdb.com/api/assets/701368
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/701369
