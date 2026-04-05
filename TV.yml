@@ -3250,6 +3250,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/593620
+      2:
+        url_poster: https://theposterdb.com/api/assets/700754
 
   # The Terminal List https://theposterdb.com/set/149839
   tt11743610:
@@ -3446,3 +3448,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/528521
       3:
         url_poster: https://theposterdb.com/api/assets/639045
+
+  # Twin Peaks https://theposterdb.com/set/132837
+  tt0098936:
+    url_poster: https://theposterdb.com/api/assets/220244
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/220246
+      2:
+        url_poster: https://theposterdb.com/api/assets/220247
+      3:
+        url_poster: https://theposterdb.com/api/assets/220248

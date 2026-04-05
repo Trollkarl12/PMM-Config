@@ -2881,9 +2881,11 @@ metadata:
   tt27417996:
     url_poster: https://theposterdb.com/api/assets/336441
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/701771
       1:
         url_poster: https://theposterdb.com/api/assets/336442
- 
+
   # I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
   tt27548413:
     url_poster: https://theposterdb.com/api/assets/418523
@@ -6481,18 +6483,20 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/576479
 
-  # Ace of Diamond
+  # Ace of the Diamond
   tt3105422:
-    url_poster: https://theposterdb.com/api/assets/125641
+    url_poster: https://theposterdb.com/api/assets/606260
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/125642
+        url_poster: https://theposterdb.com/api/assets/606261
       1:
-        url_poster: https://theposterdb.com/api/assets/125643
+        url_poster: https://theposterdb.com/api/assets/606262
       2:
-        url_poster: https://theposterdb.com/api/assets/125644
+        url_poster: https://theposterdb.com/api/assets/606263
       3:
-        url_poster: https://theposterdb.com/api/assets/125645
+        url_poster: https://theposterdb.com/api/assets/606264
+      4:
+        url_poster: https://theposterdb.com/api/assets/699378
 
   # Fushigi Yugi: The Mysterious Play
   tt0111973:
@@ -9760,3 +9764,68 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/700011
+
+  # Petals of Reincarnation
+  tt38363695:
+    url_poster: https://theposterdb.com/api/assets/645377
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/698914
+      1:
+        url_poster: https://theposterdb.com/api/assets/645378
+
+  # Haibara's Teenage New Game+
+  tt39122622:
+    url_poster: https://theposterdb.com/api/assets/702748
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/702749
+
+  # Killed Again, Mr. Detective.
+  tt39122702:
+    url_poster: https://theposterdb.com/api/assets/702723
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/702724
+
+  # Observation Records of My Fiancée: The Misadventures of a Self-Proclaimed Villainess
+  tt40546935:
+    url_poster: https://theposterdb.com/api/assets/703038
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/703039
+
+  # SNOWBALL EARTH
+  tt39229727:
+    url_poster: https://theposterdb.com/api/assets/700028
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/700029
+
+  # The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
+  tt38840807:
+    url_poster: https://theposterdb.com/api/assets/703066
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/703067
+
+  # Daemons of the Shadow Realm
+  tt37532356:
+    url_poster: https://theposterdb.com/api/assets/700272
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/700273
+
+  # MAO
+  tt37577523:
+    url_poster: https://theposterdb.com/api/assets/699392
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/699393
+
+  # Mistress Kanan Is Devilishly Easy
+  tt37729351:
+    url_poster: https://theposterdb.com/api/assets/703098
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/703099
