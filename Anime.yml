@@ -149,7 +149,7 @@ metadata:
 
   # Dragon Ball https://theposterdb.com/set/79631
   # Dragon Ball
-  tt0280249:
+  tt0088509:
     url_poster: https://theposterdb.com/api/assets/127756
     seasons:
       0:
@@ -168,7 +168,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127763
 
   # Dragon Ball Z
-  tt0214341:
+  tt0121220:
     url_poster: https://theposterdb.com/api/assets/127764
     seasons:
       0:
@@ -427,7 +427,7 @@ metadata:
 
   # Fullmetal Alchemist
   # Fullmetal Alchemist
-  tt5607028:
+  tt0421357:
     url_poster: https://theposterdb.com/api/assets/169268
     seasons:
       0:
@@ -780,13 +780,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/129644
       22:
         url_poster: https://theposterdb.com/api/assets/439660
-
-  # One Piece Log: Fish-Man Island Saga
-  tt33992229:
-    url_poster: https://theposterdb.com/api/assets/543196
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/543200
 
   # Ranma
   # Ranma ½ https://theposterdb.com/set/302450
@@ -1828,7 +1821,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82816
 
   # Akashic Records of Bastard Magic Instructor
-  tt6850746:
+  tt6845846:
     url_poster: https://theposterdb.com/api/assets/92834
 
   # ASSASSINS PRIDE
@@ -5057,7 +5050,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/390600
 
   # Terra Formars
-  tt4433646:
+  tt3894916:
     url_poster: https://theposterdb.com/api/assets/176653
     seasons:
       0:
@@ -5341,7 +5334,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/532642
 
   # Majestic Prince
-  tt6900184:
+  tt2703708:
     url_poster: https://theposterdb.com/api/assets/336535
     seasons:
       0:
@@ -5580,7 +5573,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/79520
 
   # Yu Yu Hakusho
-  tt13664452:
+  tt0185133:
     url_poster: https://theposterdb.com/api/assets/448667
     seasons:
       0:
