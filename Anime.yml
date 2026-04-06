@@ -2367,6 +2367,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/306507
+      2:
+        url_poster: https://theposterdb.com/api/assets/643000
 
   # Hajime no Ippo
   tt0481256:
@@ -9824,3 +9826,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/703099
+
+  # Witch Hat Atelier
+  tt32550889:
+    url_poster: https://theposterdb.com/api/assets/699519
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/699520
+
+  # The Klutzy Class Monitor and the Girl with the Short Skirt
+  tt39443960:
+    url_poster: https://theposterdb.com/api/assets/703413
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/703414
