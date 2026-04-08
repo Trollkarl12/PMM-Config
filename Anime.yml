@@ -1015,6 +1015,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/368845
       4:
         url_poster: https://theposterdb.com/api/assets/576097
+      5:
+        url_poster: https://theposterdb.com/api/assets/701161
 
   # Blue Orchestra
   tt26450255:
@@ -1752,7 +1754,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/296240
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/320461
+        url_poster: https://theposterdb.com/api/assets/703823
       1:
         url_poster: https://theposterdb.com/api/assets/296241
       2:
