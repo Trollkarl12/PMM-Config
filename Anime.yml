@@ -9877,3 +9877,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/700937
+
+  # Senran Kagura: Ninja Flash
+  tt2360110:
+    url_poster: https://theposterdb.com/api/assets/663818
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/663821
+      1:
+        url_poster: https://theposterdb.com/api/assets/663819
+      2:
+        url_poster: https://theposterdb.com/api/assets/663820
