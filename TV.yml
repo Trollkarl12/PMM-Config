@@ -3461,3 +3461,10 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/220247
       3:
         url_poster: https://theposterdb.com/api/assets/220248
+
+  # The Audacity https://theposterdb.com/set/395434
+  tt30444310:
+    url_poster: https://theposterdb.com/api/assets/705315
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/705316
