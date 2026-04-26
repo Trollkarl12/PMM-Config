@@ -200,6 +200,15 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146527
 
+  # Daredevil: Born Again
+  tt18923754:
+    url_poster: https://theposterdb.com/api/assets/583962
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/583963
+      2:
+        url_poster: https://theposterdb.com/api/assets/701422
+
   # Marvel's Jessica Jones
   tt2357547:
     url_poster: https://theposterdb.com/api/assets/146669
@@ -529,6 +538,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/408216
       4:
         url_poster: https://theposterdb.com/api/assets/495081
+      5:
+        url_poster: https://theposterdb.com/api/assets/707809
 
   # Gen V https://theposterdb.com/set/227521
   tt13159924:
@@ -2041,7 +2052,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/222638
 
-  # From
+  # From https://theposterdb.com/set/129097
   tt9813792:
     url_poster: https://theposterdb.com/api/assets/214022
     seasons:
@@ -2051,6 +2062,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/347291
       3:
         url_poster: https://theposterdb.com/api/assets/515190
+      4:
+        url_poster: https://theposterdb.com/api/assets/707821
 
   # Baby Reindeer
   tt13649112:
@@ -3468,3 +3481,165 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/705316
+
+  # Euphoria https://theposterdb.com/set/206143
+  tt8772296:
+    url_poster: https://theposterdb.com/api/assets/361434
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/361436
+      2:
+        url_poster: https://theposterdb.com/api/assets/361437
+      3:
+        url_poster: https://theposterdb.com/api/assets/704218
+
+  # The Young Pope https://theposterdb.com/set/87894
+  tt3655448:
+    url_poster: https://theposterdb.com/api/assets/141637
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/141638
+
+  # Black Mirror https://theposterdb.com/set/164744
+  tt2085059:
+    url_poster: https://theposterdb.com/api/assets/276664
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/276665
+      2:
+        url_poster: https://theposterdb.com/api/assets/276666
+      3:
+        url_poster: https://theposterdb.com/api/assets/276667
+      4:
+        url_poster: https://theposterdb.com/api/assets/276668
+      5:
+        url_poster: https://theposterdb.com/api/assets/276669
+      6:
+        url_poster: https://theposterdb.com/api/assets/370991
+      7:
+        url_poster: https://theposterdb.com/api/assets/593201
+
+  # Bloodhounds https://theposterdb.com/set/225510
+  tt26315487:
+    url_poster: https://theposterdb.com/api/assets/403003
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/403004
+      2:
+        url_poster: https://theposterdb.com/api/assets/702757
+
+  # Gold Rush https://theposterdb.com/set/369815
+  tt1800864:
+    url_poster: https://theposterdb.com/api/assets/386913
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/660089
+      2:
+        url_poster: https://theposterdb.com/api/assets/660090
+      3:
+        url_poster: https://theposterdb.com/api/assets/660091
+      4:
+        url_poster: https://theposterdb.com/api/assets/660092
+      5:
+        url_poster: https://theposterdb.com/api/assets/660093
+      6:
+        url_poster: https://theposterdb.com/api/assets/660094
+      7:
+        url_poster: https://theposterdb.com/api/assets/660095
+      8:
+        url_poster: https://theposterdb.com/api/assets/660096
+      9:
+        url_poster: https://theposterdb.com/api/assets/660097
+      10:
+        url_poster: https://theposterdb.com/api/assets/660098
+      11:
+        url_poster: https://theposterdb.com/api/assets/660099
+      12:
+        url_poster: https://theposterdb.com/api/assets/660100
+      13:
+        url_poster: https://theposterdb.com/api/assets/660101
+      14:
+        url_poster: https://theposterdb.com/api/assets/660102
+      15:
+        url_poster: https://theposterdb.com/api/assets/660103
+      16:
+        url_poster: https://theposterdb.com/api/assets/660104
+
+  # The Simpsons https://theposterdb.com/set/233084
+  tt0096697:
+    url_poster: https://theposterdb.com/api/assets/420903
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/420904
+      2:
+        url_poster: https://theposterdb.com/api/assets/420905
+      3:
+        url_poster: https://theposterdb.com/api/assets/420906
+      4:
+        url_poster: https://theposterdb.com/api/assets/420907
+      5:
+        url_poster: https://theposterdb.com/api/assets/420908
+      6:
+        url_poster: https://theposterdb.com/api/assets/420909
+      7:
+        url_poster: https://theposterdb.com/api/assets/420910
+      8:
+        url_poster: https://theposterdb.com/api/assets/420911
+      9:
+        url_poster: https://theposterdb.com/api/assets/420912
+      10:
+        url_poster: https://theposterdb.com/api/assets/420913
+      11:
+        url_poster: https://theposterdb.com/api/assets/420914
+      12:
+        url_poster: https://theposterdb.com/api/assets/420915
+      13:
+        url_poster: https://theposterdb.com/api/assets/420916
+      14:
+        url_poster: https://theposterdb.com/api/assets/420917
+      15:
+        url_poster: https://theposterdb.com/api/assets/420918
+      16:
+        url_poster: https://theposterdb.com/api/assets/420919
+      17:
+        url_poster: https://theposterdb.com/api/assets/420920
+      18:
+        url_poster: https://theposterdb.com/api/assets/420921
+      19:
+        url_poster: https://theposterdb.com/api/assets/420922
+      20:
+        url_poster: https://theposterdb.com/api/assets/420923
+      21:
+        url_poster: https://theposterdb.com/api/assets/420924
+      22:
+        url_poster: https://theposterdb.com/api/assets/420925
+      23:
+        url_poster: https://theposterdb.com/api/assets/420926
+      24:
+        url_poster: https://theposterdb.com/api/assets/420927
+      25:
+        url_poster: https://theposterdb.com/api/assets/420928
+      26:
+        url_poster: https://theposterdb.com/api/assets/420929
+      27:
+        url_poster: https://theposterdb.com/api/assets/420930
+      28:
+        url_poster: https://theposterdb.com/api/assets/420931
+      29:
+        url_poster: https://theposterdb.com/api/assets/420932
+      30:
+        url_poster: https://theposterdb.com/api/assets/420933
+      31:
+        url_poster: https://theposterdb.com/api/assets/420934
+      32:
+        url_poster: https://theposterdb.com/api/assets/420935
+      33:
+        url_poster: https://theposterdb.com/api/assets/420936
+      34:
+        url_poster: https://theposterdb.com/api/assets/420937
+      35:
+        url_poster: https://theposterdb.com/api/assets/420938
+      36:
+        url_poster: https://theposterdb.com/api/assets/536380
+      37:
+        url_poster: https://theposterdb.com/api/assets/648910
