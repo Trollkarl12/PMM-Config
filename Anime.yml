@@ -1938,6 +1938,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/457131
       33:
         url_poster: https://theposterdb.com/api/assets/570043
+      34:
+        url_poster: https://theposterdb.com/api/assets/683218
 
   # Cautious Hero: The Hero Is Overpowered but Overly Cautious
   tt10974198:
@@ -9902,3 +9904,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/707723
+
+  # Kusunoki's Garden of Gods
+  tt39122739:
+    url_poster: https://theposterdb.com/api/assets/713804
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/713805

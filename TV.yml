@@ -2288,14 +2288,16 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/253304
 
-  # The Terror
+  # The Terror https://theposterdb.com/set/398571
   tt2708480:
-    url_poster: https://theposterdb.com/api/assets/138449
+    url_poster: https://theposterdb.com/api/assets/710652
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/138450
+        url_poster: https://theposterdb.com/api/assets/710653
       2:
-        url_poster: https://theposterdb.com/api/assets/138451
+        url_poster: https://theposterdb.com/api/assets/710654
+      3:
+        url_poster: https://theposterdb.com/api/assets/710655
 
   # Parks and Recreation
   tt1266020:
@@ -3643,3 +3645,26 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/536380
       37:
         url_poster: https://theposterdb.com/api/assets/648910
+
+  # Detective Hole https://theposterdb.com/set/392677
+  tt31810018:
+    url_poster: https://theposterdb.com/api/assets/700787
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/700788
+
+  # Barbarians https://theposterdb.com/set/82539
+  tt9184986:
+    url_poster: https://theposterdb.com/api/assets/132646
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/132647
+      2:
+        url_poster: https://theposterdb.com/api/assets/279233
+
+  # Mercy for None https://theposterdb.com/set/342201
+  tt29650530:
+    url_poster: https://theposterdb.com/api/assets/613832
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/613833
