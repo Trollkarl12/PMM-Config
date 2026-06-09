@@ -9911,3 +9911,12 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/713805
+
+  # Smoking Behind the Supermarket with You
+  tt39122739:
+    url_poster: https://theposterdb.com/api/assets/719167
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/719168
+      1:
+        url_poster: https://theposterdb.com/api/assets/719169
