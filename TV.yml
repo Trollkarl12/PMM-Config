@@ -366,6 +366,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/224410
 
+  # Spider-Noir
+  tt30460310:
+    url_poster: https://theposterdb.com/api/assets/689973
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/689974
+
   # Outlander https://theposterdb.com/set/75825
   # Outlander
   tt3006802:
@@ -1167,7 +1174,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/450195
 
-  # Clarkson's Farm
+  # Clarkson's Farm https://theposterdb.com/set/134667
   tt10541088:
     url_poster: https://theposterdb.com/api/assets/224024
     seasons:
@@ -1179,6 +1186,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/488776
       4:
         url_poster: https://theposterdb.com/api/assets/607648
+      5:
+        url_poster: https://theposterdb.com/api/assets/717862
 
   # Dexter https://theposterdb.com/set/217770
   tt0773262:
@@ -1560,12 +1569,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/466624
 
-  # Monarch: Legacy of Monsters
+  # Monarch: Legacy of Monsters https://theposterdb.com/set/387732
   tt17220216:
-    url_poster: https://theposterdb.com/api/assets/420099
+    url_poster: https://theposterdb.com/api/assets/692830
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/420705
+        url_poster: https://theposterdb.com/api/assets/692831
+      2:
+        url_poster: https://theposterdb.com/api/assets/692832
 
   # Mr. Bean
   tt0096657:
@@ -1674,6 +1685,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/421771
       8:
         url_poster: https://theposterdb.com/api/assets/606247
+      9:
+        url_poster: https://theposterdb.com/api/assets/716631
 
   # Severance
   tt11280740:
@@ -3668,3 +3681,24 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/613833
+
+  # Black Bird https://theposterdb.com/set/162229
+  tt4301160:
+    url_poster: https://theposterdb.com/api/assets/272666
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/272667
+
+  # Teach You a Lesson https://theposterdb.com/set/404513
+  tt34809853:
+    url_poster: https://theposterdb.com/api/assets/720448
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/720449
+
+  # Widow's Bay https://theposterdb.com/set/397727
+  tt33332385:
+    url_poster: https://theposterdb.com/api/assets/709225
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/709226
