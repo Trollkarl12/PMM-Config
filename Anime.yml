@@ -9913,7 +9913,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/713805
 
   # Smoking Behind the Supermarket with You
-  tt39122739:
+  tt37614297:
     url_poster: https://theposterdb.com/api/assets/719167
     seasons:
       0:
@@ -9934,3 +9934,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/724974
+
+  # The Cat and the Dragon
+  tt41278620:
+    url_poster: https://theposterdb.com/api/assets/725334
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/725335
+
+  # The Oblivious Saint Can't Contain Her Power
+  tt41278636:
+    url_poster: https://theposterdb.com/api/assets/721448
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/721449
