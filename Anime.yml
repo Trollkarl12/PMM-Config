@@ -3683,14 +3683,16 @@ metadata:
 
   # Mushoku Tensei: Jobless Reincarnation
   tt13293588:
-    url_poster: https://theposterdb.com/api/assets/223769
+    url_poster: https://theposterdb.com/api/assets/331086
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/223800
+        url_poster: https://theposterdb.com/api/assets/331087
       1:
-        url_poster: https://theposterdb.com/api/assets/223770
+        url_poster: https://theposterdb.com/api/assets/331088
       2:
-        url_poster: https://theposterdb.com/api/assets/383523
+        url_poster: https://theposterdb.com/api/assets/336561
+      3:
+        url_poster: https://theposterdb.com/api/assets/708082
 
   # My Daughter Left the Nest and Returned an S-Rank Adventurer
   tt28102247:
@@ -4428,10 +4430,12 @@ metadata:
 
   # Skeleton Knight in Another World
   tt14476236:
-    url_poster: https://theposterdb.com/api/assets/230697
+    url_poster: https://theposterdb.com/api/assets/710226
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/230698
+        url_poster: https://theposterdb.com/api/assets/710227
+      2:
+        url_poster: https://theposterdb.com/api/assets/710228
 
   # Skip and Loafer
   tt16156718:
@@ -9687,10 +9691,12 @@ metadata:
 
   # You and I Are Polar Opposites
   tt36034547:
-    url_poster: https://theposterdb.com/api/assets/681222
+    url_poster: https://theposterdb.com/api/assets/681867
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/681223
+        url_poster: https://theposterdb.com/api/assets/681868
+      2:
+        url_poster: https://theposterdb.com/api/assets/721757
 
   # Kaya-chan Isn't Scary
   tt38631545:
@@ -9976,3 +9982,38 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/724996
+
+  # I Became a Legend After My 10 Year Long Last Stand
+  tt39443204:
+    url_poster: https://theposterdb.com/api/assets/721180
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/721181
+
+  # The Frontier Lord Begins with Zero Subjects
+  tt41054252:
+    url_poster: https://theposterdb.com/api/assets/726929
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/726930
+
+  # BLACK TORCH
+  tt37532893:
+    url_poster: https://theposterdb.com/api/assets/581398
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/581399
+
+  # Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School
+  tt41278600:
+    url_poster: https://theposterdb.com/api/assets/710853
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/710854
+
+  # GROW UP SHOW -Sunflower Circus-
+  tt41047955:
+    url_poster: https://theposterdb.com/api/assets/718636
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/718637
