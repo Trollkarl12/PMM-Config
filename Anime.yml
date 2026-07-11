@@ -8837,6 +8837,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/590977
+      2:
+        url_poster: https://theposterdb.com/api/assets/709642
 
   # Kowloon Generic Romance
   tt33999377:
@@ -10061,3 +10063,60 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/710847
+
+  # Let's go KAIKIGUMI
+  tt41278494:
+    url_poster: https://theposterdb.com/api/assets/727685
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/727686
+
+  # The Forsaken Saintess and Her Foodie Road Trip in Another World
+  tt41095208:
+    url_poster: https://theposterdb.com/api/assets/727677
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/727678
+
+  # THE GHOST IN THE SHELL
+  tt36517689:
+    url_poster: https://theposterdb.com/api/assets/727954
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/728046
+      1:
+        url_poster: https://theposterdb.com/api/assets/727955
+
+  # Red River
+  tt41278592:
+    url_poster: https://theposterdb.com/api/assets/728472
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/728473
+
+  # My Stepmother and Stepsisters Aren't Wicked
+  tt37674481:
+    url_poster: https://theposterdb.com/api/assets/728058
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/728059
+
+  # Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
+  tt16255458:
+    url_poster: https://theposterdb.com/api/assets/710502
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/710503
+      2:
+        url_poster: https://theposterdb.com/api/assets/710504
+
+  # Hanaori-san Still Wants to Fight in the Next Life
+  tt41276828:
+    url_poster: https://theposterdb.com/api/assets/728692
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/728693
+
+  # MEBIUS DUST
+  tt43587102:
+    url_poster: https://theposterdb.com/api/assets/728341
