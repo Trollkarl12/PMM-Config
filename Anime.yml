@@ -5843,6 +5843,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/424503
+      2:
+        url_poster: https://theposterdb.com/api/assets/721476
 
   # Maoyu: Archenemy & Hero
   tt2552230:
@@ -10120,3 +10122,17 @@ metadata:
   # MEBIUS DUST
   tt43587102:
     url_poster: https://theposterdb.com/api/assets/728341
+
+  # Though I Am an Inept Villainess
+  tt41293157:
+    url_poster: https://theposterdb.com/api/assets/728897
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/728898
+
+  # Victoria of Many Faces
+  tt38273525:
+    url_poster: https://theposterdb.com/api/assets/727689
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/727690
