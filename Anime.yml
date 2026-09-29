@@ -7259,6 +7259,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/467264
       2:
         url_poster: https://theposterdb.com/api/assets/503496
+      3:
+        url_poster: https://theposterdb.com/api/assets/748327
 
   # Chillin' in Another World with Level 2 Super Cheat Powers
   tt29521186:
@@ -9429,8 +9431,12 @@ metadata:
   tt33258199:
     url_poster: https://theposterdb.com/api/assets/645761
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/748329
       1:
         url_poster: https://theposterdb.com/api/assets/645762
+      2:
+        url_poster: https://theposterdb.com/api/assets/748330
 
   # A Gatherer's Adventure in Isekai
   tt37430949:
@@ -10145,3 +10151,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/728099
+
+  # Overgeared
+  tt43691353:
+    url_poster: https://theposterdb.com/api/assets/747514
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/747515
