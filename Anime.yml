@@ -4986,6 +4986,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/344181
       3:
         url_poster: https://theposterdb.com/api/assets/418485
+      4:
+        url_poster: https://theposterdb.com/api/assets/751635
 
   # Tokyo Majin Gakuen Kenpucho
   tt3198020:
@@ -5567,7 +5569,7 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/318994
 
-  # The New Prince of Tennis
+  # The Prince of Tennis II
   tt2172653:
     url_poster: https://theposterdb.com/api/assets/319093
     seasons:
@@ -5581,6 +5583,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/319097
       4:
         url_poster: https://theposterdb.com/api/assets/530204
+      5:
+        url_poster: https://theposterdb.com/api/assets/751248
 
   # Magic Kaito 1412
   tt4008500:
@@ -9346,6 +9350,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/618167
       1:
         url_poster: https://theposterdb.com/api/assets/601961
+      2:
+        url_poster: https://theposterdb.com/api/assets/746917
 
   # Solo Camping for Two
   tt36271866:
@@ -10158,3 +10164,10 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/747515
+
+  # FX Fighter Kurumi-chan
+  tt43119470:
+    url_poster: https://theposterdb.com/api/assets/748574
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/748576
