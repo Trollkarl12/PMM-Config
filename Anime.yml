@@ -813,6 +813,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/614894
       2:
         url_poster: https://theposterdb.com/api/assets/643431
+      3:
+        url_poster: https://theposterdb.com/api/assets/748331
 
   # Rurouni Kenshin
   # Rurouni Kenshin
@@ -3125,6 +3127,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/157824
       5:
         url_poster: https://theposterdb.com/api/assets/157825
+      6:
+        url_poster: https://theposterdb.com/api/assets/699104
 
   # Joker Game
   tt5614180:
@@ -4186,10 +4190,12 @@ metadata:
 
   # A Returner's Magic Should Be Special
   tt28313387:
-    url_poster: https://theposterdb.com/api/assets/408882
+    url_poster: https://theposterdb.com/api/assets/414227
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/408883
+        url_poster: https://theposterdb.com/api/assets/414228
+      2:
+        url_poster: https://theposterdb.com/api/assets/746982
 
   # Revenger
   tt25534100:
@@ -5615,6 +5621,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/388823
       2:
         url_poster: https://theposterdb.com/api/assets/474395
+      3:
+        url_poster: https://theposterdb.com/api/assets/748326
 
   # Ghost in the Shell: Stand Alone Complex
   tt0346314:
@@ -6771,6 +6779,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/450062
+      2:
+        url_poster: https://theposterdb.com/api/assets/747014
 
   # The Foolish Angel Dances With the Devil
   tt30495098:
@@ -8400,6 +8410,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/525461
       1:
         url_poster: https://theposterdb.com/api/assets/506828
+      2:
+        url_poster: https://theposterdb.com/api/assets/745293
 
   # Kanokon
   tt1216124:
@@ -9304,6 +9316,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/617701
+      2:
+        url_poster: https://theposterdb.com/api/assets/747018
 
   # There's No Freaking Way I'll Be Your Lover! Unless...
   tt36592708:
@@ -10171,3 +10185,94 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/748576
+
+  # Romelia War Chronicle
+  tt42727894:
+    url_poster: https://theposterdb.com/api/assets/748321
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/748322
+
+  # A Tale of the Secret Saint
+  tt38939893:
+    url_poster: https://theposterdb.com/api/assets/749105
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/749106
+
+  # I'm Looking for Zombie
+  tt43691424:
+    url_poster: https://theposterdb.com/api/assets/750030
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/750031
+
+  # Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!
+  tt43650419:
+    url_poster: https://theposterdb.com/api/assets/752328
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/752330
+
+  # Even the Student Council Has Its Holes!
+  tt43650242:
+    url_poster: https://theposterdb.com/api/assets/752099
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/752100
+
+  # Magical Explorer
+  tt41296506:
+    url_poster: https://theposterdb.com/api/assets/752080
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/752081
+
+  # Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
+  tt41298100:
+    url_poster: https://theposterdb.com/api/assets/747984
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/747985
+
+  # Hello, I am a Witch and my Crush Wants me to Make a Love Potion!
+  tt43650300:
+    url_poster: https://theposterdb.com/api/assets/748333
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/748334
+
+  # So What's Wrong With Getting Reborn as a Goblin!
+  tt43691383:
+    url_poster: https://theposterdb.com/api/assets/752385
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/752386
+
+  # PSYREN
+  tt39181351:
+    url_poster: https://theposterdb.com/api/assets/747972
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/747973
+
+  # Nia Liston: The Merciless Maiden
+  tt41296544:
+    url_poster: https://theposterdb.com/api/assets/753356
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/753357
+
+  # The Cold Sato-san is Only Sweet to Me
+  tt43691365:
+    url_poster: https://theposterdb.com/api/assets/753381
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/753382
+
+  # The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life
+  tt43691412:
+    url_poster: https://theposterdb.com/api/assets/748293
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/748294
