@@ -1667,6 +1667,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/237864
       1:
         url_poster: https://theposterdb.com/api/assets/237865
+      2:
+        url_poster: https://theposterdb.com/api/assets/237866
 
   # Black Summoner
   tt21249100:
@@ -2938,14 +2940,16 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/306303
- 
+      2:
+        url_poster: https://theposterdb.com/api/assets/745708
+
   # ID: INVADED
   tt10954274:
     url_poster: https://theposterdb.com/api/assets/167790
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/167791
- 
+
   # In Another World with My Smartphone
   tt7088332:
     url_poster: https://theposterdb.com/api/assets/253864
@@ -2954,7 +2958,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/253865
       2:
         url_poster: https://theposterdb.com/api/assets/261094
- 
+
   # In the Land of Leadale
   tt14506186:
     url_poster: https://theposterdb.com/api/assets/506837
@@ -2981,7 +2985,7 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/354275
- 
+
   # Infinite Stratos
   tt1929675:
     url_poster: https://theposterdb.com/api/assets/171273
@@ -2992,7 +2996,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/171275
       2:
         url_poster: https://theposterdb.com/api/assets/171276
- 
+
   # Initial D
   tt0385426:
     url_poster: https://theposterdb.com/api/assets/476319
@@ -3011,14 +3015,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/476325
       6:
         url_poster: https://theposterdb.com/api/assets/476326
- 
+
   # Insomniacs After School
   tt26450257:
     url_poster: https://theposterdb.com/api/assets/342969
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/342970
- 
+
   # Interspecies Reviewers
   tt11595706:
     url_poster: https://theposterdb.com/api/assets/201251
@@ -10276,3 +10280,31 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/748294
+
+  # The World's Strongest Witch
+  tt43691408:
+    url_poster: https://theposterdb.com/api/assets/754695
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/754696
+
+  # Firefly Wedding
+  tt39394153:
+    url_poster: https://theposterdb.com/api/assets/748604
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/748605
+
+  # A Certain Dark Item
+  tt41295083:
+    url_poster: https://theposterdb.com/api/assets/753778
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/753779
+
+  # Hinomaru Sumo
+  tt10066026:
+    url_poster: https://theposterdb.com/api/assets/635732
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/635733
